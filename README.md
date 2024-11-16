@@ -1,9 +1,9 @@
 # Movie Rankings (MVR)
 
-    ### Command-Line Interface (CLI):
-    ```
-    python3 mvr.py
-    ```
+### Command-Line Interface (CLI):
+```
+python3 mvr.py
+```
 
 
 | Rank | Movie                  | Rating |
