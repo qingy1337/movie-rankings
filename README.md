@@ -75,10 +75,10 @@ python3 mvr.py
 | $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{green}\text{66  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1524.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1521.8}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
+| $\color{red}\text{71  }$ | $\color{red}\text{A Haunting in Venice}$ | $\color{red}\text{1514.1}$ |
 | $\color{green}\text{72  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1513.6}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
@@ -103,7 +103,7 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{green}\text{96  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1487.9}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
@@ -152,13 +152,13 @@ python3 mvr.py
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.3}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1426.1}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1420.6}$ |
+| $\color{green}\text{145 }$ | $\color{green}\text{Crouching Tiger Hidden Dragon}$ | $\color{green}\text{1428.3}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.3}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1426.1}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1420.5}$ |
 | $\color{red}\text{153 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1420.1}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
@@ -172,7 +172,7 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1400.2}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1400.2}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1394.8}$ |
