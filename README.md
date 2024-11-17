@@ -14,12 +14,12 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1604.2}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1600.5}$ |
-| $\color{green}\text{8   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1599.7}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1599.2}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1596.8}$ |
+| $\color{green}\text{7   }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1600.6}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1600.5}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1599.7}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1599.2}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
@@ -90,7 +90,7 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
-| $\color{red}\text{83  }$ | $\color{red}\text{Top Gun}$ | $\color{red}\text{1500.7}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
@@ -122,12 +122,12 @@ python3 mvr.py
 | $\color{black}\text{112 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1465.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
-| $\color{red}\text{115 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1461.8}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{green}\text{118 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1459.8}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1458.3}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1458.2}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{green}\text{117 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1459.8}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1458.3}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1458.2}$ |
+| $\color{red}\text{120 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1458.0}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
