@@ -110,7 +110,7 @@ python3 mvr.py
 | $\color{red}\text{100 }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1482.3}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1480.4}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1479.4}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1477.6}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
@@ -119,7 +119,7 @@ python3 mvr.py
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
-| $\color{red}\text{112 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1468.3}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
@@ -158,13 +158,13 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
+| $\color{green}\text{151 }$ | $\color{green}\text{Crouching Tiger Hidden Dragon}$ | $\color{green}\text{1424.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{red}\text{154 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1417.7}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
-| $\color{green}\text{157 }$ | $\color{green}\text{War Horse}$ | $\color{green}\text{1414.9}$ |
+| $\color{red}\text{157 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1414.9}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1413.4}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
