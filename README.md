@@ -25,46 +25,46 @@ python3 mvr.py
 | 15   | Harry Potter         | 1562.9 |
 | 16   | Squid Game           | 1560.7 |
 | 17   | Wednesday            | 1560.0 |
-| 18   | Avengers: Infinity War | 1559.8 |
-| 19   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
-| 20   | Halo                 | 1557.9 |
-| 21   | The Hobbit           | 1557.0 |
-| 22   | X-Files              | 1551.6 |
-| 23   | Beut Mind            | 1551.2 |
-| 24   | Avengers: Age of Ultron | 1551.0 |
-| 25   | Sneaky Pete          | 1549.0 |
-| 26   | My Name              | 1548.8 |
-| 27   | Shawshank Redemption | 1547.2 |
-| 28   | Star Wars            | 1546.3 |
-| 29   | Maleficent           | 1545.7 |
-| 30   | Doctor Strange       | 1544.3 |
-| 31   | The Prestige         | 1544.1 |
-| 32   | A Quiet Place        | 1543.3 |
-| 33   | Mission Impossible: Ghost Protocol | 1543.3 |
-| 34   | The Ninth Gate       | 1542.5 |
-| 35   | The Illusionist      | 1542.4 |
+| 18   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
+| 19   | Halo                 | 1557.9 |
+| 20   | The Hobbit           | 1557.0 |
+| 21   | X-Files              | 1551.6 |
+| 22   | Beut Mind            | 1551.2 |
+| 23   | Avengers: Age of Ultron | 1551.0 |
+| 24   | Sneaky Pete          | 1549.0 |
+| 25   | My Name              | 1548.8 |
+| 26   | Shawshank Redemption | 1547.2 |
+| 27   | Star Wars            | 1546.3 |
+| 28   | Maleficent           | 1545.7 |
+| 29   | Doctor Strange       | 1544.3 |
+| 30   | The Prestige         | 1544.1 |
+| 31   | A Quiet Place        | 1543.3 |
+| 32   | Mission Impossible: Ghost Protocol | 1543.3 |
+| 33   | The Ninth Gate       | 1542.5 |
+| 34   | The Illusionist      | 1542.4 |
+| 35   | Avengers: Infinity War | 1542.0 |
 | 36   | Catch Me If You Can  | 1541.9 |
 | 37   | The Maze Runner: The Scorch Trials | 1541.8 |
 | 38   | The Maze Runner: The Death Cure | 1541.6 |
 | 39   | Rainman              | 1540.9 |
 | 40   | Titanic              | 1538.1 |
-| 41   | Train to Busan       | 1535.6 |
-| 42   | The Wild Robot       | 1534.6 |
-| 43   | The Day After Tomorrow | 1534.3 |
-| 44   | Avatar 2             | 1533.8 |
-| 45   | Mission Impossible: Fallout | 1533.4 |
-| 46   | Tenet                | 1532.6 |
-| 47   | Avengers: Endgame    | 1532.0 |
-| 48   | Scream VI            | 1532.0 |
-| 49   | The Man Who Knew Infinity | 1530.9 |
-| 50   | GoldenEye            | 1530.8 |
-| 51   | Jack Ryan            | 1530.6 |
-| 52   | Wrath of Man         | 1530.6 |
-| 53   | Life                 | 1530.1 |
-| 54   | Dark Waters          | 1527.7 |
-| 55   | The Avengers         | 1522.0 |
-| 56   | No Country for Old Men | 1521.8 |
-| 57   | Loki                 | 1520.2 |
+| 41   | Loki                 | 1538.0 |
+| 42   | Train to Busan       | 1535.6 |
+| 43   | The Wild Robot       | 1534.6 |
+| 44   | The Day After Tomorrow | 1534.3 |
+| 45   | Avatar 2             | 1533.8 |
+| 46   | Mission Impossible: Fallout | 1533.4 |
+| 47   | Tenet                | 1532.6 |
+| 48   | Avengers: Endgame    | 1532.0 |
+| 49   | Scream VI            | 1532.0 |
+| 50   | The Man Who Knew Infinity | 1530.9 |
+| 51   | GoldenEye            | 1530.8 |
+| 52   | Jack Ryan            | 1530.6 |
+| 53   | Wrath of Man         | 1530.6 |
+| 54   | Life                 | 1530.1 |
+| 55   | Dark Waters          | 1527.7 |
+| 56   | The Avengers         | 1522.0 |
+| 57   | No Country for Old Men | 1521.8 |
 | 58   | The Matrix           | 1519.4 |
 | 59   | Glass Castle         | 1519.3 |
 | 60   | Lord of the Rings    | 1519.1 |
@@ -96,9 +96,9 @@ python3 mvr.py
 | 86   | The Ring             | 1500.7 |
 | 87   | Saving Private Ryan  | 1500.2 |
 | 88   | Cars 2               | 1499.8 |
-| 89   | Terminator           | 1499.3 |
-| 90   | Jack Reacher         | 1499.0 |
-| 91   | Knight and Day       | 1498.7 |
+| 89   | Jack Reacher         | 1499.0 |
+| 90   | Knight and Day       | 1498.7 |
+| 91   | Terminator           | 1497.2 |
 | 92   | Ip Man               | 1495.6 |
 | 93   | Replicas             | 1493.3 |
 | 94   | World War Z          | 1490.6 |
@@ -146,8 +146,8 @@ python3 mvr.py
 | 136  | Black Widow          | 1458.5 |
 | 137  | Zero Dark Thirty     | 1457.6 |
 | 138  | Top Gun: Maverick    | 1457.5 |
-| 139  | Cars 3               | 1456.1 |
-| 140  | The Silence          | 1454.9 |
+| 139  | The Silence          | 1456.9 |
+| 140  | Cars 3               | 1456.1 |
 | 141  | Journey 2: The Mysterious Island | 1454.8 |
 | 142  | Independence Day     | 1454.6 |
 | 143  | John Wick            | 1454.2 |
