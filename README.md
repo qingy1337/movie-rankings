@@ -25,11 +25,11 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
-| $\color{green}\text{20  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1560.5}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1559.2}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1562.6}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
+| $\color{green}\text{21  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1560.5}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1559.2}$ |
 | $\color{green}\text{23  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1558.2}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
@@ -74,7 +74,7 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1518.3}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
-| $\color{red}\text{67  }$ | $\color{red}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{red}\text{1517.0}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.0}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1513.9}$ |
@@ -82,7 +82,7 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1512.4}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1511.6}$ |
-| $\color{green}\text{75  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1511.2}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.2}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1509.6}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
@@ -149,8 +149,8 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
-| $\color{red}\text{143 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1450.5}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1450.5}$ |
+| $\color{red}\text{143 }$ | $\color{red}\text{American Made}$ | $\color{red}\text{1448.3}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1446.1}$ |
