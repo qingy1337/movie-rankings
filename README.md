@@ -85,8 +85,8 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
 | $\color{red}\text{76  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1512.2}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{green}\text{78  }$ | $\color{green}\text{Star Trek: Picard}$ | $\color{green}\text{1509.8}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1504.4}$ |
@@ -111,7 +111,7 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
-| $\color{red}\text{104 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1479.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1479.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1477.6}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
@@ -158,7 +158,7 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
-| $\color{green}\text{151 }$ | $\color{green}\text{Crouching Tiger Hidden Dragon}$ | $\color{green}\text{1424.2}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1424.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
@@ -173,8 +173,8 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
-| $\color{red}\text{167 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1402.1}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1402.1}$ |
+| $\color{red}\text{167 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1399.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
