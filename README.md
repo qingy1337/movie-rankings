@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1561.3}$ |
+| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1564.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1557.6}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1557.6}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1554.8}$ |
@@ -29,7 +29,7 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1540.5}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1540.2}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1540.2}$ |
-| $\color{green}\text{22  }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1538.7}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1538.7}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1538.1}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1537.2}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1536.4}$ |
@@ -68,7 +68,7 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1512.9}$ |
-| $\color{red}\text{61  }$ | $\color{red}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{red}\text{1511.3}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1511.3}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1510.8}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1510.4}$ |
@@ -121,11 +121,11 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1486.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1485.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.6}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1485.3}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1485.0}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.8}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1483.1}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1482.3}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1485.0}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.8}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1483.1}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1482.3}$ |
+| $\color{red}\text{118 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1482.2}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1481.9}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1481.6}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1480.9}$ |
