@@ -16,7 +16,7 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{green}\text{7   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1580.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
-| $\color{green}\text{9   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1577.5}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1577.5}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
@@ -24,8 +24,8 @@ python3 mvr.py
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
-| $\color{green}\text{17  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1566.5}$ |
-| $\color{green}\text{18  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1563.0}$ |
+| $\color{green}\text{17  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1566.9}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1566.5}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
@@ -151,7 +151,7 @@ python3 mvr.py
 | $\color{black}\text{141 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
 | $\color{red}\text{142 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1447.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
-| $\color{red}\text{144 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1446.5}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1446.5}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1446.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1445.7}$ |
@@ -162,10 +162,10 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{red}\text{154 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1437.1}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1437.1}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1435.2}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1435.2}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
+| $\color{red}\text{158 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1433.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1431.5}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
