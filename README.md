@@ -25,7 +25,7 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{green}\text{17  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1575.8}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1573.4}$ |
+| $\color{red}\text{18  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1573.0}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -43,8 +43,8 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1552.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1550.9}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1550.7}$ |
+| $\color{green}\text{36  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1551.1}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1550.3}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
@@ -124,7 +124,7 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1469.9}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{The Man in the Iron Mask}$ | $\color{red}\text{1468.9}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1466.5}$ |
@@ -148,7 +148,7 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1444.2}$ |
-| $\color{green}\text{141 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1443.3}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1443.3}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1442.7}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
