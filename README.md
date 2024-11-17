@@ -58,9 +58,9 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.6}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
+| $\color{green}\text{51  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1535.3}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.6}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
@@ -94,7 +94,7 @@ python3 mvr.py
 | $\color{black}\text{84  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
 | $\color{green}\text{85  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1500.3}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
-| $\color{green}\text{87  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1499.1}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1499.1}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
@@ -164,11 +164,11 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1419.5}$ |
-| $\color{red}\text{158 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1419.4}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1418.8}$ |
-| $\color{red}\text{160 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1416.9}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
+| $\color{red}\text{157 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1419.4}$ |
+| $\color{red}\text{158 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1418.8}$ |
+| $\color{red}\text{159 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1416.9}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
+| $\color{red}\text{161 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1415.3}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1412.1}$ |
