@@ -9,15 +9,15 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1627.4}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1611.3}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1616.5}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1604.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1595.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
-| $\color{red}\text{10  }$ | $\color{red}\text{The Hunger Games}$ | $\color{red}\text{1592.4}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.4}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1590.9}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
@@ -41,11 +41,11 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{green}\text{32  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1567.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1562.3}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{red}\text{38  }$ | $\color{red}\text{Train to Busan}$ | $\color{red}\text{1557.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1557.1}$ |
 | $\color{green}\text{40  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1556.0}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1554.5}$ |
@@ -101,7 +101,7 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.8}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
-| $\color{green}\text{94  }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1488.8}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1483.9}$ |
