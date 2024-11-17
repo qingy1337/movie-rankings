@@ -59,11 +59,11 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.8}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{green}\text{52  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1541.2}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1539.5}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{red}\text{56  }$ | $\color{red}\text{Avatar}$ | $\color{red}\text{1533.7}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1533.7}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1532.3}$ |
@@ -152,19 +152,19 @@ python3 mvr.py
 | $\color{black}\text{142 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1435.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1428.3}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
-| $\color{green}\text{147 }$ | $\color{green}\text{Everything, everywhere, all at once}$ | $\color{green}\text{1426.0}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1422.8}$ |
+| $\color{green}\text{145 }$ | $\color{green}\text{Arrow}$ | $\color{green}\text{1428.7}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1428.3}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
+| $\color{green}\text{148 }$ | $\color{green}\text{Everything, everywhere, all at once}$ | $\color{green}\text{1426.0}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1420.1}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1415.4}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1415.4}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
+| $\color{red}\text{157 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1411.7}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1409.5}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
