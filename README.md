@@ -15,7 +15,7 @@ python3 mvr.py
 | $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1590.3}$ |
 | $\color{red}\text{6   }$ | $\color{red}\text{Thirteen Lives}$ | $\color{red}\text{1587.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1587.0}$ |
-| $\color{green}\text{8   }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1585.2}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1585.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
@@ -27,7 +27,7 @@ python3 mvr.py
 | $\color{black}\text{17  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1571.6}$ |
-| $\color{green}\text{20  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1571.4}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1570.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
@@ -71,11 +71,11 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1518.9}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1516.2}$ |
+| $\color{green}\text{64  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1521.7}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1518.9}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1514.6}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
@@ -102,16 +102,16 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1492.5}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.0}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
-| $\color{red}\text{104 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1480.9}$ |
+| $\color{green}\text{95  }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1491.4}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1481.5}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
@@ -147,7 +147,7 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1444.2}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1444.2}$ |
 | $\color{green}\text{141 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1443.3}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1442.7}$ |
@@ -158,8 +158,8 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1437.3}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1437.0}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1436.6}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1436.6}$ |
+| $\color{red}\text{152 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1431.9}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
