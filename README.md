@@ -33,7 +33,7 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1559.5}$ |
 | $\color{green}\text{24  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1558.4}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
-| $\color{green}\text{26  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1556.1}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
@@ -113,20 +113,20 @@ python3 mvr.py
 | $\color{black}\text{103 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
-| $\color{red}\text{106 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1482.4}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.0}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.0}$ |
+| $\color{green}\text{107 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1477.9}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.6}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1475.2}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{red}\text{116 }$ | $\color{red}\text{Rainman}$ | $\color{red}\text{1473.5}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1471.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1471.7}$ |
+| $\color{red}\text{111 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1476.2}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1475.2}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1473.5}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1471.9}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
