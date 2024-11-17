@@ -81,19 +81,19 @@ python3 mvr.py
 | 71   | Captain America: The Winter Soldier | 1514.6 |
 | 72   | Avatar               | 1514.4 |
 | 73   | Guy Ritchie’s The Covenant | 1514.2 |
-| 74   | Dark Waters          | 1511.2 |
-| 75   | Ip Man               | 1511.1 |
-| 76   | Zootopia             | 1510.5 |
-| 77   | The Man in the Iron Mask | 1506.8 |
-| 78   | Oppenheimer          | 1505.9 |
-| 79   | Glass Castle         | 1504.7 |
-| 80   | The Ring             | 1504.0 |
-| 81   | Total Recall         | 1503.7 |
-| 82   | Thor                 | 1502.4 |
-| 83   | Soul                 | 1502.0 |
-| 84   | A Haunting in Venice | 1501.3 |
-| 85   | Top Gun              | 1501.1 |
-| 86   | The Matrix           | 1500.7 |
+| 74   | The Matrix           | 1513.9 |
+| 75   | Dark Waters          | 1511.2 |
+| 76   | Ip Man               | 1511.1 |
+| 77   | Zootopia             | 1510.5 |
+| 78   | The Man in the Iron Mask | 1506.8 |
+| 79   | Oppenheimer          | 1505.9 |
+| 80   | Glass Castle         | 1504.7 |
+| 81   | The Ring             | 1504.0 |
+| 82   | Total Recall         | 1503.7 |
+| 83   | Thor                 | 1502.4 |
+| 84   | Soul                 | 1502.0 |
+| 85   | A Haunting in Venice | 1501.3 |
+| 86   | Top Gun              | 1501.1 |
 | 87   | Wrath of Man         | 1500.1 |
 | 88   | Lord of the Rings    | 1498.9 |
 | 89   | Pompeii              | 1498.8 |
@@ -152,13 +152,13 @@ python3 mvr.py
 | 142  | Cars 3               | 1442.7 |
 | 143  | Johnny English       | 1442.4 |
 | 144  | Independence Day     | 1442.2 |
-| 145  | A.I. Artificial Intelligence | 1440.7 |
-| 146  | Selfless             | 1440.5 |
-| 147  | Crouching Tiger Hidden Dragon | 1438.6 |
-| 148  | The Firm             | 1432.5 |
-| 149  | American Made        | 1432.4 |
-| 150  | American Sniper      | 1432.0 |
-| 151  | 65                   | 1431.0 |
+| 145  | Selfless             | 1440.5 |
+| 146  | Crouching Tiger Hidden Dragon | 1438.6 |
+| 147  | The Firm             | 1432.5 |
+| 148  | American Made        | 1432.4 |
+| 149  | American Sniper      | 1432.0 |
+| 150  | 65                   | 1431.0 |
+| 151  | A.I. Artificial Intelligence | 1427.4 |
 | 152  | Stillwater           | 1426.5 |
 | 153  | The Darkest Hour     | 1425.0 |
 | 154  | The Last Samurai     | 1425.0 |
