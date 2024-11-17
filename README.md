@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | The Martian          | 1602.6 |
+| 1    | The Martian          | 1614.6 |
 | 2    | The Mandalorian      | 1600.9 |
 | 3    | Pirates of the Caribbean | 1589.1 |
 | 4    | Ant-Man              | 1585.5 |
@@ -78,20 +78,20 @@ python3 mvr.py
 | 68   | Captain America: The Winter Soldier | 1514.6 |
 | 69   | Avatar               | 1514.4 |
 | 70   | Guy Ritchie’s The Covenant | 1514.2 |
-| 71   | Soul                 | 1514.0 |
-| 72   | Zodiac               | 1513.9 |
-| 73   | The Tomorrow War     | 1510.6 |
-| 74   | Zootopia             | 1510.5 |
-| 75   | The Terminal List    | 1509.7 |
-| 76   | Replicas             | 1509.0 |
-| 77   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
-| 78   | Captain America: Civil War | 1508.2 |
-| 79   | Dune                 | 1507.9 |
-| 80   | Vagabond             | 1507.6 |
-| 81   | Megan                | 1507.0 |
-| 82   | Star Trek: Picard    | 1506.8 |
-| 83   | The Man in the Iron Mask | 1506.8 |
-| 84   | Thor                 | 1502.4 |
+| 71   | Zodiac               | 1513.9 |
+| 72   | The Tomorrow War     | 1510.6 |
+| 73   | Zootopia             | 1510.5 |
+| 74   | The Terminal List    | 1509.7 |
+| 75   | Replicas             | 1509.0 |
+| 76   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
+| 77   | Captain America: Civil War | 1508.2 |
+| 78   | Dune                 | 1507.9 |
+| 79   | Vagabond             | 1507.6 |
+| 80   | Megan                | 1507.0 |
+| 81   | Star Trek: Picard    | 1506.8 |
+| 82   | The Man in the Iron Mask | 1506.8 |
+| 83   | Thor                 | 1502.4 |
+| 84   | Soul                 | 1502.0 |
 | 85   | A Haunting in Venice | 1501.3 |
 | 86   | The Ring             | 1500.7 |
 | 87   | Jack Reacher: Never Go Back | 1500.1 |
@@ -110,27 +110,27 @@ python3 mvr.py
 | 100  | Skyfall              | 1484.0 |
 | 101  | Knight and Day       | 1483.7 |
 | 102  | The Ring 2           | 1483.7 |
-| 103  | Bloodhounds          | 1483.5 |
-| 104  | Pompeii              | 1483.4 |
-| 105  | The Curious Case of Benjamin Button | 1483.0 |
-| 106  | Horton hears a Who   | 1480.1 |
-| 107  | Mission Impossible: Rogue Nation | 1479.4 |
-| 108  | The Spy Next Door    | 1478.6 |
-| 109  | When a Stranger Calls | 1476.1 |
-| 110  | The Matrix Revolutions | 1475.2 |
-| 111  | Sweet Tooth          | 1474.9 |
-| 112  | School of Rock       | 1474.9 |
-| 113  | Mission Impossible 2 | 1473.6 |
-| 114  | Red Notice           | 1473.5 |
-| 115  | Selfless             | 1473.5 |
-| 116  | The Mask             | 1472.9 |
-| 117  | The Matrix Reloaded  | 1472.2 |
-| 118  | Rango                | 1471.8 |
-| 119  | The Mask of Zorro    | 1471.6 |
-| 120  | Red Eye              | 1471.2 |
-| 121  | A Boy Called Christmas | 1471.2 |
-| 122  | Peter the Rabbit     | 1470.0 |
-| 123  | The BFG              | 1469.7 |
+| 103  | The BFG              | 1483.6 |
+| 104  | Bloodhounds          | 1483.5 |
+| 105  | Pompeii              | 1483.4 |
+| 106  | The Curious Case of Benjamin Button | 1483.0 |
+| 107  | Horton hears a Who   | 1480.1 |
+| 108  | Mission Impossible: Rogue Nation | 1479.4 |
+| 109  | The Spy Next Door    | 1478.6 |
+| 110  | When a Stranger Calls | 1476.1 |
+| 111  | The Matrix Revolutions | 1475.2 |
+| 112  | Sweet Tooth          | 1474.9 |
+| 113  | School of Rock       | 1474.9 |
+| 114  | Mission Impossible 2 | 1473.6 |
+| 115  | Red Notice           | 1473.5 |
+| 116  | Selfless             | 1473.5 |
+| 117  | The Mask             | 1472.9 |
+| 118  | The Matrix Reloaded  | 1472.2 |
+| 119  | Rango                | 1471.8 |
+| 120  | The Mask of Zorro    | 1471.6 |
+| 121  | Red Eye              | 1471.2 |
+| 122  | A Boy Called Christmas | 1471.2 |
+| 123  | Peter the Rabbit     | 1470.0 |
 | 124  | Crouching Tiger Hidden Dragon | 1468.8 |
 | 125  | Heidi                | 1468.7 |
 | 126  | Avatar: The Last Airbender | 1468.7 |
@@ -139,18 +139,18 @@ python3 mvr.py
 | 129  | Top Gun              | 1468.2 |
 | 130  | Ninja Turtles        | 1468.2 |
 | 131  | Mission Impossible 1 | 1468.0 |
-| 132  | Rampage              | 1462.0 |
-| 133  | Road House           | 1461.3 |
-| 134  | Drunken Master       | 1459.7 |
-| 135  | Zero Dark Thirty     | 1457.6 |
-| 136  | Top Gun: Maverick    | 1457.5 |
-| 137  | The Silence          | 1456.9 |
-| 138  | Cars 3               | 1456.1 |
-| 139  | Journey 2: The Mysterious Island | 1454.8 |
-| 140  | John Wick            | 1454.2 |
-| 141  | The Mist             | 1453.7 |
-| 142  | The Firm             | 1453.0 |
-| 143  | Frequency            | 1451.7 |
+| 132  | Frequency            | 1466.7 |
+| 133  | Rampage              | 1462.0 |
+| 134  | Road House           | 1461.3 |
+| 135  | Drunken Master       | 1459.7 |
+| 136  | Zero Dark Thirty     | 1457.6 |
+| 137  | Top Gun: Maverick    | 1457.5 |
+| 138  | The Silence          | 1456.9 |
+| 139  | Cars 3               | 1456.1 |
+| 140  | Journey 2: The Mysterious Island | 1454.8 |
+| 141  | John Wick            | 1454.2 |
+| 142  | The Mist             | 1453.7 |
+| 143  | The Firm             | 1453.0 |
 | 144  | A.I. Artificial Intelligence | 1450.8 |
 | 145  | Black Widow          | 1448.4 |
 | 146  | Exam                 | 1444.1 |
@@ -165,13 +165,13 @@ python3 mvr.py
 | 155  | American Sniper      | 1432.0 |
 | 156  | Spooky Buddies       | 1430.2 |
 | 157  | Awake                | 1430.2 |
-| 158  | All Quiet on The Western Front | 1428.0 |
-| 159  | Jurassic World: Dominion | 1427.5 |
-| 160  | Arrow                | 1427.0 |
-| 161  | The Darkest Hour     | 1425.0 |
-| 162  | A Quiet Place: Day One | 1423.4 |
-| 163  | Darkest Hour         | 1419.9 |
-| 164  | The Battle at Lake Changjin | 1415.1 |
+| 158  | Jurassic World: Dominion | 1427.5 |
+| 159  | Arrow                | 1427.0 |
+| 160  | The Darkest Hour     | 1425.0 |
+| 161  | Darkest Hour         | 1419.9 |
+| 162  | The Battle at Lake Changjin | 1415.1 |
+| 163  | All Quiet on The Western Front | 1413.1 |
+| 164  | A Quiet Place: Day One | 1409.5 |
 | 165  | Black Hawk Down      | 1407.8 |
 | 166  | AK-47 Kalashnikov    | 1406.4 |
 | 167  | Gravity              | 1405.9 |
