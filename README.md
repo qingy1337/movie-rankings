@@ -65,7 +65,7 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
 | $\color{green}\text{57  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1525.9}$ |
-| $\color{red}\text{58  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1525.2}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1525.2}$ |
 | $\color{red}\text{59  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1524.1}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
@@ -97,13 +97,13 @@ python3 mvr.py
 | $\color{black}\text{87  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1496.8}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
-| $\color{red}\text{92  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1493.1}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1488.8}$ |
+| $\color{green}\text{90  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1494.3}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
+| $\color{red}\text{93  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1493.1}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1492.4}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
 | $\color{red}\text{97  }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1488.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
@@ -139,11 +139,11 @@ python3 mvr.py
 | $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1455.1}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.9}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.7}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.9}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.7}$ |
+| $\color{red}\text{136 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1449.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
