@@ -47,19 +47,19 @@ python3 mvr.py
 | 37   | The Hunger Games     | 1560.4 |
 | 38   | The Illusionist      | 1559.2 |
 | 39   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
-| 40   | Halo                 | 1556.2 |
-| 41   | Catch Me If You Can  | 1555.6 |
-| 42   | Tenet                | 1554.6 |
-| 43   | Scream VI            | 1554.1 |
-| 44   | The Avengers         | 1553.0 |
-| 45   | Train to Busan       | 1552.4 |
-| 46   | Interstellar         | 1550.8 |
-| 47   | Beut Mind            | 1550.6 |
-| 48   | Loki                 | 1547.8 |
-| 49   | The Matrix           | 1544.2 |
-| 50   | Avengers: Infinity War | 1542.0 |
-| 51   | Mission Impossible 3 | 1541.8 |
-| 52   | The Prestige         | 1538.4 |
+| 40   | Catch Me If You Can  | 1555.6 |
+| 41   | Tenet                | 1554.6 |
+| 42   | Scream VI            | 1554.1 |
+| 43   | The Avengers         | 1553.0 |
+| 44   | Train to Busan       | 1552.4 |
+| 45   | Interstellar         | 1550.8 |
+| 46   | Beut Mind            | 1550.6 |
+| 47   | Loki                 | 1547.8 |
+| 48   | The Matrix           | 1544.2 |
+| 49   | Avengers: Infinity War | 1542.0 |
+| 50   | Mission Impossible 3 | 1541.8 |
+| 51   | The Prestige         | 1538.4 |
+| 52   | Halo                 | 1537.3 |
 | 53   | The Tomorrow War     | 1536.2 |
 | 54   | Mission Impossible: Ghost Protocol | 1535.3 |
 | 55   | Mission Impossible: Fallout | 1534.9 |
@@ -81,21 +81,21 @@ python3 mvr.py
 | 71   | A Haunting in Venice | 1513.4 |
 | 72   | The Terminal List    | 1513.0 |
 | 73   | Ip Man               | 1510.8 |
-| 74   | Top Gun              | 1510.2 |
-| 75   | Jack Reacher         | 1508.0 |
-| 76   | Dark Waters          | 1507.1 |
-| 77   | Captain America: Civil War | 1504.8 |
-| 78   | Mission Impossible: Rogue Nation | 1503.9 |
-| 79   | Top Gun: Maverick    | 1503.4 |
-| 80   | Gladiator            | 1501.6 |
-| 81   | Soul                 | 1500.7 |
-| 82   | Cars                 | 1500.4 |
-| 83   | Lord of the Rings    | 1498.9 |
-| 84   | Shawshank Redemption | 1495.7 |
-| 85   | A Boy Called Christmas | 1495.6 |
-| 86   | Zootopia             | 1495.5 |
-| 87   | Oppenheimer          | 1493.8 |
-| 88   | Zodiac               | 1491.3 |
+| 74   | Zodiac               | 1510.3 |
+| 75   | Top Gun              | 1510.2 |
+| 76   | Jack Reacher         | 1508.0 |
+| 77   | Dark Waters          | 1507.1 |
+| 78   | Captain America: Civil War | 1504.8 |
+| 79   | Mission Impossible: Rogue Nation | 1503.9 |
+| 80   | Top Gun: Maverick    | 1503.4 |
+| 81   | Gladiator            | 1501.6 |
+| 82   | Soul                 | 1500.7 |
+| 83   | Cars                 | 1500.4 |
+| 84   | Lord of the Rings    | 1498.9 |
+| 85   | Shawshank Redemption | 1495.7 |
+| 86   | A Boy Called Christmas | 1495.6 |
+| 87   | Zootopia             | 1495.5 |
+| 88   | Oppenheimer          | 1493.8 |
 | 89   | Dune                 | 1490.9 |
 | 90   | Total Recall         | 1489.5 |
 | 91   | Onward               | 1487.3 |
