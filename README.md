@@ -80,9 +80,9 @@ python3 mvr.py
 | $\color{black}\text{70  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1516.0}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1515.2}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
+| $\color{green}\text{73  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1514.2}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
@@ -113,7 +113,7 @@ python3 mvr.py
 | $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
-| $\color{green}\text{106 }$ | $\color{green}\text{Land of Bad}$ | $\color{green}\text{1476.6}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
@@ -155,7 +155,7 @@ python3 mvr.py
 | $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1429.8}$ |
-| $\color{red}\text{148 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1429.0}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1429.0}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1424.9}$ |
@@ -165,10 +165,10 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1418.0}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1417.4}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
+| $\color{red}\text{161 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1413.0}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1412.1}$ |
