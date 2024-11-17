@@ -39,7 +39,7 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{green}\text{32  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1554.5}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1553.8}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1553.2}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
@@ -54,7 +54,7 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{red}\text{47  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1537.8}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.8}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
@@ -94,12 +94,12 @@ python3 mvr.py
 | $\color{black}\text{84  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1498.1}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1496.8}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{green}\text{91  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1494.2}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1498.1}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1496.8}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
+| $\color{green}\text{90  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1494.2}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
+| $\color{red}\text{92  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1493.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1492.4}$ |
@@ -115,17 +115,17 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.7}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1473.5}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
+| $\color{green}\text{108 }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1477.9}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.7}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1473.5}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1466.1}$ |
