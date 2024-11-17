@@ -44,16 +44,16 @@ python3 mvr.py
 | $\color{black}\text{34  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1531.3}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1530.3}$ |
-| $\color{green}\text{37  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1529.2}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1529.2}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1527.5}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1527.2}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1525.6}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1525.5}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
-| $\color{green}\text{46  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1522.6}$ |
+| $\color{green}\text{41  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1526.2}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1525.6}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1525.5}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1522.5}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.5}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1520.2}$ |
@@ -106,7 +106,7 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1495.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
-| $\color{red}\text{99  }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1493.2}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1493.2}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
 | $\color{green}\text{101 }$ | $\color{green}\text{World War Z}$ | $\color{green}\text{1491.6}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
@@ -124,12 +124,12 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1485.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1485.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.8}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1484.0}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1483.1}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1482.3}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1481.9}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1481.6}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1483.1}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1482.3}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1481.9}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1481.6}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1480.9}$ |
+| $\color{red}\text{122 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1480.4}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1478.1}$ |
 | $\color{red}\text{125 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1478.1}$ |
