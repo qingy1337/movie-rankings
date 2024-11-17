@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1663.7}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1663.7}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1663.5}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1661.8}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1644.4}$ |
@@ -61,12 +61,12 @@ python3 mvr.py
 | $\color{black}\text{51  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1553.3}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1551.0}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1547.2}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1545.8}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1539.5}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1537.0}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1535.3}$ |
+| $\color{green}\text{54  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1546.5}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1545.8}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1539.5}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1537.0}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1534.0}$ |
 | $\color{green}\text{61  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1532.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1531.3}$ |
@@ -133,7 +133,7 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1445.4}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1443.7}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1442.5}$ |
-| $\color{red}\text{126 }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1441.0}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1441.0}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1441.0}$ |
 | $\color{red}\text{128 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1438.3}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1438.2}$ |
@@ -146,13 +146,13 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1432.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1427.5}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1424.5}$ |
-| $\color{red}\text{141 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1421.9}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1421.7}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1417.9}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1417.0}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1416.9}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1424.5}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1421.9}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1421.7}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1417.9}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1417.0}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1416.9}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1416.3}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1413.2}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1411.0}$ |
