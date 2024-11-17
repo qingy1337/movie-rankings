@@ -65,41 +65,41 @@ python3 mvr.py
 | 55   | Halo                 | 1538.2 |
 | 56   | Train to Busan       | 1537.4 |
 | 57   | The Ninth Gate       | 1537.2 |
-| 58   | Guy Ritchie’s The Covenant | 1537.2 |
-| 59   | The Man Who Knew Infinity | 1535.9 |
-| 60   | Jack Ryan            | 1534.5 |
-| 61   | The Day After Tomorrow | 1533.6 |
-| 62   | The Maze Runner: The Scorch Trials | 1531.6 |
-| 63   | Titanic              | 1530.0 |
-| 64   | Avengers: Infinity War | 1527.6 |
-| 65   | Avatar               | 1526.0 |
-| 66   | Mission Impossible 3 | 1523.9 |
-| 67   | Top Gun              | 1523.2 |
-| 68   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
-| 69   | Zodiac               | 1521.3 |
-| 70   | Star Trek: Picard    | 1521.3 |
-| 71   | Iron Chef            | 1520.2 |
-| 72   | A Haunting in Venice | 1520.0 |
-| 73   | Jack Reacher         | 1519.6 |
+| 58   | The Man Who Knew Infinity | 1535.9 |
+| 59   | Jack Ryan            | 1534.5 |
+| 60   | The Day After Tomorrow | 1533.6 |
+| 61   | The Maze Runner: The Scorch Trials | 1531.6 |
+| 62   | Titanic              | 1530.0 |
+| 63   | Avengers: Infinity War | 1527.6 |
+| 64   | Avatar               | 1526.0 |
+| 65   | Mission Impossible 3 | 1523.9 |
+| 66   | Top Gun              | 1523.2 |
+| 67   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
+| 68   | Zodiac               | 1521.3 |
+| 69   | Star Trek: Picard    | 1521.3 |
+| 70   | Iron Chef            | 1520.2 |
+| 71   | A Haunting in Venice | 1520.0 |
+| 72   | Jack Reacher         | 1519.6 |
+| 73   | Guy Ritchie’s The Covenant | 1519.2 |
 | 74   | Rebel Ridge          | 1519.0 |
 | 75   | Thor                 | 1517.3 |
 | 76   | The Spy Next Door    | 1517.0 |
 | 77   | Top Gun: Maverick    | 1515.4 |
 | 78   | Sweet Tooth          | 1514.1 |
 | 79   | The Terminal List    | 1513.0 |
-| 80   | Onward               | 1512.0 |
-| 81   | Ip Man               | 1510.8 |
-| 82   | My Name              | 1509.4 |
-| 83   | Shawshank Redemption | 1506.9 |
-| 84   | Captain America: Civil War | 1504.8 |
-| 85   | Total Recall         | 1504.7 |
-| 86   | Gladiator            | 1501.6 |
-| 87   | Cars                 | 1500.4 |
-| 88   | Lord of the Rings    | 1497.9 |
-| 89   | A Boy Called Christmas | 1495.6 |
-| 90   | Skyfall              | 1494.9 |
-| 91   | Rainman              | 1494.3 |
-| 92   | Bloodhounds          | 1494.1 |
+| 80   | Bloodhounds          | 1512.1 |
+| 81   | Onward               | 1512.0 |
+| 82   | Ip Man               | 1510.8 |
+| 83   | My Name              | 1509.4 |
+| 84   | Shawshank Redemption | 1506.9 |
+| 85   | Captain America: Civil War | 1504.8 |
+| 86   | Total Recall         | 1504.7 |
+| 87   | Gladiator            | 1501.6 |
+| 88   | Cars                 | 1500.4 |
+| 89   | Lord of the Rings    | 1497.9 |
+| 90   | A Boy Called Christmas | 1495.6 |
+| 91   | Skyfall              | 1494.9 |
+| 92   | Rainman              | 1494.3 |
 | 93   | Oppenheimer          | 1493.2 |
 | 94   | Dune                 | 1490.9 |
 | 95   | Road House           | 1489.7 |
