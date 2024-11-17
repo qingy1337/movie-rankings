@@ -24,15 +24,15 @@ python3 mvr.py
 | 14   | Locke and Key        | 1569.6 |
 | 15   | Iron Man             | 1569.1 |
 | 16   | Source Code          | 1567.6 |
-| 17   | Harry Potter         | 1562.9 |
-| 18   | Squid Game           | 1560.7 |
-| 19   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
-| 20   | Halo                 | 1557.9 |
-| 21   | The Hobbit           | 1557.0 |
-| 22   | The Maze Runner: The Scorch Trials | 1554.2 |
-| 23   | X-Files              | 1551.6 |
-| 24   | Avengers: Age of Ultron | 1551.0 |
-| 25   | Sneaky Pete          | 1549.0 |
+| 17   | Sneaky Pete          | 1564.5 |
+| 18   | Harry Potter         | 1562.9 |
+| 19   | Squid Game           | 1560.7 |
+| 20   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
+| 21   | Halo                 | 1557.9 |
+| 22   | The Hobbit           | 1557.0 |
+| 23   | The Maze Runner: The Scorch Trials | 1554.2 |
+| 24   | X-Files              | 1551.6 |
+| 25   | Avengers: Age of Ultron | 1551.0 |
 | 26   | My Name              | 1548.8 |
 | 27   | Shawshank Redemption | 1547.2 |
 | 28   | The Wild Robot       | 1547.0 |
@@ -50,19 +50,19 @@ python3 mvr.py
 | 40   | The Maze Runner: The Death Cure | 1541.6 |
 | 41   | Rainman              | 1540.9 |
 | 42   | Titanic              | 1538.1 |
-| 43   | Loki                 | 1538.0 |
-| 44   | Train to Busan       | 1535.6 |
-| 45   | The Day After Tomorrow | 1534.3 |
-| 46   | Avatar 2             | 1533.8 |
-| 47   | Mission Impossible: Fallout | 1533.4 |
-| 48   | Tenet                | 1532.6 |
-| 49   | Avengers: Endgame    | 1532.0 |
-| 50   | Scream VI            | 1532.0 |
-| 51   | The Man Who Knew Infinity | 1530.9 |
-| 52   | Jack Ryan            | 1530.6 |
-| 53   | Wrath of Man         | 1530.6 |
-| 54   | Dark Waters          | 1527.7 |
-| 55   | Rebel Ridge          | 1524.1 |
+| 43   | Train to Busan       | 1535.6 |
+| 44   | The Day After Tomorrow | 1534.3 |
+| 45   | Avatar 2             | 1533.8 |
+| 46   | Mission Impossible: Fallout | 1533.4 |
+| 47   | Tenet                | 1532.6 |
+| 48   | Avengers: Endgame    | 1532.0 |
+| 49   | Scream VI            | 1532.0 |
+| 50   | The Man Who Knew Infinity | 1530.9 |
+| 51   | Jack Ryan            | 1530.6 |
+| 52   | Wrath of Man         | 1530.6 |
+| 53   | Dark Waters          | 1527.7 |
+| 54   | Rebel Ridge          | 1524.1 |
+| 55   | Loki                 | 1522.5 |
 | 56   | The Avengers         | 1522.0 |
 | 57   | No Country for Old Men | 1521.8 |
 | 58   | The Matrix           | 1519.4 |
@@ -100,21 +100,21 @@ python3 mvr.py
 | 90   | Knight and Day       | 1498.7 |
 | 91   | Terminator           | 1497.2 |
 | 92   | Ip Man               | 1495.6 |
-| 93   | Replicas             | 1493.3 |
-| 94   | World War Z          | 1490.6 |
-| 95   | Oppenheimer          | 1489.4 |
-| 96   | Gladiator            | 1487.2 |
-| 97   | A Boy Called Christmas | 1486.9 |
-| 98   | Total Recall         | 1486.7 |
-| 99   | Mission Impossible 3 | 1485.3 |
-| 100  | Land of Bad          | 1485.0 |
-| 101  | Skyfall              | 1484.0 |
-| 102  | Peter the Rabbit     | 1483.7 |
-| 103  | The Ring 2           | 1483.7 |
-| 104  | Bloodhounds          | 1483.5 |
-| 105  | Pompeii              | 1483.4 |
-| 106  | The Curious Case of Benjamin Button | 1483.0 |
-| 107  | G.I.Joe movie        | 1482.0 |
+| 93   | G.I.Joe movie        | 1495.0 |
+| 94   | Replicas             | 1493.3 |
+| 95   | World War Z          | 1490.6 |
+| 96   | Oppenheimer          | 1489.4 |
+| 97   | Gladiator            | 1487.2 |
+| 98   | A Boy Called Christmas | 1486.9 |
+| 99   | Total Recall         | 1486.7 |
+| 100  | Mission Impossible 3 | 1485.3 |
+| 101  | Land of Bad          | 1485.0 |
+| 102  | Skyfall              | 1484.0 |
+| 103  | Peter the Rabbit     | 1483.7 |
+| 104  | The Ring 2           | 1483.7 |
+| 105  | Bloodhounds          | 1483.5 |
+| 106  | Pompeii              | 1483.4 |
+| 107  | The Curious Case of Benjamin Button | 1483.0 |
 | 108  | Horton hears a Who   | 1480.1 |
 | 109  | Mission Impossible: Rogue Nation | 1479.4 |
 | 110  | The Spy Next Door    | 1478.6 |
@@ -172,9 +172,9 @@ python3 mvr.py
 | 162  | The Darkest Hour     | 1425.0 |
 | 163  | A Quiet Place: Day One | 1423.4 |
 | 164  | Everything, everywhere, all at once | 1416.7 |
-| 165  | Shadow               | 1415.5 |
-| 166  | The Battle at Lake Changjin | 1415.1 |
-| 167  | Spectral             | 1410.4 |
-| 168  | Black Hawk Down      | 1407.8 |
-| 169  | AK-47 Kalashnikov    | 1406.4 |
-| 170  | Gravity              | 1405.9 |
+| 165  | The Battle at Lake Changjin | 1415.1 |
+| 166  | Spectral             | 1410.4 |
+| 167  | Black Hawk Down      | 1407.8 |
+| 168  | AK-47 Kalashnikov    | 1406.4 |
+| 169  | Gravity              | 1405.9 |
+| 170  | Shadow               | 1402.5 |
