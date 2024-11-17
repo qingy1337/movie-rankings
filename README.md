@@ -66,14 +66,14 @@ python3 mvr.py
 | $\color{black}\text{56  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1530.7}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{red}\text{59  }$ | $\color{red}\text{Jack Reacher}$ | $\color{red}\text{1529.0}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1529.0}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1528.4}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
 | $\color{green}\text{64  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1524.1}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1524.1}$ |
-| $\color{green}\text{66  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1521.6}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1521.6}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
@@ -81,13 +81,13 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1516.0}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1507.4}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1507.4}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
+| $\color{green}\text{74  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1511.2}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1507.4}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1507.4}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
@@ -130,14 +130,14 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.6}$ |
-| $\color{red}\text{124 }$ | $\color{red}\text{The Man in the Iron Mask}$ | $\color{red}\text{1460.3}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.8}$ |
-| $\color{red}\text{130 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1455.8}$ |
+| $\color{red}\text{123 }$ | $\color{red}\text{The Man in the Iron Mask}$ | $\color{red}\text{1460.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.8}$ |
+| $\color{red}\text{129 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1455.8}$ |
+| $\color{red}\text{130 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1455.4}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
 | $\color{green}\text{132 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1455.0}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
