@@ -10,7 +10,7 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1629.5}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1616.6}$ |
+| $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1621.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1604.2}$ |
@@ -61,11 +61,11 @@ python3 mvr.py
 | $\color{black}\text{51  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{red}\text{58  }$ | $\color{red}\text{The Matrix}$ | $\color{red}\text{1535.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1532.9}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
@@ -115,7 +115,7 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1475.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{green}\text{108 }$ | $\color{green}\text{Rainman}$ | $\color{green}\text{1468.6}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1467.9}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
@@ -157,7 +157,7 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.4}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1424.0}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
-| $\color{red}\text{150 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1420.4}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1420.4}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
