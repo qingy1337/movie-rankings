@@ -24,7 +24,7 @@ python3 mvr.py
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
-| $\color{green}\text{17  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1566.9}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
@@ -41,12 +41,12 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1549.6}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1544.7}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1543.1}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{Avengers: Age of Ultron}$ | $\color{green}\text{1547.3}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1544.7}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
@@ -164,11 +164,11 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1437.1}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
-| $\color{red}\text{157 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1433.1}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1433.1}$ |
 | $\color{red}\text{158 }$ | $\color{red}\text{65}$ | $\color{red}\text{1431.7}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1431.4}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
+| $\color{red}\text{161 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1427.3}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
 | $\color{red}\text{164 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1425.7}$ |
