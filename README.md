@@ -29,8 +29,8 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1570.7}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1566.5}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1562.8}$ |
+| $\color{green}\text{22  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1566.8}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
 | $\color{green}\text{25  }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1561.2}$ |
 | $\color{green}\text{26  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1560.5}$ |
@@ -90,7 +90,7 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1505.3}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
-| $\color{green}\text{83  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1502.7}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1502.7}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
@@ -105,7 +105,7 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1487.3}$ |
-| $\color{red}\text{98  }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1487.0}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.0}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
@@ -154,10 +154,10 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1442.7}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.4}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1438.9}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1438.1}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1437.3}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1438.9}$ |
+| $\color{red}\text{148 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1438.1}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1437.3}$ |
+| $\color{red}\text{150 }$ | $\color{red}\text{All Quiet on The Western Front}$ | $\color{red}\text{1437.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1436.6}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1434.0}$ |
