@@ -46,11 +46,11 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.2}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1547.1}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1545.2}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
+| $\color{green}\text{39  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1546.5}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1545.2}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
@@ -81,12 +81,12 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
-| $\color{red}\text{74  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1515.1}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
+| $\color{red}\text{79  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1509.5}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
@@ -100,7 +100,7 @@ python3 mvr.py
 | $\color{green}\text{90  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1494.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
-| $\color{red}\text{93  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1493.1}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
@@ -116,7 +116,7 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
-| $\color{green}\text{109 }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1477.9}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.9}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
