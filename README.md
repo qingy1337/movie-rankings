@@ -51,7 +51,7 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{green}\text{44  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1542.6}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1542.6}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1539.4}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
@@ -89,9 +89,9 @@ python3 mvr.py
 | $\color{black}\text{79  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.0}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1507.0}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
+| $\color{green}\text{82  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1506.0}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
@@ -105,11 +105,11 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1487.5}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1487.5}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
+| $\color{red}\text{102 }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1482.7}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
@@ -118,7 +118,7 @@ python3 mvr.py
 | $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{red}\text{109 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1477.2}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{red}\text{111 }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1476.5}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
