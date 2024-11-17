@@ -69,12 +69,12 @@ python3 mvr.py
 | 59   | Saving Private Ryan  | 1516.0 |
 | 60   | A Haunting in Venice | 1516.0 |
 | 61   | Thor                 | 1516.0 |
-| 62   | Soul                 | 1516.0 |
-| 63   | Doctor Strange       | 1516.0 |
-| 64   | Selfless             | 1515.3 |
-| 65   | Life of Pi           | 1515.3 |
-| 66   | The Ring             | 1515.3 |
-| 67   | The Maze Runner: The Scorch Trials | 1514.5 |
+| 62   | Doctor Strange       | 1516.0 |
+| 63   | Selfless             | 1515.3 |
+| 64   | Life of Pi           | 1515.3 |
+| 65   | The Ring             | 1515.3 |
+| 66   | The Maze Runner: The Scorch Trials | 1514.5 |
+| 67   | Soul                 | 1514.2 |
 | 68   | Jack Reacher         | 1514.1 |
 | 69   | Zodiac               | 1513.9 |
 | 70   | The Ninth Gate       | 1513.2 |
@@ -130,7 +130,7 @@ python3 mvr.py
 | 120  | The Firm             | 1482.7 |
 | 121  | A.I. Artificial Intelligence | 1482.0 |
 | 122  | The Spy Next Door    | 1478.6 |
-| 123  | Mission Impossible: Rogue Nation | 1476.2 |
+| 123  | Mission Impossible: Rogue Nation | 1478.1 |
 | 124  | Mission Impossible 2 | 1473.6 |
 | 125  | Rampage              | 1473.6 |
 | 126  | Road House           | 1473.1 |
