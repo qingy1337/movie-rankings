@@ -74,17 +74,17 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1510.2}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1510.2}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1510.1}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
+| $\color{red}\text{68  }$ | $\color{red}\text{The Maze Runner: The Scorch Trials}$ | $\color{red}\text{1509.7}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1507.8}$ |
 | $\color{green}\text{71  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1507.6}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1507.6}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.3}$ |
-| $\color{green}\text{74  }$ | $\color{green}\text{Cars 2}$ | $\color{green}\text{1507.2}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1507.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1506.5}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1504.5}$ |
-| $\color{red}\text{77  }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1504.0}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1504.0}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1503.9}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1503.6}$ |
@@ -140,9 +140,9 @@ python3 mvr.py
 | $\color{black}\text{130 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1474.6}$ |
 | $\color{red}\text{131 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1474.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1474.6}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1474.5}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1474.1}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1474.1}$ |
+| $\color{green}\text{133 }$ | $\color{green}\text{Land of Bad}$ | $\color{green}\text{1474.5}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1474.5}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1474.1}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1473.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1473.5}$ |
