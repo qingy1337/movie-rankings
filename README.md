@@ -15,7 +15,7 @@ python3 mvr.py
 | 5    | Wednesday            | 1599.3 |
 | 6    | The Mandalorian      | 1597.1 |
 | 7    | Star Wars            | 1594.9 |
-| 8    | Life of Pi           | 1593.8 |
+| 8    | Life of Pi           | 1593.7 |
 | 9    | Thirteen Lives       | 1592.7 |
 | 10   | Ant-Man              | 1592.2 |
 | 11   | Passengers           | 1589.2 |
@@ -26,16 +26,16 @@ python3 mvr.py
 | 16   | Maleficent           | 1583.3 |
 | 17   | Harry Potter         | 1583.2 |
 | 18   | Iron Man             | 1580.6 |
-| 19   | Beut Mind            | 1576.0 |
-| 20   | The Hobbit           | 1575.0 |
-| 21   | Avatar 2             | 1571.6 |
-| 22   | Locke and Key        | 1569.6 |
-| 23   | Source Code          | 1568.2 |
-| 24   | The Ninth Gate       | 1567.9 |
-| 25   | Titanic              | 1567.2 |
-| 26   | Inception            | 1566.5 |
-| 27   | X-Files              | 1565.9 |
-| 28   | Avengers: Age of Ultron | 1564.9 |
+| 19   | Avengers: Age of Ultron | 1577.2 |
+| 20   | Beut Mind            | 1576.0 |
+| 21   | The Hobbit           | 1575.0 |
+| 22   | Avatar 2             | 1571.6 |
+| 23   | Locke and Key        | 1569.6 |
+| 24   | Source Code          | 1568.2 |
+| 25   | The Ninth Gate       | 1567.9 |
+| 26   | Titanic              | 1567.2 |
+| 27   | Inception            | 1566.5 |
+| 28   | X-Files              | 1565.9 |
 | 29   | Halo                 | 1563.1 |
 | 30   | Squid Game           | 1560.7 |
 | 31   | The Illusionist      | 1559.2 |
@@ -105,30 +105,30 @@ python3 mvr.py
 | 95   | Jack Reacher         | 1493.4 |
 | 96   | Dune                 | 1490.9 |
 | 97   | Gladiator            | 1487.2 |
-| 98   | Red Eye              | 1483.9 |
-| 99   | Bloodhounds          | 1483.5 |
-| 100  | Jack Reacher: Never Go Back | 1483.5 |
-| 101  | The Curious Case of Benjamin Button | 1483.0 |
-| 102  | Frequency            | 1482.2 |
-| 103  | GoldenEye            | 1481.6 |
-| 104  | A Boy Called Christmas | 1479.3 |
-| 105  | Rampage              | 1478.0 |
-| 106  | When a Stranger Calls | 1477.8 |
-| 107  | The Mist             | 1475.6 |
-| 108  | Red Notice           | 1474.4 |
-| 109  | World War Z          | 1472.5 |
-| 110  | Saving Private Ryan  | 1472.5 |
-| 111  | The Matrix Reloaded  | 1472.2 |
-| 112  | Onward               | 1472.1 |
-| 113  | Knight and Day       | 1471.6 |
+| 98   | Bloodhounds          | 1483.5 |
+| 99   | Jack Reacher: Never Go Back | 1483.5 |
+| 100  | The Curious Case of Benjamin Button | 1483.0 |
+| 101  | GoldenEye            | 1481.6 |
+| 102  | Black Widow          | 1479.9 |
+| 103  | A Boy Called Christmas | 1479.3 |
+| 104  | Rampage              | 1478.0 |
+| 105  | When a Stranger Calls | 1477.8 |
+| 106  | The Mist             | 1475.6 |
+| 107  | Red Notice           | 1474.4 |
+| 108  | World War Z          | 1472.5 |
+| 109  | Saving Private Ryan  | 1472.5 |
+| 110  | The Matrix Reloaded  | 1472.2 |
+| 111  | Onward               | 1472.1 |
+| 112  | Knight and Day       | 1471.6 |
+| 113  | Red Eye              | 1471.5 |
 | 114  | The Matrix Revolutions | 1471.5 |
 | 115  | The Mask             | 1471.5 |
 | 116  | Land of Bad          | 1469.5 |
 | 117  | Heidi                | 1468.7 |
 | 118  | Iron Chef            | 1465.8 |
 | 119  | The Spy Next Door    | 1465.6 |
-| 120  | Ninja Turtles        | 1465.0 |
-| 121  | Black Widow          | 1463.1 |
+| 120  | Frequency            | 1465.3 |
+| 121  | Ninja Turtles        | 1465.0 |
 | 122  | School of Rock       | 1462.5 |
 | 123  | Exam                 | 1460.9 |
 | 124  | The Mask of Zorro    | 1459.8 |
