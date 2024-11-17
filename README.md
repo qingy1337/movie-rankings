@@ -42,12 +42,12 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1559.5}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1559.5}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
+| $\color{red}\text{40  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1554.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1552.3}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
@@ -59,11 +59,11 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
-| $\color{red}\text{52  }$ | $\color{red}\text{Lost in Space}$ | $\color{red}\text{1537.6}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
+| $\color{green}\text{52  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1539.7}$ |
+| $\color{red}\text{53  }$ | $\color{red}\text{Lost in Space}$ | $\color{red}\text{1537.6}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.3}$ |
@@ -115,7 +115,7 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1477.6}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{red}\text{108 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1473.4}$ |
+| $\color{green}\text{108 }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1473.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
@@ -132,7 +132,7 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
-| $\color{green}\text{125 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1456.1}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1456.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
