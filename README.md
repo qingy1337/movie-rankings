@@ -13,7 +13,7 @@ python3 mvr.py
 | $\color{red}\text{3   }$ | $\color{red}\text{The Mandalorian}$ | $\color{red}\text{1588.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.9}$ |
-| $\color{green}\text{6   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1585.9}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1585.9}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1584.5}$ |
 | $\color{green}\text{8   }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1582.4}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.1}$ |
@@ -34,9 +34,9 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1566.2}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.2}$ |
 | $\color{green}\text{26  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1565.2}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1562.7}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1559.7}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1558.8}$ |
+| $\color{green}\text{27  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1564.8}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1562.7}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1559.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1557.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1556.6}$ |
@@ -88,7 +88,7 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1507.5}$ |
 | $\color{red}\text{79  }$ | $\color{red}\text{The Tomorrow War}$ | $\color{red}\text{1506.3}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1506.2}$ |
-| $\color{red}\text{81  }$ | $\color{red}\text{Avatar}$ | $\color{red}\text{1505.9}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1505.9}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1504.9}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.4}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1504.2}$ |
@@ -122,11 +122,11 @@ python3 mvr.py
 | $\color{black}\text{112 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1474.4}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1473.7}$ |
-| $\color{red}\text{115 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1473.4}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1472.0}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.5}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1468.2}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
+| $\color{red}\text{116 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1472.0}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.5}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1468.2}$ |
+| $\color{red}\text{119 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1467.4}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1465.1}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.8}$ |
