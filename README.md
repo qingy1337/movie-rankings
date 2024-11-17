@@ -30,16 +30,16 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.0}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
-| $\color{green}\text{23  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1558.6}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
+| $\color{green}\text{23  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1561.9}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1558.6}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
 | $\color{red}\text{26  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1556.5}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
-| $\color{green}\text{32  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1553.8}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1553.8}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
@@ -96,13 +96,13 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1498.1}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
-| $\color{green}\text{91  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1496.8}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
+| $\color{green}\text{90  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1496.8}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
+| $\color{red}\text{95  }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1492.4}$ |
 | $\color{red}\text{96  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1488.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
@@ -170,7 +170,7 @@ python3 mvr.py
 | $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{red}\text{163 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1421.5}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
