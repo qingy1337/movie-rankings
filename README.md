@@ -14,11 +14,11 @@ python3 mvr.py
 | 4    | Harry Potter         | 1618.8 |
 | 5    | Star Wars            | 1617.0 |
 | 6    | Ant-Man              | 1615.5 |
-| 7    | Life of Pi           | 1606.7 |
-| 8    | Pirates of the Caribbean | 1606.6 |
-| 9    | Thirteen Lives       | 1605.2 |
-| 10   | Inception            | 1604.5 |
-| 11   | Iron Man             | 1603.5 |
+| 7    | Iron Man             | 1613.7 |
+| 8    | Life of Pi           | 1606.7 |
+| 9    | Pirates of the Caribbean | 1606.6 |
+| 10   | Thirteen Lives       | 1605.2 |
+| 11   | Inception            | 1604.5 |
 | 12   | No Country for Old Men | 1601.7 |
 | 13   | Black Panther        | 1599.9 |
 | 14   | The Mandalorian      | 1597.1 |
@@ -58,19 +58,19 @@ python3 mvr.py
 | 48   | The Matrix           | 1544.2 |
 | 49   | Avengers: Infinity War | 1542.0 |
 | 50   | Mission Impossible 3 | 1541.8 |
-| 51   | The Prestige         | 1538.4 |
-| 52   | Halo                 | 1537.3 |
-| 53   | The Tomorrow War     | 1536.2 |
-| 54   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 55   | Mission Impossible: Fallout | 1534.9 |
-| 56   | The Day After Tomorrow | 1533.6 |
-| 57   | Rebel Ridge          | 1531.3 |
-| 58   | Titanic              | 1530.0 |
-| 59   | My Name              | 1528.0 |
-| 60   | Guy Ritchie’s The Covenant | 1527.5 |
-| 61   | Rainman              | 1526.3 |
-| 62   | Replicas             | 1525.3 |
-| 63   | Scream V             | 1524.9 |
+| 51   | Scream V             | 1538.4 |
+| 52   | The Prestige         | 1538.4 |
+| 53   | Halo                 | 1537.3 |
+| 54   | The Tomorrow War     | 1536.2 |
+| 55   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 56   | Mission Impossible: Fallout | 1534.9 |
+| 57   | The Day After Tomorrow | 1533.6 |
+| 58   | Rebel Ridge          | 1531.3 |
+| 59   | Titanic              | 1530.0 |
+| 60   | My Name              | 1528.0 |
+| 61   | Guy Ritchie’s The Covenant | 1527.5 |
+| 62   | Rainman              | 1526.3 |
+| 63   | Replicas             | 1525.3 |
 | 64   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
 | 65   | Star Trek: Picard    | 1521.3 |
 | 66   | The Maze Runner: The Scorch Trials | 1518.0 |
@@ -115,27 +115,27 @@ python3 mvr.py
 | 105  | American Sniper      | 1472.1 |
 | 106  | Knight and Day       | 1471.6 |
 | 107  | Red Eye              | 1471.5 |
-| 108  | The Mask             | 1471.5 |
-| 109  | Glass Castle         | 1471.0 |
-| 110  | Johnny English       | 1470.8 |
-| 111  | Jack Reacher: Never Go Back | 1470.7 |
-| 112  | The Spy Next Door    | 1469.9 |
-| 113  | Land of Bad          | 1469.5 |
-| 114  | The Ring             | 1469.2 |
-| 115  | The Curious Case of Benjamin Button | 1468.4 |
-| 116  | School of Rock       | 1468.0 |
-| 117  | Mission Impossible 1 | 1467.9 |
-| 118  | Iron Chef            | 1465.8 |
-| 119  | When a Stranger Calls | 1465.5 |
-| 120  | The Mist             | 1465.4 |
-| 121  | World War Z          | 1464.8 |
-| 122  | GoldenEye            | 1463.3 |
-| 123  | Road House           | 1461.8 |
-| 124  | The Man in the Iron Mask | 1461.7 |
-| 125  | Exam                 | 1460.3 |
-| 126  | The Mask of Zorro    | 1459.8 |
-| 127  | Drunken Master       | 1459.7 |
-| 128  | John Wick            | 1459.6 |
+| 108  | Glass Castle         | 1471.0 |
+| 109  | Johnny English       | 1470.8 |
+| 110  | The Spy Next Door    | 1469.9 |
+| 111  | Land of Bad          | 1469.5 |
+| 112  | The Ring             | 1469.2 |
+| 113  | The Curious Case of Benjamin Button | 1468.4 |
+| 114  | School of Rock       | 1468.0 |
+| 115  | Mission Impossible 1 | 1467.9 |
+| 116  | Iron Chef            | 1465.8 |
+| 117  | When a Stranger Calls | 1465.5 |
+| 118  | The Mist             | 1465.4 |
+| 119  | World War Z          | 1464.8 |
+| 120  | GoldenEye            | 1463.3 |
+| 121  | Road House           | 1461.8 |
+| 122  | The Man in the Iron Mask | 1461.7 |
+| 123  | The Mask             | 1461.3 |
+| 124  | Exam                 | 1460.3 |
+| 125  | The Mask of Zorro    | 1459.8 |
+| 126  | Drunken Master       | 1459.7 |
+| 127  | John Wick            | 1459.6 |
+| 128  | Jack Reacher: Never Go Back | 1457.2 |
 | 129  | Wrath of Man         | 1456.9 |
 | 130  | Peter the Rabbit     | 1455.9 |
 | 131  | G.I.Joe movie        | 1455.9 |
