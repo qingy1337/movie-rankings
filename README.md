@@ -12,9 +12,9 @@ python3 mvr.py
 | $\color{green}\text{2   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1582.3}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1582.1}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1578.0}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.1}$ |
+| $\color{green}\text{5   }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1580.0}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1578.0}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1573.3}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1573.1}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
@@ -49,7 +49,7 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1541.4}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1541.3}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
-| $\color{red}\text{42  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1538.4}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
@@ -87,7 +87,7 @@ python3 mvr.py
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
-| $\color{green}\text{80  }$ | $\color{green}\text{The Spy Next Door}$ | $\color{green}\text{1506.9}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1505.9}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1505.8}$ |
@@ -154,9 +154,9 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
 | $\color{red}\text{145 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1451.1}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1447.0}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1446.3}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.8}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.8}$ |
+| $\color{red}\text{149 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1442.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1439.3}$ |
