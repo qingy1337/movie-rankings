@@ -16,10 +16,10 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1591.4}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
@@ -102,7 +102,7 @@ python3 mvr.py
 | $\color{green}\text{92  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1491.0}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{green}\text{95  }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1488.5}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{green}\text{98  }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1485.0}$ |
@@ -117,7 +117,7 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
-| $\color{red}\text{110 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1472.8}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{red}\text{113 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1468.2}$ |
@@ -128,11 +128,11 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{green}\text{121 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1460.0}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
+| $\color{green}\text{125 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1456.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
