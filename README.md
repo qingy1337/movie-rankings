@@ -35,7 +35,7 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
-| $\color{green}\text{28  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1550.6}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1550.6}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1549.6}$ |
@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1544.7}$ |
-| $\color{red}\text{39  }$ | $\color{red}\text{Avengers: Age of Ultron}$ | $\color{red}\text{1543.1}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1543.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
 | $\color{green}\text{41  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1541.0}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
@@ -90,10 +90,10 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1506.7}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.1}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
+| $\color{green}\text{83  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1505.2}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.1}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.5}$ |
@@ -147,9 +147,9 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.3}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.7}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1447.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
 | $\color{red}\text{144 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1446.5}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
