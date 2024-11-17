@@ -43,9 +43,9 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1540.5}$ |
+| $\color{green}\text{36  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1545.2}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
@@ -107,7 +107,7 @@ python3 mvr.py
 | $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1490.6}$ |
 | $\color{green}\text{99  }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1490.2}$ |
-| $\color{red}\text{100 }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1490.0}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.9}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.2}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
@@ -131,19 +131,19 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.1}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1471.0}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
-| $\color{green}\text{124 }$ | $\color{green}\text{Cars 3}$ | $\color{green}\text{1470.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1470.3}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1468.5}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1466.4}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.6}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1463.4}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1463.4}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
+| $\color{red}\text{136 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1458.9}$ |
 | $\color{red}\text{137 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1458.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1458.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
