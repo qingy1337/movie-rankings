@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1596.6}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1596.6}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1582.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1578.7}$ |
@@ -58,7 +58,7 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1530.4}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1529.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1528.4}$ |
-| $\color{red}\text{51  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1528.1}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1528.1}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1527.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
@@ -74,17 +74,17 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1514.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1514.1}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1513.4}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1512.9}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.4}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1510.8}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1508.8}$ |
+| $\color{green}\text{67  }$ | $\color{green}\text{Zootopia}$ | $\color{green}\text{1513.9}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1513.4}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1512.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.4}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1510.8}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1507.1}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1505.9}$ |
@@ -147,11 +147,11 @@ python3 mvr.py
 | $\color{red}\text{137 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1458.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1458.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1456.7}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
+| $\color{red}\text{144 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1451.6}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
