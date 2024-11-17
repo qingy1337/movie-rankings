@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1557.6}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1557.6}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1554.8}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1551.5}$ |
+| $\color{green}\text{5   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1554.5}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1551.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1550.8}$ |
@@ -116,7 +116,7 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1488.5}$ |
-| $\color{red}\text{109 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1487.4}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1487.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1486.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1486.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1485.7}$ |
@@ -124,7 +124,7 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1485.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1485.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.8}$ |
-| $\color{green}\text{117 }$ | $\color{green}\text{The Ring 2}$ | $\color{green}\text{1483.1}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1483.1}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1481.9}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1481.6}$ |
@@ -157,11 +157,11 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1462.8}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{65}$ | $\color{black}\text{1460.2}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1460.0}$ |
-| $\color{red}\text{152 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1459.5}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1459.0}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1458.6}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1460.0}$ |
+| $\color{red}\text{151 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1459.5}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1459.0}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1458.6}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{65}$ | $\color{red}\text{1457.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1456.1}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1455.1}$ |
