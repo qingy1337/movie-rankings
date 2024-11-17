@@ -13,7 +13,7 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1557.6}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1551.5}$ |
-| $\color{green}\text{6   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1551.1}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1551.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1550.8}$ |
 | $\color{green}\text{9   }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1550.1}$ |
@@ -86,16 +86,16 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1504.5}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1503.9}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1503.8}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1503.6}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1503.6}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1503.1}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1502.8}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1502.7}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.4}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1500.3}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1500.1}$ |
+| $\color{green}\text{79  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1503.6}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1503.6}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1503.6}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1503.5}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1503.1}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1502.8}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1502.7}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.4}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1500.3}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1498.7}$ |
@@ -123,7 +123,7 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.6}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1485.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1485.0}$ |
-| $\color{red}\text{116 }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1484.8}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.8}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1483.1}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1482.3}$ |
@@ -165,14 +165,14 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1456.1}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1455.7}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1455.2}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1455.1}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1454.9}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1452.8}$ |
-| $\color{red}\text{162 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1452.7}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1452.7}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1452.4}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1451.9}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1455.1}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1454.9}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1452.8}$ |
+| $\color{red}\text{161 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1452.7}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1452.7}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1452.4}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1451.9}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1451.8}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1450.4}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1448.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1448.5}$ |
