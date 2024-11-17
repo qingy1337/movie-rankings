@@ -54,11 +54,11 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.8}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1541.6}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
+| $\color{green}\text{47  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1544.6}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.8}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1541.6}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
@@ -105,7 +105,7 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1484.3}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1484.2}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1483.9}$ |
-| $\color{green}\text{98  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1483.2}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1483.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
 | $\color{red}\text{101 }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1480.9}$ |
@@ -136,12 +136,12 @@ python3 mvr.py
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1455.1}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1455.1}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1450.6}$ |
 | $\color{red}\text{135 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1449.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
