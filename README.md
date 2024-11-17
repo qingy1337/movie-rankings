@@ -19,8 +19,8 @@ python3 mvr.py
 | $\color{black}\text{9   }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1585.2}$ |
 | $\color{green}\text{10  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1584.4}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1579.0}$ |
+| $\color{green}\text{12  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1582.3}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
@@ -82,8 +82,8 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.0}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
-| $\color{red}\text{75  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1510.3}$ |
-| $\color{green}\text{76  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1510.3}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
@@ -173,8 +173,8 @@ python3 mvr.py
 | $\color{red}\text{163 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1414.9}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
 | $\color{red}\text{165 }$ | $\color{red}\text{65}$ | $\color{red}\text{1413.2}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{red}\text{167 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1409.5}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1409.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
