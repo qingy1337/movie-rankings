@@ -15,7 +15,7 @@ python3 mvr.py
 | $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1581.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1581.3}$ |
-| $\color{green}\text{8   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1580.9}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1580.9}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1577.6}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1576.7}$ |
@@ -33,15 +33,15 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1567.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1562.7}$ |
-| $\color{green}\text{26  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1561.3}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1559.7}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.1}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1557.4}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1556.6}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1556.0}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1555.0}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.4}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1561.6}$ |
+| $\color{green}\text{27  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1561.3}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1559.7}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.1}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1557.4}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1556.6}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1556.0}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1553.0}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1552.7}$ |
 | $\color{green}\text{37  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1547.0}$ |
@@ -74,15 +74,15 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1519.9}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.2}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1519.0}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1517.8}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1517.7}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1517.5}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.1}$ |
-| $\color{red}\text{71  }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1515.9}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1515.7}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.9}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1512.5}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1510.6}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1517.7}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1517.5}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.1}$ |
+| $\color{red}\text{70  }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1515.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1515.7}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.9}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1512.5}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1510.6}$ |
+| $\color{red}\text{75  }$ | $\color{red}\text{Lord of the Rings}$ | $\color{red}\text{1510.6}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1508.7}$ |
@@ -90,7 +90,7 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1507.7}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1506.8}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1506.2}$ |
-| $\color{red}\text{83  }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1505.3}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1505.3}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1504.9}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.4}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1504.2}$ |
