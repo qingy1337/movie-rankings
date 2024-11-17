@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1606.2}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1606.2}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1599.5}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1597.7}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.9}$ |
@@ -62,17 +62,17 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1530.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1529.8}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1529.7}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1526.7}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.8}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.9}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1524.4}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1522.8}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.8}$ |
-| $\color{red}\text{61  }$ | $\color{red}\text{Beut Mind}$ | $\color{red}\text{1521.3}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1521.1}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1520.1}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1520.1}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1519.9}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.8}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.9}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1524.4}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1522.8}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.8}$ |
+| $\color{red}\text{60  }$ | $\color{red}\text{Beut Mind}$ | $\color{red}\text{1521.3}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1521.1}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1520.1}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1520.1}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1519.9}$ |
+| $\color{red}\text{65  }$ | $\color{red}\text{The Man Who Knew Infinity}$ | $\color{red}\text{1518.0}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1517.7}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1517.5}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.1}$ |
@@ -88,17 +88,17 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1507.8}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1507.7}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1506.8}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1506.2}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1504.9}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.4}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1504.2}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1501.3}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1501.3}$ |
-| $\color{green}\text{88  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1500.7}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.4}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.9}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1498.8}$ |
+| $\color{green}\text{81  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1507.5}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1506.8}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1506.2}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1504.9}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.4}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1504.2}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1501.3}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1501.3}$ |
+| $\color{green}\text{89  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1500.7}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.4}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.9}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1493.9}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1492.5}$ |
@@ -139,7 +139,7 @@ python3 mvr.py
 | $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.6}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1457.7}$ |
-| $\color{red}\text{132 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1455.3}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1455.3}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1455.2}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1453.2}$ |
