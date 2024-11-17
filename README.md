@@ -8,44 +8,44 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | The Martian          | 1592.5 |
+| 1    | The Martian          | 1602.6 |
 | 2    | Pirates of the Caribbean | 1589.1 |
 | 3    | The Mandalorian      | 1587.4 |
 | 4    | Ant-Man              | 1585.5 |
-| 5    | Black Panther        | 1582.9 |
-| 6    | Beut Mind            | 1576.0 |
-| 7    | Lost in Space        | 1574.7 |
-| 8    | X-Men                | 1574.5 |
-| 9    | The Maze Runner      | 1572.5 |
-| 10   | Life of Pi           | 1572.1 |
-| 11   | Thirteen Lives       | 1570.3 |
-| 12   | Locke and Key        | 1569.6 |
-| 13   | Passengers           | 1569.5 |
-| 14   | Iron Man             | 1569.1 |
-| 15   | Source Code          | 1567.6 |
-| 16   | Harry Potter         | 1562.9 |
-| 17   | Squid Game           | 1560.7 |
-| 18   | Wednesday            | 1560.0 |
+| 5    | Life of Pi           | 1583.7 |
+| 6    | Black Panther        | 1582.9 |
+| 7    | Beut Mind            | 1576.0 |
+| 8    | Lost in Space        | 1574.7 |
+| 9    | Wednesday            | 1574.7 |
+| 10   | X-Men                | 1574.5 |
+| 11   | The Maze Runner      | 1572.5 |
+| 12   | Thirteen Lives       | 1570.3 |
+| 13   | Locke and Key        | 1569.6 |
+| 14   | Passengers           | 1569.5 |
+| 15   | Iron Man             | 1569.1 |
+| 16   | Source Code          | 1567.6 |
+| 17   | Harry Potter         | 1562.9 |
+| 18   | Squid Game           | 1560.7 |
 | 19   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
 | 20   | Halo                 | 1557.9 |
 | 21   | The Hobbit           | 1557.0 |
-| 22   | X-Files              | 1551.6 |
-| 23   | Avengers: Age of Ultron | 1551.0 |
-| 24   | Sneaky Pete          | 1549.0 |
-| 25   | My Name              | 1548.8 |
-| 26   | Shawshank Redemption | 1547.2 |
-| 27   | The Wild Robot       | 1547.0 |
-| 28   | Star Wars            | 1546.3 |
-| 29   | Maleficent           | 1545.7 |
-| 30   | Doctor Strange       | 1544.3 |
-| 31   | The Prestige         | 1544.1 |
-| 32   | A Quiet Place        | 1543.3 |
-| 33   | Mission Impossible: Ghost Protocol | 1543.3 |
-| 34   | The Ninth Gate       | 1542.5 |
-| 35   | The Illusionist      | 1542.4 |
-| 36   | Avengers: Infinity War | 1542.0 |
-| 37   | Catch Me If You Can  | 1541.9 |
-| 38   | The Maze Runner: The Scorch Trials | 1541.8 |
+| 22   | The Maze Runner: The Scorch Trials | 1554.2 |
+| 23   | X-Files              | 1551.6 |
+| 24   | Avengers: Age of Ultron | 1551.0 |
+| 25   | Sneaky Pete          | 1549.0 |
+| 26   | My Name              | 1548.8 |
+| 27   | Shawshank Redemption | 1547.2 |
+| 28   | The Wild Robot       | 1547.0 |
+| 29   | Star Wars            | 1546.3 |
+| 30   | Maleficent           | 1545.7 |
+| 31   | Doctor Strange       | 1544.3 |
+| 32   | The Prestige         | 1544.1 |
+| 33   | A Quiet Place        | 1543.3 |
+| 34   | Mission Impossible: Ghost Protocol | 1543.3 |
+| 35   | The Ninth Gate       | 1542.5 |
+| 36   | The Illusionist      | 1542.4 |
+| 37   | Avengers: Infinity War | 1542.0 |
+| 38   | Catch Me If You Can  | 1541.9 |
 | 39   | The Maze Runner: The Death Cure | 1541.6 |
 | 40   | Rainman              | 1540.9 |
 | 41   | Titanic              | 1538.1 |
@@ -58,20 +58,20 @@ python3 mvr.py
 | 48   | Avengers: Endgame    | 1532.0 |
 | 49   | Scream VI            | 1532.0 |
 | 50   | The Man Who Knew Infinity | 1530.9 |
-| 51   | GoldenEye            | 1530.8 |
-| 52   | Jack Ryan            | 1530.6 |
-| 53   | Wrath of Man         | 1530.6 |
-| 54   | Life                 | 1530.1 |
-| 55   | Dark Waters          | 1527.7 |
-| 56   | Rebel Ridge          | 1524.1 |
-| 57   | The Avengers         | 1522.0 |
-| 58   | No Country for Old Men | 1521.8 |
-| 59   | The Matrix           | 1519.4 |
-| 60   | Glass Castle         | 1519.3 |
-| 61   | Lord of the Rings    | 1519.1 |
-| 62   | Inception            | 1517.3 |
-| 63   | Thor                 | 1517.1 |
-| 64   | The Hunger Games     | 1516.2 |
+| 51   | Jack Ryan            | 1530.6 |
+| 52   | Wrath of Man         | 1530.6 |
+| 53   | Life                 | 1530.1 |
+| 54   | Dark Waters          | 1527.7 |
+| 55   | Rebel Ridge          | 1524.1 |
+| 56   | The Avengers         | 1522.0 |
+| 57   | No Country for Old Men | 1521.8 |
+| 58   | The Matrix           | 1519.4 |
+| 59   | Glass Castle         | 1519.3 |
+| 60   | Lord of the Rings    | 1519.1 |
+| 61   | Inception            | 1517.3 |
+| 62   | Thor                 | 1517.1 |
+| 63   | The Hunger Games     | 1516.2 |
+| 64   | GoldenEye            | 1516.2 |
 | 65   | Scream V             | 1516.0 |
 | 66   | Cars                 | 1515.8 |
 | 67   | Interstellar         | 1515.2 |
@@ -124,35 +124,35 @@ python3 mvr.py
 | 114  | Sweet Tooth          | 1474.9 |
 | 115  | School of Rock       | 1474.9 |
 | 116  | Mission Impossible 2 | 1473.6 |
-| 117  | Rampage              | 1473.6 |
-| 118  | Red Notice           | 1473.5 |
-| 119  | The Mask             | 1472.9 |
-| 120  | The Matrix Reloaded  | 1472.2 |
-| 121  | Rango                | 1471.8 |
-| 122  | The Mask of Zorro    | 1471.6 |
-| 123  | Red Eye              | 1471.2 |
-| 124  | The BFG              | 1469.7 |
-| 125  | Selfless             | 1469.3 |
-| 126  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 127  | Heidi                | 1468.7 |
-| 128  | Avatar: The Last Airbender | 1468.7 |
-| 129  | Iron Chef            | 1468.7 |
-| 130  | Unbreakable          | 1468.5 |
-| 131  | Top Gun              | 1468.2 |
-| 132  | Mission Impossible 1 | 1468.0 |
-| 133  | A.I. Artificial Intelligence | 1463.3 |
-| 134  | Road House           | 1461.3 |
-| 135  | Drunken Master       | 1459.7 |
-| 136  | Black Widow          | 1458.5 |
-| 137  | Zero Dark Thirty     | 1457.6 |
-| 138  | Top Gun: Maverick    | 1457.5 |
-| 139  | The Silence          | 1456.9 |
-| 140  | Cars 3               | 1456.1 |
-| 141  | Journey 2: The Mysterious Island | 1454.8 |
-| 142  | John Wick            | 1454.2 |
-| 143  | The Mist             | 1453.7 |
-| 144  | The Firm             | 1453.0 |
-| 145  | Frequency            | 1451.7 |
+| 117  | Red Notice           | 1473.5 |
+| 118  | The Mask             | 1472.9 |
+| 119  | The Matrix Reloaded  | 1472.2 |
+| 120  | Rango                | 1471.8 |
+| 121  | The Mask of Zorro    | 1471.6 |
+| 122  | Red Eye              | 1471.2 |
+| 123  | The BFG              | 1469.7 |
+| 124  | Selfless             | 1469.3 |
+| 125  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 126  | Heidi                | 1468.7 |
+| 127  | Avatar: The Last Airbender | 1468.7 |
+| 128  | Iron Chef            | 1468.7 |
+| 129  | Unbreakable          | 1468.5 |
+| 130  | Top Gun              | 1468.2 |
+| 131  | Mission Impossible 1 | 1468.0 |
+| 132  | Rampage              | 1462.0 |
+| 133  | Road House           | 1461.3 |
+| 134  | Drunken Master       | 1459.7 |
+| 135  | Zero Dark Thirty     | 1457.6 |
+| 136  | Top Gun: Maverick    | 1457.5 |
+| 137  | The Silence          | 1456.9 |
+| 138  | Cars 3               | 1456.1 |
+| 139  | Journey 2: The Mysterious Island | 1454.8 |
+| 140  | John Wick            | 1454.2 |
+| 141  | The Mist             | 1453.7 |
+| 142  | The Firm             | 1453.0 |
+| 143  | Frequency            | 1451.7 |
+| 144  | A.I. Artificial Intelligence | 1450.8 |
+| 145  | Black Widow          | 1448.4 |
 | 146  | War Horse            | 1446.0 |
 | 147  | Exam                 | 1444.1 |
 | 148  | Johnny English       | 1443.3 |
