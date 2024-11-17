@@ -40,8 +40,8 @@ python3 mvr.py
 | 30   | Halo                 | 1563.1 |
 | 31   | Squid Game           | 1560.7 |
 | 32   | The Illusionist      | 1559.2 |
-| 33   | Scream VI            | 1558.1 |
-| 34   | The Maze Runner: The Death Cure | 1557.0 |
+| 33   | The Maze Runner: The Death Cure | 1557.0 |
+| 34   | Scream VI            | 1554.1 |
 | 35   | The Avengers         | 1553.0 |
 | 36   | Rebel Ridge          | 1551.9 |
 | 37   | Avengers: Endgame    | 1547.4 |
@@ -112,14 +112,14 @@ python3 mvr.py
 | 102  | Rampage              | 1478.0 |
 | 103  | When a Stranger Calls | 1477.8 |
 | 104  | The Mist             | 1475.6 |
-| 105  | Red Notice           | 1474.4 |
-| 106  | World War Z          | 1472.5 |
-| 107  | Saving Private Ryan  | 1472.5 |
-| 108  | The Matrix Reloaded  | 1472.2 |
-| 109  | Onward               | 1472.1 |
-| 110  | Knight and Day       | 1471.6 |
-| 111  | Red Eye              | 1471.5 |
-| 112  | The Matrix Revolutions | 1471.5 |
+| 105  | The Matrix Revolutions | 1475.4 |
+| 106  | Red Notice           | 1474.4 |
+| 107  | World War Z          | 1472.5 |
+| 108  | Saving Private Ryan  | 1472.5 |
+| 109  | The Matrix Reloaded  | 1472.2 |
+| 110  | Onward               | 1472.1 |
+| 111  | Knight and Day       | 1471.6 |
+| 112  | Red Eye              | 1471.5 |
 | 113  | The Mask             | 1471.5 |
 | 114  | Jack Reacher: Never Go Back | 1470.7 |
 | 115  | Land of Bad          | 1469.5 |
