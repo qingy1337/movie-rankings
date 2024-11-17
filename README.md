@@ -82,7 +82,7 @@ python3 mvr.py
 | $\color{green}\text{72  }$ | $\color{green}\text{Glass Castle}$ | $\color{green}\text{1511.9}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1511.6}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
-| $\color{green}\text{75  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1511.3}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1511.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
@@ -127,11 +127,11 @@ python3 mvr.py
 | $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1474.3}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
-| $\color{green}\text{122 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1473.4}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
+| $\color{green}\text{121 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1473.4}$ |
+| $\color{green}\text{122 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1472.8}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
-| $\color{red}\text{124 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1466.6}$ |
+| $\color{red}\text{124 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1468.1}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
