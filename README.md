@@ -54,8 +54,8 @@ python3 mvr.py
 | 44   | Rebel Ridge          | 1551.9 |
 | 45   | The Day After Tomorrow | 1549.3 |
 | 46   | Loki                 | 1547.8 |
-| 47   | Train to Busan       | 1546.0 |
-| 48   | The Hunger Games     | 1545.4 |
+| 47   | The Hunger Games     | 1545.4 |
+| 48   | Train to Busan       | 1542.2 |
 | 49   | Avengers: Infinity War | 1542.0 |
 | 50   | Catch Me If You Can  | 1541.9 |
 | 51   | Mission Impossible 3 | 1541.8 |
@@ -108,26 +108,26 @@ python3 mvr.py
 | 98   | The Curious Case of Benjamin Button | 1481.1 |
 | 99   | Skyfall              | 1480.3 |
 | 100  | Mission Impossible 2 | 1479.6 |
-| 101  | Rampage              | 1478.0 |
-| 102  | When a Stranger Calls | 1477.8 |
-| 103  | The Mist             | 1475.6 |
-| 104  | The Matrix Revolutions | 1475.4 |
-| 105  | Saving Private Ryan  | 1472.5 |
-| 106  | Onward               | 1472.1 |
-| 107  | Knight and Day       | 1471.6 |
-| 108  | Red Eye              | 1471.5 |
-| 109  | The Mask             | 1471.5 |
-| 110  | Jack Reacher: Never Go Back | 1470.7 |
-| 111  | Land of Bad          | 1469.5 |
-| 112  | The Ring             | 1469.2 |
-| 113  | Heidi                | 1468.7 |
-| 114  | Mission Impossible 1 | 1467.9 |
-| 115  | Iron Chef            | 1465.8 |
-| 116  | Ninja Turtles        | 1465.0 |
-| 117  | The Ring 2           | 1463.3 |
-| 118  | GoldenEye            | 1463.3 |
-| 119  | Johnny English       | 1461.2 |
-| 120  | World War Z          | 1461.0 |
+| 101  | Ninja Turtles        | 1479.1 |
+| 102  | Rampage              | 1478.0 |
+| 103  | When a Stranger Calls | 1477.8 |
+| 104  | The Mist             | 1475.6 |
+| 105  | The Matrix Revolutions | 1475.4 |
+| 106  | Saving Private Ryan  | 1472.5 |
+| 107  | Onward               | 1472.1 |
+| 108  | Knight and Day       | 1471.6 |
+| 109  | Red Eye              | 1471.5 |
+| 110  | The Mask             | 1471.5 |
+| 111  | Jack Reacher: Never Go Back | 1470.7 |
+| 112  | Land of Bad          | 1469.5 |
+| 113  | The Ring             | 1469.2 |
+| 114  | Heidi                | 1468.7 |
+| 115  | Mission Impossible 1 | 1467.9 |
+| 116  | Iron Chef            | 1465.8 |
+| 117  | World War Z          | 1464.8 |
+| 118  | The Ring 2           | 1463.3 |
+| 119  | GoldenEye            | 1463.3 |
+| 120  | Johnny English       | 1461.2 |
 | 121  | Sweet Tooth          | 1460.3 |
 | 122  | Exam                 | 1460.3 |
 | 123  | The Mask of Zorro    | 1459.8 |
@@ -155,15 +155,15 @@ python3 mvr.py
 | 145  | The Matrix Reloaded  | 1438.3 |
 | 146  | The Last Samurai     | 1431.2 |
 | 147  | Zero Dark Thirty     | 1431.0 |
-| 148  | Stillwater           | 1424.4 |
-| 149  | 65                   | 1422.2 |
-| 150  | The BFG              | 1419.9 |
-| 151  | The Firm             | 1418.1 |
-| 152  | A.I. Artificial Intelligence | 1416.5 |
-| 153  | The Darkest Hour     | 1412.9 |
-| 154  | Selfless             | 1412.1 |
-| 155  | American Made        | 1410.9 |
-| 156  | Arrow                | 1410.6 |
+| 148  | 65                   | 1422.2 |
+| 149  | The BFG              | 1419.9 |
+| 150  | The Firm             | 1418.1 |
+| 151  | A.I. Artificial Intelligence | 1416.5 |
+| 152  | The Darkest Hour     | 1412.9 |
+| 153  | Selfless             | 1412.1 |
+| 154  | American Made        | 1410.9 |
+| 155  | Arrow                | 1410.6 |
+| 156  | Stillwater           | 1410.3 |
 | 157  | Awake                | 1409.8 |
 | 158  | AK-47 Kalashnikov    | 1409.5 |
 | 159  | Jurassic World: Dominion | 1403.0 |
