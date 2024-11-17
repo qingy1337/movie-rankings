@@ -43,7 +43,7 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{green}\text{36  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1548.9}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1548.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
 | $\color{green}\text{38  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1548.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
@@ -57,7 +57,7 @@ python3 mvr.py
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1535.1}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
-| $\color{red}\text{50  }$ | $\color{red}\text{Scream VI}$ | $\color{red}\text{1530.8}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1530.8}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{green}\text{52  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1530.1}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
@@ -144,25 +144,25 @@ python3 mvr.py
 | $\color{green}\text{134 }$ | $\color{green}\text{Red Eye}$ | $\color{green}\text{1452.9}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1447.3}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1447.0}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1444.2}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1444.0}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1447.3}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1447.0}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1444.2}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1444.0}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
+| $\color{red}\text{146 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1442.7}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1442.7}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1433.9}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1431.1}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
+| $\color{green}\text{153 }$ | $\color{green}\text{Crouching Tiger Hidden Dragon}$ | $\color{green}\text{1436.6}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1433.9}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1431.1}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
