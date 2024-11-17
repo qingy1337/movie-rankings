@@ -56,7 +56,7 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.7}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1535.1}$ |
-| $\color{green}\text{49  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1534.0}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
@@ -101,9 +101,9 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.9}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1490.7}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
+| $\color{green}\text{94  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1492.9}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1490.7}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
@@ -143,13 +143,13 @@ python3 mvr.py
 | $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.5}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1452.4}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1447.3}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1447.3}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1447.0}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1444.2}$ |
@@ -170,7 +170,7 @@ python3 mvr.py
 | $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
-| $\color{red}\text{163 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1421.5}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
