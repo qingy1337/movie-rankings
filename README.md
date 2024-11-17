@@ -8,20 +8,20 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1561.4}$ |
+| $\color{red}\text{1   }$ | $\color{red}\text{Harry Potter}$ | $\color{red}\text{1561.3}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1551.1}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1550.9}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1547.7}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1547.6}$ |
+| $\color{green}\text{7   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1547.7}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1547.7}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1547.1}$ |
 | $\color{green}\text{10  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1547.1}$ |
-| $\color{green}\text{11  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1545.0}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1544.4}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1544.0}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1543.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1542.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1540.4}$ |
@@ -92,22 +92,22 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1503.1}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1502.8}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1501.2}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.4}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1500.3}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1500.1}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.7}$ |
+| $\color{green}\text{85  }$ | $\color{green}\text{Glass Castle}$ | $\color{green}\text{1502.7}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1501.2}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.4}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1500.3}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1500.1}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1496.9}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1496.5}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1496.1}$ |
-| $\color{red}\text{97  }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1494.1}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1492.8}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1496.1}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1492.8}$ |
+| $\color{red}\text{100 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1492.5}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1491.7}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
