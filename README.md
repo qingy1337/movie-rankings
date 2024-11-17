@@ -35,13 +35,13 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1609.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1604.6}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1603.0}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1601.2}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1597.9}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1597.5}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1596.4}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1595.3}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1589.7}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1587.6}$ |
+| $\color{green}\text{28  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1602.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1601.2}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1597.9}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1597.5}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1596.4}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1595.3}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1589.7}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1583.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.1}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1580.2}$ |
@@ -60,13 +60,13 @@ python3 mvr.py
 | $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1554.6}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1554.0}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1553.1}$ |
-| $\color{green}\text{55  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1551.3}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1547.0}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1545.7}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1540.1}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1553.1}$ |
+| $\color{green}\text{54  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1551.3}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1545.7}$ |
+| $\color{green}\text{56  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1543.8}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1540.1}$ |
+| $\color{red}\text{59  }$ | $\color{red}\text{Beut Mind}$ | $\color{red}\text{1539.6}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1537.6}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1535.3}$ |
@@ -74,12 +74,12 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1534.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1531.5}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1529.8}$ |
-| $\color{green}\text{68  }$ | $\color{green}\text{Frequency}$ | $\color{green}\text{1527.7}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.0}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1526.9}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1526.8}$ |
-| $\color{green}\text{72  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1526.7}$ |
+| $\color{red}\text{67  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1530.1}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1529.8}$ |
+| $\color{green}\text{69  }$ | $\color{green}\text{Frequency}$ | $\color{green}\text{1527.7}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.0}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1526.9}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.7}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.9}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1523.8}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1523.6}$ |
@@ -88,7 +88,7 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1520.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1518.3}$ |
 | $\color{red}\text{80  }$ | $\color{red}\text{Road House}$ | $\color{red}\text{1515.5}$ |
-| $\color{green}\text{81  }$ | $\color{green}\text{Zootopia}$ | $\color{green}\text{1514.9}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1514.9}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1514.0}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.2}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1508.0}$ |
@@ -152,10 +152,10 @@ python3 mvr.py
 | $\color{red}\text{142 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1410.1}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1409.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1407.0}$ |
-| $\color{red}\text{145 }$ | $\color{red}\text{American Made}$ | $\color{red}\text{1402.3}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1395.5}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1394.4}$ |
-| $\color{red}\text{148 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1393.5}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1393.5}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1384.9}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1383.3}$ |
