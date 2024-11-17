@@ -24,7 +24,7 @@ python3 mvr.py
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1577.7}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1576.4}$ |
-| $\color{green}\text{17  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1573.4}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1573.4}$ |
 | $\color{red}\text{18  }$ | $\color{red}\text{X-Files}$ | $\color{red}\text{1571.7}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1570.7}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
@@ -72,7 +72,7 @@ python3 mvr.py
 | $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
-| $\color{red}\text{65  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1518.9}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.2}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.2}$ |
@@ -86,10 +86,10 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{red}\text{80  }$ | $\color{red}\text{Soul}$ | $\color{red}\text{1505.3}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
-| $\color{red}\text{82  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1501.6}$ |
+| $\color{green}\text{79  }$ | $\color{green}\text{The Spy Next Door}$ | $\color{green}\text{1507.0}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{red}\text{81  }$ | $\color{red}\text{Soul}$ | $\color{red}\text{1505.3}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
@@ -128,14 +128,14 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1466.1}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1464.0}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1462.1}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1464.0}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1462.1}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
+| $\color{red}\text{128 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1460.7}$ |
 | $\color{red}\text{129 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1459.2}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
