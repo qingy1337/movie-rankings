@@ -28,7 +28,7 @@ python3 mvr.py
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1570.2}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.0}$ |
-| $\color{red}\text{21  }$ | $\color{red}\text{No Country for Old Men}$ | $\color{red}\text{1562.7}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1562.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
@@ -42,7 +42,7 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1549.9}$ |
-| $\color{green}\text{35  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1549.1}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1549.1}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
@@ -69,11 +69,11 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1521.7}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1520.4}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
+| $\color{green}\text{62  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1521.4}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1520.4}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{green}\text{67  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1516.2}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
 | $\color{green}\text{69  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1515.5}$ |
@@ -160,8 +160,8 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1435.8}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1433.9}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1433.9}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1431.1}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1428.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1428.1}$ |
