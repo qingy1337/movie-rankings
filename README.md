@@ -107,13 +107,13 @@ python3 mvr.py
 | $\color{black}\text{97  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1489.5}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.2}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
-| $\color{red}\text{106 }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1483.5}$ |
+| $\color{green}\text{100 }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1489.0}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.2}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
@@ -131,7 +131,7 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.1}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
-| $\color{green}\text{124 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1467.9}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1467.9}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
@@ -144,15 +144,15 @@ python3 mvr.py
 | $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1456.7}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1451.1}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1439.3}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1437.0}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1437.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1437.0}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
