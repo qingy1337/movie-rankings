@@ -32,13 +32,13 @@ python3 mvr.py
 | 22   | Locke and Key        | 1569.6 |
 | 23   | Source Code          | 1568.2 |
 | 24   | The Ninth Gate       | 1567.9 |
-| 25   | Inception            | 1566.5 |
-| 26   | X-Files              | 1565.9 |
-| 27   | Avengers: Age of Ultron | 1564.9 |
-| 28   | Halo                 | 1563.1 |
-| 29   | Squid Game           | 1560.7 |
-| 30   | The Illusionist      | 1559.2 |
-| 31   | Titanic              | 1558.4 |
+| 25   | Titanic              | 1567.2 |
+| 26   | Inception            | 1566.5 |
+| 27   | X-Files              | 1565.9 |
+| 28   | Avengers: Age of Ultron | 1564.9 |
+| 29   | Halo                 | 1563.1 |
+| 30   | Squid Game           | 1560.7 |
+| 31   | The Illusionist      | 1559.2 |
 | 32   | Scream VI            | 1558.1 |
 | 33   | The Maze Runner: The Death Cure | 1557.0 |
 | 34   | Doctor Strange       | 1555.5 |
@@ -121,19 +121,19 @@ python3 mvr.py
 | 111  | The Matrix Reloaded  | 1472.2 |
 | 112  | Onward               | 1472.1 |
 | 113  | Knight and Day       | 1471.6 |
-| 114  | The Mask             | 1471.5 |
-| 115  | Land of Bad          | 1469.5 |
-| 116  | Heidi                | 1468.7 |
-| 117  | Iron Chef            | 1465.8 |
-| 118  | The Spy Next Door    | 1465.6 |
-| 119  | Ninja Turtles        | 1465.0 |
-| 120  | Black Widow          | 1463.1 |
-| 121  | School of Rock       | 1462.5 |
-| 122  | Exam                 | 1460.9 |
-| 123  | The Mask of Zorro    | 1459.8 |
-| 124  | Drunken Master       | 1459.7 |
-| 125  | Mission Impossible 2 | 1459.6 |
-| 126  | The Matrix Revolutions | 1459.0 |
+| 114  | The Matrix Revolutions | 1471.5 |
+| 115  | The Mask             | 1471.5 |
+| 116  | Land of Bad          | 1469.5 |
+| 117  | Heidi                | 1468.7 |
+| 118  | Iron Chef            | 1465.8 |
+| 119  | The Spy Next Door    | 1465.6 |
+| 120  | Ninja Turtles        | 1465.0 |
+| 121  | Black Widow          | 1463.1 |
+| 122  | School of Rock       | 1462.5 |
+| 123  | Exam                 | 1460.9 |
+| 124  | The Mask of Zorro    | 1459.8 |
+| 125  | Drunken Master       | 1459.7 |
+| 126  | Mission Impossible 2 | 1459.6 |
 | 127  | Skyfall              | 1457.9 |
 | 128  | Road House           | 1457.7 |
 | 129  | Mission Impossible 1 | 1457.0 |
@@ -174,7 +174,7 @@ python3 mvr.py
 | 164  | A Quiet Place: Day One | 1400.6 |
 | 165  | Spooky Buddies       | 1398.3 |
 | 166  | The Battle at Lake Changjin | 1393.3 |
-| 167  | Shadow               | 1389.5 |
-| 168  | Black Hawk Down      | 1385.4 |
-| 169  | Everything, everywhere, all at once | 1384.7 |
-| 170  | Spectral             | 1381.7 |
+| 167  | Black Hawk Down      | 1385.4 |
+| 168  | Everything, everywhere, all at once | 1384.7 |
+| 169  | Shadow               | 1380.7 |
+| 170  | Spectral             | 1369.2 |
