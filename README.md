@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | The Martian          | 1596.0 |
+| 1    | The Martian          | 1592.5 |
 | 2    | Captain America: Civil War | 1561.6 |
 | 3    | Ant-Man              | 1560.5 |
 | 4    | The Maze Runner: The Death Cure | 1558.3 |
@@ -49,9 +49,9 @@ python3 mvr.py
 | 39   | Replicas             | 1528.5 |
 | 40   | No Country for Old Men | 1525.4 |
 | 41   | Train to Busan       | 1524.9 |
-| 42   | Scream VI            | 1518.8 |
-| 43   | Tenet                | 1518.7 |
-| 44   | The Wild Robot       | 1518.0 |
+| 42   | The Wild Robot       | 1521.5 |
+| 43   | Scream VI            | 1518.8 |
+| 44   | Tenet                | 1518.7 |
 | 45   | John Wick            | 1517.4 |
 | 46   | Ip Man               | 1517.0 |
 | 47   | The Day After Tomorrow | 1516.7 |
