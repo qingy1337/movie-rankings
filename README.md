@@ -75,13 +75,13 @@ python3 mvr.py
 | $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1523.3}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1523.0}$ |
-| $\color{green}\text{68  }$ | $\color{green}\text{A Haunting in Venice}$ | $\color{green}\text{1520.3}$ |
-| $\color{red}\text{69  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1518.8}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1518.6}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.4}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1518.8}$ |
+| $\color{green}\text{70  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1518.7}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1518.6}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.4}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.9}$ |
@@ -106,12 +106,12 @@ python3 mvr.py
 | $\color{red}\text{96  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1486.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1483.4}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1477.2}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1477.2}$ |
+| $\color{red}\text{104 }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1476.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1475.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
