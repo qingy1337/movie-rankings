@@ -62,10 +62,10 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.6}$ |
 | $\color{green}\text{53  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1534.5}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1527.1}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1526.8}$ |
+| $\color{green}\text{55  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1531.2}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1527.1}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1525.7}$ |
@@ -80,7 +80,7 @@ python3 mvr.py
 | $\color{black}\text{70  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1513.7}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
-| $\color{red}\text{73  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1511.0}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.1}$ |
@@ -131,7 +131,7 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
-| $\color{green}\text{124 }$ | $\color{green}\text{Cars 3}$ | $\color{green}\text{1461.8}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{red}\text{126 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1460.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1459.7}$ |
@@ -158,10 +158,10 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1433.9}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1426.9}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
