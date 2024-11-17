@@ -22,11 +22,11 @@ python3 mvr.py
 | $\color{black}\text{12  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1546.1}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1544.0}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1543.5}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1543.3}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1542.8}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1540.5}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1540.3}$ |
+| $\color{green}\text{15  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1543.8}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1543.5}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1543.3}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1542.8}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1540.5}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1540.2}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1540.2}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1538.1}$ |
@@ -107,10 +107,10 @@ python3 mvr.py
 | $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
 | $\color{red}\text{99  }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1493.2}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1492.8}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1489.4}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1489.3}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
@@ -141,7 +141,7 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1474.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1474.6}$ |
 | $\color{green}\text{133 }$ | $\color{green}\text{The Mask of Zorro}$ | $\color{green}\text{1474.5}$ |
-| $\color{green}\text{134 }$ | $\color{green}\text{The Matrix Reloaded}$ | $\color{green}\text{1474.2}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1474.1}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1474.1}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.9}$ |
@@ -160,7 +160,7 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{65}$ | $\color{black}\text{1460.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1460.0}$ |
-| $\color{red}\text{153 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1459.0}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1459.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1458.6}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1456.1}$ |
