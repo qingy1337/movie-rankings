@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1610.9}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1610.9}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.7}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
@@ -58,19 +58,19 @@ python3 mvr.py
 | $\color{green}\text{48  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1530.5}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1529.3}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1524.9}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1521.4}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1521.2}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
+| $\color{green}\text{51  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1525.9}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1524.9}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1521.4}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1521.2}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1520.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
-| $\color{red}\text{63  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1518.5}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1518.3}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
@@ -104,8 +104,8 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1493.3}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
+| $\color{red}\text{98  }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1487.7}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
