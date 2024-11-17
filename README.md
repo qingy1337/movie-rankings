@@ -49,26 +49,26 @@ python3 mvr.py
 | 39   | The Tomorrow War     | 1529.0 |
 | 40   | Lord of the Rings    | 1528.6 |
 | 41   | Replicas             | 1528.5 |
-| 42   | No Country for Old Men | 1525.4 |
-| 43   | Train to Busan       | 1524.9 |
-| 44   | The Wild Robot       | 1521.5 |
-| 45   | Scream VI            | 1518.8 |
-| 46   | Tenet                | 1518.7 |
-| 47   | John Wick            | 1517.4 |
-| 48   | Ip Man               | 1517.0 |
-| 49   | Avatar               | 1516.7 |
-| 50   | The Day After Tomorrow | 1516.7 |
-| 51   | Knight and Day       | 1516.7 |
-| 52   | Iron Man             | 1516.5 |
-| 53   | The Hunger Games     | 1516.2 |
-| 54   | Scream V             | 1516.0 |
-| 55   | Saving Private Ryan  | 1516.0 |
-| 56   | A Haunting in Venice | 1516.0 |
-| 57   | Thor                 | 1516.0 |
-| 58   | Soul                 | 1516.0 |
-| 59   | The Mandalorian      | 1516.0 |
-| 60   | Doctor Strange       | 1516.0 |
-| 61   | Mission Impossible 3 | 1515.3 |
+| 42   | The Avengers         | 1528.0 |
+| 43   | No Country for Old Men | 1525.4 |
+| 44   | Train to Busan       | 1524.9 |
+| 45   | The Wild Robot       | 1521.5 |
+| 46   | Scream VI            | 1518.8 |
+| 47   | Tenet                | 1518.7 |
+| 48   | John Wick            | 1517.4 |
+| 49   | Ip Man               | 1517.0 |
+| 50   | Avatar               | 1516.7 |
+| 51   | The Day After Tomorrow | 1516.7 |
+| 52   | Knight and Day       | 1516.7 |
+| 53   | Iron Man             | 1516.5 |
+| 54   | The Hunger Games     | 1516.2 |
+| 55   | Scream V             | 1516.0 |
+| 56   | Saving Private Ryan  | 1516.0 |
+| 57   | A Haunting in Venice | 1516.0 |
+| 58   | Thor                 | 1516.0 |
+| 59   | Soul                 | 1516.0 |
+| 60   | The Mandalorian      | 1516.0 |
+| 61   | Doctor Strange       | 1516.0 |
 | 62   | Life of Pi           | 1515.3 |
 | 63   | Mission Impossible: Fallout | 1515.3 |
 | 64   | The Ring             | 1515.3 |
@@ -81,27 +81,27 @@ python3 mvr.py
 | 71   | The Ninth Gate       | 1513.2 |
 | 72   | The Prestige         | 1512.5 |
 | 73   | Pompeii              | 1512.1 |
-| 74   | The Avengers         | 1511.8 |
-| 75   | The Last Samurai     | 1510.5 |
-| 76   | Top Gun              | 1503.4 |
-| 77   | School of Rock       | 1502.7 |
-| 78   | The Maze Runner      | 1501.7 |
-| 79   | The Terminal List    | 1501.5 |
-| 80   | Black Widow          | 1500.8 |
-| 81   | Avatar 2             | 1500.7 |
-| 82   | Ninja Turtles        | 1500.7 |
-| 83   | My Name              | 1500.1 |
-| 84   | Selfless             | 1500.0 |
-| 85   | Wrath of Man         | 1500.0 |
-| 86   | Jack Reacher: Never Go Back | 1500.0 |
-| 87   | Glass Castle         | 1500.0 |
-| 88   | Life                 | 1500.0 |
-| 89   | Star Wars            | 1500.0 |
-| 90   | Guy Ritchie’s The Covenant | 1500.0 |
-| 91   | Interstellar         | 1499.9 |
-| 92   | Oppenheimer          | 1499.4 |
-| 93   | Independence Day     | 1499.3 |
-| 94   | Terminator           | 1499.3 |
+| 74   | The Last Samurai     | 1510.5 |
+| 75   | Top Gun              | 1503.4 |
+| 76   | School of Rock       | 1502.7 |
+| 77   | The Maze Runner      | 1501.7 |
+| 78   | The Terminal List    | 1501.5 |
+| 79   | Black Widow          | 1500.8 |
+| 80   | Avatar 2             | 1500.7 |
+| 81   | Ninja Turtles        | 1500.7 |
+| 82   | My Name              | 1500.1 |
+| 83   | Selfless             | 1500.0 |
+| 84   | Wrath of Man         | 1500.0 |
+| 85   | Jack Reacher: Never Go Back | 1500.0 |
+| 86   | Glass Castle         | 1500.0 |
+| 87   | Life                 | 1500.0 |
+| 88   | Star Wars            | 1500.0 |
+| 89   | Guy Ritchie’s The Covenant | 1500.0 |
+| 90   | Interstellar         | 1499.9 |
+| 91   | Oppenheimer          | 1499.4 |
+| 92   | Independence Day     | 1499.3 |
+| 93   | Terminator           | 1499.3 |
+| 94   | Mission Impossible 3 | 1499.2 |
 | 95   | The Curious Case of Benjamin Button | 1498.7 |
 | 96   | Rebel Ridge          | 1498.6 |
 | 97   | The Ring 2           | 1498.6 |
@@ -136,8 +136,8 @@ python3 mvr.py
 | 126  | All Quiet on The Western Front | 1482.6 |
 | 127  | American Made        | 1481.9 |
 | 128  | Mission Impossible: Rogue Nation | 1476.2 |
-| 129  | Total Recall         | 1474.1 |
-| 130  | Mission Impossible 2 | 1473.6 |
+| 129  | Mission Impossible 2 | 1473.6 |
+| 130  | Road House           | 1473.1 |
 | 131  | Drunken Master       | 1472.4 |
 | 132  | The Matrix Reloaded  | 1472.2 |
 | 133  | A Boy Called Christmas | 1470.8 |
@@ -163,8 +163,8 @@ python3 mvr.py
 | 153  | The Silence          | 1467.4 |
 | 154  | Red Eye              | 1466.0 |
 | 155  | Zero Dark Thirty     | 1457.6 |
-| 156  | Black Hawk Down      | 1456.9 |
-| 157  | Road House           | 1456.3 |
+| 156  | Total Recall         | 1457.3 |
+| 157  | Black Hawk Down      | 1456.9 |
 | 158  | Cars 3               | 1456.1 |
 | 159  | Awake                | 1455.6 |
 | 160  | Jurassic World: Dominion | 1455.5 |
