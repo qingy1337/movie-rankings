@@ -28,10 +28,10 @@ python3 mvr.py
 | $\color{black}\text{18  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1586.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1577.3}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1576.6}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1574.8}$ |
-| $\color{red}\text{24  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1574.5}$ |
+| $\color{green}\text{21  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1578.8}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1577.3}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1576.6}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1574.1}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1571.9}$ |
@@ -116,9 +116,9 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
 | $\color{red}\text{107 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1475.8}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
+| $\color{red}\text{111 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1468.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
@@ -126,7 +126,7 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{green}\text{119 }$ | $\color{green}\text{The Man in the Iron Mask}$ | $\color{green}\text{1461.3}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1461.3}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1460.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
@@ -178,5 +178,5 @@ python3 mvr.py
 | $\color{black}\text{168 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1394.8}$ |
-| $\color{red}\text{171 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1394.5}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
