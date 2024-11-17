@@ -17,10 +17,10 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.1}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1573.3}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1573.1}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1569.1}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1565.3}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1570.3}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1569.1}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1563.2}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
@@ -33,7 +33,7 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
 | $\color{green}\text{25  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1552.2}$ |
-| $\color{green}\text{26  }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1550.9}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1550.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1550.0}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
@@ -86,13 +86,13 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1510.8}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1506.0}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1505.9}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1505.9}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1505.8}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
+| $\color{red}\text{85  }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1501.0}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.8}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1500.1}$ |
@@ -140,7 +140,7 @@ python3 mvr.py
 | $\color{black}\text{130 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
 | $\color{red}\text{132 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1462.1}$ |
-| $\color{red}\text{133 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1461.7}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
 | $\color{red}\text{134 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1459.3}$ |
 | $\color{red}\text{135 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1459.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
