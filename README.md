@@ -156,8 +156,8 @@ python3 mvr.py
 | $\color{black}\text{146 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1433.9}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.7}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
+| $\color{red}\text{150 }$ | $\color{red}\text{All Quiet on The Western Front}$ | $\color{red}\text{1432.1}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
@@ -166,9 +166,9 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.9}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1419.5}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1419.5}$ |
 | $\color{red}\text{160 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1416.9}$ |
-| $\color{green}\text{161 }$ | $\color{green}\text{65}$ | $\color{green}\text{1415.9}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
 | $\color{red}\text{164 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1412.1}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1401.1}$ |
-| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1394.0}$ |
+| $\color{green}\text{172 }$ | $\color{green}\text{The Firm}$ | $\color{green}\text{1394.7}$ |
