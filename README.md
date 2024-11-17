@@ -53,7 +53,7 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1542.6}$ |
-| $\color{green}\text{46  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1541.2}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
@@ -79,8 +79,8 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1515.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1513.7}$ |
 | $\color{red}\text{71  }$ | $\color{red}\text{The Tomorrow War}$ | $\color{red}\text{1512.7}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1511.9}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
+| $\color{red}\text{73  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1511.0}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.1}$ |
@@ -131,7 +131,7 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.0}$ |
+| $\color{green}\text{124 }$ | $\color{green}\text{Cars 3}$ | $\color{green}\text{1461.8}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1459.7}$ |
@@ -165,7 +165,7 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
-| $\color{red}\text{158 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1418.8}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1416.9}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{red}\text{161 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1415.3}$ |
