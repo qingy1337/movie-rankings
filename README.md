@@ -169,12 +169,12 @@ python3 mvr.py
 | 159  | American Sniper      | 1468.8 |
 | 160  | Star Trek: Picard    | 1468.7 |
 | 161  | The Mask             | 1468.7 |
-| 162  | "Everything, everywhere, all at once" | 1468.7 |
-| 163  | Rampage              | 1468.7 |
-| 164  | War Horse            | 1468.7 |
-| 165  | Mission Impossible: Rogue Nation | 1468.7 |
+| 162  | Rampage              | 1468.7 |
+| 163  | War Horse            | 1468.7 |
+| 164  | Mission Impossible: Rogue Nation | 1468.7 |
+| 165  | "Everything, everywhere, all at once" | 1468.1 |
 | 166  | Darkest Hour         | 1468.0 |
 | 167  | Spectral             | 1455.5 |
 | 168  | Gravity              | 1454.9 |
 | 169  | Mission Impossible 2 | 1454.9 |
-| 170  | AK-47 Kalashnikov    | 1454.1 |
+| 170  | AK-47 Kalashnikov    | 1454.8 |
