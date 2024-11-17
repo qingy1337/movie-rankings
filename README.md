@@ -16,7 +16,7 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1583.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{green}\text{9   }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1581.3}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1579.1}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1578.1}$ |
@@ -55,11 +55,11 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.7}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1535.1}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1533.2}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1529.7}$ |
+| $\color{green}\text{48  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1534.0}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1533.2}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
@@ -92,7 +92,7 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
 | $\color{green}\text{83  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1500.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
-| $\color{red}\text{85  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1499.9}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
 | $\color{red}\text{88  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1498.1}$ |
@@ -167,10 +167,10 @@ python3 mvr.py
 | $\color{black}\text{157 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{65}$ | $\color{black}\text{1427.2}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
-| $\color{red}\text{163 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1423.1}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
+| $\color{red}\text{162 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1423.1}$ |
+| $\color{red}\text{163 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1421.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1419.4}$ |
