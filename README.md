@@ -10,11 +10,11 @@ python3 mvr.py
 |------|------------------------|--------|
 | 1    | The Martian          | 1624.7 |
 | 2    | Lost in Space        | 1606.5 |
-| 3    | Star Wars            | 1594.9 |
-| 4    | Life of Pi           | 1593.8 |
-| 5    | Thirteen Lives       | 1592.6 |
-| 6    | Ant-Man              | 1592.2 |
-| 7    | Passengers           | 1591.5 |
+| 3    | Passengers           | 1606.4 |
+| 4    | Star Wars            | 1594.9 |
+| 5    | Life of Pi           | 1593.8 |
+| 6    | Thirteen Lives       | 1592.6 |
+| 7    | Ant-Man              | 1592.2 |
 | 8    | Wednesday            | 1590.2 |
 | 9    | Sneaky Pete          | 1585.6 |
 | 10   | No Country for Old Men | 1585.5 |
@@ -32,15 +32,15 @@ python3 mvr.py
 | 22   | Locke and Key        | 1569.6 |
 | 23   | Halo                 | 1569.4 |
 | 24   | Source Code          | 1568.2 |
-| 25   | The Maze Runner: The Scorch Trials | 1567.0 |
-| 26   | X-Files              | 1565.9 |
-| 27   | Avengers: Age of Ultron | 1564.9 |
-| 28   | Squid Game           | 1560.7 |
-| 29   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
-| 30   | Titanic              | 1558.4 |
-| 31   | Scream VI            | 1558.1 |
-| 32   | The Ninth Gate       | 1555.6 |
-| 33   | Doctor Strange       | 1555.5 |
+| 25   | X-Files              | 1565.9 |
+| 26   | Avengers: Age of Ultron | 1564.9 |
+| 27   | Squid Game           | 1560.7 |
+| 28   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
+| 29   | Titanic              | 1558.4 |
+| 30   | Scream VI            | 1558.1 |
+| 31   | The Ninth Gate       | 1555.6 |
+| 32   | Doctor Strange       | 1555.5 |
+| 33   | The Maze Runner: The Scorch Trials | 1552.1 |
 | 34   | Inception            | 1548.9 |
 | 35   | My Name              | 1548.0 |
 | 36   | The Wild Robot       | 1547.0 |
@@ -83,12 +83,12 @@ python3 mvr.py
 | 73   | Guy Ritchie’s The Covenant | 1514.2 |
 | 74   | The Matrix           | 1513.9 |
 | 75   | Dark Waters          | 1511.2 |
-| 76   | Ip Man               | 1511.1 |
+| 76   | Ip Man               | 1510.8 |
 | 77   | Zootopia             | 1510.5 |
 | 78   | The Man in the Iron Mask | 1506.8 |
 | 79   | Oppenheimer          | 1505.9 |
 | 80   | Glass Castle         | 1504.7 |
-| 81   | The Ring             | 1504.0 |
+| 81   | The Ring             | 1504.3 |
 | 82   | Total Recall         | 1503.7 |
 | 83   | Thor                 | 1502.4 |
 | 84   | A Haunting in Venice | 1501.3 |
