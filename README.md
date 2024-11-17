@@ -98,21 +98,21 @@ python3 mvr.py
 | 88   | A Boy Called Christmas | 1495.6 |
 | 89   | Zootopia             | 1495.5 |
 | 90   | Oppenheimer          | 1493.8 |
-| 91   | The Man in the Iron Mask | 1492.4 |
-| 92   | Cars 2               | 1492.2 |
-| 93   | Dune                 | 1490.9 |
-| 94   | Total Recall         | 1489.5 |
-| 95   | Megan                | 1486.9 |
-| 96   | Glass Castle         | 1486.7 |
-| 97   | Bloodhounds          | 1483.5 |
-| 98   | The Curious Case of Benjamin Button | 1481.1 |
-| 99   | Skyfall              | 1480.3 |
-| 100  | Mission Impossible 2 | 1479.6 |
-| 101  | Ninja Turtles        | 1479.1 |
-| 102  | Rampage              | 1478.0 |
-| 103  | When a Stranger Calls | 1477.8 |
-| 104  | The Mist             | 1475.6 |
-| 105  | The Matrix Revolutions | 1475.4 |
+| 91   | Cars 2               | 1492.2 |
+| 92   | Dune                 | 1490.9 |
+| 93   | Total Recall         | 1489.5 |
+| 94   | Megan                | 1486.9 |
+| 95   | Glass Castle         | 1486.7 |
+| 96   | Bloodhounds          | 1483.5 |
+| 97   | The Curious Case of Benjamin Button | 1481.1 |
+| 98   | Skyfall              | 1480.3 |
+| 99   | Mission Impossible 2 | 1479.6 |
+| 100  | Ninja Turtles        | 1479.1 |
+| 101  | Rampage              | 1478.0 |
+| 102  | When a Stranger Calls | 1477.8 |
+| 103  | The Mist             | 1475.6 |
+| 104  | The Matrix Revolutions | 1475.4 |
+| 105  | The Man in the Iron Mask | 1472.8 |
 | 106  | Saving Private Ryan  | 1472.5 |
 | 107  | Onward               | 1472.1 |
 | 108  | Knight and Day       | 1471.6 |
@@ -153,13 +153,13 @@ python3 mvr.py
 | 143  | Frequency            | 1441.7 |
 | 144  | Crouching Tiger Hidden Dragon | 1438.6 |
 | 145  | The Matrix Reloaded  | 1438.3 |
-| 146  | The Last Samurai     | 1431.2 |
-| 147  | Zero Dark Thirty     | 1431.0 |
-| 148  | 65                   | 1422.2 |
-| 149  | The BFG              | 1419.9 |
-| 150  | The Firm             | 1418.1 |
-| 151  | A.I. Artificial Intelligence | 1416.5 |
-| 152  | The Darkest Hour     | 1412.9 |
+| 146  | The Darkest Hour     | 1432.5 |
+| 147  | The Last Samurai     | 1431.2 |
+| 148  | Zero Dark Thirty     | 1431.0 |
+| 149  | 65                   | 1422.2 |
+| 150  | The BFG              | 1419.9 |
+| 151  | The Firm             | 1418.1 |
+| 152  | A.I. Artificial Intelligence | 1416.5 |
 | 153  | Selfless             | 1412.1 |
 | 154  | American Made        | 1410.9 |
 | 155  | Arrow                | 1410.6 |
