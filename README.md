@@ -10,10 +10,10 @@ python3 mvr.py
 |------|------------------------|--------|
 | 1    | Wednesday            | 1647.9 |
 | 2    | Harry Potter         | 1643.9 |
-| 3    | The Martian          | 1637.9 |
-| 4    | Iron Man             | 1625.9 |
-| 5    | The Mandalorian      | 1624.2 |
-| 6    | Pirates of the Caribbean | 1619.2 |
+| 3    | Iron Man             | 1625.9 |
+| 4    | The Mandalorian      | 1624.2 |
+| 5    | Pirates of the Caribbean | 1619.2 |
+| 6    | The Martian          | 1617.4 |
 | 7    | Life of Pi           | 1616.6 |
 | 8    | Ant-Man              | 1615.5 |
 | 9    | Black Panther        | 1615.4 |
@@ -47,21 +47,21 @@ python3 mvr.py
 | 37   | Avatar 2             | 1561.3 |
 | 38   | Locke and Key        | 1560.2 |
 | 39   | The Illusionist      | 1559.2 |
-| 40   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
-| 41   | Tenet                | 1554.6 |
-| 42   | Scream VI            | 1554.1 |
-| 43   | The Matrix           | 1553.4 |
-| 44   | Train to Busan       | 1552.4 |
-| 45   | Replicas             | 1551.9 |
-| 46   | Interstellar         | 1550.8 |
-| 47   | Beut Mind            | 1550.6 |
-| 48   | The Tomorrow War     | 1548.5 |
-| 49   | Mission Impossible: Ghost Protocol | 1547.9 |
-| 50   | Scream V             | 1538.4 |
+| 40   | Scream V             | 1558.7 |
+| 41   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
+| 42   | Tenet                | 1554.6 |
+| 43   | Scream VI            | 1554.1 |
+| 44   | The Matrix           | 1553.4 |
+| 45   | Train to Busan       | 1552.4 |
+| 46   | Replicas             | 1551.9 |
+| 47   | Interstellar         | 1550.8 |
+| 48   | Beut Mind            | 1550.6 |
+| 49   | The Tomorrow War     | 1548.5 |
+| 50   | Mission Impossible: Ghost Protocol | 1547.9 |
 | 51   | The Prestige         | 1538.4 |
 | 52   | Halo                 | 1538.2 |
 | 53   | Mission Impossible: Rogue Nation | 1536.1 |
-| 54   | The Wild Robot       | 1535.6 |
+| 54   | The Wild Robot       | 1535.7 |
 | 55   | Mission Impossible: Fallout | 1534.9 |
 | 56   | Jack Ryan            | 1534.5 |
 | 57   | The Day After Tomorrow | 1533.6 |
