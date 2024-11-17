@@ -70,11 +70,11 @@ python3 mvr.py
 | $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1524.9}$ |
-| $\color{green}\text{66  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1524.9}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1524.0}$ |
+| $\color{green}\text{63  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1528.0}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1524.9}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1524.9}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
@@ -116,7 +116,7 @@ python3 mvr.py
 | $\color{red}\text{106 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1475.7}$ |
 | $\color{green}\text{107 }$ | $\color{green}\text{Onward}$ | $\color{green}\text{1473.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{red}\text{109 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1470.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1468.5}$ |
 | $\color{green}\text{112 }$ | $\color{green}\text{The Man in the Iron Mask}$ | $\color{green}\text{1466.7}$ |
@@ -168,10 +168,10 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1409.5}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
+| $\color{red}\text{164 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1400.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1400.2}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
