@@ -38,20 +38,20 @@ python3 mvr.py
 | $\color{black}\text{28  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.1}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1557.4}$ |
-| $\color{red}\text{31  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1556.6}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1556.6}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1556.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1553.0}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1552.7}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1546.6}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1544.7}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.2}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1543.8}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1541.4}$ |
+| $\color{green}\text{37  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1547.0}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1546.6}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1544.7}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.2}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1543.8}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1540.6}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.7}$ |
-| $\color{green}\text{44  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1538.5}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.5}$ |
 | $\color{green}\text{45  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1536.7}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1536.1}$ |
 | $\color{green}\text{47  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1535.8}$ |
@@ -157,13 +157,13 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1437.6}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1435.7}$ |
 | $\color{red}\text{149 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1433.1}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1432.9}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1432.9}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1431.9}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1431.4}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1431.0}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1427.7}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1427.6}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1432.9}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1431.9}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1431.4}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1431.0}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1427.7}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1427.6}$ |
+| $\color{red}\text{156 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1427.4}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1425.0}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1424.2}$ |
