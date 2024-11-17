@@ -32,13 +32,13 @@ python3 mvr.py
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{green}\text{29  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1554.4}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1551.7}$ |
+| $\color{green}\text{25  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1556.6}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
+| $\color{green}\text{30  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1554.4}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
@@ -103,18 +103,18 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
 | $\color{green}\text{95  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1490.7}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1489.4}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1484.5}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.0}$ |
-| $\color{green}\text{107 }$ | $\color{green}\text{Johnny English}$ | $\color{green}\text{1480.4}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1477.9}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
@@ -169,7 +169,7 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{65}$ | $\color{black}\text{1427.2}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
-| $\color{red}\text{162 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1423.1}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{red}\text{163 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1421.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
