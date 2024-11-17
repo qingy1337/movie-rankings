@@ -24,7 +24,7 @@ python3 mvr.py
 | $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
-| $\color{green}\text{17  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1586.3}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1586.3}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1583.3}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
@@ -42,11 +42,11 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1559.5}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
+| $\color{green}\text{35  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1560.3}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1559.5}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{red}\text{40  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1554.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1552.3}$ |
@@ -60,7 +60,7 @@ python3 mvr.py
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
 | $\color{green}\text{52  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1539.7}$ |
-| $\color{red}\text{53  }$ | $\color{red}\text{Lost in Space}$ | $\color{red}\text{1537.6}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1537.6}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
@@ -119,10 +119,10 @@ python3 mvr.py
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
-| $\color{red}\text{113 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1468.3}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
+| $\color{red}\text{112 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1468.3}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
+| $\color{red}\text{115 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1464.2}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
