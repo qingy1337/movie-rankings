@@ -52,9 +52,9 @@ python3 mvr.py
 | 42   | Locke and Key        | 1560.2 |
 | 43   | Mission Impossible: Rogue Nation | 1556.9 |
 | 44   | Tenet                | 1554.6 |
-| 45   | The Matrix           | 1553.4 |
-| 46   | Halo                 | 1552.0 |
-| 47   | Replicas             | 1551.9 |
+| 45   | Train to Busan       | 1554.1 |
+| 46   | The Matrix           | 1553.4 |
+| 47   | Halo                 | 1552.0 |
 | 48   | Interstellar         | 1550.8 |
 | 49   | Beut Mind            | 1550.6 |
 | 50   | The Tomorrow War     | 1548.5 |
@@ -64,15 +64,15 @@ python3 mvr.py
 | 54   | Soul                 | 1542.9 |
 | 55   | Avatar               | 1541.9 |
 | 56   | Captain America: The Winter Soldier | 1539.8 |
-| 57   | Train to Busan       | 1537.4 |
-| 58   | The Ninth Gate       | 1537.2 |
-| 59   | The Man Who Knew Infinity | 1535.9 |
+| 57   | The Ninth Gate       | 1537.2 |
+| 58   | The Man Who Knew Infinity | 1535.9 |
+| 59   | Replicas             | 1535.3 |
 | 60   | Jack Ryan            | 1534.5 |
 | 61   | The Day After Tomorrow | 1533.6 |
 | 62   | A Haunting in Venice | 1531.9 |
 | 63   | Avengers: Infinity War | 1527.6 |
 | 64   | The Terminal List    | 1526.0 |
-| 65   | Top Gun              | 1523.2 |
+| 65   | Top Gun              | 1522.1 |
 | 66   | Zodiac               | 1521.3 |
 | 67   | Star Trek: Picard    | 1521.3 |
 | 68   | Iron Chef            | 1520.2 |
@@ -94,7 +94,7 @@ python3 mvr.py
 | 84   | Shawshank Redemption | 1506.9 |
 | 85   | Captain America: Civil War | 1504.8 |
 | 86   | Total Recall         | 1504.7 |
-| 87   | Cars                 | 1500.4 |
+| 87   | Cars                 | 1501.4 |
 | 88   | Lord of the Rings    | 1497.9 |
 | 89   | Ip Man               | 1497.9 |
 | 90   | Skyfall              | 1494.9 |
@@ -148,18 +148,18 @@ python3 mvr.py
 | 138  | A.I. Artificial Intelligence | 1432.2 |
 | 139  | The Mask of Zorro    | 1430.5 |
 | 140  | Heidi                | 1429.3 |
-| 141  | Independence Day     | 1429.3 |
-| 142  | Horton hears a Who   | 1425.6 |
-| 143  | Red Eye              | 1419.5 |
-| 144  | Journey 2: The Mysterious Island | 1417.9 |
-| 145  | G.I.Joe movie        | 1415.0 |
-| 146  | Crouching Tiger Hidden Dragon | 1411.0 |
-| 147  | Cars 3               | 1403.4 |
-| 148  | The Last Samurai     | 1402.3 |
-| 149  | AK-47 Kalashnikov    | 1399.4 |
-| 150  | Awake                | 1398.2 |
-| 151  | 65                   | 1396.1 |
-| 152  | The Matrix Reloaded  | 1395.7 |
+| 141  | Horton hears a Who   | 1425.6 |
+| 142  | Red Eye              | 1419.5 |
+| 143  | Journey 2: The Mysterious Island | 1417.9 |
+| 144  | G.I.Joe movie        | 1415.0 |
+| 145  | The Matrix Reloaded  | 1413.2 |
+| 146  | Independence Day     | 1411.7 |
+| 147  | Crouching Tiger Hidden Dragon | 1411.0 |
+| 148  | Cars 3               | 1403.4 |
+| 149  | The Last Samurai     | 1402.3 |
+| 150  | AK-47 Kalashnikov    | 1399.4 |
+| 151  | Awake                | 1398.2 |
+| 152  | 65                   | 1396.1 |
 | 153  | A Quiet Place: Day One | 1392.8 |
 | 154  | Stillwater           | 1391.0 |
 | 155  | The Silence          | 1389.5 |
