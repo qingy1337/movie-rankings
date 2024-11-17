@@ -56,17 +56,17 @@ python3 mvr.py
 | 46   | Scream V             | 1516.0 |
 | 47   | Zootopia             | 1516.0 |
 | 48   | Saving Private Ryan  | 1516.0 |
-| 49   | Wednesday            | 1516.0 |
-| 50   | A Haunting in Venice | 1516.0 |
-| 51   | Thor                 | 1516.0 |
-| 52   | Pirates of the Caribbean | 1516.0 |
-| 53   | Guy Ritchie’s The Covenant | 1516.0 |
-| 54   | Soul                 | 1516.0 |
-| 55   | The Mandalorian      | 1516.0 |
+| 49   | A Haunting in Venice | 1516.0 |
+| 50   | Thor                 | 1516.0 |
+| 51   | Pirates of the Caribbean | 1516.0 |
+| 52   | Guy Ritchie’s The Covenant | 1516.0 |
+| 53   | Soul                 | 1516.0 |
+| 54   | The Mandalorian      | 1516.0 |
+| 55   | Wednesday            | 1516.0 |
 | 56   | Doctor Strange       | 1516.0 |
-| 57   | Mission Impossible: Fallout | 1515.3 |
-| 58   | The Ring             | 1515.3 |
-| 59   | Life of Pi           | 1515.3 |
+| 57   | Life of Pi           | 1515.3 |
+| 58   | Mission Impossible: Fallout | 1515.3 |
+| 59   | The Ring             | 1515.3 |
 | 60   | Jack Ryan            | 1515.3 |
 | 61   | Interstellar         | 1515.3 |
 | 62   | Captain America: The Winter Soldier | 1515.3 |
