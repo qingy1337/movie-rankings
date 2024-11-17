@@ -83,65 +83,65 @@ python3 mvr.py
 | 73   | Pompeii              | 1512.1 |
 | 74   | The Avengers         | 1511.8 |
 | 75   | The Last Samurai     | 1510.5 |
-| 76   | Top Gun              | 1503.4 |
-| 77   | School of Rock       | 1502.7 |
-| 78   | The Maze Runner      | 1501.7 |
-| 79   | The Terminal List    | 1501.5 |
-| 80   | Black Widow          | 1500.8 |
-| 81   | Avatar 2             | 1500.7 |
-| 82   | Avatar               | 1500.7 |
-| 83   | Ninja Turtles        | 1500.7 |
-| 84   | My Name              | 1500.1 |
-| 85   | Selfless             | 1500.0 |
-| 86   | Cars 2               | 1500.0 |
-| 87   | Wrath of Man         | 1500.0 |
-| 88   | The Hunger Games     | 1500.0 |
-| 89   | Jack Reacher: Never Go Back | 1500.0 |
-| 90   | Glass Castle         | 1500.0 |
-| 91   | Life                 | 1500.0 |
-| 92   | Star Wars            | 1500.0 |
-| 93   | X-Files              | 1500.0 |
-| 94   | Oppenheimer          | 1499.4 |
-| 95   | Independence Day     | 1499.3 |
-| 96   | Terminator           | 1499.3 |
-| 97   | The Curious Case of Benjamin Button | 1498.7 |
-| 98   | Rebel Ridge          | 1498.6 |
-| 99   | The Ring 2           | 1498.6 |
-| 100  | Bloodhounds          | 1497.9 |
-| 101  | The Spy Next Door    | 1497.3 |
-| 102  | A.I. Artificial Intelligence | 1495.9 |
-| 103  | American Sniper      | 1488.8 |
+| 76   | American Sniper      | 1504.7 |
+| 77   | Top Gun              | 1503.4 |
+| 78   | School of Rock       | 1502.7 |
+| 79   | The Maze Runner      | 1501.7 |
+| 80   | The Terminal List    | 1501.5 |
+| 81   | Black Widow          | 1500.8 |
+| 82   | Avatar 2             | 1500.7 |
+| 83   | Avatar               | 1500.7 |
+| 84   | Ninja Turtles        | 1500.7 |
+| 85   | My Name              | 1500.1 |
+| 86   | Selfless             | 1500.0 |
+| 87   | Cars 2               | 1500.0 |
+| 88   | Wrath of Man         | 1500.0 |
+| 89   | The Hunger Games     | 1500.0 |
+| 90   | Jack Reacher: Never Go Back | 1500.0 |
+| 91   | Glass Castle         | 1500.0 |
+| 92   | Life                 | 1500.0 |
+| 93   | Star Wars            | 1500.0 |
+| 94   | X-Files              | 1500.0 |
+| 95   | Oppenheimer          | 1499.4 |
+| 96   | Independence Day     | 1499.3 |
+| 97   | Terminator           | 1499.3 |
+| 98   | The Curious Case of Benjamin Button | 1498.7 |
+| 99   | Rebel Ridge          | 1498.6 |
+| 100  | The Ring 2           | 1498.6 |
+| 101  | Bloodhounds          | 1497.9 |
+| 102  | The Spy Next Door    | 1497.3 |
+| 103  | A.I. Artificial Intelligence | 1495.9 |
 | 104  | The Young and Prodigious T.S. Spivet | 1488.8 |
 | 105  | Vagabond             | 1488.1 |
 | 106  | Loki                 | 1487.5 |
 | 107  | Gladiator            | 1487.4 |
 | 108  | Star Trek: Picard    | 1486.9 |
 | 109  | Cars                 | 1486.8 |
-| 110  | The Matrix Revolutions | 1485.5 |
-| 111  | Iron Chef            | 1484.8 |
-| 112  | The Matrix           | 1484.7 |
-| 113  | Top Gun: Maverick    | 1484.7 |
-| 114  | Unbreakable          | 1484.4 |
-| 115  | The Mask of Zorro    | 1484.0 |
-| 116  | The BFG              | 1484.0 |
-| 117  | Mission Impossible 1 | 1484.0 |
-| 118  | GoldenEye            | 1484.0 |
-| 119  | Skyfall              | 1484.0 |
-| 120  | The Darkest Hour     | 1484.0 |
-| 121  | Land of Bad          | 1484.0 |
-| 122  | A Quiet Place: Day One | 1484.0 |
-| 123  | Frequency            | 1484.0 |
-| 124  | G.I.Joe movie        | 1483.3 |
-| 125  | The Firm             | 1482.7 |
-| 126  | All Quiet on The Western Front | 1482.6 |
-| 127  | American Made        | 1481.9 |
-| 128  | Mission Impossible: Rogue Nation | 1476.2 |
-| 129  | Total Recall         | 1474.1 |
-| 130  | Mission Impossible 2 | 1473.6 |
-| 131  | Drunken Master       | 1472.4 |
-| 132  | The Matrix Reloaded  | 1472.2 |
-| 133  | A Boy Called Christmas | 1470.8 |
-| 134  | Journey 2: The Mysterious Island | 1470.0 |
+| 110  | Iron Chef            | 1484.8 |
+| 111  | The Matrix           | 1484.7 |
+| 112  | Top Gun: Maverick    | 1484.7 |
+| 113  | Unbreakable          | 1484.4 |
+| 114  | The Mask of Zorro    | 1484.0 |
+| 115  | The BFG              | 1484.0 |
+| 116  | Mission Impossible 1 | 1484.0 |
+| 117  | GoldenEye            | 1484.0 |
+| 118  | Skyfall              | 1484.0 |
+| 119  | The Darkest Hour     | 1484.0 |
+| 120  | Land of Bad          | 1484.0 |
+| 121  | A Quiet Place: Day One | 1484.0 |
+| 122  | Frequency            | 1484.0 |
+| 123  | G.I.Joe movie        | 1483.3 |
+| 124  | The Firm             | 1482.7 |
+| 125  | All Quiet on The Western Front | 1482.6 |
+| 126  | American Made        | 1481.9 |
+| 127  | Mission Impossible: Rogue Nation | 1476.2 |
+| 128  | Total Recall         | 1474.1 |
+| 129  | Mission Impossible 2 | 1473.6 |
+| 130  | Drunken Master       | 1472.4 |
+| 131  | The Matrix Reloaded  | 1472.2 |
+| 132  | A Boy Called Christmas | 1470.8 |
+| 133  | Journey 2: The Mysterious Island | 1470.0 |
+| 134  | The Matrix Revolutions | 1469.7 |
 | 135  | The Man Who Knew Infinity | 1469.5 |
 | 136  | Sweet Tooth          | 1469.4 |
 | 137  | Crouching Tiger Hidden Dragon | 1468.8 |
