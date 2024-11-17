@@ -67,7 +67,7 @@ python3 mvr.py
 | $\color{green}\text{57  }$ | $\color{green}\text{Guy Ritchie’s The Covenant}$ | $\color{green}\text{1530.7}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{green}\text{60  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1530.0}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1524.1}$ |
@@ -78,10 +78,10 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1516.0}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1515.3}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
+| $\color{green}\text{71  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1515.2}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
@@ -103,7 +103,7 @@ python3 mvr.py
 | $\color{red}\text{93  }$ | $\color{red}\text{Shawshank Redemption}$ | $\color{red}\text{1494.0}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
-| $\color{red}\text{96  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1486.3}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1483.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
@@ -145,9 +145,9 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1448.8}$ |
-| $\color{green}\text{138 }$ | $\color{green}\text{Rango}$ | $\color{green}\text{1448.2}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1443.3}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
