@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{green}\text{2   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1587.4}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{green}\text{5   }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1580.0}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{green}\text{8   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1576.8}$ |
@@ -79,9 +79,9 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1512.4}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1511.6}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.4}$ |
+| $\color{green}\text{72  }$ | $\color{green}\text{Glass Castle}$ | $\color{green}\text{1511.9}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1511.6}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
 | $\color{green}\text{75  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1511.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
@@ -90,7 +90,7 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1505.8}$ |
+| $\color{red}\text{83  }$ | $\color{red}\text{A Haunting in Venice}$ | $\color{red}\text{1505.3}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.8}$ |
@@ -156,7 +156,7 @@ python3 mvr.py
 | $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.8}$ |
 | $\color{red}\text{148 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1442.5}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1442.5}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1439.3}$ |
