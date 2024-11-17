@@ -9,9 +9,9 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1596.6}$ |
-| $\color{green}\text{2   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1582.3}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1582.1}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1587.4}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.3}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1580.0}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
@@ -47,12 +47,12 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1541.4}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1541.3}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
+| $\color{red}\text{45  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1536.0}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
 | $\color{red}\text{48  }$ | $\color{red}\text{Scream VI}$ | $\color{red}\text{1531.1}$ |
@@ -171,7 +171,7 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
-| $\color{red}\text{164 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1428.5}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
