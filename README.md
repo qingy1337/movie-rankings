@@ -37,27 +37,27 @@ python3 mvr.py
 | 27   | The Ninth Gate       | 1567.9 |
 | 28   | X-Files              | 1565.9 |
 | 29   | The Wild Robot       | 1562.8 |
-| 30   | Halo                 | 1561.1 |
-| 31   | Jack Ryan            | 1560.7 |
-| 32   | Squid Game           | 1560.7 |
-| 33   | The Illusionist      | 1559.2 |
-| 34   | Vagabond             | 1558.2 |
-| 35   | Life                 | 1558.1 |
-| 36   | The Maze Runner: The Death Cure | 1557.0 |
+| 30   | Jack Ryan            | 1560.7 |
+| 31   | Squid Game           | 1560.7 |
+| 32   | The Illusionist      | 1559.2 |
+| 33   | Vagabond             | 1558.2 |
+| 34   | Life                 | 1558.1 |
+| 35   | The Maze Runner: The Death Cure | 1557.0 |
+| 36   | Halo                 | 1556.2 |
 | 37   | Scream VI            | 1554.1 |
 | 38   | The Young and Prodigious T.S. Spivet | 1553.9 |
 | 39   | The Avengers         | 1553.0 |
-| 40   | Beut Mind            | 1552.4 |
-| 41   | Rebel Ridge          | 1551.9 |
-| 42   | The Day After Tomorrow | 1549.3 |
-| 43   | Loki                 | 1547.8 |
-| 44   | The Hunger Games     | 1545.4 |
-| 45   | A Quiet Place        | 1543.3 |
-| 46   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
-| 47   | Avengers: Infinity War | 1542.0 |
-| 48   | Catch Me If You Can  | 1541.9 |
-| 49   | Mission Impossible 3 | 1541.8 |
-| 50   | Tenet                | 1541.6 |
+| 40   | Tenet                | 1552.7 |
+| 41   | Beut Mind            | 1552.4 |
+| 42   | Rebel Ridge          | 1551.9 |
+| 43   | The Day After Tomorrow | 1549.3 |
+| 44   | Loki                 | 1547.8 |
+| 45   | The Hunger Games     | 1545.4 |
+| 46   | A Quiet Place        | 1543.3 |
+| 47   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
+| 48   | Avengers: Infinity War | 1542.0 |
+| 49   | Catch Me If You Can  | 1541.9 |
+| 50   | Mission Impossible 3 | 1541.8 |
 | 51   | The Prestige         | 1538.4 |
 | 52   | The Maze Runner: The Scorch Trials | 1538.1 |
 | 53   | The Tomorrow War     | 1536.2 |
@@ -87,39 +87,39 @@ python3 mvr.py
 | 77   | Captain America: Civil War | 1504.8 |
 | 78   | Total Recall         | 1503.7 |
 | 79   | Top Gun: Maverick    | 1503.4 |
-| 80   | Rango                | 1502.5 |
-| 81   | Gladiator            | 1501.6 |
-| 82   | A Haunting in Venice | 1501.3 |
-| 83   | Cars                 | 1501.0 |
-| 84   | Soul                 | 1500.7 |
-| 85   | Lord of the Rings    | 1498.9 |
-| 86   | Pompeii              | 1498.8 |
+| 80   | Gladiator            | 1501.6 |
+| 81   | A Haunting in Venice | 1501.3 |
+| 82   | Cars                 | 1501.0 |
+| 83   | Soul                 | 1500.7 |
+| 84   | Lord of the Rings    | 1498.9 |
+| 85   | Pompeii              | 1498.8 |
+| 86   | Rango                | 1498.4 |
 | 87   | The Terminal List    | 1497.1 |
 | 88   | Cars 2               | 1496.2 |
-| 89   | Zootopia             | 1495.5 |
-| 90   | Oppenheimer          | 1493.8 |
-| 91   | Dark Waters          | 1492.7 |
-| 92   | The Man in the Iron Mask | 1492.4 |
-| 93   | Dune                 | 1490.9 |
-| 94   | Megan                | 1486.9 |
-| 95   | Glass Castle         | 1486.7 |
-| 96   | The Ring             | 1485.5 |
+| 89   | A Boy Called Christmas | 1495.6 |
+| 90   | Zootopia             | 1495.5 |
+| 91   | Oppenheimer          | 1493.8 |
+| 92   | Dark Waters          | 1492.7 |
+| 93   | The Man in the Iron Mask | 1492.4 |
+| 94   | Dune                 | 1490.9 |
+| 95   | Megan                | 1486.9 |
+| 96   | Glass Castle         | 1486.7 |
 | 97   | Bloodhounds          | 1483.5 |
 | 98   | The Curious Case of Benjamin Button | 1481.1 |
 | 99   | Mission Impossible 2 | 1479.6 |
-| 100  | A Boy Called Christmas | 1479.3 |
-| 101  | Rampage              | 1478.0 |
-| 102  | When a Stranger Calls | 1477.8 |
-| 103  | The Mist             | 1475.6 |
-| 104  | The Matrix Revolutions | 1475.4 |
-| 105  | The Ring 2           | 1474.8 |
-| 106  | Saving Private Ryan  | 1472.5 |
-| 107  | Onward               | 1472.1 |
-| 108  | Knight and Day       | 1471.6 |
-| 109  | Red Eye              | 1471.5 |
-| 110  | The Mask             | 1471.5 |
-| 111  | Jack Reacher: Never Go Back | 1470.7 |
-| 112  | Land of Bad          | 1469.5 |
+| 100  | Rampage              | 1478.0 |
+| 101  | When a Stranger Calls | 1477.8 |
+| 102  | The Mist             | 1475.6 |
+| 103  | The Matrix Revolutions | 1475.4 |
+| 104  | The Ring 2           | 1474.8 |
+| 105  | Saving Private Ryan  | 1472.5 |
+| 106  | Onward               | 1472.1 |
+| 107  | Knight and Day       | 1471.6 |
+| 108  | Red Eye              | 1471.5 |
+| 109  | The Mask             | 1471.5 |
+| 110  | Jack Reacher: Never Go Back | 1470.7 |
+| 111  | Land of Bad          | 1469.5 |
+| 112  | The Ring             | 1469.2 |
 | 113  | Heidi                | 1468.7 |
 | 114  | Mission Impossible 1 | 1467.9 |
 | 115  | Black Widow          | 1466.7 |
@@ -135,13 +135,13 @@ python3 mvr.py
 | 125  | Drunken Master       | 1459.7 |
 | 126  | John Wick            | 1459.6 |
 | 127  | Road House           | 1457.7 |
-| 128  | Wrath of Man         | 1456.9 |
-| 129  | Peter the Rabbit     | 1455.9 |
-| 130  | G.I.Joe movie        | 1455.9 |
-| 131  | Terminator           | 1455.5 |
-| 132  | Unbreakable          | 1455.0 |
-| 133  | Horton hears a Who   | 1454.6 |
-| 134  | The Spy Next Door    | 1452.4 |
+| 128  | The Spy Next Door    | 1457.3 |
+| 129  | Wrath of Man         | 1456.9 |
+| 130  | Peter the Rabbit     | 1455.9 |
+| 131  | G.I.Joe movie        | 1455.9 |
+| 132  | Terminator           | 1455.5 |
+| 133  | Unbreakable          | 1455.0 |
+| 134  | Horton hears a Who   | 1454.6 |
 | 135  | American Sniper      | 1450.3 |
 | 136  | School of Rock       | 1447.9 |
 | 137  | Sweet Tooth          | 1446.2 |
@@ -156,11 +156,11 @@ python3 mvr.py
 | 146  | The Firm             | 1432.5 |
 | 147  | The Last Samurai     | 1431.2 |
 | 148  | Zero Dark Thirty     | 1431.0 |
-| 149  | The BFG              | 1431.0 |
-| 150  | The Darkest Hour     | 1425.0 |
-| 151  | Stillwater           | 1424.4 |
-| 152  | 65                   | 1422.2 |
-| 153  | A.I. Artificial Intelligence | 1412.5 |
+| 149  | The Darkest Hour     | 1425.0 |
+| 150  | Stillwater           | 1424.4 |
+| 151  | 65                   | 1422.2 |
+| 152  | The BFG              | 1419.9 |
+| 153  | A.I. Artificial Intelligence | 1416.5 |
 | 154  | Selfless             | 1412.1 |
 | 155  | American Made        | 1410.9 |
 | 156  | Darkest Hour         | 1410.6 |
