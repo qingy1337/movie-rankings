@@ -110,21 +110,21 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.9}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.7}$ |
+| $\color{green}\text{103 }$ | $\color{green}\text{Johnny English}$ | $\color{green}\text{1485.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
 | $\color{red}\text{112 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1478.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
 | $\color{red}\text{116 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1476.5}$ |
-| $\color{green}\text{117 }$ | $\color{green}\text{Cars 3}$ | $\color{green}\text{1475.6}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1474.3}$ |
@@ -137,14 +137,14 @@ python3 mvr.py
 | $\color{black}\text{127 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1462.1}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1459.3}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1462.1}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1459.3}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
+| $\color{red}\text{137 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1456.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
 | $\color{red}\text{140 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1454.8}$ |
@@ -175,7 +175,7 @@ python3 mvr.py
 | $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
-| $\color{red}\text{168 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1425.2}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1425.2}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1422.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
