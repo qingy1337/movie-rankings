@@ -53,14 +53,14 @@ python3 mvr.py
 | 43   | Captain America: The Winter Soldier | 1530.5 |
 | 44   | Iron Man             | 1529.8 |
 | 45   | Dune                 | 1528.5 |
-| 46   | Zootopia             | 1527.7 |
-| 47   | World War Z          | 1526.4 |
-| 48   | Beut Mind            | 1525.6 |
-| 49   | No Country for Old Men | 1525.4 |
-| 50   | The Terminal List    | 1524.1 |
-| 51   | Train to Busan       | 1523.8 |
-| 52   | The Wild Robot       | 1521.5 |
-| 53   | Loki                 | 1519.8 |
+| 46   | World War Z          | 1526.4 |
+| 47   | Beut Mind            | 1525.6 |
+| 48   | No Country for Old Men | 1525.4 |
+| 49   | The Terminal List    | 1524.1 |
+| 50   | The Wild Robot       | 1521.5 |
+| 51   | Train to Busan       | 1521.3 |
+| 52   | Loki                 | 1519.8 |
+| 53   | The Maze Runner      | 1518.9 |
 | 54   | Scream VI            | 1518.8 |
 | 55   | Cars                 | 1517.2 |
 | 56   | Knight and Day       | 1516.7 |
@@ -84,14 +84,14 @@ python3 mvr.py
 | 74   | The Ninth Gate       | 1513.2 |
 | 75   | Rebel Ridge          | 1512.6 |
 | 76   | Pompeii              | 1512.1 |
-| 77   | Titanic              | 1510.5 |
-| 78   | Replicas             | 1509.1 |
-| 79   | The Young and Prodigious T.S. Spivet | 1506.1 |
-| 80   | Red Eye              | 1502.8 |
-| 81   | School of Rock       | 1502.7 |
-| 82   | The Matrix           | 1502.7 |
-| 83   | X-Files              | 1501.8 |
-| 84   | The Maze Runner      | 1501.7 |
+| 77   | Zootopia             | 1510.5 |
+| 78   | Titanic              | 1510.5 |
+| 79   | Replicas             | 1509.1 |
+| 80   | The Young and Prodigious T.S. Spivet | 1506.1 |
+| 81   | Red Eye              | 1502.8 |
+| 82   | School of Rock       | 1502.7 |
+| 83   | The Matrix           | 1502.7 |
+| 84   | X-Files              | 1501.8 |
 | 85   | Tenet                | 1501.4 |
 | 86   | Gladiator            | 1501.3 |
 | 87   | Avatar 2             | 1500.7 |
@@ -135,15 +135,15 @@ python3 mvr.py
 | 125  | American Sniper      | 1473.0 |
 | 126  | The Matrix Reloaded  | 1472.2 |
 | 127  | Drunken Master       | 1472.1 |
-| 128  | Frequency            | 1470.1 |
-| 129  | Iron Chef            | 1469.8 |
-| 130  | Top Gun: Maverick    | 1469.5 |
-| 131  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 132  | Heidi                | 1468.7 |
-| 133  | Avatar: The Last Airbender | 1468.7 |
-| 134  | Rango                | 1468.7 |
-| 135  | Unbreakable          | 1468.5 |
-| 136  | American Made        | 1468.3 |
+| 128  | American Made        | 1470.8 |
+| 129  | Frequency            | 1470.1 |
+| 130  | Iron Chef            | 1469.8 |
+| 131  | Top Gun: Maverick    | 1469.5 |
+| 132  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 133  | Heidi                | 1468.7 |
+| 134  | Avatar: The Last Airbender | 1468.7 |
+| 135  | Rango                | 1468.7 |
+| 136  | Unbreakable          | 1468.5 |
 | 137  | Top Gun              | 1468.2 |
 | 138  | The Mist             | 1468.1 |
 | 139  | Mission Impossible 1 | 1468.0 |
