@@ -14,25 +14,25 @@ python3 mvr.py
 | 4    | The Maze Runner: The Death Cure | 1558.3 |
 | 5    | Avengers: Age of Ultron | 1546.5 |
 | 6    | Dune                 | 1545.8 |
-| 7    | Black Panther        | 1544.6 |
-| 8    | Halo                 | 1544.5 |
-| 9    | Beut Mind            | 1544.4 |
-| 10   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
-| 11   | Catch Me If You Can  | 1541.9 |
-| 12   | Sneaky Pete          | 1534.0 |
-| 13   | Avengers: Infinity War | 1533.4 |
-| 14   | X-Men                | 1533.4 |
-| 15   | Squid Game           | 1532.8 |
-| 16   | Avengers: Endgame    | 1532.0 |
-| 17   | Inception            | 1531.9 |
-| 18   | A Quiet Place        | 1531.3 |
-| 19   | Lost in Space        | 1531.3 |
-| 20   | Source Code          | 1531.3 |
-| 21   | Passengers           | 1531.3 |
-| 22   | Dark Waters          | 1531.3 |
-| 23   | Shawshank Redemption | 1531.3 |
-| 24   | Pirates of the Caribbean | 1531.3 |
-| 25   | World War Z          | 1531.3 |
+| 7    | World War Z          | 1545.0 |
+| 8    | Black Panther        | 1544.6 |
+| 9    | Halo                 | 1544.5 |
+| 10   | Beut Mind            | 1544.4 |
+| 11   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 12   | Catch Me If You Can  | 1541.9 |
+| 13   | Sneaky Pete          | 1534.0 |
+| 14   | Avengers: Infinity War | 1533.4 |
+| 15   | X-Men                | 1533.4 |
+| 16   | Squid Game           | 1532.8 |
+| 17   | Avengers: Endgame    | 1532.0 |
+| 18   | Inception            | 1531.9 |
+| 19   | A Quiet Place        | 1531.3 |
+| 20   | Lost in Space        | 1531.3 |
+| 21   | Source Code          | 1531.3 |
+| 22   | Passengers           | 1531.3 |
+| 23   | Dark Waters          | 1531.3 |
+| 24   | Shawshank Redemption | 1531.3 |
+| 25   | Pirates of the Caribbean | 1531.3 |
 | 26   | Thirteen Lives       | 1530.6 |
 | 27   | Harry Potter         | 1530.5 |
 | 28   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
@@ -136,30 +136,30 @@ python3 mvr.py
 | 126  | The Firm             | 1482.7 |
 | 127  | All Quiet on The Western Front | 1482.6 |
 | 128  | American Made        | 1481.9 |
-| 129  | Stillwater           | 1481.3 |
-| 130  | Mission Impossible: Rogue Nation | 1476.2 |
-| 131  | Total Recall         | 1474.1 |
-| 132  | Mission Impossible 2 | 1473.6 |
-| 133  | Drunken Master       | 1472.4 |
-| 134  | The Matrix Reloaded  | 1472.2 |
-| 135  | A Boy Called Christmas | 1470.8 |
-| 136  | Journey 2: The Mysterious Island | 1470.0 |
-| 137  | The Man Who Knew Infinity | 1469.5 |
-| 138  | Sweet Tooth          | 1469.4 |
-| 139  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 140  | Johnny English       | 1468.8 |
-| 141  | Peter the Rabbit     | 1468.8 |
-| 142  | When a Stranger Calls | 1468.8 |
-| 143  | Heidi                | 1468.7 |
-| 144  | The Mask             | 1468.7 |
-| 145  | Avatar: The Last Airbender | 1468.7 |
-| 146  | Horton hears a Who   | 1468.7 |
-| 147  | Rango                | 1468.7 |
-| 148  | Onward               | 1468.1 |
-| 149  | "Everything, everywhere, all at once" | 1468.1 |
-| 150  | The Man in the Iron Mask | 1468.0 |
-| 151  | Shadow               | 1468.0 |
-| 152  | Arrow                | 1468.0 |
+| 129  | Mission Impossible: Rogue Nation | 1476.2 |
+| 130  | Total Recall         | 1474.1 |
+| 131  | Mission Impossible 2 | 1473.6 |
+| 132  | Drunken Master       | 1472.4 |
+| 133  | The Matrix Reloaded  | 1472.2 |
+| 134  | A Boy Called Christmas | 1470.8 |
+| 135  | Journey 2: The Mysterious Island | 1470.0 |
+| 136  | The Man Who Knew Infinity | 1469.5 |
+| 137  | Sweet Tooth          | 1469.4 |
+| 138  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 139  | Johnny English       | 1468.8 |
+| 140  | Peter the Rabbit     | 1468.8 |
+| 141  | When a Stranger Calls | 1468.8 |
+| 142  | Heidi                | 1468.7 |
+| 143  | The Mask             | 1468.7 |
+| 144  | Avatar: The Last Airbender | 1468.7 |
+| 145  | Horton hears a Who   | 1468.7 |
+| 146  | Rango                | 1468.7 |
+| 147  | Onward               | 1468.1 |
+| 148  | "Everything, everywhere, all at once" | 1468.1 |
+| 149  | The Man in the Iron Mask | 1468.0 |
+| 150  | Shadow               | 1468.0 |
+| 151  | Arrow                | 1468.0 |
+| 152  | Stillwater           | 1467.5 |
 | 153  | 65                   | 1467.4 |
 | 154  | The Silence          | 1467.4 |
 | 155  | Zero Dark Thirty     | 1457.6 |
