@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{red}\text{1   }$ | $\color{red}\text{Harry Potter}$ | $\color{red}\text{1561.3}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1561.3}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1554.5}$ |
 | $\color{green}\text{4   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1554.1}$ |
@@ -16,7 +16,7 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1550.9}$ |
 | $\color{green}\text{7   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1550.8}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
-| $\color{green}\text{9   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1547.7}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1547.7}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1547.1}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
@@ -60,12 +60,12 @@ python3 mvr.py
 | $\color{red}\text{50  }$ | $\color{red}\text{Avengers: Infinity War}$ | $\color{red}\text{1519.3}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1518.6}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1517.3}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1517.0}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1516.3}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1515.6}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1515.0}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1514.9}$ |
+| $\color{green}\text{53  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1518.4}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1517.3}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1517.0}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1516.3}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1515.6}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1515.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1513.9}$ |
@@ -143,13 +143,13 @@ python3 mvr.py
 | $\color{black}\text{133 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1474.1}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1474.1}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.9}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1473.8}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1473.7}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1473.5}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1473.5}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1473.0}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1470.9}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1470.5}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1473.7}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1473.5}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1473.5}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1473.0}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1470.9}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1470.5}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1470.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1467.0}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1466.4}$ |
