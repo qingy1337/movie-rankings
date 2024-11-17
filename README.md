@@ -55,15 +55,15 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.8}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1521.4}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1519.3}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1518.9}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1518.6}$ |
-| $\color{green}\text{53  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1518.4}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1517.3}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1517.0}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1516.3}$ |
+| $\color{green}\text{48  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1520.2}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1519.3}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1518.9}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1518.6}$ |
+| $\color{green}\text{54  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1518.4}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1517.3}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1517.0}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1515.6}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1515.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1514.3}$ |
@@ -71,14 +71,14 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1513.7}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1513.1}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.8}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1510.8}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1510.4}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1510.1}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1508.1}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1510.8}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1510.4}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1510.1}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1508.4}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1508.1}$ |
+| $\color{red}\text{71  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1507.8}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1507.6}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.3}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1506.5}$ |
@@ -103,7 +103,7 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1496.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1496.1}$ |
-| $\color{green}\text{96  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1494.4}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1492.8}$ |
@@ -148,7 +148,7 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1473.0}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1470.9}$ |
-| $\color{red}\text{141 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1470.5}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1470.5}$ |
 | $\color{red}\text{142 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1470.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1467.0}$ |
