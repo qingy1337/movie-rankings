@@ -23,13 +23,13 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.5}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1560.7}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1557.1}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1557.1}$ |
+| $\color{green}\text{16  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1562.7}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1560.7}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1557.1}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1555.1}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
@@ -53,11 +53,11 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.8}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
+| $\color{red}\text{48  }$ | $\color{red}\text{Scream VI}$ | $\color{red}\text{1531.1}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1530.4}$ |
-| $\color{red}\text{50  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1527.2}$ |
+| $\color{green}\text{50  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1527.2}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
@@ -79,7 +79,7 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1513.4}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1512.4}$ |
-| $\color{green}\text{72  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1511.6}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1511.6}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.4}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
