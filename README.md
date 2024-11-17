@@ -43,17 +43,17 @@ python3 mvr.py
 | 33   | The Day After Tomorrow | 1534.0 |
 | 34   | Avatar 2             | 1533.8 |
 | 35   | Tenet                | 1532.6 |
-| 36   | Avengers: Endgame    | 1532.0 |
-| 37   | Inception            | 1531.9 |
-| 38   | A Quiet Place        | 1531.3 |
-| 39   | The Mandalorian      | 1531.3 |
-| 40   | Lost in Space        | 1531.3 |
-| 41   | Jack Ryan            | 1530.6 |
-| 42   | Wrath of Man         | 1530.6 |
-| 43   | Life of Pi           | 1530.1 |
-| 44   | Doctor Strange       | 1529.8 |
-| 45   | Dune                 | 1528.5 |
-| 46   | The Tomorrow War     | 1527.1 |
+| 36   | Thor                 | 1532.5 |
+| 37   | Avengers: Endgame    | 1532.0 |
+| 38   | Inception            | 1531.9 |
+| 39   | A Quiet Place        | 1531.3 |
+| 40   | The Mandalorian      | 1531.3 |
+| 41   | Lost in Space        | 1531.3 |
+| 42   | Jack Ryan            | 1530.6 |
+| 43   | Wrath of Man         | 1530.6 |
+| 44   | Life of Pi           | 1530.1 |
+| 45   | Doctor Strange       | 1529.8 |
+| 46   | Dune                 | 1528.5 |
 | 47   | The Ninth Gate       | 1526.6 |
 | 48   | Mission Impossible: Dead Reckoning P1 | 1526.4 |
 | 49   | The Maze Runner: The Scorch Trials | 1526.2 |
@@ -73,18 +73,18 @@ python3 mvr.py
 | 63   | Scream V             | 1516.0 |
 | 64   | Saving Private Ryan  | 1516.0 |
 | 65   | A Haunting in Venice | 1516.0 |
-| 66   | Thor                 | 1516.0 |
-| 67   | Life                 | 1516.0 |
-| 68   | The Ring             | 1515.4 |
-| 69   | Interstellar         | 1515.2 |
-| 70   | My Name              | 1514.8 |
-| 71   | Captain America: The Winter Soldier | 1514.6 |
-| 72   | Avatar               | 1514.4 |
-| 73   | Guy Ritchie’s The Covenant | 1514.2 |
-| 74   | Star Wars            | 1514.2 |
-| 75   | Jack Reacher         | 1514.1 |
-| 76   | Zodiac               | 1513.9 |
-| 77   | The Curious Case of Benjamin Button | 1513.3 |
+| 66   | Life                 | 1516.0 |
+| 67   | The Ring             | 1515.4 |
+| 68   | Interstellar         | 1515.2 |
+| 69   | My Name              | 1514.8 |
+| 70   | Captain America: The Winter Soldier | 1514.6 |
+| 71   | Avatar               | 1514.4 |
+| 72   | Guy Ritchie’s The Covenant | 1514.2 |
+| 73   | Star Wars            | 1514.2 |
+| 74   | Jack Reacher         | 1514.1 |
+| 75   | Zodiac               | 1513.9 |
+| 76   | The Curious Case of Benjamin Button | 1513.3 |
+| 77   | The Tomorrow War     | 1510.6 |
 | 78   | Zootopia             | 1510.5 |
 | 79   | Soul                 | 1509.6 |
 | 80   | Replicas             | 1509.1 |
