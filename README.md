@@ -24,16 +24,16 @@ python3 mvr.py
 | 14   | Harry Potter         | 1583.2 |
 | 15   | Iron Man             | 1580.6 |
 | 16   | The Mandalorian      | 1579.9 |
-| 17   | Beut Mind            | 1576.0 |
-| 18   | The Hobbit           | 1575.0 |
-| 19   | Maleficent           | 1573.1 |
-| 20   | Avatar 2             | 1571.6 |
-| 21   | Locke and Key        | 1569.6 |
-| 22   | Source Code          | 1568.2 |
-| 23   | The Ninth Gate       | 1567.9 |
-| 24   | Inception            | 1566.5 |
-| 25   | X-Files              | 1565.9 |
-| 26   | Black Panther        | 1565.3 |
+| 17   | Black Panther        | 1576.9 |
+| 18   | Beut Mind            | 1576.0 |
+| 19   | The Hobbit           | 1575.0 |
+| 20   | Maleficent           | 1573.1 |
+| 21   | Avatar 2             | 1571.6 |
+| 22   | Locke and Key        | 1569.6 |
+| 23   | Source Code          | 1568.2 |
+| 24   | The Ninth Gate       | 1567.9 |
+| 25   | Inception            | 1566.5 |
+| 26   | X-Files              | 1565.9 |
 | 27   | Avengers: Age of Ultron | 1564.9 |
 | 28   | Halo                 | 1563.1 |
 | 29   | Squid Game           | 1560.7 |
@@ -114,16 +114,16 @@ python3 mvr.py
 | 104  | A Boy Called Christmas | 1479.3 |
 | 105  | When a Stranger Calls | 1477.8 |
 | 106  | The Mist             | 1475.6 |
-| 107  | World War Z          | 1472.5 |
-| 108  | Saving Private Ryan  | 1472.5 |
-| 109  | The Matrix Reloaded  | 1472.2 |
-| 110  | Onward               | 1472.1 |
-| 111  | Knight and Day       | 1471.6 |
-| 112  | The Mask             | 1471.5 |
-| 113  | The Ring 2           | 1470.9 |
-| 114  | Land of Bad          | 1469.5 |
-| 115  | Heidi                | 1468.7 |
-| 116  | G.I.Joe movie        | 1467.5 |
+| 107  | Red Notice           | 1474.4 |
+| 108  | World War Z          | 1472.5 |
+| 109  | Saving Private Ryan  | 1472.5 |
+| 110  | The Matrix Reloaded  | 1472.2 |
+| 111  | Onward               | 1472.1 |
+| 112  | Knight and Day       | 1471.6 |
+| 113  | The Mask             | 1471.5 |
+| 114  | The Ring 2           | 1470.9 |
+| 115  | Land of Bad          | 1469.5 |
+| 116  | Heidi                | 1468.7 |
 | 117  | Iron Chef            | 1465.8 |
 | 118  | The Spy Next Door    | 1465.6 |
 | 119  | Ninja Turtles        | 1465.0 |
@@ -136,21 +136,21 @@ python3 mvr.py
 | 126  | Drunken Master       | 1459.7 |
 | 127  | Mission Impossible 2 | 1459.6 |
 | 128  | The Matrix Revolutions | 1459.0 |
-| 129  | Red Notice           | 1458.4 |
-| 130  | Skyfall              | 1457.9 |
-| 131  | Road House           | 1457.7 |
-| 132  | The BFG              | 1457.1 |
-| 133  | Mission Impossible 1 | 1457.0 |
-| 134  | Peter the Rabbit     | 1455.9 |
-| 135  | Terminator           | 1455.5 |
-| 136  | Unbreakable          | 1455.0 |
-| 137  | Journey 2: The Mysterious Island | 1454.8 |
-| 138  | Horton hears a Who   | 1454.6 |
-| 139  | The Silence          | 1445.4 |
-| 140  | Cars 3               | 1442.7 |
-| 141  | Johnny English       | 1442.4 |
-| 142  | Independence Day     | 1442.2 |
-| 143  | John Wick            | 1441.5 |
+| 129  | Skyfall              | 1457.9 |
+| 130  | Road House           | 1457.7 |
+| 131  | Mission Impossible 1 | 1457.0 |
+| 132  | Peter the Rabbit     | 1455.9 |
+| 133  | G.I.Joe movie        | 1455.9 |
+| 134  | Terminator           | 1455.5 |
+| 135  | Unbreakable          | 1455.0 |
+| 136  | Journey 2: The Mysterious Island | 1454.8 |
+| 137  | Horton hears a Who   | 1454.6 |
+| 138  | The Silence          | 1445.4 |
+| 139  | Cars 3               | 1442.7 |
+| 140  | Johnny English       | 1442.4 |
+| 141  | Independence Day     | 1442.2 |
+| 142  | John Wick            | 1441.5 |
+| 143  | The BFG              | 1441.2 |
 | 144  | Avatar: The Last Airbender | 1440.8 |
 | 145  | Selfless             | 1440.5 |
 | 146  | Crouching Tiger Hidden Dragon | 1438.6 |
