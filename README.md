@@ -104,26 +104,26 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1494.8}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1494.7}$ |
-| $\color{green}\text{97  }$ | $\color{green}\text{Sweet Tooth}$ | $\color{green}\text{1493.3}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1493.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
 | $\color{red}\text{99  }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1485.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
-| $\color{red}\text{103 }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1484.0}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1476.5}$ |
+| $\color{green}\text{105 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1482.3}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
@@ -138,10 +138,10 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1462.1}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{red}\text{133 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1459.2}$ |
-| $\color{green}\text{134 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1457.9}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
+| $\color{red}\text{132 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1459.2}$ |
+| $\color{green}\text{133 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1457.9}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1456.3}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1454.4}$ |
