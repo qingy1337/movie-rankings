@@ -24,15 +24,15 @@ python3 mvr.py
 | 14   | The Mandalorian      | 1579.9 |
 | 15   | Beut Mind            | 1576.0 |
 | 16   | The Hobbit           | 1575.0 |
-| 17   | Avatar 2             | 1571.6 |
-| 18   | Thirteen Lives       | 1570.3 |
-| 19   | Locke and Key        | 1569.6 |
-| 20   | Halo                 | 1569.4 |
-| 21   | Source Code          | 1568.2 |
-| 22   | The Maze Runner: The Scorch Trials | 1567.0 |
-| 23   | X-Files              | 1565.9 |
-| 24   | Sneaky Pete          | 1564.5 |
-| 25   | No Country for Old Men | 1561.1 |
+| 17   | No Country for Old Men | 1573.5 |
+| 18   | Avatar 2             | 1571.6 |
+| 19   | Thirteen Lives       | 1570.3 |
+| 20   | Locke and Key        | 1569.6 |
+| 21   | Halo                 | 1569.4 |
+| 22   | Source Code          | 1568.2 |
+| 23   | The Maze Runner: The Scorch Trials | 1567.0 |
+| 24   | X-Files              | 1565.9 |
+| 25   | Sneaky Pete          | 1564.5 |
 | 26   | Squid Game           | 1560.7 |
 | 27   | Maleficent           | 1560.3 |
 | 28   | The Maze Runner: The Death Cure | 1559.8 |
@@ -99,18 +99,18 @@ python3 mvr.py
 | 89   | Ip Man               | 1495.6 |
 | 90   | Vagabond             | 1493.3 |
 | 91   | A Boy Called Christmas | 1491.7 |
-| 92   | Dune                 | 1490.9 |
-| 93   | When a Stranger Calls | 1490.6 |
-| 94   | Oppenheimer          | 1489.4 |
-| 95   | Peter the Rabbit     | 1488.2 |
-| 96   | Top Gun: Maverick    | 1488.1 |
-| 97   | Rango                | 1488.0 |
-| 98   | Megan                | 1487.9 |
-| 99   | Gladiator            | 1487.2 |
-| 100  | Top Gun              | 1485.3 |
-| 101  | Land of Bad          | 1485.0 |
-| 102  | Saving Private Ryan  | 1484.5 |
-| 103  | The BFG              | 1483.6 |
+| 92   | Mission Impossible: Rogue Nation | 1491.6 |
+| 93   | Dune                 | 1490.9 |
+| 94   | When a Stranger Calls | 1490.6 |
+| 95   | Oppenheimer          | 1489.4 |
+| 96   | Peter the Rabbit     | 1488.2 |
+| 97   | Top Gun: Maverick    | 1488.1 |
+| 98   | Rango                | 1488.0 |
+| 99   | Megan                | 1487.9 |
+| 100  | Gladiator            | 1487.2 |
+| 101  | Top Gun              | 1485.3 |
+| 102  | Land of Bad          | 1485.0 |
+| 103  | Saving Private Ryan  | 1484.5 |
 | 104  | Bloodhounds          | 1483.5 |
 | 105  | Pompeii              | 1483.4 |
 | 106  | The Curious Case of Benjamin Button | 1483.0 |
@@ -119,15 +119,15 @@ python3 mvr.py
 | 109  | Iron Chef            | 1481.6 |
 | 110  | Horton hears a Who   | 1480.1 |
 | 111  | The Spy Next Door    | 1478.6 |
-| 112  | Mission Impossible: Rogue Nation | 1477.6 |
-| 113  | School of Rock       | 1474.9 |
-| 114  | The Mist             | 1474.3 |
-| 115  | Red Notice           | 1473.5 |
-| 116  | World War Z          | 1472.5 |
-| 117  | The Matrix Reloaded  | 1472.2 |
-| 118  | The Mask of Zorro    | 1471.6 |
-| 119  | Knight and Day       | 1471.6 |
-| 120  | Red Eye              | 1471.2 |
+| 112  | School of Rock       | 1474.9 |
+| 113  | The Mist             | 1474.3 |
+| 114  | Red Notice           | 1473.5 |
+| 115  | World War Z          | 1472.5 |
+| 116  | The Matrix Reloaded  | 1472.2 |
+| 117  | The Mask of Zorro    | 1471.6 |
+| 118  | Knight and Day       | 1471.6 |
+| 119  | Red Eye              | 1471.2 |
+| 120  | The BFG              | 1471.1 |
 | 121  | The Ring 2           | 1470.9 |
 | 122  | Heidi                | 1468.7 |
 | 123  | Avatar: The Last Airbender | 1468.7 |
@@ -158,12 +158,12 @@ python3 mvr.py
 | 148  | Stillwater           | 1441.3 |
 | 149  | Selfless             | 1440.5 |
 | 150  | Crouching Tiger Hidden Dragon | 1438.6 |
-| 151  | War Horse            | 1433.9 |
-| 152  | American Sniper      | 1432.0 |
-| 153  | 65                   | 1431.0 |
-| 154  | The Darkest Hour     | 1425.0 |
-| 155  | The Last Samurai     | 1425.0 |
-| 156  | Awake                | 1421.0 |
+| 151  | American Sniper      | 1432.0 |
+| 152  | 65                   | 1431.0 |
+| 153  | The Darkest Hour     | 1425.0 |
+| 154  | The Last Samurai     | 1425.0 |
+| 155  | Awake                | 1421.0 |
+| 156  | War Horse            | 1419.9 |
 | 157  | Darkest Hour         | 1419.9 |
 | 158  | Zero Dark Thirty     | 1418.9 |
 | 159  | Arrow                | 1415.3 |
