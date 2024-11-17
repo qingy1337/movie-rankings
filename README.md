@@ -21,29 +21,29 @@ python3 mvr.py
 | 11   | Source Code          | 1555.5 |
 | 12   | Black Panther        | 1554.6 |
 | 13   | X-Men                | 1547.1 |
-| 14   | Maleficent           | 1545.7 |
-| 15   | Squid Game           | 1545.3 |
-| 16   | Halo                 | 1544.5 |
-| 17   | Wednesday            | 1544.4 |
-| 18   | The Prestige         | 1544.1 |
-| 19   | Mission Impossible: Ghost Protocol | 1543.3 |
-| 20   | Lord of the Rings    | 1543.2 |
-| 21   | The Hobbit           | 1543.1 |
-| 22   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
-| 23   | Mission Impossible: Fallout | 1543.0 |
-| 24   | Rainman              | 1542.5 |
-| 25   | The Illusionist      | 1542.4 |
-| 26   | Catch Me If You Can  | 1541.9 |
-| 27   | The Avengers         | 1541.2 |
-| 28   | The Day After Tomorrow | 1534.0 |
-| 29   | Sneaky Pete          | 1534.0 |
-| 30   | Pirates of the Caribbean | 1532.7 |
-| 31   | Avengers: Endgame    | 1532.0 |
-| 32   | Inception            | 1531.9 |
-| 33   | A Quiet Place        | 1531.3 |
-| 34   | The Mandalorian      | 1531.3 |
-| 35   | Lost in Space        | 1531.3 |
-| 36   | Dark Waters          | 1531.3 |
+| 14   | Dark Waters          | 1546.9 |
+| 15   | Maleficent           | 1545.7 |
+| 16   | Squid Game           | 1545.3 |
+| 17   | Halo                 | 1544.5 |
+| 18   | Wednesday            | 1544.4 |
+| 19   | The Prestige         | 1544.1 |
+| 20   | Mission Impossible: Ghost Protocol | 1543.3 |
+| 21   | Lord of the Rings    | 1543.2 |
+| 22   | The Hobbit           | 1543.1 |
+| 23   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 24   | Mission Impossible: Fallout | 1543.0 |
+| 25   | Rainman              | 1542.5 |
+| 26   | The Illusionist      | 1542.4 |
+| 27   | Catch Me If You Can  | 1541.9 |
+| 28   | The Avengers         | 1541.2 |
+| 29   | The Day After Tomorrow | 1534.0 |
+| 30   | Sneaky Pete          | 1534.0 |
+| 31   | Pirates of the Caribbean | 1532.7 |
+| 32   | Avengers: Endgame    | 1532.0 |
+| 33   | Inception            | 1531.9 |
+| 34   | A Quiet Place        | 1531.3 |
+| 35   | The Mandalorian      | 1531.3 |
+| 36   | Lost in Space        | 1531.3 |
 | 37   | Shawshank Redemption | 1531.3 |
 | 38   | Jack Ryan            | 1530.6 |
 | 39   | Wrath of Man         | 1530.6 |
@@ -58,37 +58,37 @@ python3 mvr.py
 | 48   | Beut Mind            | 1525.6 |
 | 49   | No Country for Old Men | 1525.4 |
 | 50   | Titanic              | 1525.4 |
-| 51   | The Terminal List    | 1524.1 |
-| 52   | The Wild Robot       | 1521.5 |
-| 53   | Train to Busan       | 1521.3 |
-| 54   | Megan                | 1521.0 |
-| 55   | X-Files              | 1520.4 |
-| 56   | Loki                 | 1519.8 |
-| 57   | The Maze Runner      | 1518.9 |
-| 58   | Scream VI            | 1518.8 |
-| 59   | Avatar 2             | 1518.7 |
-| 60   | Cars                 | 1517.2 |
-| 61   | Knight and Day       | 1516.7 |
-| 62   | The Hunger Games     | 1516.2 |
-| 63   | Scream V             | 1516.0 |
-| 64   | Saving Private Ryan  | 1516.0 |
-| 65   | A Haunting in Venice | 1516.0 |
-| 66   | Thor                 | 1516.0 |
-| 67   | Life                 | 1516.0 |
-| 68   | Doctor Strange       | 1516.0 |
-| 69   | Selfless             | 1515.3 |
-| 70   | The Ring             | 1515.3 |
-| 71   | Interstellar         | 1515.2 |
-| 72   | My Name              | 1514.8 |
-| 73   | Guy Ritchie’s The Covenant | 1514.2 |
-| 74   | Star Wars            | 1514.2 |
-| 75   | Soul                 | 1514.2 |
-| 76   | Jack Reacher         | 1514.1 |
-| 77   | Zodiac               | 1513.9 |
-| 78   | The Ninth Gate       | 1513.2 |
-| 79   | Rebel Ridge          | 1512.6 |
-| 80   | Zootopia             | 1510.5 |
-| 81   | Replicas             | 1509.1 |
+| 51   | The Wild Robot       | 1521.5 |
+| 52   | Train to Busan       | 1521.3 |
+| 53   | Megan                | 1521.0 |
+| 54   | X-Files              | 1520.4 |
+| 55   | Loki                 | 1519.8 |
+| 56   | The Maze Runner      | 1518.9 |
+| 57   | Scream VI            | 1518.8 |
+| 58   | Avatar 2             | 1518.7 |
+| 59   | Cars                 | 1517.2 |
+| 60   | Knight and Day       | 1516.7 |
+| 61   | The Hunger Games     | 1516.2 |
+| 62   | Scream V             | 1516.0 |
+| 63   | Saving Private Ryan  | 1516.0 |
+| 64   | A Haunting in Venice | 1516.0 |
+| 65   | Thor                 | 1516.0 |
+| 66   | Life                 | 1516.0 |
+| 67   | Doctor Strange       | 1516.0 |
+| 68   | Selfless             | 1515.3 |
+| 69   | The Ring             | 1515.3 |
+| 70   | Interstellar         | 1515.2 |
+| 71   | My Name              | 1514.8 |
+| 72   | Guy Ritchie’s The Covenant | 1514.2 |
+| 73   | Star Wars            | 1514.2 |
+| 74   | Soul                 | 1514.2 |
+| 75   | Jack Reacher         | 1514.1 |
+| 76   | Zodiac               | 1513.9 |
+| 77   | The Ninth Gate       | 1513.2 |
+| 78   | Rebel Ridge          | 1512.6 |
+| 79   | Zootopia             | 1510.5 |
+| 80   | Replicas             | 1509.1 |
+| 81   | The Terminal List    | 1508.4 |
 | 82   | The Young and Prodigious T.S. Spivet | 1506.1 |
 | 83   | Red Eye              | 1502.8 |
 | 84   | Sweet Tooth          | 1502.7 |
