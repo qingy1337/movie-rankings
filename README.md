@@ -20,13 +20,13 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1624.9}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1624.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1621.9}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1620.1}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1619.5}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1617.4}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1616.6}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1612.9}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1611.8}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1611.0}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1620.2}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1620.1}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1619.5}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1617.4}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1616.6}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1612.9}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1611.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1610.1}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1609.4}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1605.3}$ |
@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1533.1}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1529.8}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1529.5}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1529.5}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1528.6}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1527.0}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1526.1}$ |
@@ -126,13 +126,13 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1456.7}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1455.5}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.4}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1454.3}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1450.5}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1449.7}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1449.2}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1447.5}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1445.4}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1450.5}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1449.7}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1449.2}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1447.5}$ |
+| $\color{red}\text{124 }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1445.4}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1445.0}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1443.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1441.0}$ |
