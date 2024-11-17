@@ -20,8 +20,8 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1569.1}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1563.2}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1568.5}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
@@ -55,15 +55,15 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.8}$ |
 | $\color{green}\text{46  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1536.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
-| $\color{green}\text{48  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1534.1}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1530.4}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1529.0}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1528.1}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1527.2}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1526.5}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1526.5}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
+| $\color{red}\text{56  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1521.8}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
@@ -85,7 +85,7 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1510.3}$ |
-| $\color{red}\text{78  }$ | $\color{red}\text{Star Trek: Picard}$ | $\color{red}\text{1507.1}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1505.9}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1505.8}$ |
