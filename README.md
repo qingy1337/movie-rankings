@@ -50,25 +50,25 @@ python3 mvr.py
 | 40   | Jack Ryan            | 1530.6 |
 | 41   | Wrath of Man         | 1530.6 |
 | 42   | Captain America: The Winter Soldier | 1530.5 |
-| 43   | Iron Man             | 1529.8 |
-| 44   | Dune                 | 1528.5 |
-| 45   | Mission Impossible: Dead Reckoning P1 | 1526.4 |
-| 46   | World War Z          | 1526.4 |
-| 47   | The Maze Runner: The Scorch Trials | 1526.2 |
-| 48   | Beut Mind            | 1525.6 |
-| 49   | No Country for Old Men | 1525.4 |
-| 50   | The Terminal List    | 1524.1 |
-| 51   | The Wild Robot       | 1521.5 |
-| 52   | Train to Busan       | 1521.3 |
-| 53   | X-Files              | 1520.4 |
-| 54   | Loki                 | 1519.8 |
-| 55   | The Maze Runner      | 1518.9 |
-| 56   | Scream VI            | 1518.8 |
-| 57   | Avatar 2             | 1518.7 |
-| 58   | Cars                 | 1517.2 |
-| 59   | Knight and Day       | 1516.7 |
-| 60   | The Hunger Games     | 1516.2 |
-| 61   | Life of Pi           | 1516.0 |
+| 43   | Life of Pi           | 1530.1 |
+| 44   | Iron Man             | 1529.8 |
+| 45   | Dune                 | 1528.5 |
+| 46   | Mission Impossible: Dead Reckoning P1 | 1526.4 |
+| 47   | World War Z          | 1526.4 |
+| 48   | The Maze Runner: The Scorch Trials | 1526.2 |
+| 49   | Beut Mind            | 1525.6 |
+| 50   | No Country for Old Men | 1525.4 |
+| 51   | The Terminal List    | 1524.1 |
+| 52   | The Wild Robot       | 1521.5 |
+| 53   | Train to Busan       | 1521.3 |
+| 54   | X-Files              | 1520.4 |
+| 55   | Loki                 | 1519.8 |
+| 56   | The Maze Runner      | 1518.9 |
+| 57   | Scream VI            | 1518.8 |
+| 58   | Avatar 2             | 1518.7 |
+| 59   | Cars                 | 1517.2 |
+| 60   | Knight and Day       | 1516.7 |
+| 61   | The Hunger Games     | 1516.2 |
 | 62   | Scream V             | 1516.0 |
 | 63   | Saving Private Ryan  | 1516.0 |
 | 64   | A Haunting in Venice | 1516.0 |
@@ -131,40 +131,40 @@ python3 mvr.py
 | 121  | Mission Impossible 2 | 1473.6 |
 | 122  | Rampage              | 1473.6 |
 | 123  | Road House           | 1473.1 |
-| 124  | American Sniper      | 1473.0 |
+| 124  | The Mask             | 1472.9 |
 | 125  | The Matrix Reloaded  | 1472.2 |
 | 126  | Drunken Master       | 1472.1 |
 | 127  | American Made        | 1470.8 |
 | 128  | The Man in the Iron Mask | 1470.2 |
-| 129  | Iron Chef            | 1469.8 |
-| 130  | The Matrix Revolutions | 1469.7 |
-| 131  | Top Gun: Maverick    | 1469.5 |
-| 132  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 133  | Heidi                | 1468.7 |
-| 134  | Avatar: The Last Airbender | 1468.7 |
-| 135  | Rango                | 1468.7 |
-| 136  | Unbreakable          | 1468.5 |
-| 137  | Top Gun              | 1468.2 |
-| 138  | The Mist             | 1468.1 |
-| 139  | Mission Impossible 1 | 1468.0 |
-| 140  | John Wick            | 1467.8 |
-| 141  | 65                   | 1467.6 |
-| 142  | The Firm             | 1467.6 |
-| 143  | Total Recall         | 1461.3 |
+| 129  | The Matrix Revolutions | 1469.7 |
+| 130  | Top Gun: Maverick    | 1469.5 |
+| 131  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 132  | Heidi                | 1468.7 |
+| 133  | Avatar: The Last Airbender | 1468.7 |
+| 134  | Rango                | 1468.7 |
+| 135  | Unbreakable          | 1468.5 |
+| 136  | Top Gun              | 1468.2 |
+| 137  | The Mist             | 1468.1 |
+| 138  | Mission Impossible 1 | 1468.0 |
+| 139  | John Wick            | 1467.8 |
+| 140  | 65                   | 1467.6 |
+| 141  | The Firm             | 1467.6 |
+| 142  | Total Recall         | 1461.3 |
+| 143  | American Sniper      | 1459.0 |
 | 144  | Zero Dark Thirty     | 1457.6 |
 | 145  | Johnny English       | 1457.5 |
 | 146  | Frequency            | 1456.9 |
 | 147  | A Quiet Place: Day One | 1456.8 |
-| 148  | The Mask             | 1456.2 |
-| 149  | Cars 3               | 1456.1 |
-| 150  | Awake                | 1455.6 |
-| 151  | Peter the Rabbit     | 1455.0 |
-| 152  | The Silence          | 1454.9 |
-| 153  | All Quiet on The Western Front | 1454.9 |
-| 154  | Shadow               | 1454.8 |
-| 155  | Journey 2: The Mysterious Island | 1454.8 |
-| 156  | Spooky Buddies       | 1454.7 |
-| 157  | Stillwater           | 1454.4 |
+| 148  | Cars 3               | 1456.1 |
+| 149  | Awake                | 1455.6 |
+| 150  | Peter the Rabbit     | 1455.0 |
+| 151  | The Silence          | 1454.9 |
+| 152  | All Quiet on The Western Front | 1454.9 |
+| 153  | Shadow               | 1454.8 |
+| 154  | Journey 2: The Mysterious Island | 1454.8 |
+| 155  | Spooky Buddies       | 1454.7 |
+| 156  | Stillwater           | 1454.4 |
+| 157  | Iron Chef            | 1453.1 |
 | 158  | War Horse            | 1446.0 |
 | 159  | Black Hawk Down      | 1443.6 |
 | 160  | Arrow                | 1442.5 |
