@@ -35,13 +35,13 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.2}$ |
 | $\color{green}\text{26  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
-| $\color{green}\text{33  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1567.4}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1567.1}$ |
+| $\color{green}\text{28  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1572.6}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1571.5}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1567.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
@@ -62,11 +62,11 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1538.4}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{red}\text{58  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1534.4}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1533.7}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1533.7}$ |
+| $\color{red}\text{59  }$ | $\color{red}\text{The Man Who Knew Infinity}$ | $\color{red}\text{1532.9}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1532.3}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
@@ -166,7 +166,7 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1406.7}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
-| $\color{green}\text{159 }$ | $\color{green}\text{Gravity}$ | $\color{green}\text{1406.2}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1405.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
