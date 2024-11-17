@@ -103,14 +103,14 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1494.8}$ |
-| $\color{green}\text{96  }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1494.7}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{red}\text{102 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1484.6}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1494.7}$ |
+| $\color{green}\text{97  }$ | $\color{green}\text{Sweet Tooth}$ | $\color{green}\text{1493.3}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{red}\text{101 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1484.6}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1484.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
@@ -132,7 +132,7 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1465.6}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1465.6}$ |
 | $\color{green}\text{126 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1465.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
