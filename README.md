@@ -18,7 +18,7 @@ python3 mvr.py
 | $\color{black}\text{8   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1581.5}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1580.9}$ |
-| $\color{green}\text{11  }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1579.4}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1579.4}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1577.6}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1576.7}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.0}$ |
@@ -30,14 +30,14 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1568.4}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1567.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.6}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.4}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1567.4}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1566.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.2}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1562.7}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1559.7}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.1}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1558.8}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1567.4}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1566.2}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.2}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1562.7}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1559.7}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.1}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1558.8}$ |
+| $\color{red}\text{30  }$ | $\color{red}\text{Vagabond}$ | $\color{red}\text{1557.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1556.6}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1556.0}$ |
@@ -93,18 +93,18 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.4}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1504.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.9}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1501.3}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1501.3}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.7}$ |
-| $\color{red}\text{89  }$ | $\color{red}\text{Top Gun: Maverick}$ | $\color{red}\text{1500.6}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.4}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.9}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1495.4}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1493.9}$ |
-| $\color{green}\text{95  }$ | $\color{green}\text{Rango}$ | $\color{green}\text{1492.8}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1492.5}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1492.3}$ |
+| $\color{green}\text{86  }$ | $\color{green}\text{Glass Castle}$ | $\color{green}\text{1502.0}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1501.3}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1501.3}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.7}$ |
+| $\color{red}\text{90  }$ | $\color{red}\text{Top Gun: Maverick}$ | $\color{red}\text{1500.6}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.4}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.9}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1495.4}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1493.9}$ |
+| $\color{green}\text{96  }$ | $\color{green}\text{Rango}$ | $\color{green}\text{1492.8}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1492.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1491.6}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1490.9}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.5}$ |
@@ -140,7 +140,7 @@ python3 mvr.py
 | $\color{black}\text{130 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1457.7}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1455.3}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1455.2}$ |
-| $\color{red}\text{133 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1453.5}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1453.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.4}$ |
