@@ -105,7 +105,7 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.2}$ |
-| $\color{green}\text{98  }$ | $\color{green}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{green}\text{1481.4}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1481.4}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
@@ -121,17 +121,17 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{green}\text{114 }$ | $\color{green}\text{Cars 3}$ | $\color{green}\text{1464.2}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1459.8}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1458.2}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1454.3}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1454.3}$ |
+| $\color{red}\text{124 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1454.1}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
@@ -175,7 +175,7 @@ python3 mvr.py
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
-| $\color{red}\text{168 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1389.9}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1389.9}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1386.3}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
