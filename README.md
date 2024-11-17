@@ -58,23 +58,23 @@ python3 mvr.py
 | 48   | A Haunting in Venice | 1516.0 |
 | 49   | Dark Waters          | 1516.0 |
 | 50   | Doctor Strange       | 1516.0 |
-| 51   | Rebel Ridge          | 1516.0 |
-| 52   | Rainman              | 1516.0 |
-| 53   | Pirates of the Caribbean | 1516.0 |
-| 54   | Guy Ritchie’s The Covenant | 1516.0 |
-| 55   | The Mandalorian      | 1516.0 |
-| 56   | The Ring             | 1515.3 |
-| 57   | Life of Pi           | 1515.3 |
-| 58   | Jack Ryan            | 1515.3 |
-| 59   | Interstellar         | 1515.3 |
-| 60   | Mission Impossible: Fallout | 1515.3 |
-| 61   | The Hobbit           | 1514.6 |
-| 62   | Catch Me If You Can  | 1514.6 |
-| 63   | The Illusionist      | 1514.6 |
-| 64   | The Maze Runner: The Scorch Trials | 1514.5 |
-| 65   | Jack Reacher         | 1514.1 |
-| 66   | Gladiator            | 1514.0 |
-| 67   | The Avengers         | 1511.8 |
+| 51   | Rainman              | 1516.0 |
+| 52   | Pirates of the Caribbean | 1516.0 |
+| 53   | Guy Ritchie’s The Covenant | 1516.0 |
+| 54   | The Mandalorian      | 1516.0 |
+| 55   | The Ring             | 1515.3 |
+| 56   | Life of Pi           | 1515.3 |
+| 57   | Jack Ryan            | 1515.3 |
+| 58   | Interstellar         | 1515.3 |
+| 59   | Mission Impossible: Fallout | 1515.3 |
+| 60   | The Hobbit           | 1514.6 |
+| 61   | Catch Me If You Can  | 1514.6 |
+| 62   | The Illusionist      | 1514.6 |
+| 63   | The Maze Runner: The Scorch Trials | 1514.5 |
+| 64   | Jack Reacher         | 1514.1 |
+| 65   | Gladiator            | 1514.0 |
+| 66   | The Avengers         | 1511.8 |
+| 67   | Top Gun              | 1503.4 |
 | 68   | Iron Chef            | 1501.6 |
 | 69   | The Terminal List    | 1501.5 |
 | 70   | Knight and Day       | 1501.4 |
@@ -106,18 +106,18 @@ python3 mvr.py
 | 96   | Soul                 | 1500.0 |
 | 97   | American Made        | 1499.3 |
 | 98   | Zodiac               | 1499.3 |
-| 99   | The Ring 2           | 1498.6 |
-| 100  | The Ninth Gate       | 1498.6 |
-| 101  | Red Notice           | 1498.5 |
-| 102  | Journey 2: The Mysterious Island | 1498.5 |
-| 103  | Stillwater           | 1498.0 |
-| 104  | The Spy Next Door    | 1497.3 |
-| 105  | Pompeii              | 1495.9 |
-| 106  | Mission Impossible: Rogue Nation | 1491.2 |
-| 107  | Vagabond             | 1488.1 |
-| 108  | Star Trek: Picard    | 1486.2 |
-| 109  | Zero Dark Thirty     | 1486.1 |
-| 110  | Top Gun              | 1486.0 |
+| 99   | Rebel Ridge          | 1498.6 |
+| 100  | The Ring 2           | 1498.6 |
+| 101  | The Ninth Gate       | 1498.6 |
+| 102  | Red Notice           | 1498.5 |
+| 103  | Journey 2: The Mysterious Island | 1498.5 |
+| 104  | Stillwater           | 1498.0 |
+| 105  | The Spy Next Door    | 1497.3 |
+| 106  | Pompeii              | 1495.9 |
+| 107  | Mission Impossible: Rogue Nation | 1491.2 |
+| 108  | Vagabond             | 1488.1 |
+| 109  | Star Trek: Picard    | 1486.2 |
+| 110  | Zero Dark Thirty     | 1486.1 |
 | 111  | The Matrix Revolutions | 1485.4 |
 | 112  | 65                   | 1484.8 |
 | 113  | The Matrix           | 1484.7 |
