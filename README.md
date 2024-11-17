@@ -62,12 +62,12 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1530.7}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{green}\text{59  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1529.3}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1529.0}$ |
+| $\color{green}\text{55  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1534.5}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1530.7}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
+| $\color{green}\text{60  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1529.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1528.4}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
@@ -91,12 +91,12 @@ python3 mvr.py
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1503.4}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
-| $\color{green}\text{86  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1500.3}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1500.0}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
+| $\color{green}\text{85  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1500.3}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1500.0}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{red}\text{89  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1497.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.0}$ |
@@ -150,12 +150,12 @@ python3 mvr.py
 | $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1443.3}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1434.7}$ |
-| $\color{red}\text{143 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1434.6}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.6}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1429.8}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1429.0}$ |
-| $\color{green}\text{148 }$ | $\color{green}\text{Arrow}$ | $\color{green}\text{1428.3}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.3}$ |
 | $\color{red}\text{149 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1427.3}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
