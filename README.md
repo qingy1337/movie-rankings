@@ -31,11 +31,11 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1572.2}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
@@ -153,10 +153,10 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.6}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1429.8}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1429.0}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.3}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1427.3}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1429.0}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.3}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1427.3}$ |
+| $\color{red}\text{149 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1426.1}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
