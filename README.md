@@ -21,7 +21,7 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1591.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1589.7}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1589.7}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1589.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
@@ -34,11 +34,11 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1574.1}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1566.8}$ |
+| $\color{green}\text{27  }$ | $\color{green}\text{No Country for Old Men}$ | $\color{green}\text{1571.9}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.7}$ |
 | $\color{red}\text{34  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1562.6}$ |
@@ -81,9 +81,9 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1515.5}$ |
-| $\color{red}\text{75  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1514.1}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
+| $\color{red}\text{74  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1514.1}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
+| $\color{red}\text{76  }$ | $\color{red}\text{Iron Chef}$ | $\color{red}\text{1510.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1508.6}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
@@ -156,7 +156,7 @@ python3 mvr.py
 | $\color{black}\text{146 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1426.1}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1425.6}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
