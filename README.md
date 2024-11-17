@@ -30,21 +30,21 @@ python3 mvr.py
 | 20   | Halo                 | 1569.4 |
 | 21   | Source Code          | 1568.2 |
 | 22   | The Maze Runner: The Scorch Trials | 1567.0 |
-| 23   | Sneaky Pete          | 1564.5 |
-| 24   | No Country for Old Men | 1561.1 |
-| 25   | Squid Game           | 1560.7 |
-| 26   | The Maze Runner: The Death Cure | 1559.8 |
-| 27   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
-| 28   | Doctor Strange       | 1558.6 |
-| 29   | X-Files              | 1551.6 |
-| 30   | Avengers: Age of Ultron | 1551.0 |
-| 31   | Titanic              | 1549.3 |
-| 32   | Inception            | 1548.9 |
-| 33   | Scream VI            | 1548.0 |
-| 34   | My Name              | 1548.0 |
-| 35   | Shawshank Redemption | 1547.2 |
-| 36   | The Wild Robot       | 1547.0 |
-| 37   | Maleficent           | 1545.7 |
+| 23   | X-Files              | 1565.9 |
+| 24   | Sneaky Pete          | 1564.5 |
+| 25   | No Country for Old Men | 1561.1 |
+| 26   | Squid Game           | 1560.7 |
+| 27   | Maleficent           | 1560.3 |
+| 28   | The Maze Runner: The Death Cure | 1559.8 |
+| 29   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
+| 30   | Doctor Strange       | 1558.6 |
+| 31   | Avengers: Age of Ultron | 1551.0 |
+| 32   | Titanic              | 1549.3 |
+| 33   | Inception            | 1548.9 |
+| 34   | Scream VI            | 1548.0 |
+| 35   | My Name              | 1548.0 |
+| 36   | Shawshank Redemption | 1547.2 |
+| 37   | The Wild Robot       | 1547.0 |
 | 38   | Tenet                | 1544.7 |
 | 39   | The Young and Prodigious T.S. Spivet | 1544.3 |
 | 40   | The Prestige         | 1544.1 |
@@ -74,22 +74,22 @@ python3 mvr.py
 | 64   | Scream V             | 1516.0 |
 | 65   | Cars                 | 1515.8 |
 | 66   | Interstellar         | 1515.2 |
-| 67   | The Matrix           | 1515.0 |
-| 68   | Wrath of Man         | 1514.7 |
-| 69   | Captain America: The Winter Soldier | 1514.6 |
-| 70   | Avatar               | 1514.4 |
-| 71   | Guy Ritchie’s The Covenant | 1514.2 |
-| 72   | Dark Waters          | 1511.2 |
-| 73   | Zootopia             | 1510.5 |
-| 74   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
-| 75   | The Tomorrow War     | 1508.3 |
-| 76   | The Man in the Iron Mask | 1506.8 |
-| 77   | Glass Castle         | 1504.7 |
-| 78   | Jack Reacher         | 1504.2 |
-| 79   | Total Recall         | 1503.7 |
-| 80   | Thor                 | 1502.4 |
-| 81   | Soul                 | 1502.0 |
-| 82   | A Haunting in Venice | 1501.3 |
+| 67   | Captain America: The Winter Soldier | 1514.6 |
+| 68   | Avatar               | 1514.4 |
+| 69   | Guy Ritchie’s The Covenant | 1514.2 |
+| 70   | Dark Waters          | 1511.2 |
+| 71   | Zootopia             | 1510.5 |
+| 72   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
+| 73   | The Tomorrow War     | 1508.3 |
+| 74   | The Man in the Iron Mask | 1506.8 |
+| 75   | Glass Castle         | 1504.7 |
+| 76   | Jack Reacher         | 1504.2 |
+| 77   | Total Recall         | 1503.7 |
+| 78   | Thor                 | 1502.4 |
+| 79   | Soul                 | 1502.0 |
+| 80   | A Haunting in Venice | 1501.3 |
+| 81   | The Matrix           | 1500.7 |
+| 82   | Wrath of Man         | 1500.1 |
 | 83   | Jack Reacher: Never Go Back | 1500.1 |
 | 84   | Cars 2               | 1499.8 |
 | 85   | Lord of the Rings    | 1498.9 |
