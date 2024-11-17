@@ -30,18 +30,18 @@ python3 mvr.py
 | 20   | Doctor Strange       | 1580.7 |
 | 21   | The Hobbit           | 1575.0 |
 | 22   | Avengers: Endgame    | 1573.7 |
-| 23   | Locke and Key        | 1569.6 |
-| 24   | Source Code          | 1568.2 |
-| 25   | The Ninth Gate       | 1567.9 |
-| 26   | X-Files              | 1565.9 |
-| 27   | The Wild Robot       | 1562.8 |
-| 28   | X-Men                | 1561.6 |
-| 29   | Avatar 2             | 1561.3 |
-| 30   | Jack Ryan            | 1560.7 |
-| 31   | Squid Game           | 1560.7 |
-| 32   | The Illusionist      | 1559.2 |
-| 33   | Vagabond             | 1558.2 |
-| 34   | Life                 | 1558.1 |
+| 23   | Life                 | 1570.4 |
+| 24   | Locke and Key        | 1569.6 |
+| 25   | Source Code          | 1568.2 |
+| 26   | The Ninth Gate       | 1567.9 |
+| 27   | X-Files              | 1565.9 |
+| 28   | The Wild Robot       | 1562.8 |
+| 29   | X-Men                | 1561.6 |
+| 30   | Avatar 2             | 1561.3 |
+| 31   | Jack Ryan            | 1560.7 |
+| 32   | Squid Game           | 1560.7 |
+| 33   | The Illusionist      | 1559.2 |
+| 34   | Vagabond             | 1558.2 |
 | 35   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
 | 36   | The Maze Runner: The Death Cure | 1557.0 |
 | 37   | Halo                 | 1556.2 |
@@ -71,13 +71,13 @@ python3 mvr.py
 | 61   | Guy Ritchie’s The Covenant | 1527.5 |
 | 62   | Rainman              | 1526.3 |
 | 63   | Replicas             | 1525.3 |
-| 64   | Shawshank Redemption | 1524.4 |
-| 65   | Star Trek: Picard    | 1521.3 |
-| 66   | Mission Impossible: Rogue Nation | 1519.4 |
-| 67   | Thor                 | 1516.7 |
-| 68   | Captain America: The Winter Soldier | 1514.6 |
-| 69   | Avatar               | 1514.4 |
-| 70   | Scream V             | 1513.9 |
+| 64   | Scream V             | 1524.9 |
+| 65   | Shawshank Redemption | 1524.4 |
+| 66   | Star Trek: Picard    | 1521.3 |
+| 67   | Mission Impossible: Rogue Nation | 1519.4 |
+| 68   | Thor                 | 1516.7 |
+| 69   | Captain America: The Winter Soldier | 1514.6 |
+| 70   | Avatar               | 1514.4 |
 | 71   | The Matrix           | 1513.9 |
 | 72   | A Haunting in Venice | 1511.5 |
 | 73   | Ip Man               | 1510.8 |
@@ -108,23 +108,23 @@ python3 mvr.py
 | 98   | Mission Impossible 2 | 1479.6 |
 | 99   | Ninja Turtles        | 1479.1 |
 | 100  | Rampage              | 1478.0 |
-| 101  | When a Stranger Calls | 1477.8 |
-| 102  | The Matrix Revolutions | 1475.4 |
-| 103  | The Man in the Iron Mask | 1472.8 |
-| 104  | Saving Private Ryan  | 1472.5 |
-| 105  | Onward               | 1472.1 |
-| 106  | American Sniper      | 1472.1 |
-| 107  | Knight and Day       | 1471.6 |
-| 108  | Red Eye              | 1471.5 |
-| 109  | The Mask             | 1471.5 |
-| 110  | Jack Reacher: Never Go Back | 1470.7 |
-| 111  | Glass Castle         | 1470.4 |
-| 112  | Land of Bad          | 1469.5 |
-| 113  | The Ring             | 1469.2 |
-| 114  | Heidi                | 1468.7 |
-| 115  | Mission Impossible 1 | 1467.9 |
-| 116  | Iron Chef            | 1465.8 |
-| 117  | The Mist             | 1465.4 |
+| 101  | The Matrix Revolutions | 1475.4 |
+| 102  | The Man in the Iron Mask | 1472.8 |
+| 103  | Saving Private Ryan  | 1472.5 |
+| 104  | Onward               | 1472.1 |
+| 105  | American Sniper      | 1472.1 |
+| 106  | Knight and Day       | 1471.6 |
+| 107  | Red Eye              | 1471.5 |
+| 108  | The Mask             | 1471.5 |
+| 109  | Jack Reacher: Never Go Back | 1470.7 |
+| 110  | Glass Castle         | 1470.4 |
+| 111  | Land of Bad          | 1469.5 |
+| 112  | The Ring             | 1469.2 |
+| 113  | Heidi                | 1468.7 |
+| 114  | Mission Impossible 1 | 1467.9 |
+| 115  | Iron Chef            | 1465.8 |
+| 116  | The Mist             | 1465.4 |
+| 117  | When a Stranger Calls | 1465.4 |
 | 118  | World War Z          | 1464.8 |
 | 119  | GoldenEye            | 1463.3 |
 | 120  | Johnny English       | 1461.2 |
@@ -168,10 +168,10 @@ python3 mvr.py
 | 158  | AK-47 Kalashnikov    | 1409.5 |
 | 159  | Jurassic World: Dominion | 1403.0 |
 | 160  | Everything, everywhere, all at once | 1401.1 |
-| 161  | Darkest Hour         | 1400.1 |
-| 162  | War Horse            | 1394.0 |
-| 163  | A Quiet Place: Day One | 1392.8 |
-| 164  | Gravity              | 1391.8 |
+| 161  | War Horse            | 1394.0 |
+| 162  | A Quiet Place: Day One | 1392.8 |
+| 163  | Gravity              | 1391.8 |
+| 164  | Darkest Hour         | 1389.2 |
 | 165  | Spooky Buddies       | 1388.6 |
 | 166  | Black Hawk Down      | 1385.4 |
 | 167  | All Quiet on The Western Front | 1385.3 |
