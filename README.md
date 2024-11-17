@@ -33,7 +33,7 @@ python3 mvr.py
 | $\color{green}\text{23  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1558.6}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1556.6}$ |
+| $\color{red}\text{26  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1556.5}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
@@ -45,7 +45,7 @@ python3 mvr.py
 | $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{green}\text{36  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1548.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
+| $\color{green}\text{38  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1548.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
@@ -101,7 +101,7 @@ python3 mvr.py
 | $\color{green}\text{91  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1496.8}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
-| $\color{green}\text{94  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1492.9}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
 | $\color{red}\text{96  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1488.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
 | $\color{red}\text{140 }$ | $\color{red}\text{Red Eye}$ | $\color{red}\text{1447.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1447.3}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1447.0}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1444.2}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1444.0}$ |
