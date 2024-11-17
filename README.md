@@ -84,14 +84,14 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
-| $\color{red}\text{77  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1507.4}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1503.4}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1502.1}$ |
+| $\color{green}\text{77  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1507.4}$ |
+| $\color{red}\text{78  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1507.4}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1503.4}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1500.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
@@ -130,14 +130,14 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1462.1}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.6}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.6}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
+| $\color{red}\text{130 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1456.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
@@ -168,7 +168,7 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
-| $\color{red}\text{161 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1413.0}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1413.0}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
