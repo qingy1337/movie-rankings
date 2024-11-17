@@ -48,10 +48,10 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1544.7}$ |
 | $\color{red}\text{39  }$ | $\color{red}\text{Avengers: Age of Ultron}$ | $\color{red}\text{1543.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1538.1}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1536.9}$ |
+| $\color{green}\text{41  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1541.0}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1538.1}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1531.1}$ |
@@ -137,7 +137,7 @@ python3 mvr.py
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
 | $\color{green}\text{129 }$ | $\color{green}\text{Journey 2: The Mysterious Island}$ | $\color{green}\text{1461.1}$ |
-| $\color{red}\text{130 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1460.8}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1456.9}$ |
@@ -154,7 +154,7 @@ python3 mvr.py
 | $\color{red}\text{144 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1446.5}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1446.1}$ |
-| $\color{green}\text{147 }$ | $\color{green}\text{All Quiet on The Western Front}$ | $\color{green}\text{1445.7}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1445.7}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
@@ -173,10 +173,10 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1423.7}$ |
-| $\color{red}\text{167 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1422.6}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1422.6}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
+| $\color{red}\text{169 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1419.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
 | $\color{red}\text{171 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1415.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1405.6}$ |
