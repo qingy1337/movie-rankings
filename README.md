@@ -14,7 +14,7 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1600.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1598.9}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1597.5}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
 | $\color{green}\text{8   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1596.9}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1595.2}$ |
@@ -42,10 +42,10 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.7}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1562.3}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
+| $\color{green}\text{35  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1561.6}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{red}\text{39  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1557.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
@@ -79,7 +79,7 @@ python3 mvr.py
 | $\color{green}\text{69  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1518.9}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
-| $\color{red}\text{72  }$ | $\color{red}\text{Bloodhounds}$ | $\color{red}\text{1512.5}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1512.5}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
@@ -146,8 +146,8 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.2}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1440.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1438.8}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
