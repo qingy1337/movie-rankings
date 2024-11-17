@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1520.2}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1520.0}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
 | $\color{green}\text{64  }$ | $\color{green}\text{A Haunting in Venice}$ | $\color{green}\text{1517.8}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
@@ -96,14 +96,14 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1498.1}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1494.8}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1494.7}$ |
+| $\color{green}\text{89  }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1499.6}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1498.1}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1494.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1493.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
@@ -169,14 +169,14 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1431.5}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1428.5}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1426.4}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1426.4}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
+| $\color{red}\text{167 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1423.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
-| $\color{red}\text{169 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1420.7}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1404.5}$ |
