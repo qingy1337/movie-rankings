@@ -20,25 +20,25 @@ python3 mvr.py
 | 10   | Avengers: Age of Ultron | 1516.0 |
 | 11   | Doctor Strange       | 1516.0 |
 | 12   | School of Rock       | 1516.0 |
-| 13   | Rainman              | 1516.0 |
-| 14   | Pirates of the Caribbean | 1516.0 |
-| 15   | Guy Ritchie’s The Covenant | 1516.0 |
-| 16   | Train to Busan       | 1516.0 |
-| 17   | The Avengers         | 1515.3 |
-| 18   | Shang-Chi and the Legend of the Ten Rings | 1515.3 |
-| 19   | American Made        | 1500.0 |
-| 20   | X-Men                | 1500.0 |
-| 21   | A.I. Artificial Intelligence | 1500.0 |
-| 22   | Scream V             | 1500.0 |
-| 23   | Scream VI            | 1500.0 |
-| 24   | 65                   | 1500.0 |
-| 25   | The Matrix           | 1500.0 |
-| 26   | The Matrix Reloaded  | 1500.0 |
-| 27   | The Matrix Revolutions | 1500.0 |
-| 28   | Selfless             | 1500.0 |
-| 29   | Zootopia             | 1500.0 |
-| 30   | Stillwater           | 1500.0 |
-| 31   | Cars                 | 1500.0 |
+| 13   | Mission Impossible: Ghost Protocol | 1516.0 |
+| 14   | Rainman              | 1516.0 |
+| 15   | Pirates of the Caribbean | 1516.0 |
+| 16   | Guy Ritchie’s The Covenant | 1516.0 |
+| 17   | Train to Busan       | 1516.0 |
+| 18   | The Avengers         | 1515.3 |
+| 19   | Shang-Chi and the Legend of the Ten Rings | 1515.3 |
+| 20   | American Made        | 1500.0 |
+| 21   | X-Men                | 1500.0 |
+| 22   | A.I. Artificial Intelligence | 1500.0 |
+| 23   | Scream V             | 1500.0 |
+| 24   | Scream VI            | 1500.0 |
+| 25   | 65                   | 1500.0 |
+| 26   | The Matrix           | 1500.0 |
+| 27   | The Matrix Reloaded  | 1500.0 |
+| 28   | The Matrix Revolutions | 1500.0 |
+| 29   | Selfless             | 1500.0 |
+| 30   | Zootopia             | 1500.0 |
+| 31   | Stillwater           | 1500.0 |
 | 32   | Cars 2               | 1500.0 |
 | 33   | Cars 3               | 1500.0 |
 | 34   | The Terminal List    | 1500.0 |
@@ -127,41 +127,41 @@ python3 mvr.py
 | 117  | Mission Impossible 1 | 1500.0 |
 | 118  | Mission Impossible 2 | 1500.0 |
 | 119  | Mission Impossible 3 | 1500.0 |
-| 120  | Mission Impossible: Ghost Protocol | 1500.0 |
-| 121  | Mission Impossible: Rogue Nation | 1500.0 |
-| 122  | Mission Impossible: Fallout | 1500.0 |
-| 123  | Mission Impossible: Dead Reckoning P1 | 1500.0 |
-| 124  | The Last Samurai     | 1500.0 |
-| 125  | Zodiac               | 1500.0 |
-| 126  | Bloodhounds          | 1500.0 |
-| 127  | Megan                | 1500.0 |
-| 128  | My Name              | 1500.0 |
-| 129  | All Quiet on The Western Front | 1500.0 |
-| 130  | Pompeii              | 1500.0 |
-| 131  | Shadow               | 1500.0 |
-| 132  | GoldenEye            | 1500.0 |
-| 133  | The Man Who Knew Infinity | 1500.0 |
-| 134  | Titanic              | 1500.0 |
-| 135  | Sweet Tooth          | 1500.0 |
-| 136  | The Battle at Lake Changjin | 1500.0 |
-| 137  | Lost in Space        | 1500.0 |
-| 138  | X-Files              | 1500.0 |
-| 139  | Rampage              | 1500.0 |
-| 140  | War Horse            | 1500.0 |
-| 141  | Skyfall              | 1500.0 |
-| 142  | Harry Potter         | 1500.0 |
-| 143  | John Wick            | 1500.0 |
-| 144  | Onward               | 1500.0 |
-| 145  | The Darkest Hour     | 1500.0 |
-| 146  | Top Gun: Maverick    | 1500.0 |
-| 147  | Top Gun              | 1500.0 |
-| 148  | The Hobbit           | 1500.0 |
-| 149  | A Quiet Place: Day One | 1500.0 |
-| 150  | A Quiet Place        | 1500.0 |
-| 151  | Frequency            | 1500.0 |
-| 152  | The Young and Prodigious T.S. Spivet | 1500.0 |
-| 153  | Soul                 | 1500.0 |
-| 154  | The Mandalorian      | 1500.0 |
+| 120  | Mission Impossible: Rogue Nation | 1500.0 |
+| 121  | Mission Impossible: Fallout | 1500.0 |
+| 122  | Mission Impossible: Dead Reckoning P1 | 1500.0 |
+| 123  | The Last Samurai     | 1500.0 |
+| 124  | Zodiac               | 1500.0 |
+| 125  | Bloodhounds          | 1500.0 |
+| 126  | Megan                | 1500.0 |
+| 127  | My Name              | 1500.0 |
+| 128  | All Quiet on The Western Front | 1500.0 |
+| 129  | Pompeii              | 1500.0 |
+| 130  | Shadow               | 1500.0 |
+| 131  | GoldenEye            | 1500.0 |
+| 132  | The Man Who Knew Infinity | 1500.0 |
+| 133  | Titanic              | 1500.0 |
+| 134  | Sweet Tooth          | 1500.0 |
+| 135  | The Battle at Lake Changjin | 1500.0 |
+| 136  | Lost in Space        | 1500.0 |
+| 137  | X-Files              | 1500.0 |
+| 138  | Rampage              | 1500.0 |
+| 139  | War Horse            | 1500.0 |
+| 140  | Skyfall              | 1500.0 |
+| 141  | Harry Potter         | 1500.0 |
+| 142  | John Wick            | 1500.0 |
+| 143  | Onward               | 1500.0 |
+| 144  | The Darkest Hour     | 1500.0 |
+| 145  | Top Gun: Maverick    | 1500.0 |
+| 146  | Top Gun              | 1500.0 |
+| 147  | The Hobbit           | 1500.0 |
+| 148  | A Quiet Place: Day One | 1500.0 |
+| 149  | A Quiet Place        | 1500.0 |
+| 150  | Frequency            | 1500.0 |
+| 151  | The Young and Prodigious T.S. Spivet | 1500.0 |
+| 152  | Soul                 | 1500.0 |
+| 153  | The Mandalorian      | 1500.0 |
+| 154  | Cars                 | 1484.0 |
 | 155  | The Tomorrow War     | 1484.0 |
 | 156  | Star Trek: Picard    | 1484.0 |
 | 157  | Locke and Key        | 1484.0 |
