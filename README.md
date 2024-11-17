@@ -11,22 +11,22 @@ python3 mvr.py
 | 1    | The Martian          | 1624.7 |
 | 2    | Lost in Space        | 1614.0 |
 | 3    | Star Wars            | 1608.9 |
-| 4    | Pirates of the Caribbean | 1606.6 |
-| 5    | Ant-Man              | 1606.2 |
-| 6    | Black Panther        | 1605.6 |
+| 4    | Life of Pi           | 1606.7 |
+| 5    | Pirates of the Caribbean | 1606.6 |
+| 6    | Ant-Man              | 1606.2 |
 | 7    | No Country for Old Men | 1604.2 |
 | 8    | Wednesday            | 1599.3 |
 | 9    | The Mandalorian      | 1597.1 |
 | 10   | Harry Potter         | 1594.1 |
-| 11   | Life of Pi           | 1593.7 |
-| 12   | Thirteen Lives       | 1592.7 |
-| 13   | Iron Man             | 1591.3 |
-| 14   | Passengers           | 1589.2 |
-| 15   | Beut Mind            | 1586.7 |
-| 16   | Sneaky Pete          | 1585.6 |
-| 17   | The Maze Runner      | 1585.2 |
-| 18   | X-Men                | 1584.2 |
-| 19   | Maleficent           | 1583.3 |
+| 11   | Thirteen Lives       | 1592.7 |
+| 12   | Iron Man             | 1591.3 |
+| 13   | Passengers           | 1589.2 |
+| 14   | Beut Mind            | 1586.7 |
+| 15   | Sneaky Pete          | 1585.6 |
+| 16   | The Maze Runner      | 1585.2 |
+| 17   | X-Men                | 1584.2 |
+| 18   | Maleficent           | 1583.3 |
+| 19   | Black Panther        | 1582.9 |
 | 20   | Avengers: Age of Ultron | 1577.2 |
 | 21   | The Hobbit           | 1575.0 |
 | 22   | Avengers: Endgame    | 1573.7 |
@@ -68,7 +68,7 @@ python3 mvr.py
 | 58   | The Prestige         | 1528.2 |
 | 59   | My Name              | 1528.0 |
 | 60   | Guy Ritchie’s The Covenant | 1527.5 |
-| 61   | Zodiac               | 1527.3 |
+| 61   | Top Gun              | 1526.8 |
 | 62   | Rainman              | 1526.3 |
 | 63   | Replicas             | 1525.3 |
 | 64   | Shawshank Redemption | 1524.4 |
@@ -76,11 +76,11 @@ python3 mvr.py
 | 66   | Mission Impossible: Rogue Nation | 1519.4 |
 | 67   | Thor                 | 1516.7 |
 | 68   | Cars                 | 1515.8 |
-| 69   | Top Gun              | 1515.7 |
-| 70   | Cars 2               | 1515.3 |
-| 71   | Interstellar         | 1515.2 |
-| 72   | Captain America: The Winter Soldier | 1514.6 |
-| 73   | Avatar               | 1514.4 |
+| 69   | Cars 2               | 1515.3 |
+| 70   | Interstellar         | 1515.2 |
+| 71   | Captain America: The Winter Soldier | 1514.6 |
+| 72   | Avatar               | 1514.4 |
+| 73   | Zodiac               | 1514.3 |
 | 74   | Scream V             | 1513.9 |
 | 75   | The Matrix           | 1513.9 |
 | 76   | Dark Waters          | 1511.2 |
@@ -112,38 +112,38 @@ python3 mvr.py
 | 102  | When a Stranger Calls | 1477.8 |
 | 103  | The Mist             | 1475.6 |
 | 104  | The Matrix Revolutions | 1475.4 |
-| 105  | World War Z          | 1472.5 |
-| 106  | Saving Private Ryan  | 1472.5 |
-| 107  | The Matrix Reloaded  | 1472.2 |
-| 108  | Onward               | 1472.1 |
-| 109  | Knight and Day       | 1471.6 |
-| 110  | Red Eye              | 1471.5 |
-| 111  | The Mask             | 1471.5 |
-| 112  | Jack Reacher: Never Go Back | 1470.7 |
-| 113  | Land of Bad          | 1469.5 |
-| 114  | Heidi                | 1468.7 |
-| 115  | Black Widow          | 1466.7 |
-| 116  | Iron Chef            | 1465.8 |
-| 117  | Skyfall              | 1465.8 |
-| 118  | The Spy Next Door    | 1465.6 |
-| 119  | Ninja Turtles        | 1465.0 |
-| 120  | Red Notice           | 1463.7 |
-| 121  | GoldenEye            | 1463.3 |
-| 122  | The Mask of Zorro    | 1459.8 |
-| 123  | Drunken Master       | 1459.7 |
-| 124  | John Wick            | 1459.6 |
-| 125  | Mission Impossible 1 | 1459.4 |
-| 126  | Road House           | 1457.7 |
-| 127  | Wrath of Man         | 1456.9 |
-| 128  | The Ring 2           | 1456.2 |
-| 129  | Peter the Rabbit     | 1455.9 |
-| 130  | G.I.Joe movie        | 1455.9 |
-| 131  | Terminator           | 1455.5 |
-| 132  | Unbreakable          | 1455.0 |
-| 133  | Horton hears a Who   | 1454.6 |
-| 134  | Frequency            | 1451.0 |
-| 135  | American Sniper      | 1450.3 |
-| 136  | Exam                 | 1450.2 |
+| 105  | Exam                 | 1472.9 |
+| 106  | World War Z          | 1472.5 |
+| 107  | Saving Private Ryan  | 1472.5 |
+| 108  | The Matrix Reloaded  | 1472.2 |
+| 109  | Onward               | 1472.1 |
+| 110  | Knight and Day       | 1471.6 |
+| 111  | Red Eye              | 1471.5 |
+| 112  | The Mask             | 1471.5 |
+| 113  | Jack Reacher: Never Go Back | 1470.7 |
+| 114  | Land of Bad          | 1469.5 |
+| 115  | Heidi                | 1468.7 |
+| 116  | Black Widow          | 1466.7 |
+| 117  | Iron Chef            | 1465.8 |
+| 118  | Skyfall              | 1465.8 |
+| 119  | The Spy Next Door    | 1465.6 |
+| 120  | Ninja Turtles        | 1465.0 |
+| 121  | Red Notice           | 1463.7 |
+| 122  | GoldenEye            | 1463.3 |
+| 123  | The Mask of Zorro    | 1459.8 |
+| 124  | Drunken Master       | 1459.7 |
+| 125  | John Wick            | 1459.6 |
+| 126  | Mission Impossible 1 | 1459.4 |
+| 127  | Road House           | 1457.7 |
+| 128  | Wrath of Man         | 1456.9 |
+| 129  | The Ring 2           | 1456.2 |
+| 130  | Peter the Rabbit     | 1455.9 |
+| 131  | G.I.Joe movie        | 1455.9 |
+| 132  | Terminator           | 1455.5 |
+| 133  | Unbreakable          | 1455.0 |
+| 134  | Horton hears a Who   | 1454.6 |
+| 135  | Frequency            | 1451.0 |
+| 136  | American Sniper      | 1450.3 |
 | 137  | School of Rock       | 1447.9 |
 | 138  | Sweet Tooth          | 1446.2 |
 | 139  | The Silence          | 1445.4 |
@@ -167,12 +167,12 @@ python3 mvr.py
 | 157  | AK-47 Kalashnikov    | 1409.5 |
 | 158  | Arrow                | 1406.6 |
 | 159  | Gravity              | 1405.9 |
-| 160  | War Horse            | 1405.0 |
-| 161  | Jurassic World: Dominion | 1403.0 |
-| 162  | Everything, everywhere, all at once | 1401.1 |
-| 163  | Spooky Buddies       | 1398.3 |
-| 164  | All Quiet on The Western Front | 1395.4 |
-| 165  | Zero Dark Thirty     | 1394.9 |
+| 160  | Jurassic World: Dominion | 1403.0 |
+| 161  | Everything, everywhere, all at once | 1401.1 |
+| 162  | Spooky Buddies       | 1398.3 |
+| 163  | All Quiet on The Western Front | 1395.4 |
+| 164  | Zero Dark Thirty     | 1394.9 |
+| 165  | War Horse            | 1394.0 |
 | 166  | A Quiet Place: Day One | 1392.8 |
 | 167  | Black Hawk Down      | 1385.4 |
 | 168  | Shadow               | 1382.8 |
