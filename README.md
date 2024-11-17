@@ -15,7 +15,7 @@ python3 mvr.py
 | $\color{black}\text{5   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{green}\text{8   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1576.8}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1576.8}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1573.3}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
@@ -54,16 +54,16 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1531.1}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1530.4}$ |
-| $\color{red}\text{49  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1529.7}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1527.2}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1526.5}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
+| $\color{green}\text{47  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1532.5}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1531.1}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1530.4}$ |
+| $\color{red}\text{50  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1529.7}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
+| $\color{red}\text{56  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1521.2}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
 | $\color{green}\text{59  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1519.8}$ |
@@ -171,7 +171,7 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1428.5}$ |
-| $\color{red}\text{164 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1428.5}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
