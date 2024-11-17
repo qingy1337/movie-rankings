@@ -103,7 +103,7 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
-| $\color{red}\text{96  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1485.7}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.7}$ |
 | $\color{red}\text{97  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1484.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
@@ -112,13 +112,13 @@ python3 mvr.py
 | $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1474.5}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1472.0}$ |
+| $\color{green}\text{105 }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1477.6}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1474.5}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
@@ -141,14 +141,14 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{green}\text{134 }$ | $\color{green}\text{Unbreakable}$ | $\color{green}\text{1452.8}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1449.0}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1445.7}$ |
-| $\color{green}\text{138 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1445.5}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
-| $\color{green}\text{140 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1444.2}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1452.8}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1445.7}$ |
+| $\color{green}\text{137 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1445.5}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
+| $\color{green}\text{139 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1444.2}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1443.4}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
