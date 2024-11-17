@@ -36,17 +36,17 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{green}\text{32  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1562.5}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
+| $\color{green}\text{31  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1562.5}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
+| $\color{green}\text{33  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1559.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{green}\text{38  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1553.5}$ |
-| $\color{red}\text{39  }$ | $\color{red}\text{Avengers: Infinity War}$ | $\color{red}\text{1553.3}$ |
+| $\color{red}\text{36  }$ | $\color{red}\text{Avatar 2}$ | $\color{red}\text{1557.7}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
+| $\color{green}\text{39  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1553.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
@@ -157,7 +157,7 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
 | $\color{red}\text{148 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1432.1}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
-| $\color{red}\text{150 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1429.9}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1429.9}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
