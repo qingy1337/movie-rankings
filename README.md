@@ -13,7 +13,7 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1604.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
-| $\color{green}\text{6   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1600.5}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1600.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1598.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1595.2}$ |
@@ -77,15 +77,15 @@ python3 mvr.py
 | $\color{black}\text{67  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1524.9}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1524.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1514.1}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.0}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1514.1}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.0}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
+| $\color{red}\text{78  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1509.2}$ |
 | $\color{red}\text{79  }$ | $\color{red}\text{Bloodhounds}$ | $\color{red}\text{1508.9}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
@@ -99,12 +99,12 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1495.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.8}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
+| $\color{green}\text{92  }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1491.6}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.8}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1483.0}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
@@ -135,7 +135,7 @@ python3 mvr.py
 | $\color{black}\text{125 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
-| $\color{red}\text{128 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1454.6}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{red}\text{131 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1452.5}$ |
