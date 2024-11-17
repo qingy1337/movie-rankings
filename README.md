@@ -9,18 +9,18 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
-| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1629.5}$ |
+| $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1629.5}$ |
 | $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1621.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1608.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
-| $\color{green}\text{8   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1600.9}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1599.7}$ |
-| $\color{green}\text{11  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1599.4}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1599.2}$ |
+| $\color{green}\text{8   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1602.8}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1600.9}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1599.7}$ |
+| $\color{green}\text{12  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1599.4}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1597.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
@@ -31,7 +31,7 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1584.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
-| $\color{red}\text{24  }$ | $\color{red}\text{Source Code}$ | $\color{red}\text{1578.3}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1578.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1575.2}$ |
@@ -137,9 +137,9 @@ python3 mvr.py
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
+| $\color{red}\text{132 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1447.4}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
 | $\color{red}\text{134 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1447.0}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
