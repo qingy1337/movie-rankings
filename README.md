@@ -73,12 +73,12 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1523.3}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1523.0}$ |
+| $\color{green}\text{66  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1524.7}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1523.3}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1518.8}$ |
 | $\color{green}\text{70  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1518.7}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1518.6}$ |
+| $\color{red}\text{71  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1516.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.4}$ |
@@ -103,7 +103,7 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
-| $\color{red}\text{96  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1486.6}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1483.4}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
