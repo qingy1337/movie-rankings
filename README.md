@@ -52,11 +52,11 @@ python3 mvr.py
 | $\color{black}\text{42  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1543.8}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1540.6}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.7}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1536.7}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1536.1}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1535.8}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.2}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1532.2}$ |
+| $\color{green}\text{45  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1537.4}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1536.7}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1536.1}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1535.8}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1532.0}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1530.3}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1529.8}$ |
@@ -83,7 +83,7 @@ python3 mvr.py
 | $\color{black}\text{73  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1512.5}$ |
 | $\color{red}\text{74  }$ | $\color{red}\text{Locke and Key}$ | $\color{red}\text{1511.7}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1510.6}$ |
-| $\color{red}\text{76  }$ | $\color{red}\text{Lord of the Rings}$ | $\color{red}\text{1510.6}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1510.6}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1507.8}$ |
@@ -178,5 +178,5 @@ python3 mvr.py
 | $\color{black}\text{168 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1411.2}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1406.4}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.6}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1402.8}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1400.6}$ |
+| $\color{red}\text{171 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1400.6}$ |
+| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1397.6}$ |
