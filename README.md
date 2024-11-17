@@ -82,7 +82,7 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1515.5}$ |
-| $\color{green}\text{75  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1513.2}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.6}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
@@ -98,7 +98,7 @@ python3 mvr.py
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
-| $\color{red}\text{91  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1492.0}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1492.0}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
@@ -142,8 +142,8 @@ python3 mvr.py
 | $\color{black}\text{132 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1452.8}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1445.7}$ |
+| $\color{green}\text{135 }$ | $\color{green}\text{Pompeii}$ | $\color{green}\text{1451.0}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{green}\text{137 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
 | $\color{green}\text{139 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1444.2}$ |
@@ -168,11 +168,11 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1413.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{red}\text{162 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1408.7}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1408.1}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1406.8}$ |
+| $\color{red}\text{161 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1408.7}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1408.1}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1406.8}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1404.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
