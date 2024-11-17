@@ -116,14 +116,14 @@ python3 mvr.py
 | 106  | Pompeii              | 1495.9 |
 | 107  | Mission Impossible: Rogue Nation | 1491.2 |
 | 108  | Vagabond             | 1488.1 |
-| 109  | Star Trek: Picard    | 1486.2 |
-| 110  | Zero Dark Thirty     | 1486.1 |
-| 111  | The Matrix Revolutions | 1485.4 |
-| 112  | The Matrix           | 1484.7 |
-| 113  | Road House           | 1484.7 |
-| 114  | Drunken Master       | 1484.7 |
-| 115  | School of Rock       | 1484.7 |
-| 116  | The Man in the Iron Mask | 1484.7 |
+| 109  | Cars                 | 1486.9 |
+| 110  | Star Trek: Picard    | 1486.2 |
+| 111  | Zero Dark Thirty     | 1486.1 |
+| 112  | The Matrix Revolutions | 1485.4 |
+| 113  | The Matrix           | 1484.7 |
+| 114  | Road House           | 1484.7 |
+| 115  | Drunken Master       | 1484.7 |
+| 116  | School of Rock       | 1484.7 |
 | 117  | The Mist             | 1484.7 |
 | 118  | Rango                | 1484.0 |
 | 119  | The Mask of Zorro    | 1484.0 |
@@ -149,23 +149,23 @@ python3 mvr.py
 | 139  | Black Hawk Down      | 1470.9 |
 | 140  | A Boy Called Christmas | 1470.8 |
 | 141  | Total Recall         | 1470.8 |
-| 142  | Cars                 | 1470.2 |
-| 143  | Loki                 | 1470.2 |
-| 144  | Exam                 | 1470.1 |
-| 145  | The Young and Prodigious T.S. Spivet | 1470.0 |
-| 146  | The Man Who Knew Infinity | 1469.5 |
-| 147  | Jurassic World: Dominion | 1469.4 |
-| 148  | Cars 3               | 1469.4 |
-| 149  | Spooky Buddies       | 1469.3 |
-| 150  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 151  | Johnny English       | 1468.8 |
-| 152  | Peter the Rabbit     | 1468.8 |
-| 153  | When a Stranger Calls | 1468.8 |
-| 154  | Heidi                | 1468.7 |
-| 155  | The Mask             | 1468.7 |
-| 156  | Horton hears a Who   | 1468.7 |
-| 157  | Onward               | 1468.1 |
-| 158  | "Everything, everywhere, all at once" | 1468.1 |
+| 142  | Loki                 | 1470.2 |
+| 143  | Exam                 | 1470.1 |
+| 144  | The Young and Prodigious T.S. Spivet | 1470.0 |
+| 145  | The Man Who Knew Infinity | 1469.5 |
+| 146  | Jurassic World: Dominion | 1469.4 |
+| 147  | Cars 3               | 1469.4 |
+| 148  | Spooky Buddies       | 1469.3 |
+| 149  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 150  | Johnny English       | 1468.8 |
+| 151  | Peter the Rabbit     | 1468.8 |
+| 152  | When a Stranger Calls | 1468.8 |
+| 153  | Heidi                | 1468.7 |
+| 154  | The Mask             | 1468.7 |
+| 155  | Horton hears a Who   | 1468.7 |
+| 156  | Onward               | 1468.1 |
+| 157  | "Everything, everywhere, all at once" | 1468.1 |
+| 158  | The Man in the Iron Mask | 1468.0 |
 | 159  | Arrow                | 1468.0 |
 | 160  | Darkest Hour         | 1468.0 |
 | 161  | 65                   | 1467.4 |
