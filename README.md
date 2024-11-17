@@ -22,11 +22,11 @@ python3 mvr.py
 | $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.4}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1590.9}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1587.3}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1587.2}$ |
+| $\color{green}\text{15  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1591.3}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1590.9}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1587.3}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1583.6}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
@@ -62,7 +62,7 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1539.5}$ |
 | $\color{green}\text{54  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1539.4}$ |
-| $\color{green}\text{55  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1539.2}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
 | $\color{red}\text{56  }$ | $\color{red}\text{The Man Who Knew Infinity}$ | $\color{red}\text{1538.4}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1533.7}$ |
@@ -114,11 +114,11 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1470.6}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.4}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.4}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
+| $\color{red}\text{111 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1466.6}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1464.4}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
@@ -176,7 +176,7 @@ python3 mvr.py
 | $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
-| $\color{red}\text{169 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1391.1}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1391.1}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
