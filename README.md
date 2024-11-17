@@ -31,10 +31,10 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1557.1}$ |
 | $\color{red}\text{22  }$ | $\color{red}\text{Maleficent}$ | $\color{red}\text{1557.1}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1552.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1550.7}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1555.1}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1552.2}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1550.0}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
@@ -139,18 +139,18 @@ python3 mvr.py
 | $\color{black}\text{129 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
-| $\color{red}\text{132 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1462.1}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1462.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1459.3}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1459.2}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1458.3}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1458.3}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1454.8}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
-| $\color{green}\text{143 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1452.5}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1447.0}$ |
