@@ -8,58 +8,58 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | Pirates of the Caribbean | 1516.0 |
-| 2    | Train to Busan       | 1516.0 |
-| 3    | American Made        | 1500.0 |
-| 4    | X-Men                | 1500.0 |
-| 5    | A.I. Artificial Intelligence | 1500.0 |
-| 6    | Scream V             | 1500.0 |
-| 7    | Scream VI            | 1500.0 |
-| 8    | 65                   | 1500.0 |
-| 9    | The Matrix           | 1500.0 |
-| 10   | The Matrix Reloaded  | 1500.0 |
-| 11   | The Matrix Revolutions | 1500.0 |
-| 12   | Selfless             | 1500.0 |
-| 13   | Zootopia             | 1500.0 |
-| 14   | Halo                 | 1500.0 |
-| 15   | Stillwater           | 1500.0 |
-| 16   | Cars                 | 1500.0 |
-| 17   | The Terminal List    | 1500.0 |
-| 18   | Star Trek: Picard    | 1500.0 |
-| 19   | Locke and Key        | 1500.0 |
-| 20   | Sneaky Pete          | 1500.0 |
-| 21   | The Ring             | 1500.0 |
-| 22   | Source Code          | 1500.0 |
-| 23   | Rango                | 1500.0 |
-| 24   | Loki                 | 1500.0 |
-| 25   | When a Stranger Calls | 1500.0 |
-| 26   | Tenet                | 1500.0 |
-| 27   | Wrath of Man         | 1500.0 |
-| 28   | Squid Game           | 1500.0 |
-| 29   | Vagabond             | 1500.0 |
-| 30   | World War Z          | 1500.0 |
-| 31   | Catch Me If You Can  | 1500.0 |
-| 32   | Maze Runner 1-3      | 1500.0 |
-| 33   | Journey 2: The Mysterious Island | 1500.0 |
-| 34   | Gravity              | 1500.0 |
-| 35   | Heidi                | 1500.0 |
-| 36   | Red Notice           | 1500.0 |
-| 37   | Unbreakable          | 1500.0 |
-| 38   | The Hunger Games     | 1500.0 |
-| 39   | Road House           | 1500.0 |
-| 40   | Saving Private Ryan  | 1500.0 |
-| 41   | The Ring 2           | 1500.0 |
-| 42   | Jack Reacher: Never Go Back | 1500.0 |
-| 43   | Peter the Rabbit     | 1500.0 |
-| 44   | Beut Mind            | 1500.0 |
-| 45   | Replicas             | 1500.0 |
-| 46   | Jurassic World: Dominion | 1500.0 |
-| 47   | Passengers           | 1500.0 |
-| 48   | Independence Day     | 1500.0 |
-| 49   | Life of Pi           | 1500.0 |
-| 50   | Red Eye              | 1500.0 |
-| 51   | Black Hawk Down      | 1500.0 |
-| 52   | Glass Castle         | 1500.0 |
+| 1    | Glass Castle         | 1516.0 |
+| 2    | Pirates of the Caribbean | 1516.0 |
+| 3    | Train to Busan       | 1516.0 |
+| 4    | American Made        | 1500.0 |
+| 5    | X-Men                | 1500.0 |
+| 6    | A.I. Artificial Intelligence | 1500.0 |
+| 7    | Scream V             | 1500.0 |
+| 8    | Scream VI            | 1500.0 |
+| 9    | 65                   | 1500.0 |
+| 10   | The Matrix           | 1500.0 |
+| 11   | The Matrix Reloaded  | 1500.0 |
+| 12   | The Matrix Revolutions | 1500.0 |
+| 13   | Selfless             | 1500.0 |
+| 14   | Zootopia             | 1500.0 |
+| 15   | Halo                 | 1500.0 |
+| 16   | Stillwater           | 1500.0 |
+| 17   | Cars                 | 1500.0 |
+| 18   | The Terminal List    | 1500.0 |
+| 19   | Star Trek: Picard    | 1500.0 |
+| 20   | Locke and Key        | 1500.0 |
+| 21   | Sneaky Pete          | 1500.0 |
+| 22   | The Ring             | 1500.0 |
+| 23   | Source Code          | 1500.0 |
+| 24   | Rango                | 1500.0 |
+| 25   | Loki                 | 1500.0 |
+| 26   | When a Stranger Calls | 1500.0 |
+| 27   | Tenet                | 1500.0 |
+| 28   | Wrath of Man         | 1500.0 |
+| 29   | Squid Game           | 1500.0 |
+| 30   | Vagabond             | 1500.0 |
+| 31   | World War Z          | 1500.0 |
+| 32   | Catch Me If You Can  | 1500.0 |
+| 33   | Maze Runner 1-3      | 1500.0 |
+| 34   | Journey 2: The Mysterious Island | 1500.0 |
+| 35   | Gravity              | 1500.0 |
+| 36   | Heidi                | 1500.0 |
+| 37   | Red Notice           | 1500.0 |
+| 38   | Unbreakable          | 1500.0 |
+| 39   | The Hunger Games     | 1500.0 |
+| 40   | Road House           | 1500.0 |
+| 41   | Saving Private Ryan  | 1500.0 |
+| 42   | The Ring 2           | 1500.0 |
+| 43   | Jack Reacher: Never Go Back | 1500.0 |
+| 44   | Peter the Rabbit     | 1500.0 |
+| 45   | Beut Mind            | 1500.0 |
+| 46   | Replicas             | 1500.0 |
+| 47   | Jurassic World: Dominion | 1500.0 |
+| 48   | Passengers           | 1500.0 |
+| 49   | Independence Day     | 1500.0 |
+| 50   | Life of Pi           | 1500.0 |
+| 51   | Red Eye              | 1500.0 |
+| 52   | Black Hawk Down      | 1500.0 |
 | 53   | Jack Ryan            | 1500.0 |
 | 54   | Crouching Tiger Hidden Dragon | 1500.0 |
 | 55   | Thirteen Lives       | 1500.0 |
@@ -116,45 +116,45 @@ python3 mvr.py
 | 106  | Everything, everywhere, all at once | 1500.0 |
 | 107  | Total Recall         | 1500.0 |
 | 108  | Awake                | 1500.0 |
-| 109  | American Sniper      | 1500.0 |
-| 110  | Spectral             | 1500.0 |
-| 111  | The Curious Case of Benjamin Button | 1500.0 |
-| 112  | Mission Impossible (1-7) | 1500.0 |
-| 113  | The Last Samurai     | 1500.0 |
-| 114  | Gladiator            | 1500.0 |
-| 115  | Zodiac               | 1500.0 |
-| 116  | Bloodhounds          | 1500.0 |
-| 117  | Megan                | 1500.0 |
-| 118  | My Name              | 1500.0 |
-| 119  | All Quiet on The Western Front | 1500.0 |
-| 120  | Pompeii              | 1500.0 |
-| 121  | Shadow               | 1500.0 |
-| 122  | Golden eye 007       | 1500.0 |
-| 123  | The Man Who Knew Infinity | 1500.0 |
-| 124  | Titanic              | 1500.0 |
-| 125  | Sweet Tooth          | 1500.0 |
-| 126  | The Battle at Lake Changjin | 1500.0 |
-| 127  | G.I.Joe movie        | 1500.0 |
-| 128  | Lost in Space        | 1500.0 |
-| 129  | Rainman              | 1500.0 |
-| 130  | X-Files              | 1500.0 |
-| 131  | Rampage              | 1500.0 |
-| 132  | War Horse            | 1500.0 |
-| 133  | Skyfall 007          | 1500.0 |
-| 134  | Guy Ritchie’s The Covenant | 1500.0 |
-| 135  | Harry Potter         | 1500.0 |
-| 136  | John Wick            | 1500.0 |
-| 137  | Onward               | 1500.0 |
-| 138  | The Darkest Hour     | 1500.0 |
-| 139  | Top Gun Maverick (2022) | 1500.0 |
-| 140  | Top Gun (1986)       | 1500.0 |
-| 141  | Land of Bad          | 1500.0 |
-| 142  | The Hobbit           | 1500.0 |
-| 143  | A Quiet Place: Day One | 1500.0 |
-| 144  | A Quiet Place        | 1500.0 |
-| 145  | Frequency            | 1500.0 |
-| 146  | The Young and Prodigious T.S. Spivet | 1500.0 |
-| 147  | Darkest Hour         | 1500.0 |
-| 148  | Soul                 | 1500.0 |
-| 149  | The Tomorrow War     | 1484.0 |
-| 150  | Avatar 2             | 1484.0 |
+| 109  | Spectral             | 1500.0 |
+| 110  | The Curious Case of Benjamin Button | 1500.0 |
+| 111  | Mission Impossible (1-7) | 1500.0 |
+| 112  | The Last Samurai     | 1500.0 |
+| 113  | Gladiator            | 1500.0 |
+| 114  | Zodiac               | 1500.0 |
+| 115  | Bloodhounds          | 1500.0 |
+| 116  | Megan                | 1500.0 |
+| 117  | My Name              | 1500.0 |
+| 118  | All Quiet on The Western Front | 1500.0 |
+| 119  | Pompeii              | 1500.0 |
+| 120  | Shadow               | 1500.0 |
+| 121  | Golden eye 007       | 1500.0 |
+| 122  | The Man Who Knew Infinity | 1500.0 |
+| 123  | Titanic              | 1500.0 |
+| 124  | Sweet Tooth          | 1500.0 |
+| 125  | The Battle at Lake Changjin | 1500.0 |
+| 126  | G.I.Joe movie        | 1500.0 |
+| 127  | Lost in Space        | 1500.0 |
+| 128  | Rainman              | 1500.0 |
+| 129  | X-Files              | 1500.0 |
+| 130  | Rampage              | 1500.0 |
+| 131  | War Horse            | 1500.0 |
+| 132  | Skyfall 007          | 1500.0 |
+| 133  | Guy Ritchie’s The Covenant | 1500.0 |
+| 134  | Harry Potter         | 1500.0 |
+| 135  | John Wick            | 1500.0 |
+| 136  | Onward               | 1500.0 |
+| 137  | The Darkest Hour     | 1500.0 |
+| 138  | Top Gun Maverick (2022) | 1500.0 |
+| 139  | Top Gun (1986)       | 1500.0 |
+| 140  | Land of Bad          | 1500.0 |
+| 141  | The Hobbit           | 1500.0 |
+| 142  | A Quiet Place: Day One | 1500.0 |
+| 143  | A Quiet Place        | 1500.0 |
+| 144  | Frequency            | 1500.0 |
+| 145  | The Young and Prodigious T.S. Spivet | 1500.0 |
+| 146  | Darkest Hour         | 1500.0 |
+| 147  | Soul                 | 1500.0 |
+| 148  | The Tomorrow War     | 1484.0 |
+| 149  | Avatar 2             | 1484.0 |
+| 150  | American Sniper      | 1484.0 |
