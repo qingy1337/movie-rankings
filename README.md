@@ -24,34 +24,34 @@ python3 mvr.py
 | 14   | Halo                 | 1544.5 |
 | 15   | The Prestige         | 1544.1 |
 | 16   | Mission Impossible: Ghost Protocol | 1543.3 |
-| 17   | The Hobbit           | 1543.1 |
-| 18   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
-| 19   | The Tomorrow War     | 1542.9 |
-| 20   | Rainman              | 1542.5 |
-| 21   | Catch Me If You Can  | 1541.9 |
-| 22   | Megan                | 1541.3 |
-| 23   | The Avengers         | 1541.2 |
-| 24   | Sneaky Pete          | 1534.0 |
-| 25   | X-Men                | 1533.4 |
-| 26   | Squid Game           | 1532.8 |
-| 27   | Avengers: Endgame    | 1532.0 |
-| 28   | Inception            | 1531.9 |
-| 29   | A Quiet Place        | 1531.3 |
-| 30   | Lost in Space        | 1531.3 |
-| 31   | Jack Ryan            | 1531.3 |
-| 32   | Dark Waters          | 1531.3 |
-| 33   | Shawshank Redemption | 1531.3 |
-| 34   | Pirates of the Caribbean | 1531.3 |
-| 35   | Wednesday            | 1531.2 |
-| 36   | Wrath of Man         | 1530.6 |
-| 37   | Captain America: The Winter Soldier | 1530.5 |
-| 38   | Harry Potter         | 1530.5 |
-| 39   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
-| 40   | Titanic              | 1529.8 |
-| 41   | Mission Impossible: Fallout | 1529.8 |
-| 42   | Iron Man             | 1529.8 |
-| 43   | The Illusionist      | 1529.2 |
-| 44   | Lord of the Rings    | 1528.6 |
+| 17   | Lord of the Rings    | 1543.2 |
+| 18   | The Hobbit           | 1543.1 |
+| 19   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 20   | The Tomorrow War     | 1542.9 |
+| 21   | Rainman              | 1542.5 |
+| 22   | The Illusionist      | 1542.4 |
+| 23   | Catch Me If You Can  | 1541.9 |
+| 24   | Megan                | 1541.3 |
+| 25   | The Avengers         | 1541.2 |
+| 26   | Sneaky Pete          | 1534.0 |
+| 27   | X-Men                | 1533.4 |
+| 28   | Squid Game           | 1532.8 |
+| 29   | Avengers: Endgame    | 1532.0 |
+| 30   | Inception            | 1531.9 |
+| 31   | A Quiet Place        | 1531.3 |
+| 32   | Lost in Space        | 1531.3 |
+| 33   | Jack Ryan            | 1531.3 |
+| 34   | Dark Waters          | 1531.3 |
+| 35   | Shawshank Redemption | 1531.3 |
+| 36   | Pirates of the Caribbean | 1531.3 |
+| 37   | Wednesday            | 1531.2 |
+| 38   | Wrath of Man         | 1530.6 |
+| 39   | Captain America: The Winter Soldier | 1530.5 |
+| 40   | Harry Potter         | 1530.5 |
+| 41   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
+| 42   | Titanic              | 1529.8 |
+| 43   | Mission Impossible: Fallout | 1529.8 |
+| 44   | Iron Man             | 1529.8 |
 | 45   | Zootopia             | 1527.7 |
 | 46   | World War Z          | 1526.4 |
 | 47   | Beut Mind            | 1525.6 |
@@ -101,20 +101,20 @@ python3 mvr.py
 | 91   | Independence Day     | 1499.3 |
 | 92   | Terminator           | 1499.3 |
 | 93   | Mission Impossible 3 | 1499.2 |
-| 94   | John Wick            | 1499.1 |
-| 95   | The Curious Case of Benjamin Button | 1498.7 |
-| 96   | Rebel Ridge          | 1498.6 |
-| 97   | The Ring 2           | 1498.6 |
-| 98   | Land of Bad          | 1497.9 |
-| 99   | Vagabond             | 1488.1 |
-| 100  | Gladiator            | 1487.4 |
-| 101  | Star Trek: Picard    | 1486.9 |
-| 102  | Cars                 | 1486.8 |
-| 103  | The Matrix           | 1486.8 |
-| 104  | The Man in the Iron Mask | 1486.3 |
-| 105  | Jack Reacher: Never Go Back | 1485.4 |
-| 106  | The Man Who Knew Infinity | 1484.8 |
-| 107  | Horton hears a Who   | 1484.7 |
+| 94   | The Curious Case of Benjamin Button | 1498.7 |
+| 95   | Rebel Ridge          | 1498.6 |
+| 96   | The Ring 2           | 1498.6 |
+| 97   | Land of Bad          | 1497.9 |
+| 98   | Vagabond             | 1488.1 |
+| 99   | Gladiator            | 1487.4 |
+| 100  | Star Trek: Picard    | 1486.9 |
+| 101  | Cars                 | 1486.8 |
+| 102  | The Matrix           | 1486.8 |
+| 103  | The Man in the Iron Mask | 1486.3 |
+| 104  | Jack Reacher: Never Go Back | 1485.4 |
+| 105  | The Man Who Knew Infinity | 1484.8 |
+| 106  | Horton hears a Who   | 1484.7 |
+| 107  | John Wick            | 1484.5 |
 | 108  | Unbreakable          | 1484.4 |
 | 109  | Oppenheimer          | 1484.1 |
 | 110  | Cars 2               | 1484.0 |
@@ -150,22 +150,22 @@ python3 mvr.py
 | 140  | Heidi                | 1468.7 |
 | 141  | Avatar: The Last Airbender | 1468.7 |
 | 142  | Rango                | 1468.7 |
-| 143  | All Quiet on The Western Front | 1468.1 |
-| 144  | The Mist             | 1468.1 |
-| 145  | Mission Impossible 1 | 1468.0 |
-| 146  | 65                   | 1467.6 |
-| 147  | Stillwater           | 1467.5 |
-| 148  | War Horse            | 1458.7 |
-| 149  | Zero Dark Thirty     | 1457.6 |
-| 150  | Total Recall         | 1457.3 |
-| 151  | When a Stranger Calls | 1456.8 |
-| 152  | A Quiet Place: Day One | 1456.8 |
-| 153  | The Mask             | 1456.2 |
-| 154  | Cars 3               | 1456.1 |
-| 155  | Awake                | 1455.6 |
-| 156  | Jurassic World: Dominion | 1455.5 |
-| 157  | Arrow                | 1455.0 |
-| 158  | The Silence          | 1454.9 |
+| 143  | The Mist             | 1468.1 |
+| 144  | Mission Impossible 1 | 1468.0 |
+| 145  | 65                   | 1467.6 |
+| 146  | Stillwater           | 1467.5 |
+| 147  | War Horse            | 1458.7 |
+| 148  | Zero Dark Thirty     | 1457.6 |
+| 149  | Total Recall         | 1457.3 |
+| 150  | When a Stranger Calls | 1456.8 |
+| 151  | A Quiet Place: Day One | 1456.8 |
+| 152  | The Mask             | 1456.2 |
+| 153  | Cars 3               | 1456.1 |
+| 154  | Awake                | 1455.6 |
+| 155  | Jurassic World: Dominion | 1455.5 |
+| 156  | Arrow                | 1455.0 |
+| 157  | The Silence          | 1454.9 |
+| 158  | All Quiet on The Western Front | 1454.9 |
 | 159  | Onward               | 1454.9 |
 | 160  | Shadow               | 1454.8 |
 | 161  | Spooky Buddies       | 1454.7 |
