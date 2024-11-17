@@ -68,16 +68,16 @@ python3 mvr.py
 | 58   | Rebel Ridge          | 1531.3 |
 | 59   | The Man Who Knew Infinity | 1530.9 |
 | 60   | Titanic              | 1530.0 |
-| 61   | My Name              | 1528.0 |
-| 62   | Guy Ritchie’s The Covenant | 1527.5 |
-| 63   | Rainman              | 1526.3 |
-| 64   | Replicas             | 1525.3 |
-| 65   | Scream V             | 1524.9 |
-| 66   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
-| 67   | Star Trek: Picard    | 1521.3 |
-| 68   | Thor                 | 1516.7 |
-| 69   | Captain America: The Winter Soldier | 1514.6 |
-| 70   | Avatar               | 1514.4 |
+| 61   | Avatar               | 1528.3 |
+| 62   | My Name              | 1528.0 |
+| 63   | Guy Ritchie’s The Covenant | 1527.5 |
+| 64   | Rainman              | 1526.3 |
+| 65   | Replicas             | 1525.3 |
+| 66   | Scream V             | 1524.9 |
+| 67   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
+| 68   | Star Trek: Picard    | 1521.3 |
+| 69   | Thor                 | 1516.7 |
+| 70   | Captain America: The Winter Soldier | 1514.6 |
 | 71   | A Haunting in Venice | 1513.4 |
 | 72   | The Terminal List    | 1513.0 |
 | 73   | Ip Man               | 1510.8 |
@@ -122,26 +122,26 @@ python3 mvr.py
 | 112  | The Spy Next Door    | 1469.9 |
 | 113  | Land of Bad          | 1469.5 |
 | 114  | The Ring             | 1469.2 |
-| 115  | Heidi                | 1468.7 |
-| 116  | The Curious Case of Benjamin Button | 1468.6 |
-| 117  | Mission Impossible 1 | 1467.9 |
-| 118  | Black Widow          | 1467.2 |
-| 119  | Iron Chef            | 1465.8 |
-| 120  | The Mist             | 1465.4 |
-| 121  | When a Stranger Calls | 1465.4 |
-| 122  | World War Z          | 1464.8 |
-| 123  | GoldenEye            | 1463.3 |
-| 124  | Road House           | 1461.8 |
-| 125  | Exam                 | 1460.3 |
-| 126  | The Mask of Zorro    | 1459.8 |
-| 127  | Drunken Master       | 1459.7 |
-| 128  | John Wick            | 1459.6 |
-| 129  | Wrath of Man         | 1456.9 |
-| 130  | Peter the Rabbit     | 1455.9 |
-| 131  | G.I.Joe movie        | 1455.9 |
-| 132  | Terminator           | 1455.5 |
-| 133  | The Darkest Hour     | 1455.1 |
-| 134  | Unbreakable          | 1455.0 |
+| 115  | The Curious Case of Benjamin Button | 1468.6 |
+| 116  | Mission Impossible 1 | 1467.9 |
+| 117  | Black Widow          | 1467.2 |
+| 118  | Iron Chef            | 1465.8 |
+| 119  | The Mist             | 1465.4 |
+| 120  | When a Stranger Calls | 1465.4 |
+| 121  | World War Z          | 1464.8 |
+| 122  | GoldenEye            | 1463.3 |
+| 123  | Road House           | 1461.8 |
+| 124  | Exam                 | 1460.3 |
+| 125  | The Mask of Zorro    | 1459.8 |
+| 126  | Drunken Master       | 1459.7 |
+| 127  | John Wick            | 1459.6 |
+| 128  | Wrath of Man         | 1456.9 |
+| 129  | Peter the Rabbit     | 1455.9 |
+| 130  | G.I.Joe movie        | 1455.9 |
+| 131  | Terminator           | 1455.5 |
+| 132  | The Darkest Hour     | 1455.1 |
+| 133  | Unbreakable          | 1455.0 |
+| 134  | Heidi                | 1454.8 |
 | 135  | Red Notice           | 1453.2 |
 | 136  | School of Rock       | 1447.9 |
 | 137  | Journey 2: The Mysterious Island | 1444.1 |
