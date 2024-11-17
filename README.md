@@ -19,7 +19,7 @@ python3 mvr.py
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1550.1}$ |
 | $\color{green}\text{10  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1548.3}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
-| $\color{green}\text{12  }$ | $\color{green}\text{No Country for Old Men}$ | $\color{green}\text{1546.1}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1546.1}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1543.5}$ |
@@ -53,13 +53,13 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
-| $\color{green}\text{46  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1522.5}$ |
-| $\color{red}\text{47  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1521.5}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1520.2}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1519.3}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1518.9}$ |
+| $\color{green}\text{46  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1522.6}$ |
+| $\color{green}\text{47  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1522.5}$ |
+| $\color{red}\text{48  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1521.5}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1520.2}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1519.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1518.4}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1517.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.0}$ |
@@ -109,12 +109,12 @@ python3 mvr.py
 | $\color{red}\text{99  }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1493.2}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1492.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1492.2}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1489.3}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1489.3}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
+| $\color{red}\text{107 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1488.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1487.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1486.8}$ |
@@ -152,7 +152,7 @@ python3 mvr.py
 | $\color{black}\text{142 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1470.0}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1467.0}$ |
-| $\color{red}\text{145 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1463.2}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1462.9}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1462.8}$ |
