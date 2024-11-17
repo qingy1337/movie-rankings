@@ -36,15 +36,15 @@ python3 mvr.py
 | 26   | Source Code          | 1577.7 |
 | 27   | Squid Game           | 1576.9 |
 | 28   | X-Men                | 1575.3 |
-| 29   | The Maze Runner: The Death Cure | 1572.6 |
-| 30   | A Quiet Place        | 1567.6 |
-| 31   | X-Files              | 1565.9 |
-| 32   | The Avengers         | 1565.3 |
-| 33   | The Young and Prodigious T.S. Spivet | 1563.8 |
-| 34   | Loki                 | 1563.0 |
-| 35   | The Wild Robot       | 1562.8 |
-| 36   | Avatar 2             | 1561.3 |
-| 37   | The Hunger Games     | 1560.4 |
+| 29   | The Hunger Games     | 1574.9 |
+| 30   | The Maze Runner: The Death Cure | 1572.6 |
+| 31   | A Quiet Place        | 1567.6 |
+| 32   | X-Files              | 1565.9 |
+| 33   | The Avengers         | 1565.3 |
+| 34   | The Young and Prodigious T.S. Spivet | 1563.8 |
+| 35   | Loki                 | 1563.0 |
+| 36   | The Wild Robot       | 1562.8 |
+| 37   | Avatar 2             | 1561.3 |
 | 38   | Locke and Key        | 1560.2 |
 | 39   | The Illusionist      | 1559.2 |
 | 40   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
@@ -67,20 +67,20 @@ python3 mvr.py
 | 57   | Rebel Ridge          | 1531.3 |
 | 58   | Titanic              | 1530.0 |
 | 59   | My Name              | 1528.0 |
-| 60   | Guy Ritchie’s The Covenant | 1527.5 |
-| 61   | Replicas             | 1525.3 |
-| 62   | Mission Impossible 3 | 1523.9 |
-| 63   | Top Gun              | 1523.2 |
-| 64   | Mission Impossible: Rogue Nation | 1523.0 |
-| 65   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
-| 66   | Halo                 | 1522.6 |
-| 67   | Star Trek: Picard    | 1521.3 |
-| 68   | Soul                 | 1518.6 |
-| 69   | The Maze Runner: The Scorch Trials | 1518.0 |
-| 70   | Thor                 | 1516.7 |
-| 71   | The Man Who Knew Infinity | 1515.7 |
-| 72   | Captain America: The Winter Soldier | 1514.6 |
-| 73   | Avatar               | 1514.5 |
+| 60   | Replicas             | 1525.3 |
+| 61   | Mission Impossible 3 | 1523.9 |
+| 62   | Top Gun              | 1523.2 |
+| 63   | Mission Impossible: Rogue Nation | 1523.0 |
+| 64   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
+| 65   | Halo                 | 1522.6 |
+| 66   | Star Trek: Picard    | 1521.3 |
+| 67   | Soul                 | 1518.6 |
+| 68   | The Maze Runner: The Scorch Trials | 1518.0 |
+| 69   | Thor                 | 1516.7 |
+| 70   | The Man Who Knew Infinity | 1515.7 |
+| 71   | Captain America: The Winter Soldier | 1514.6 |
+| 72   | Avatar               | 1514.5 |
+| 73   | Guy Ritchie’s The Covenant | 1513.0 |
 | 74   | The Terminal List    | 1513.0 |
 | 75   | Ip Man               | 1510.8 |
 | 76   | Zodiac               | 1510.3 |
