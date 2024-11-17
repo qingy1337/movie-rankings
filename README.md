@@ -49,7 +49,7 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
 | $\color{red}\text{41  }$ | $\color{red}\text{Scream V}$ | $\color{red}\text{1552.9}$ |
-| $\color{green}\text{42  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1552.3}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1552.3}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1549.7}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1549.4}$ |
@@ -77,11 +77,11 @@ python3 mvr.py
 | $\color{green}\text{67  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1521.5}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
+| $\color{green}\text{70  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1517.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
@@ -122,14 +122,14 @@ python3 mvr.py
 | $\color{black}\text{112 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1464.8}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{red}\text{122 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1460.0}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{red}\text{121 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1460.0}$ |
+| $\color{red}\text{122 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1459.6}$ |
 | $\color{red}\text{123 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1459.5}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
@@ -141,7 +141,7 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1452.3}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1452.3}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
