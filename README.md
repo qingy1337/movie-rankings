@@ -10,7 +10,7 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1627.4}$ |
 | $\color{green}\text{2   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1613.1}$ |
-| $\color{green}\text{3   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1611.3}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1611.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1600.3}$ |
 | $\color{green}\text{6   }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1598.9}$ |
@@ -30,8 +30,8 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1577.3}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1576.6}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1574.8}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1574.8}$ |
+| $\color{red}\text{24  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1574.5}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1574.1}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1571.9}$ |
@@ -76,7 +76,7 @@ python3 mvr.py
 | $\color{black}\text{66  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1521.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
+| $\color{green}\text{69  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1518.9}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
 | $\color{red}\text{72  }$ | $\color{red}\text{Bloodhounds}$ | $\color{red}\text{1512.5}$ |
@@ -118,7 +118,7 @@ python3 mvr.py
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
-| $\color{red}\text{111 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1469.5}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
