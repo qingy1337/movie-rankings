@@ -30,7 +30,7 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1559.2}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
-| $\color{red}\text{23  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1555.4}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1552.2}$ |
@@ -71,7 +71,7 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1520.2}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
-| $\color{green}\text{64  }$ | $\color{green}\text{A Haunting in Venice}$ | $\color{green}\text{1517.8}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.8}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
@@ -93,17 +93,17 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
-| $\color{green}\text{89  }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1499.6}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1498.1}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1494.8}$ |
+| $\color{green}\text{86  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1500.2}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
+| $\color{green}\text{90  }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1499.6}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1498.1}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1493.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
@@ -138,12 +138,12 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{red}\text{131 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1460.2}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1457.9}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1457.9}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
+| $\color{red}\text{136 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1454.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1454.4}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
