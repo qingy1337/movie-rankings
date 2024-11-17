@@ -84,13 +84,13 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.2}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1509.6}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1509.3}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1506.7}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1505.2}$ |
+| $\color{green}\text{77  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1510.2}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1509.6}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1509.3}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1506.7}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.1}$ |
@@ -108,7 +108,7 @@ python3 mvr.py
 | $\color{black}\text{98  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1488.9}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
-| $\color{green}\text{101 }$ | $\color{green}\text{World War Z}$ | $\color{green}\text{1486.2}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
@@ -127,7 +127,7 @@ python3 mvr.py
 | $\color{black}\text{117 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1473.1}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1472.4}$ |
-| $\color{red}\text{120 }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1470.8}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1470.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.9}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
@@ -154,12 +154,12 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1446.5}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1446.1}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1445.7}$ |
-| $\color{red}\text{148 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1442.9}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
+| $\color{red}\text{147 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1442.9}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
+| $\color{red}\text{152 }$ | $\color{red}\text{All Quiet on The Western Front}$ | $\color{red}\text{1440.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
