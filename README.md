@@ -64,46 +64,46 @@ python3 mvr.py
 | 54   | Pompeii              | 1514.6 |
 | 55   | The Avengers         | 1514.6 |
 | 56   | Shang-Chi and the Legend of the Ten Rings | 1514.6 |
-| 57   | Train to Busan       | 1512.6 |
-| 58   | Scream VI            | 1502.2 |
-| 59   | Vagabond             | 1501.5 |
-| 60   | World War Z          | 1501.5 |
-| 61   | The Terminal List    | 1501.5 |
-| 62   | John Wick            | 1501.4 |
-| 63   | Ip Man               | 1501.1 |
-| 64   | Avatar 2             | 1500.7 |
-| 65   | A.I. Artificial Intelligence | 1500.7 |
-| 66   | Mission Impossible 3 | 1500.7 |
-| 67   | Ninja Turtles        | 1500.7 |
-| 68   | Sneaky Pete          | 1500.0 |
-| 69   | 65                   | 1500.0 |
-| 70   | The Matrix           | 1500.0 |
-| 71   | Selfless             | 1500.0 |
-| 72   | Zootopia             | 1500.0 |
-| 73   | Cars 2               | 1500.0 |
-| 74   | Locke and Key        | 1500.0 |
-| 75   | Loki                 | 1500.0 |
-| 76   | When a Stranger Calls | 1500.0 |
-| 77   | Wrath of Man         | 1500.0 |
-| 78   | The Maze Runner      | 1500.0 |
-| 79   | The Hunger Games     | 1500.0 |
-| 80   | The Ring 2           | 1500.0 |
-| 81   | Jack Reacher: Never Go Back | 1500.0 |
-| 82   | Peter the Rabbit     | 1500.0 |
-| 83   | Replicas             | 1500.0 |
-| 84   | Life of Pi           | 1500.0 |
-| 85   | Red Eye              | 1500.0 |
-| 86   | Jack Reacher         | 1500.0 |
-| 87   | Life                 | 1500.0 |
-| 88   | The Wild Robot       | 1500.0 |
-| 89   | Dark Waters          | 1500.0 |
-| 90   | Terminator           | 1500.0 |
-| 91   | Avengers: Infinity War | 1500.0 |
-| 92   | Black Widow          | 1500.0 |
-| 93   | Captain America: The Winter Soldier | 1500.0 |
-| 94   | The Spy Next Door    | 1500.0 |
-| 95   | Star Wars            | 1500.0 |
-| 96   | Horton hears a Who   | 1500.0 |
+| 57   | The Spy Next Door    | 1513.9 |
+| 58   | Train to Busan       | 1512.6 |
+| 59   | Scream VI            | 1502.2 |
+| 60   | Vagabond             | 1501.5 |
+| 61   | World War Z          | 1501.5 |
+| 62   | The Terminal List    | 1501.5 |
+| 63   | John Wick            | 1501.4 |
+| 64   | Ip Man               | 1501.1 |
+| 65   | The Tomorrow War     | 1500.7 |
+| 66   | Avatar 2             | 1500.7 |
+| 67   | Gladiator            | 1500.7 |
+| 68   | A.I. Artificial Intelligence | 1500.7 |
+| 69   | Mission Impossible 3 | 1500.7 |
+| 70   | Ninja Turtles        | 1500.7 |
+| 71   | Sneaky Pete          | 1500.0 |
+| 72   | 65                   | 1500.0 |
+| 73   | The Matrix           | 1500.0 |
+| 74   | Selfless             | 1500.0 |
+| 75   | Zootopia             | 1500.0 |
+| 76   | Cars 2               | 1500.0 |
+| 77   | Locke and Key        | 1500.0 |
+| 78   | Loki                 | 1500.0 |
+| 79   | Wrath of Man         | 1500.0 |
+| 80   | The Maze Runner      | 1500.0 |
+| 81   | The Hunger Games     | 1500.0 |
+| 82   | The Ring 2           | 1500.0 |
+| 83   | Jack Reacher: Never Go Back | 1500.0 |
+| 84   | Peter the Rabbit     | 1500.0 |
+| 85   | Replicas             | 1500.0 |
+| 86   | Life of Pi           | 1500.0 |
+| 87   | Red Eye              | 1500.0 |
+| 88   | Jack Reacher         | 1500.0 |
+| 89   | Life                 | 1500.0 |
+| 90   | The Wild Robot       | 1500.0 |
+| 91   | Dark Waters          | 1500.0 |
+| 92   | Terminator           | 1500.0 |
+| 93   | Avengers: Infinity War | 1500.0 |
+| 94   | Black Widow          | 1500.0 |
+| 95   | Captain America: The Winter Soldier | 1500.0 |
+| 96   | Star Wars            | 1500.0 |
 | 97   | The Firm             | 1500.0 |
 | 98   | The Mist             | 1500.0 |
 | 99   | Oppenheimer          | 1500.0 |
@@ -135,27 +135,27 @@ python3 mvr.py
 | 125  | The Man in the Iron Mask | 1484.7 |
 | 126  | A Quiet Place        | 1484.0 |
 | 127  | Cars 3               | 1484.0 |
-| 128  | The Tomorrow War     | 1484.0 |
-| 129  | Rango                | 1484.0 |
-| 130  | Heidi                | 1484.0 |
-| 131  | Jurassic World: Dominion | 1484.0 |
-| 132  | Crouching Tiger Hidden Dragon | 1484.0 |
-| 133  | The Mask of Zorro    | 1484.0 |
-| 134  | Avatar: The Last Airbender | 1484.0 |
-| 135  | The BFG              | 1484.0 |
-| 136  | Avatar               | 1484.0 |
-| 137  | Total Recall         | 1484.0 |
-| 138  | Mission Impossible 1 | 1484.0 |
-| 139  | Gladiator            | 1484.0 |
-| 140  | G.I.Joe movie        | 1484.0 |
-| 141  | Skyfall              | 1484.0 |
-| 142  | Land of Bad          | 1484.0 |
-| 143  | A Quiet Place: Day One | 1484.0 |
-| 144  | Frequency            | 1484.0 |
-| 145  | Onward               | 1483.3 |
-| 146  | Johnny English       | 1483.3 |
-| 147  | Independence Day     | 1483.3 |
-| 148  | Arrow                | 1483.3 |
+| 128  | Rango                | 1484.0 |
+| 129  | Heidi                | 1484.0 |
+| 130  | Jurassic World: Dominion | 1484.0 |
+| 131  | Crouching Tiger Hidden Dragon | 1484.0 |
+| 132  | The Mask of Zorro    | 1484.0 |
+| 133  | Avatar: The Last Airbender | 1484.0 |
+| 134  | The BFG              | 1484.0 |
+| 135  | Avatar               | 1484.0 |
+| 136  | Total Recall         | 1484.0 |
+| 137  | Mission Impossible 1 | 1484.0 |
+| 138  | G.I.Joe movie        | 1484.0 |
+| 139  | Skyfall              | 1484.0 |
+| 140  | Land of Bad          | 1484.0 |
+| 141  | A Quiet Place: Day One | 1484.0 |
+| 142  | Frequency            | 1484.0 |
+| 143  | Onward               | 1483.3 |
+| 144  | Johnny English       | 1483.3 |
+| 145  | When a Stranger Calls | 1483.3 |
+| 146  | Independence Day     | 1483.3 |
+| 147  | Arrow                | 1483.3 |
+| 148  | Horton hears a Who   | 1483.3 |
 | 149  | All Quiet on The Western Front | 1482.6 |
 | 150  | Black Hawk Down      | 1470.9 |
 | 151  | The Man Who Knew Infinity | 1469.5 |
@@ -175,6 +175,6 @@ python3 mvr.py
 | 165  | The Silence          | 1467.4 |
 | 166  | Gravity              | 1454.9 |
 | 167  | Mission Impossible 2 | 1454.9 |
-| 168  | AK-47 Kalashnikov    | 1454.8 |
-| 169  | Rampage              | 1454.2 |
-| 170  | Spectral             | 1444.2 |
+| 168  | Rampage              | 1454.2 |
+| 169  | Spectral             | 1444.2 |
+| 170  | AK-47 Kalashnikov    | 1440.9 |
