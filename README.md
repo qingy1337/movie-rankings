@@ -20,25 +20,25 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1581.0}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1579.0}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1575.8}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1579.0}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1575.8}$ |
+| $\color{red}\text{18  }$ | $\color{red}\text{Life of Pi}$ | $\color{red}\text{1573.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1571.9}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1561.2}$ |
-| $\color{green}\text{28  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1561.0}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{green}\text{31  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1558.2}$ |
+| $\color{green}\text{25  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1564.6}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1561.2}$ |
+| $\color{green}\text{29  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1561.0}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{green}\text{32  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1556.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{green}\text{34  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1554.4}$ |
@@ -138,7 +138,7 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1458.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
-| $\color{red}\text{131 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1454.8}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1454.0}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1453.8}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1453.8}$ |
