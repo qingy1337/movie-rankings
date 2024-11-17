@@ -99,22 +99,22 @@ python3 mvr.py
 | 89   | The Wild Robot       | 1500.0 |
 | 90   | Captain America: The Winter Soldier | 1500.0 |
 | 91   | Star Wars            | 1500.0 |
-| 92   | The Firm             | 1500.0 |
-| 93   | Oppenheimer          | 1500.0 |
-| 94   | Shadow               | 1500.0 |
-| 95   | X-Files              | 1500.0 |
-| 96   | Top Gun: Maverick    | 1500.0 |
-| 97   | Gladiator            | 1499.6 |
-| 98   | Terminator           | 1499.3 |
-| 99   | American Made        | 1499.3 |
-| 100  | Zodiac               | 1499.3 |
-| 101  | The Curious Case of Benjamin Button | 1498.7 |
-| 102  | Rebel Ridge          | 1498.6 |
-| 103  | The Ring 2           | 1498.6 |
-| 104  | The Spy Next Door    | 1497.3 |
-| 105  | A.I. Artificial Intelligence | 1495.9 |
-| 106  | Pompeii              | 1495.9 |
-| 107  | Mission Impossible: Rogue Nation | 1491.2 |
+| 92   | Oppenheimer          | 1500.0 |
+| 93   | Shadow               | 1500.0 |
+| 94   | X-Files              | 1500.0 |
+| 95   | Top Gun: Maverick    | 1500.0 |
+| 96   | Gladiator            | 1499.6 |
+| 97   | Terminator           | 1499.3 |
+| 98   | American Made        | 1499.3 |
+| 99   | Zodiac               | 1499.3 |
+| 100  | The Curious Case of Benjamin Button | 1498.7 |
+| 101  | Rebel Ridge          | 1498.6 |
+| 102  | The Ring 2           | 1498.6 |
+| 103  | The Spy Next Door    | 1497.3 |
+| 104  | A.I. Artificial Intelligence | 1495.9 |
+| 105  | Pompeii              | 1495.9 |
+| 106  | Mission Impossible: Rogue Nation | 1491.2 |
+| 107  | Total Recall         | 1488.1 |
 | 108  | Vagabond             | 1488.1 |
 | 109  | Cars                 | 1486.9 |
 | 110  | Zero Dark Thirty     | 1486.1 |
@@ -139,13 +139,13 @@ python3 mvr.py
 | 129  | Red Eye              | 1483.3 |
 | 130  | The Maze Runner      | 1483.3 |
 | 131  | Independence Day     | 1483.3 |
-| 132  | All Quiet on The Western Front | 1482.6 |
-| 133  | Stillwater           | 1481.3 |
-| 134  | Mission Impossible 2 | 1473.6 |
-| 135  | The Matrix Reloaded  | 1472.2 |
-| 136  | Star Trek: Picard    | 1472.2 |
-| 137  | A Boy Called Christmas | 1470.8 |
-| 138  | Total Recall         | 1470.8 |
+| 132  | The Firm             | 1482.7 |
+| 133  | All Quiet on The Western Front | 1482.6 |
+| 134  | Stillwater           | 1481.3 |
+| 135  | Mission Impossible 2 | 1473.6 |
+| 136  | The Matrix Reloaded  | 1472.2 |
+| 137  | Star Trek: Picard    | 1472.2 |
+| 138  | A Boy Called Christmas | 1470.8 |
 | 139  | Loki                 | 1470.2 |
 | 140  | The Young and Prodigious T.S. Spivet | 1470.0 |
 | 141  | Drunken Master       | 1469.5 |
