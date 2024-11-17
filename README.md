@@ -118,22 +118,22 @@ python3 mvr.py
 | 108  | The Mask             | 1471.5 |
 | 109  | Jack Reacher: Never Go Back | 1470.7 |
 | 110  | Glass Castle         | 1470.4 |
-| 111  | Land of Bad          | 1469.5 |
-| 112  | The Ring             | 1469.2 |
-| 113  | Heidi                | 1468.7 |
-| 114  | Mission Impossible 1 | 1467.9 |
-| 115  | Black Widow          | 1467.2 |
-| 116  | Iron Chef            | 1465.8 |
-| 117  | The Mist             | 1465.4 |
-| 118  | When a Stranger Calls | 1465.4 |
-| 119  | World War Z          | 1464.8 |
-| 120  | GoldenEye            | 1463.3 |
-| 121  | Sweet Tooth          | 1460.3 |
-| 122  | Exam                 | 1460.3 |
-| 123  | The Mask of Zorro    | 1459.8 |
-| 124  | Drunken Master       | 1459.7 |
-| 125  | John Wick            | 1459.6 |
-| 126  | The Spy Next Door    | 1457.3 |
+| 111  | The Spy Next Door    | 1469.9 |
+| 112  | Land of Bad          | 1469.5 |
+| 113  | The Ring             | 1469.2 |
+| 114  | Heidi                | 1468.7 |
+| 115  | Mission Impossible 1 | 1467.9 |
+| 116  | Black Widow          | 1467.2 |
+| 117  | Iron Chef            | 1465.8 |
+| 118  | The Mist             | 1465.4 |
+| 119  | When a Stranger Calls | 1465.4 |
+| 120  | World War Z          | 1464.8 |
+| 121  | GoldenEye            | 1463.3 |
+| 122  | Sweet Tooth          | 1460.3 |
+| 123  | Exam                 | 1460.3 |
+| 124  | The Mask of Zorro    | 1459.8 |
+| 125  | Drunken Master       | 1459.7 |
+| 126  | John Wick            | 1459.6 |
 | 127  | Wrath of Man         | 1456.9 |
 | 128  | Peter the Rabbit     | 1455.9 |
 | 129  | G.I.Joe movie        | 1455.9 |
@@ -146,11 +146,11 @@ python3 mvr.py
 | 136  | School of Rock       | 1447.9 |
 | 137  | Journey 2: The Mysterious Island | 1444.1 |
 | 138  | Road House           | 1443.3 |
-| 139  | The Ring 2           | 1443.1 |
-| 140  | Cars 3               | 1442.7 |
-| 141  | Avatar: The Last Airbender | 1442.7 |
-| 142  | Independence Day     | 1442.2 |
-| 143  | Frequency            | 1441.7 |
+| 139  | Cars 3               | 1442.7 |
+| 140  | Avatar: The Last Airbender | 1442.7 |
+| 141  | Independence Day     | 1442.2 |
+| 142  | Frequency            | 1441.7 |
+| 143  | The Ring 2           | 1440.5 |
 | 144  | The Matrix Reloaded  | 1438.3 |
 | 145  | The Silence          | 1434.9 |
 | 146  | Crouching Tiger Hidden Dragon | 1424.2 |
@@ -172,9 +172,9 @@ python3 mvr.py
 | 162  | A Quiet Place: Day One | 1392.8 |
 | 163  | Gravity              | 1391.8 |
 | 164  | Spooky Buddies       | 1388.6 |
-| 165  | All Quiet on The Western Front | 1385.3 |
-| 166  | Shadow               | 1382.8 |
-| 167  | Black Hawk Down      | 1376.9 |
-| 168  | Darkest Hour         | 1376.2 |
+| 165  | All Quiet on The Western Front | 1387.9 |
+| 166  | Black Hawk Down      | 1376.9 |
+| 167  | Darkest Hour         | 1376.2 |
+| 168  | Shadow               | 1370.2 |
 | 169  | The Battle at Lake Changjin | 1370.0 |
 | 170  | Spectral             | 1359.0 |
