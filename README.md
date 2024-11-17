@@ -19,7 +19,7 @@ python3 mvr.py
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1579.1}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1578.1}$ |
-| $\color{green}\text{12  }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1577.7}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1577.7}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
@@ -30,14 +30,14 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.0}$ |
 | $\color{red}\text{21  }$ | $\color{red}\text{No Country for Old Men}$ | $\color{red}\text{1562.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1559.5}$ |
-| $\color{green}\text{24  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1558.4}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
+| $\color{green}\text{23  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1558.4}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
+| $\color{red}\text{30  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1551.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
@@ -136,11 +136,11 @@ python3 mvr.py
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1463.4}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1457.5}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.3}$ |
+| $\color{green}\text{129 }$ | $\color{green}\text{American Sniper}$ | $\color{green}\text{1462.1}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1457.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.5}$ |
@@ -173,7 +173,7 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
-| $\color{red}\text{166 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1419.4}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1419.4}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1418.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
 | $\color{red}\text{169 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1412.8}$ |
