@@ -11,7 +11,7 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1615.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1600.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1599.3}$ |
-| $\color{green}\text{4   }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1598.8}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1598.8}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1591.9}$ |
@@ -44,9 +44,9 @@ python3 mvr.py
 | $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1553.5}$ |
+| $\color{green}\text{37  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1557.5}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
@@ -74,7 +74,7 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.3}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
-| $\color{red}\text{67  }$ | $\color{red}\text{Bloodhounds}$ | $\color{red}\text{1517.3}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
 | $\color{green}\text{68  }$ | $\color{green}\text{A Haunting in Venice}$ | $\color{green}\text{1516.3}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1516.0}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1515.3}$ |
@@ -154,13 +154,13 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1429.9}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1429.9}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
+| $\color{red}\text{153 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1428.2}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
