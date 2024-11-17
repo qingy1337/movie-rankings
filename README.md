@@ -16,12 +16,12 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1583.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1579.1}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1578.1}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1577.7}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1581.3}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1579.1}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1578.1}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1577.7}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1572.0}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
@@ -89,11 +89,11 @@ python3 mvr.py
 | $\color{black}\text{79  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1504.7}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1503.9}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1503.9}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
+| $\color{red}\text{86  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1499.9}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
@@ -114,11 +114,11 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.0}$ |
-| $\color{green}\text{107 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1477.9}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1477.9}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.6}$ |
-| $\color{red}\text{111 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1476.2}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1475.2}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
