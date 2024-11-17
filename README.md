@@ -38,7 +38,7 @@ python3 mvr.py
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{green}\text{31  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1562.5}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1562.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{green}\text{33  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1559.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
@@ -65,11 +65,11 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1527.1}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1525.7}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1524.6}$ |
+| $\color{green}\text{58  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1530.0}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1527.1}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1525.7}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1524.1}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.3}$ |
@@ -83,7 +83,7 @@ python3 mvr.py
 | $\color{black}\text{73  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
-| $\color{red}\text{76  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1508.4}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
@@ -101,9 +101,9 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.7}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
+| $\color{red}\text{96  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1486.3}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1486.0}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1483.2}$ |
