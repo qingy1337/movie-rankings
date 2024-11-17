@@ -23,9 +23,9 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1576.7}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.0}$ |
 | $\color{green}\text{15  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1575.9}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1574.0}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1572.4}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.6}$ |
+| $\color{green}\text{16  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1574.5}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1574.0}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1572.4}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1568.4}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1567.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.6}$ |
@@ -124,15 +124,15 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1475.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1475.1}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1474.4}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1473.9}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1469.9}$ |
-| $\color{red}\text{121 }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1469.7}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1468.2}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1470.5}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1469.9}$ |
+| $\color{red}\text{120 }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1469.7}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1468.2}$ |
+| $\color{red}\text{122 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1468.0}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1465.1}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1463.6}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1463.6}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1462.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.9}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1460.7}$ |
