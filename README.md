@@ -19,12 +19,12 @@ python3 mvr.py
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1580.9}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1577.6}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1576.7}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.0}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1575.9}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1574.0}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1572.4}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1571.8}$ |
+| $\color{green}\text{12  }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1577.6}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1576.7}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.0}$ |
+| $\color{green}\text{15  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1575.9}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1574.0}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1572.4}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1568.4}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1567.7}$ |
@@ -65,7 +65,7 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1526.7}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.8}$ |
-| $\color{green}\text{58  }$ | $\color{green}\text{Guy Ritchie’s The Covenant}$ | $\color{green}\text{1524.9}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.9}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1524.4}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1522.8}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.8}$ |
@@ -121,14 +121,14 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1477.8}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1477.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1475.5}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1475.3}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1475.1}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1474.4}$ |
-| $\color{red}\text{118 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1473.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1469.9}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1475.3}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1475.1}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1474.4}$ |
+| $\color{red}\text{117 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1473.9}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1470.5}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1469.9}$ |
+| $\color{red}\text{121 }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1469.7}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1468.2}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1465.1}$ |
@@ -173,7 +173,7 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1417.8}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1416.2}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1412.4}$ |
-| $\color{red}\text{166 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1411.5}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1411.5}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1411.3}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1411.2}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1406.4}$ |
