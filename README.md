@@ -60,29 +60,29 @@ python3 mvr.py
 | 50   | Life                 | 1530.1 |
 | 51   | Star Wars            | 1530.0 |
 | 52   | Doctor Strange       | 1529.8 |
-| 53   | Dune                 | 1528.5 |
-| 54   | Dark Waters          | 1527.7 |
-| 55   | Mission Impossible: Dead Reckoning P1 | 1526.4 |
-| 56   | The Maze Runner: The Scorch Trials | 1526.2 |
-| 57   | Titanic              | 1525.4 |
-| 58   | The Avengers         | 1522.0 |
-| 59   | No Country for Old Men | 1521.8 |
-| 60   | The Matrix           | 1519.4 |
-| 61   | Glass Castle         | 1519.3 |
-| 62   | Lord of the Rings    | 1519.1 |
-| 63   | GoldenEye            | 1518.2 |
-| 64   | Thor                 | 1517.1 |
-| 65   | Knight and Day       | 1516.7 |
-| 66   | The Hunger Games     | 1516.2 |
-| 67   | Scream V             | 1516.0 |
-| 68   | Interstellar         | 1515.2 |
-| 69   | Captain America: The Winter Soldier | 1514.6 |
-| 70   | Avatar               | 1514.4 |
-| 71   | Guy Ritchie’s The Covenant | 1514.2 |
+| 53   | Dark Waters          | 1527.7 |
+| 54   | Mission Impossible: Dead Reckoning P1 | 1526.4 |
+| 55   | The Maze Runner: The Scorch Trials | 1526.2 |
+| 56   | Titanic              | 1525.4 |
+| 57   | The Avengers         | 1522.0 |
+| 58   | No Country for Old Men | 1521.8 |
+| 59   | The Matrix           | 1519.4 |
+| 60   | Glass Castle         | 1519.3 |
+| 61   | Lord of the Rings    | 1519.1 |
+| 62   | GoldenEye            | 1518.2 |
+| 63   | Thor                 | 1517.1 |
+| 64   | Knight and Day       | 1516.7 |
+| 65   | The Hunger Games     | 1516.2 |
+| 66   | Scream V             | 1516.0 |
+| 67   | Interstellar         | 1515.2 |
+| 68   | Captain America: The Winter Soldier | 1514.6 |
+| 69   | Avatar               | 1514.4 |
+| 70   | Guy Ritchie’s The Covenant | 1514.2 |
+| 71   | Soul                 | 1514.0 |
 | 72   | Zodiac               | 1513.9 |
-| 73   | Ip Man               | 1513.5 |
-| 74   | Jack Reacher: Never Go Back | 1513.5 |
-| 75   | Rebel Ridge          | 1511.2 |
+| 73   | Jack Reacher: Never Go Back | 1513.5 |
+| 74   | Rebel Ridge          | 1511.2 |
+| 75   | Dune                 | 1511.0 |
 | 76   | The Tomorrow War     | 1510.6 |
 | 77   | Zootopia             | 1510.5 |
 | 78   | The Terminal List    | 1508.4 |
@@ -99,38 +99,38 @@ python3 mvr.py
 | 89   | Horton hears a Who   | 1499.1 |
 | 90   | Jack Reacher         | 1499.0 |
 | 91   | The Curious Case of Benjamin Button | 1496.9 |
-| 92   | Soul                 | 1496.5 |
-| 93   | G.I.Joe movie        | 1496.5 |
+| 92   | G.I.Joe movie        | 1496.5 |
+| 93   | Ip Man               | 1495.6 |
 | 94   | Replicas             | 1493.3 |
-| 95   | The Man in the Iron Mask | 1489.1 |
-| 96   | Gladiator            | 1487.2 |
-| 97   | A Boy Called Christmas | 1486.9 |
-| 98   | Total Recall         | 1486.7 |
-| 99   | Ninja Turtles        | 1485.5 |
-| 100  | Mission Impossible 3 | 1485.3 |
-| 101  | Land of Bad          | 1485.0 |
-| 102  | Selfless             | 1484.6 |
-| 103  | Cars 2               | 1484.0 |
-| 104  | The Mask of Zorro    | 1484.0 |
-| 105  | Skyfall              | 1484.0 |
-| 106  | The Ring 2           | 1483.7 |
-| 107  | Bloodhounds          | 1483.5 |
-| 108  | Pompeii              | 1483.4 |
-| 109  | A.I. Artificial Intelligence | 1479.1 |
-| 110  | The Spy Next Door    | 1478.6 |
-| 111  | Mission Impossible: Rogue Nation | 1478.1 |
-| 112  | When a Stranger Calls | 1476.1 |
-| 113  | The Matrix Revolutions | 1475.2 |
-| 114  | Sweet Tooth          | 1474.9 |
-| 115  | School of Rock       | 1474.9 |
-| 116  | Vagabond             | 1474.8 |
-| 117  | Mission Impossible 2 | 1473.6 |
-| 118  | Rampage              | 1473.6 |
-| 119  | Red Notice           | 1473.5 |
-| 120  | The Mask             | 1472.9 |
-| 121  | The Matrix Reloaded  | 1472.2 |
-| 122  | Drunken Master       | 1472.1 |
-| 123  | Oppenheimer          | 1471.5 |
+| 95   | Oppenheimer          | 1489.4 |
+| 96   | The Man in the Iron Mask | 1489.1 |
+| 97   | Gladiator            | 1487.2 |
+| 98   | A Boy Called Christmas | 1486.9 |
+| 99   | Total Recall         | 1486.7 |
+| 100  | Ninja Turtles        | 1485.5 |
+| 101  | Mission Impossible 3 | 1485.3 |
+| 102  | Land of Bad          | 1485.0 |
+| 103  | Selfless             | 1484.6 |
+| 104  | Cars 2               | 1484.0 |
+| 105  | The Mask of Zorro    | 1484.0 |
+| 106  | Skyfall              | 1484.0 |
+| 107  | The Ring 2           | 1483.7 |
+| 108  | Bloodhounds          | 1483.5 |
+| 109  | Pompeii              | 1483.4 |
+| 110  | A.I. Artificial Intelligence | 1479.1 |
+| 111  | The Spy Next Door    | 1478.6 |
+| 112  | Mission Impossible: Rogue Nation | 1478.1 |
+| 113  | When a Stranger Calls | 1476.1 |
+| 114  | The Matrix Revolutions | 1475.2 |
+| 115  | Sweet Tooth          | 1474.9 |
+| 116  | School of Rock       | 1474.9 |
+| 117  | Vagabond             | 1474.8 |
+| 118  | Mission Impossible 2 | 1473.6 |
+| 119  | Rampage              | 1473.6 |
+| 120  | Red Notice           | 1473.5 |
+| 121  | The Mask             | 1472.9 |
+| 122  | The Matrix Reloaded  | 1472.2 |
+| 123  | Drunken Master       | 1472.1 |
 | 124  | Red Eye              | 1471.2 |
 | 125  | The BFG              | 1469.7 |
 | 126  | Independence Day     | 1469.5 |
