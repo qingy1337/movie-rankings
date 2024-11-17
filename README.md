@@ -33,13 +33,13 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1567.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1562.7}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1559.7}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.1}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1557.4}$ |
-| $\color{red}\text{30  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1556.6}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1556.0}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.6}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1561.3}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1559.7}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.1}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1557.4}$ |
+| $\color{red}\text{31  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1556.6}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1556.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1553.0}$ |
@@ -47,7 +47,7 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1546.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1544.7}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.2}$ |
-| $\color{green}\text{40  }$ | $\color{green}\text{The Ninth Gate}$ | $\color{green}\text{1543.8}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1543.8}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1541.4}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1540.6}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.7}$ |
@@ -130,7 +130,7 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1469.9}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1469.4}$ |
-| $\color{red}\text{123 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1468.2}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1468.2}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1465.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
@@ -145,11 +145,11 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1453.2}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.4}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1452.0}$ |
-| $\color{red}\text{139 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1451.8}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.0}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1449.8}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1448.1}$ |
+| $\color{red}\text{138 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1451.8}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1449.8}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1448.1}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1446.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1442.7}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1441.4}$ |
