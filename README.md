@@ -25,13 +25,13 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1576.4}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{green}\text{18  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1570.7}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1570.7}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
-| $\color{green}\text{24  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1561.2}$ |
+| $\color{green}\text{22  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1566.5}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1556.5}$ |
@@ -73,15 +73,15 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1520.4}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.2}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.2}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1516.2}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1515.5}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.5}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.2}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.2}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1516.2}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1515.5}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.5}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
+| $\color{red}\text{74  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1515.1}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
@@ -166,7 +166,7 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1423.2}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{65}$ | $\color{black}\text{1422.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
