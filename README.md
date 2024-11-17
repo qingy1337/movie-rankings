@@ -37,9 +37,9 @@ python3 mvr.py
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1559.1}$ |
+| $\color{green}\text{30  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1563.7}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{red}\text{34  }$ | $\color{red}\text{Scream V}$ | $\color{red}\text{1558.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
@@ -110,12 +110,12 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
 | $\color{red}\text{101 }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1482.0}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
-| $\color{green}\text{108 }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1476.1}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
+| $\color{green}\text{107 }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1476.1}$ |
+| $\color{red}\text{108 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1475.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
@@ -164,7 +164,7 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{red}\text{157 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1419.4}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
 | $\color{red}\text{158 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1418.8}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1416.9}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
