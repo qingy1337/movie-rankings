@@ -39,7 +39,7 @@ python3 mvr.py
 | $\color{green}\text{29  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1595.3}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1592.0}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1590.7}$ |
-| $\color{green}\text{32  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1587.4}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1580.2}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1579.2}$ |
@@ -58,13 +58,13 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1554.6}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1553.3}$ |
 | $\color{green}\text{50  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1551.0}$ |
-| $\color{red}\text{51  }$ | $\color{red}\text{Beut Mind}$ | $\color{red}\text{1547.2}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1545.8}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1539.8}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1539.5}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1535.9}$ |
+| $\color{green}\text{51  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1548.4}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1547.2}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1545.8}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1539.8}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1539.5}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1535.3}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1533.1}$ |
@@ -122,17 +122,17 @@ python3 mvr.py
 | $\color{red}\text{112 }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1459.4}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1459.1}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1457.9}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1457.1}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1456.7}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1455.5}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.4}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1454.3}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1450.5}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1449.7}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1449.2}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1447.5}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1457.1}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1456.7}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1455.5}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.4}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1454.3}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1450.5}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1449.7}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1449.2}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1447.5}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1445.4}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1443.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1441.0}$ |
