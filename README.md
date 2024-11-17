@@ -36,10 +36,10 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
-| $\color{green}\text{29  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1564.5}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1562.5}$ |
+| $\color{green}\text{29  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1566.5}$ |
+| $\color{green}\text{30  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1564.5}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{green}\text{34  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1558.7}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
@@ -132,7 +132,7 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{green}\text{125 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1460.6}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1460.6}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
@@ -150,9 +150,9 @@ python3 mvr.py
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.3}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1433.2}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1429.9}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1424.9}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1423.0}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{red}\text{157 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1418.0}$ |
