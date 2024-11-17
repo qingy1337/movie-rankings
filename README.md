@@ -9,8 +9,8 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | 1    | The Martian          | 1624.7 |
-| 2    | Lost in Space        | 1614.0 |
-| 3    | Star Wars            | 1608.9 |
+| 2    | Star Wars            | 1617.0 |
+| 3    | Lost in Space        | 1614.0 |
 | 4    | Harry Potter         | 1608.7 |
 | 5    | Wednesday            | 1608.1 |
 | 6    | Life of Pi           | 1606.7 |
@@ -63,12 +63,12 @@ python3 mvr.py
 | 53   | Train to Busan       | 1535.6 |
 | 54   | Mission Impossible: Ghost Protocol | 1535.3 |
 | 55   | Mission Impossible: Fallout | 1534.9 |
-| 56   | The Man Who Knew Infinity | 1530.9 |
-| 57   | Titanic              | 1530.0 |
-| 58   | The Prestige         | 1528.2 |
-| 59   | My Name              | 1528.0 |
-| 60   | Guy Ritchie’s The Covenant | 1527.5 |
-| 61   | Top Gun              | 1526.8 |
+| 56   | Interstellar         | 1531.7 |
+| 57   | The Man Who Knew Infinity | 1530.9 |
+| 58   | Titanic              | 1530.0 |
+| 59   | The Prestige         | 1528.2 |
+| 60   | My Name              | 1528.0 |
+| 61   | Guy Ritchie’s The Covenant | 1527.5 |
 | 62   | Rainman              | 1526.3 |
 | 63   | Replicas             | 1525.3 |
 | 64   | Shawshank Redemption | 1524.4 |
@@ -76,15 +76,15 @@ python3 mvr.py
 | 66   | Mission Impossible: Rogue Nation | 1519.4 |
 | 67   | Thor                 | 1516.7 |
 | 68   | Cars 2               | 1515.3 |
-| 69   | Interstellar         | 1515.2 |
-| 70   | Captain America: The Winter Soldier | 1514.6 |
-| 71   | Avatar               | 1514.4 |
-| 72   | Zodiac               | 1514.3 |
-| 73   | Scream V             | 1513.9 |
-| 74   | The Matrix           | 1513.9 |
-| 75   | Dark Waters          | 1511.2 |
-| 76   | Mission Impossible: Dead Reckoning P1 | 1511.1 |
-| 77   | Ip Man               | 1510.8 |
+| 69   | Captain America: The Winter Soldier | 1514.6 |
+| 70   | Avatar               | 1514.4 |
+| 71   | Zodiac               | 1514.3 |
+| 72   | Scream V             | 1513.9 |
+| 73   | The Matrix           | 1513.9 |
+| 74   | Dark Waters          | 1511.2 |
+| 75   | Mission Impossible: Dead Reckoning P1 | 1511.1 |
+| 76   | Ip Man               | 1510.8 |
+| 77   | Top Gun              | 1510.2 |
 | 78   | Jack Reacher         | 1508.0 |
 | 79   | The Man in the Iron Mask | 1506.5 |
 | 80   | Captain America: Civil War | 1504.8 |
@@ -160,9 +160,9 @@ python3 mvr.py
 | 150  | The Darkest Hour     | 1425.0 |
 | 151  | Stillwater           | 1424.4 |
 | 152  | 65                   | 1422.2 |
-| 153  | American Made        | 1418.9 |
-| 154  | A.I. Artificial Intelligence | 1412.5 |
-| 155  | Selfless             | 1412.1 |
+| 153  | A.I. Artificial Intelligence | 1412.5 |
+| 154  | Selfless             | 1412.1 |
+| 155  | American Made        | 1410.9 |
 | 156  | Darkest Hour         | 1410.6 |
 | 157  | Awake                | 1409.8 |
 | 158  | AK-47 Kalashnikov    | 1409.5 |
