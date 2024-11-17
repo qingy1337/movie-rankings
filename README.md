@@ -33,9 +33,9 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1578.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1572.6}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1576.0}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1576.0}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -112,7 +112,7 @@ python3 mvr.py
 | $\color{black}\text{102 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1477.2}$ |
-| $\color{green}\text{105 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1475.3}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1475.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{red}\text{108 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1472.2}$ |
@@ -140,7 +140,7 @@ python3 mvr.py
 | $\color{black}\text{130 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
-| $\color{red}\text{133 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1450.5}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1447.4}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
@@ -162,8 +162,8 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
 | $\color{red}\text{153 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1414.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1411.7}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
+| $\color{red}\text{156 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1408.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1406.7}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
