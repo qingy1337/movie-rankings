@@ -92,7 +92,7 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1501.6}$ |
-| $\color{red}\text{85  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1498.0}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
 | $\color{red}\text{88  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1495.9}$ |
@@ -105,15 +105,15 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
-| $\color{green}\text{98  }$ | $\color{green}\text{M3GAN}$ | $\color{green}\text{1483.0}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1483.0}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1479.6}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1475.7}$ |
+| $\color{green}\text{101 }$ | $\color{green}\text{Exam}$ | $\color{green}\text{1481.3}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1479.6}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
@@ -141,9 +141,9 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1451.4}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{red}\text{136 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1445.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1445.5}$ |
 | $\color{green}\text{139 }$ | $\color{green}\text{G.I.Joe movie}$ | $\color{green}\text{1444.7}$ |
