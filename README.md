@@ -10,7 +10,7 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1610.9}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1595.8}$ |
-| $\color{green}\text{3   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1595.5}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1590.3}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1588.1}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
@@ -43,8 +43,8 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1553.8}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1553.2}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.2}$ |
+| $\color{green}\text{36  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1552.9}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1547.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
@@ -123,9 +123,9 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1473.5}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1473.5}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
+| $\color{red}\text{118 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1469.9}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
