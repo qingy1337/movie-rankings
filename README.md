@@ -25,8 +25,8 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1575.8}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1571.9}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1575.6}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1571.2}$ |
@@ -47,7 +47,7 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1552.5}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1551.1}$ |
-| $\color{green}\text{40  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1549.9}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
@@ -78,7 +78,7 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1513.7}$ |
-| $\color{red}\text{71  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1513.1}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.0}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
@@ -122,11 +122,11 @@ python3 mvr.py
 | $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
+| $\color{green}\text{115 }$ | $\color{green}\text{Land of Bad}$ | $\color{green}\text{1471.2}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
-| $\color{green}\text{119 }$ | $\color{green}\text{Land of Bad}$ | $\color{green}\text{1465.1}$ |
+| $\color{red}\text{119 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1465.9}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
@@ -158,9 +158,9 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1433.6}$ |
 | $\color{red}\text{150 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1432.8}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1431.9}$ |
-| $\color{red}\text{152 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1431.3}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
+| $\color{red}\text{153 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1428.2}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
