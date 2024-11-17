@@ -21,30 +21,30 @@ python3 mvr.py
 | 11   | World War Z          | 1545.0 |
 | 12   | Black Panther        | 1544.6 |
 | 13   | Halo                 | 1544.5 |
-| 14   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
-| 15   | The Tomorrow War     | 1542.9 |
-| 16   | Catch Me If You Can  | 1541.9 |
-| 17   | Source Code          | 1541.6 |
-| 18   | Megan                | 1541.3 |
-| 19   | Sneaky Pete          | 1534.0 |
-| 20   | X-Men                | 1533.4 |
-| 21   | Squid Game           | 1532.8 |
-| 22   | Avengers: Endgame    | 1532.0 |
-| 23   | Inception            | 1531.9 |
-| 24   | A Quiet Place        | 1531.3 |
-| 25   | Lost in Space        | 1531.3 |
-| 26   | Jack Ryan            | 1531.3 |
-| 27   | Passengers           | 1531.3 |
-| 28   | Dark Waters          | 1531.3 |
-| 29   | Shawshank Redemption | 1531.3 |
-| 30   | Pirates of the Caribbean | 1531.3 |
-| 31   | Wednesday            | 1531.2 |
-| 32   | Captain America: The Winter Soldier | 1530.5 |
-| 33   | Harry Potter         | 1530.5 |
-| 34   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
-| 35   | The Hobbit           | 1529.9 |
-| 36   | Titanic              | 1529.8 |
-| 37   | Mission Impossible: Ghost Protocol | 1529.3 |
+| 14   | Mission Impossible: Ghost Protocol | 1543.3 |
+| 15   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 16   | The Tomorrow War     | 1542.9 |
+| 17   | Catch Me If You Can  | 1541.9 |
+| 18   | Source Code          | 1541.6 |
+| 19   | Megan                | 1541.3 |
+| 20   | Sneaky Pete          | 1534.0 |
+| 21   | X-Men                | 1533.4 |
+| 22   | Squid Game           | 1532.8 |
+| 23   | Avengers: Endgame    | 1532.0 |
+| 24   | Inception            | 1531.9 |
+| 25   | A Quiet Place        | 1531.3 |
+| 26   | Lost in Space        | 1531.3 |
+| 27   | Jack Ryan            | 1531.3 |
+| 28   | Passengers           | 1531.3 |
+| 29   | Dark Waters          | 1531.3 |
+| 30   | Shawshank Redemption | 1531.3 |
+| 31   | Pirates of the Caribbean | 1531.3 |
+| 32   | Wednesday            | 1531.2 |
+| 33   | Captain America: The Winter Soldier | 1530.5 |
+| 34   | Harry Potter         | 1530.5 |
+| 35   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
+| 36   | The Hobbit           | 1529.9 |
+| 37   | Titanic              | 1529.8 |
 | 38   | The Illusionist      | 1529.2 |
 | 39   | Rainman              | 1529.2 |
 | 40   | The Prestige         | 1528.7 |
@@ -128,20 +128,20 @@ python3 mvr.py
 | 118  | Skyfall              | 1484.0 |
 | 119  | The Darkest Hour     | 1484.0 |
 | 120  | Land of Bad          | 1484.0 |
-| 121  | Frequency            | 1484.0 |
-| 122  | Iron Chef            | 1483.6 |
-| 123  | Red Notice           | 1483.4 |
-| 124  | G.I.Joe movie        | 1483.3 |
-| 125  | The Firm             | 1482.7 |
-| 126  | All Quiet on The Western Front | 1482.6 |
-| 127  | American Made        | 1481.9 |
-| 128  | Mission Impossible: Rogue Nation | 1476.2 |
-| 129  | Mission Impossible 2 | 1473.6 |
-| 130  | Rampage              | 1473.6 |
-| 131  | Road House           | 1473.1 |
-| 132  | The Matrix Reloaded  | 1472.2 |
-| 133  | Drunken Master       | 1472.1 |
-| 134  | A Boy Called Christmas | 1470.8 |
+| 121  | Iron Chef            | 1483.6 |
+| 122  | Red Notice           | 1483.4 |
+| 123  | G.I.Joe movie        | 1483.3 |
+| 124  | The Firm             | 1482.7 |
+| 125  | All Quiet on The Western Front | 1482.6 |
+| 126  | American Made        | 1481.9 |
+| 127  | Mission Impossible: Rogue Nation | 1476.2 |
+| 128  | Mission Impossible 2 | 1473.6 |
+| 129  | Rampage              | 1473.6 |
+| 130  | Road House           | 1473.1 |
+| 131  | The Matrix Reloaded  | 1472.2 |
+| 132  | Drunken Master       | 1472.1 |
+| 133  | A Boy Called Christmas | 1470.8 |
+| 134  | Frequency            | 1470.1 |
 | 135  | A Quiet Place: Day One | 1470.1 |
 | 136  | Journey 2: The Mysterious Island | 1470.0 |
 | 137  | Top Gun: Maverick    | 1469.5 |
