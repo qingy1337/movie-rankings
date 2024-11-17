@@ -56,16 +56,16 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1544.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.8}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1538.4}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1538.4}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{red}\text{58  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1534.4}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1533.7}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1532.3}$ |
@@ -95,7 +95,7 @@ python3 mvr.py
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
-| $\color{green}\text{88  }$ | $\color{green}\text{Rebel Ridge}$ | $\color{green}\text{1496.3}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1494.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1490.9}$ |
@@ -128,7 +128,7 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1458.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1458.2}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
-| $\color{red}\text{121 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1457.8}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1456.3}$ |
@@ -166,13 +166,13 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{red}\text{157 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1406.7}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1405.3}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
-| $\color{red}\text{162 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1402.3}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
+| $\color{green}\text{159 }$ | $\color{green}\text{Gravity}$ | $\color{green}\text{1406.2}$ |
+| $\color{red}\text{160 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1405.3}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
+| $\color{red}\text{163 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1402.3}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
 | $\color{red}\text{167 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1394.6}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
