@@ -53,9 +53,9 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.8}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
-| $\color{green}\text{47  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1534.1}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1530.6}$ |
+| $\color{green}\text{46  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1536.0}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
+| $\color{green}\text{48  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1534.1}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1530.4}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1529.0}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1528.1}$ |
@@ -77,7 +77,7 @@ python3 mvr.py
 | $\color{black}\text{67  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1513.4}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
-| $\color{green}\text{70  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1512.4}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1512.4}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.4}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
@@ -101,12 +101,12 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1494.9}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1493.6}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1493.6}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
+| $\color{red}\text{99  }$ | $\color{red}\text{Top Gun}$ | $\color{red}\text{1489.5}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.9}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
@@ -141,7 +141,7 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
 | $\color{red}\text{132 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1462.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1459.3}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1459.3}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
