@@ -87,7 +87,7 @@ python3 mvr.py
 | $\color{black}\text{77  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{red}\text{78  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1508.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1508.2}$ |
-| $\color{red}\text{80  }$ | $\color{red}\text{Beut Mind}$ | $\color{red}\text{1507.8}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1507.8}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1504.3}$ |
@@ -122,14 +122,14 @@ python3 mvr.py
 | $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1470.3}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{red}\text{122 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1463.9}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1460.1}$ |
@@ -143,9 +143,9 @@ python3 mvr.py
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1453.8}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1453.8}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
-| $\color{green}\text{138 }$ | $\color{green}\text{Selfless}$ | $\color{green}\text{1447.1}$ |
+| $\color{green}\text{136 }$ | $\color{green}\text{Selfless}$ | $\color{green}\text{1453.5}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.6}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{red}\text{141 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1439.9}$ |
