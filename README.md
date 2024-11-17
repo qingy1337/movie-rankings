@@ -58,36 +58,36 @@ python3 mvr.py
 | 48   | The Maze Runner: The Scorch Trials | 1526.2 |
 | 49   | Beut Mind            | 1525.6 |
 | 50   | No Country for Old Men | 1525.4 |
-| 51   | The Terminal List    | 1524.1 |
-| 52   | The Wild Robot       | 1521.5 |
-| 53   | Train to Busan       | 1521.3 |
-| 54   | X-Files              | 1520.4 |
-| 55   | Loki                 | 1519.8 |
-| 56   | The Maze Runner      | 1518.9 |
-| 57   | Scream VI            | 1518.8 |
-| 58   | Avatar 2             | 1518.7 |
-| 59   | Cars                 | 1517.2 |
-| 60   | Knight and Day       | 1516.7 |
-| 61   | The Hunger Games     | 1516.2 |
-| 62   | Scream V             | 1516.0 |
-| 63   | Saving Private Ryan  | 1516.0 |
-| 64   | A Haunting in Venice | 1516.0 |
-| 65   | Thor                 | 1516.0 |
-| 66   | Life                 | 1516.0 |
-| 67   | Doctor Strange       | 1516.0 |
-| 68   | Selfless             | 1515.3 |
-| 69   | The Ring             | 1515.3 |
-| 70   | Interstellar         | 1515.2 |
-| 71   | My Name              | 1514.8 |
-| 72   | Guy Ritchie’s The Covenant | 1514.2 |
-| 73   | Star Wars            | 1514.2 |
-| 74   | Soul                 | 1514.2 |
-| 75   | Jack Reacher         | 1514.1 |
-| 76   | Zodiac               | 1513.9 |
-| 77   | The Ninth Gate       | 1513.2 |
-| 78   | Rebel Ridge          | 1512.6 |
-| 79   | Zootopia             | 1510.5 |
-| 80   | Titanic              | 1510.5 |
+| 51   | Titanic              | 1525.4 |
+| 52   | The Terminal List    | 1524.1 |
+| 53   | The Wild Robot       | 1521.5 |
+| 54   | Train to Busan       | 1521.3 |
+| 55   | X-Files              | 1520.4 |
+| 56   | Loki                 | 1519.8 |
+| 57   | The Maze Runner      | 1518.9 |
+| 58   | Scream VI            | 1518.8 |
+| 59   | Avatar 2             | 1518.7 |
+| 60   | Cars                 | 1517.2 |
+| 61   | Knight and Day       | 1516.7 |
+| 62   | The Hunger Games     | 1516.2 |
+| 63   | Scream V             | 1516.0 |
+| 64   | Saving Private Ryan  | 1516.0 |
+| 65   | A Haunting in Venice | 1516.0 |
+| 66   | Thor                 | 1516.0 |
+| 67   | Life                 | 1516.0 |
+| 68   | Doctor Strange       | 1516.0 |
+| 69   | Selfless             | 1515.3 |
+| 70   | The Ring             | 1515.3 |
+| 71   | Interstellar         | 1515.2 |
+| 72   | My Name              | 1514.8 |
+| 73   | Guy Ritchie’s The Covenant | 1514.2 |
+| 74   | Star Wars            | 1514.2 |
+| 75   | Soul                 | 1514.2 |
+| 76   | Jack Reacher         | 1514.1 |
+| 77   | Zodiac               | 1513.9 |
+| 78   | The Ninth Gate       | 1513.2 |
+| 79   | Rebel Ridge          | 1512.6 |
+| 80   | Zootopia             | 1510.5 |
 | 81   | Replicas             | 1509.1 |
 | 82   | The Young and Prodigious T.S. Spivet | 1506.1 |
 | 83   | Red Eye              | 1502.8 |
@@ -109,32 +109,32 @@ python3 mvr.py
 | 99   | Gladiator            | 1487.2 |
 | 100  | Star Trek: Picard    | 1486.9 |
 | 101  | A Boy Called Christmas | 1486.4 |
-| 102  | Black Widow          | 1485.5 |
-| 103  | Mission Impossible 3 | 1485.3 |
-| 104  | The Man Who Knew Infinity | 1484.8 |
-| 105  | Oppenheimer          | 1484.1 |
-| 106  | Cars 2               | 1484.0 |
-| 107  | The Mask of Zorro    | 1484.0 |
-| 108  | The BFG              | 1484.0 |
-| 109  | Skyfall              | 1484.0 |
-| 110  | The Darkest Hour     | 1484.0 |
-| 111  | Bloodhounds          | 1483.5 |
-| 112  | Red Notice           | 1483.4 |
-| 113  | Glass Castle         | 1483.4 |
-| 114  | Independence Day     | 1483.3 |
-| 115  | G.I.Joe movie        | 1483.3 |
-| 116  | A.I. Artificial Intelligence | 1482.0 |
-| 117  | The Spy Next Door    | 1478.6 |
-| 118  | Mission Impossible: Rogue Nation | 1478.1 |
-| 119  | When a Stranger Calls | 1476.1 |
-| 120  | Vagabond             | 1474.8 |
-| 121  | Mission Impossible 2 | 1473.6 |
-| 122  | Rampage              | 1473.6 |
-| 123  | Road House           | 1473.1 |
-| 124  | The Mask             | 1472.9 |
-| 125  | The Matrix Reloaded  | 1472.2 |
-| 126  | Drunken Master       | 1472.1 |
-| 127  | American Made        | 1470.8 |
+| 102  | Mission Impossible 3 | 1485.3 |
+| 103  | The Man Who Knew Infinity | 1484.8 |
+| 104  | Oppenheimer          | 1484.1 |
+| 105  | Cars 2               | 1484.0 |
+| 106  | The Mask of Zorro    | 1484.0 |
+| 107  | The BFG              | 1484.0 |
+| 108  | Skyfall              | 1484.0 |
+| 109  | The Darkest Hour     | 1484.0 |
+| 110  | Bloodhounds          | 1483.5 |
+| 111  | Red Notice           | 1483.4 |
+| 112  | Glass Castle         | 1483.4 |
+| 113  | Independence Day     | 1483.3 |
+| 114  | G.I.Joe movie        | 1483.3 |
+| 115  | A.I. Artificial Intelligence | 1482.0 |
+| 116  | The Spy Next Door    | 1478.6 |
+| 117  | Mission Impossible: Rogue Nation | 1478.1 |
+| 118  | When a Stranger Calls | 1476.1 |
+| 119  | Vagabond             | 1474.8 |
+| 120  | Mission Impossible 2 | 1473.6 |
+| 121  | Rampage              | 1473.6 |
+| 122  | Road House           | 1473.1 |
+| 123  | The Mask             | 1472.9 |
+| 124  | The Matrix Reloaded  | 1472.2 |
+| 125  | Drunken Master       | 1472.1 |
+| 126  | American Made        | 1470.8 |
+| 127  | Black Widow          | 1470.7 |
 | 128  | The Man in the Iron Mask | 1470.2 |
 | 129  | Top Gun: Maverick    | 1469.5 |
 | 130  | Crouching Tiger Hidden Dragon | 1468.8 |
