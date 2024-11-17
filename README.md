@@ -17,7 +17,7 @@ python3 mvr.py
 | 7    | Black Panther        | 1544.6 |
 | 8    | Halo                 | 1544.5 |
 | 9    | Beut Mind            | 1544.4 |
-| 10   | No Country for Old Men | 1544.3 |
+| 10   | No Country for Old Men | 1543.4 |
 | 11   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
 | 12   | Catch Me If You Can  | 1541.9 |
 | 13   | Sneaky Pete          | 1534.0 |
@@ -33,32 +33,32 @@ python3 mvr.py
 | 23   | Passengers           | 1531.3 |
 | 24   | Dark Waters          | 1531.3 |
 | 25   | Shawshank Redemption | 1531.3 |
-| 26   | World War Z          | 1531.3 |
-| 27   | Thirteen Lives       | 1530.6 |
-| 28   | Harry Potter         | 1530.5 |
-| 29   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
-| 30   | Maleficent           | 1530.5 |
-| 31   | Locke and Key        | 1529.8 |
-| 32   | Titanic              | 1529.8 |
-| 33   | Zootopia             | 1529.8 |
-| 34   | Megan                | 1529.8 |
-| 35   | Mission Impossible: Ghost Protocol | 1529.3 |
-| 36   | The Illusionist      | 1529.2 |
-| 37   | Lord of the Rings    | 1528.6 |
-| 38   | Replicas             | 1528.5 |
-| 39   | Train to Busan       | 1524.0 |
-| 40   | Scream VI            | 1518.8 |
-| 41   | Tenet                | 1518.7 |
-| 42   | John Wick            | 1517.4 |
-| 43   | Ip Man               | 1517.0 |
-| 44   | The Day After Tomorrow | 1516.7 |
-| 45   | Knight and Day       | 1516.7 |
-| 46   | Iron Man             | 1516.5 |
-| 47   | Scream V             | 1516.0 |
-| 48   | Saving Private Ryan  | 1516.0 |
-| 49   | A Haunting in Venice | 1516.0 |
-| 50   | Thor                 | 1516.0 |
-| 51   | Pirates of the Caribbean | 1516.0 |
+| 26   | Pirates of the Caribbean | 1531.3 |
+| 27   | World War Z          | 1531.3 |
+| 28   | Thirteen Lives       | 1530.6 |
+| 29   | Harry Potter         | 1530.5 |
+| 30   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
+| 31   | Maleficent           | 1530.5 |
+| 32   | Locke and Key        | 1529.8 |
+| 33   | Titanic              | 1529.8 |
+| 34   | Zootopia             | 1529.8 |
+| 35   | Megan                | 1529.8 |
+| 36   | Mission Impossible: Ghost Protocol | 1529.3 |
+| 37   | The Illusionist      | 1529.2 |
+| 38   | Lord of the Rings    | 1528.6 |
+| 39   | Replicas             | 1528.5 |
+| 40   | Train to Busan       | 1524.9 |
+| 41   | Scream VI            | 1518.8 |
+| 42   | Tenet                | 1518.7 |
+| 43   | John Wick            | 1517.4 |
+| 44   | Ip Man               | 1517.0 |
+| 45   | The Day After Tomorrow | 1516.7 |
+| 46   | Knight and Day       | 1516.7 |
+| 47   | Iron Man             | 1516.5 |
+| 48   | Scream V             | 1516.0 |
+| 49   | Saving Private Ryan  | 1516.0 |
+| 50   | A Haunting in Venice | 1516.0 |
+| 51   | Thor                 | 1516.0 |
 | 52   | Guy Ritchie’s The Covenant | 1516.0 |
 | 53   | Soul                 | 1516.0 |
 | 54   | The Mandalorian      | 1516.0 |
@@ -101,27 +101,27 @@ python3 mvr.py
 | 91   | The Wild Robot       | 1500.0 |
 | 92   | Star Wars            | 1500.0 |
 | 93   | X-Files              | 1500.0 |
-| 94   | Top Gun: Maverick    | 1500.0 |
-| 95   | Oppenheimer          | 1499.4 |
-| 96   | Independence Day     | 1499.3 |
-| 97   | Terminator           | 1499.3 |
-| 98   | The Curious Case of Benjamin Button | 1498.7 |
-| 99   | Rebel Ridge          | 1498.6 |
-| 100  | The Ring 2           | 1498.6 |
-| 101  | Bloodhounds          | 1497.9 |
-| 102  | The Spy Next Door    | 1497.3 |
-| 103  | A.I. Artificial Intelligence | 1495.9 |
-| 104  | Pompeii              | 1495.9 |
-| 105  | Mission Impossible: Rogue Nation | 1491.2 |
-| 106  | The Young and Prodigious T.S. Spivet | 1488.8 |
-| 107  | Vagabond             | 1488.1 |
-| 108  | Loki                 | 1487.5 |
-| 109  | Gladiator            | 1487.4 |
-| 110  | Star Trek: Picard    | 1486.9 |
-| 111  | Cars                 | 1486.8 |
-| 112  | The Matrix Revolutions | 1485.5 |
-| 113  | Iron Chef            | 1484.8 |
-| 114  | The Matrix           | 1484.7 |
+| 94   | Oppenheimer          | 1499.4 |
+| 95   | Independence Day     | 1499.3 |
+| 96   | Terminator           | 1499.3 |
+| 97   | The Curious Case of Benjamin Button | 1498.7 |
+| 98   | Rebel Ridge          | 1498.6 |
+| 99   | The Ring 2           | 1498.6 |
+| 100  | Bloodhounds          | 1497.9 |
+| 101  | The Spy Next Door    | 1497.3 |
+| 102  | A.I. Artificial Intelligence | 1495.9 |
+| 103  | Pompeii              | 1495.9 |
+| 104  | Mission Impossible: Rogue Nation | 1491.2 |
+| 105  | The Young and Prodigious T.S. Spivet | 1488.8 |
+| 106  | Vagabond             | 1488.1 |
+| 107  | Loki                 | 1487.5 |
+| 108  | Gladiator            | 1487.4 |
+| 109  | Star Trek: Picard    | 1486.9 |
+| 110  | Cars                 | 1486.8 |
+| 111  | The Matrix Revolutions | 1485.5 |
+| 112  | Iron Chef            | 1484.8 |
+| 113  | The Matrix           | 1484.7 |
+| 114  | Top Gun: Maverick    | 1484.7 |
 | 115  | The Mist             | 1484.7 |
 | 116  | The Mask of Zorro    | 1484.0 |
 | 117  | The BFG              | 1484.0 |
