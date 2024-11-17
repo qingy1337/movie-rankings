@@ -49,15 +49,15 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{green}\text{41  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1555.7}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1545.2}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{green}\text{49  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1540.9}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1539.2}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
+| $\color{red}\text{43  }$ | $\color{red}\text{Lord of the Rings}$ | $\color{red}\text{1545.7}$ |
+| $\color{green}\text{44  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1545.5}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1545.2}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
+| $\color{green}\text{50  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1540.9}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
@@ -144,7 +144,7 @@ python3 mvr.py
 | $\color{black}\text{134 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
-| $\color{green}\text{137 }$ | $\color{green}\text{Rango}$ | $\color{green}\text{1449.0}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
@@ -162,7 +162,7 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{red}\text{153 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1420.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
-| $\color{red}\text{155 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1419.2}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1419.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1418.0}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
