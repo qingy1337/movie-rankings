@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1596.6}$ |
-| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1587.7}$ |
+| $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.7}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
 | $\color{green}\text{4   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1582.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.3}$ |
@@ -45,7 +45,7 @@ python3 mvr.py
 | $\color{black}\text{35  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1544.7}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
-| $\color{red}\text{38  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1544.1}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1544.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1542.4}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1541.4}$ |
@@ -102,11 +102,11 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1489.5}$ |
+| $\color{green}\text{95  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1494.8}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1489.0}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
@@ -150,11 +150,11 @@ python3 mvr.py
 | $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1451.1}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1450.1}$ |
-| $\color{red}\text{146 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1446.9}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1451.1}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1450.1}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1446.9}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{red}\text{147 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1446.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
