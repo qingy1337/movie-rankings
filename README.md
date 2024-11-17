@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1624.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1616.6}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{green}\text{5   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1606.0}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1604.2}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
@@ -120,7 +120,7 @@ python3 mvr.py
 | $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1467.9}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
+| $\color{green}\text{113 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1466.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
@@ -141,12 +141,12 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1447.4}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1445.7}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1445.7}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
+| $\color{red}\text{139 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1441.6}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1438.7}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
