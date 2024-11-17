@@ -62,32 +62,32 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1554.6}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1554.0}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1553.1}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1547.0}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1545.7}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1540.1}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1537.6}$ |
-| $\color{green}\text{61  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1535.5}$ |
+| $\color{green}\text{55  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1551.3}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1547.0}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1545.7}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1540.1}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1537.6}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1535.3}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1534.6}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1534.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1531.5}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1531.3}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1529.8}$ |
-| $\color{green}\text{69  }$ | $\color{green}\text{Frequency}$ | $\color{green}\text{1527.7}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.0}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1526.9}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1526.8}$ |
-| $\color{green}\text{73  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1526.7}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.9}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1523.8}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1523.6}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1522.0}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1520.6}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1520.2}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1518.3}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1529.8}$ |
+| $\color{green}\text{68  }$ | $\color{green}\text{Frequency}$ | $\color{green}\text{1527.7}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.0}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1526.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1526.8}$ |
+| $\color{green}\text{72  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1526.7}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.9}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1523.8}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1523.6}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1522.0}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1520.6}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1520.2}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1518.3}$ |
+| $\color{red}\text{80  }$ | $\color{red}\text{Road House}$ | $\color{red}\text{1515.5}$ |
 | $\color{green}\text{81  }$ | $\color{green}\text{Zootopia}$ | $\color{green}\text{1514.9}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1514.0}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.2}$ |
@@ -172,8 +172,8 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1362.1}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1361.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1357.1}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1355.0}$ |
-| $\color{green}\text{166 }$ | $\color{green}\text{Awake}$ | $\color{green}\text{1351.7}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1355.0}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1351.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1348.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1345.4}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1345.2}$ |
