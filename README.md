@@ -9,8 +9,8 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1610.9}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.7}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1587.4}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1591.0}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.7}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1585.9}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
@@ -48,7 +48,7 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1544.7}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1543.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
-| $\color{green}\text{41  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1541.0}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1538.1}$ |
@@ -162,10 +162,10 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{red}\text{154 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1437.1}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1435.2}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
-| $\color{red}\text{158 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1433.1}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
+| $\color{red}\text{157 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1433.1}$ |
+| $\color{red}\text{158 }$ | $\color{red}\text{65}$ | $\color{red}\text{1431.7}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1431.5}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
@@ -176,7 +176,7 @@ python3 mvr.py
 | $\color{black}\text{166 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1422.6}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
-| $\color{red}\text{169 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1419.5}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1415.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1405.6}$ |
