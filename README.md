@@ -138,12 +138,12 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
-| $\color{green}\text{131 }$ | $\color{green}\text{A.I. Artificial Intelligence}$ | $\color{green}\text{1458.7}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{red}\text{132 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1457.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.3}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
-| $\color{red}\text{136 }$ | $\color{red}\text{Red Eye}$ | $\color{red}\text{1452.5}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.5}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1452.4}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
@@ -161,11 +161,11 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{red}\text{153 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1436.7}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
+| $\color{green}\text{154 }$ | $\color{green}\text{The Silence}$ | $\color{green}\text{1435.8}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1431.7}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1428.3}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1428.3}$ |
+| $\color{red}\text{158 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1428.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
