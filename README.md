@@ -126,14 +126,14 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{green}\text{119 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1460.4}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
+| $\color{green}\text{119 }$ | $\color{green}\text{The Man in the Iron Mask}$ | $\color{green}\text{1461.3}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1460.4}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
@@ -165,7 +165,7 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
-| $\color{red}\text{158 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1409.5}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1409.5}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1408.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1408.7}$ |
@@ -173,10 +173,10 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1398.7}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1394.8}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1398.7}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1394.8}$ |
+| $\color{red}\text{171 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1394.5}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
