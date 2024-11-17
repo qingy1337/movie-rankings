@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1596.6}$ |
-| $\color{green}\text{2   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1587.4}$ |
+| $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
@@ -129,8 +129,8 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1474.3}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1467.9}$ |
+| $\color{green}\text{122 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1473.4}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{red}\text{124 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1466.6}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
@@ -162,11 +162,11 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1439.3}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1437.0}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1437.0}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1435.2}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1434.4}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.3}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1435.2}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1434.4}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.3}$ |
+| $\color{red}\text{159 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1431.5}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
