@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1521.7}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1521.4}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
 | $\color{green}\text{64  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1521.1}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1520.4}$ |
@@ -118,13 +118,13 @@ python3 mvr.py
 | $\color{black}\text{108 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1477.9}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.6}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1471.6}$ |
+| $\color{green}\text{111 }$ | $\color{green}\text{M3GAN}$ | $\color{green}\text{1476.7}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.6}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1433.9}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1431.1}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1431.1}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
@@ -173,9 +173,9 @@ python3 mvr.py
 | $\color{red}\text{163 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1421.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1419.4}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1418.2}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1418.2}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
+| $\color{red}\text{168 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1414.3}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1409.6}$ |
