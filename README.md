@@ -15,15 +15,15 @@ python3 mvr.py
 | $\color{green}\text{5   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1641.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1634.9}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1633.7}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1629.7}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Life}$ | $\color{black}\text{1629.6}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1627.0}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1624.9}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1624.2}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1622.6}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1620.7}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1620.2}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1620.1}$ |
+| $\color{green}\text{8   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1630.2}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1629.7}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1629.6}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1627.0}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1624.9}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1624.2}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1622.6}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1620.7}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1620.2}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1619.5}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1617.4}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1616.6}$ |
@@ -85,7 +85,7 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1515.9}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1515.6}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1515.4}$ |
-| $\color{green}\text{78  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1514.0}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1514.0}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.3}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.2}$ |
@@ -104,12 +104,12 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1489.7}$ |
 | $\color{green}\text{95  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1489.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1488.5}$ |
-| $\color{red}\text{97  }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1485.1}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1484.8}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1484.2}$ |
-| $\color{green}\text{100 }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1480.8}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1478.1}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1484.8}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1484.2}$ |
+| $\color{green}\text{99  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1480.8}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1478.1}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
+| $\color{red}\text{102 }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1475.0}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.8}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1470.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1469.5}$ |
@@ -126,7 +126,7 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1457.1}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1456.7}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1453.9}$ |
-| $\color{red}\text{119 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1451.9}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1451.9}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1450.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1449.7}$ |
 | $\color{green}\text{122 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1448.8}$ |
