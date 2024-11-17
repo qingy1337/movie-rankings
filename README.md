@@ -38,16 +38,16 @@ python3 mvr.py
 | 28   | Passengers           | 1580.5 |
 | 29   | A Quiet Place        | 1580.2 |
 | 30   | Scream V             | 1576.1 |
-| 31   | X-Files              | 1574.3 |
-| 32   | Avatar 2             | 1574.0 |
-| 33   | X-Men                | 1573.6 |
-| 34   | The Hunger Games     | 1572.3 |
-| 35   | Lost in Space        | 1570.6 |
-| 36   | Scream VI            | 1565.8 |
-| 37   | Loki                 | 1563.0 |
-| 38   | Train to Busan       | 1562.8 |
-| 39   | Shang-Chi and the Legend of the Ten Rings | 1560.7 |
-| 40   | The Wild Robot       | 1560.5 |
+| 31   | The Wild Robot       | 1575.7 |
+| 32   | X-Files              | 1574.3 |
+| 33   | Avatar 2             | 1574.0 |
+| 34   | X-Men                | 1573.6 |
+| 35   | The Hunger Games     | 1572.3 |
+| 36   | Lost in Space        | 1570.6 |
+| 37   | Scream VI            | 1565.8 |
+| 38   | Loki                 | 1563.0 |
+| 39   | Train to Busan       | 1562.8 |
+| 40   | Shang-Chi and the Legend of the Ten Rings | 1560.7 |
 | 41   | Mission Impossible: Ghost Protocol | 1560.4 |
 | 42   | The Prestige         | 1557.0 |
 | 43   | Mission Impossible: Rogue Nation | 1556.9 |
@@ -62,13 +62,13 @@ python3 mvr.py
 | 52   | A Haunting in Venice | 1548.4 |
 | 53   | Mission Impossible: Fallout | 1546.1 |
 | 54   | The Illusionist      | 1545.8 |
-| 55   | Locke and Key        | 1545.1 |
-| 56   | Jack Ryan            | 1544.5 |
-| 57   | Avatar               | 1541.9 |
-| 58   | Captain America: The Winter Soldier | 1539.8 |
-| 59   | The Ninth Gate       | 1537.2 |
-| 60   | The Man Who Knew Infinity | 1535.9 |
-| 61   | Replicas             | 1535.3 |
+| 55   | Jack Ryan            | 1544.5 |
+| 56   | Avatar               | 1541.9 |
+| 57   | Captain America: The Winter Soldier | 1539.8 |
+| 58   | The Ninth Gate       | 1537.2 |
+| 59   | The Man Who Knew Infinity | 1535.9 |
+| 60   | Replicas             | 1535.3 |
+| 61   | Locke and Key        | 1529.8 |
 | 62   | Avengers: Infinity War | 1527.6 |
 | 63   | Soul                 | 1526.4 |
 | 64   | Mission Impossible: Dead Reckoning P1 | 1526.1 |
@@ -103,12 +103,12 @@ python3 mvr.py
 | 93   | Rainman              | 1494.3 |
 | 94   | Dune                 | 1490.9 |
 | 95   | Cars 2               | 1490.1 |
-| 96   | Road House           | 1487.5 |
-| 97   | The Ring             | 1486.3 |
-| 98   | The Mask             | 1477.0 |
-| 99   | Jack Reacher: Never Go Back | 1476.6 |
-| 100  | Oppenheimer          | 1476.1 |
-| 101  | Wrath of Man         | 1475.8 |
+| 96   | Wrath of Man         | 1488.1 |
+| 97   | Road House           | 1487.5 |
+| 98   | The Ring             | 1486.3 |
+| 99   | The Mask             | 1477.0 |
+| 100  | Jack Reacher: Never Go Back | 1476.6 |
+| 101  | Oppenheimer          | 1476.1 |
 | 102  | The Curious Case of Benjamin Button | 1475.7 |
 | 103  | Black Widow          | 1473.8 |
 | 104  | The Darkest Hour     | 1473.5 |
@@ -157,14 +157,14 @@ python3 mvr.py
 | 147  | Crouching Tiger Hidden Dragon | 1411.0 |
 | 148  | Cars 3               | 1403.4 |
 | 149  | The Last Samurai     | 1402.3 |
-| 150  | A Quiet Place: Day One | 1392.8 |
-| 151  | Stillwater           | 1391.0 |
-| 152  | AK-47 Kalashnikov    | 1389.8 |
-| 153  | The Silence          | 1389.5 |
-| 154  | 65                   | 1389.0 |
-| 155  | Spooky Buddies       | 1388.6 |
-| 156  | Awake                | 1388.2 |
-| 157  | Zero Dark Thirty     | 1388.1 |
+| 150  | Stillwater           | 1391.0 |
+| 151  | AK-47 Kalashnikov    | 1389.8 |
+| 152  | The Silence          | 1389.5 |
+| 153  | 65                   | 1389.0 |
+| 154  | Spooky Buddies       | 1388.6 |
+| 155  | Awake                | 1388.2 |
+| 156  | Zero Dark Thirty     | 1388.1 |
+| 157  | A Quiet Place: Day One | 1380.5 |
 | 158  | Selfless             | 1378.2 |
 | 159  | Arrow                | 1377.5 |
 | 160  | Everything, everywhere, all at once | 1377.1 |
