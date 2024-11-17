@@ -81,23 +81,23 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1520.6}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1520.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1517.0}$ |
-| $\color{green}\text{74  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1515.6}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1515.6}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1515.4}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1509.4}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1508.0}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1506.9}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1505.6}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1505.3}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1504.7}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1502.9}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1501.4}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1500.0}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1499.5}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.5}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1498.3}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1497.9}$ |
+| $\color{green}\text{79  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1508.8}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1508.0}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1506.9}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1505.6}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1505.3}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1504.7}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1502.9}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1501.4}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1500.0}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1499.5}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.5}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1498.3}$ |
 | $\color{red}\text{91  }$ | $\color{red}\text{Bloodhounds}$ | $\color{red}\text{1496.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1495.3}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1491.2}$ |
@@ -160,23 +160,23 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1395.5}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1389.0}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1383.3}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1383.1}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1380.9}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1380.5}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1379.5}$ |
-| $\color{green}\text{158 }$ | $\color{green}\text{Black Hawk Down}$ | $\color{green}\text{1378.6}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1377.5}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1376.7}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1373.4}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1373.1}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1383.1}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1380.9}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1380.5}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1379.5}$ |
+| $\color{green}\text{157 }$ | $\color{green}\text{Black Hawk Down}$ | $\color{green}\text{1378.6}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1377.5}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1376.7}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1373.4}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1373.1}$ |
+| $\color{red}\text{162 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1372.4}$ |
 | $\color{red}\text{163 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1371.0}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1370.2}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1366.2}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1365.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1362.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1355.3}$ |
-| $\color{red}\text{169 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1355.2}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1355.2}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1353.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1345.5}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1345.2}$ |
