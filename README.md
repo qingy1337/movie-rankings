@@ -38,10 +38,10 @@ python3 mvr.py
 | 28   | Squid Game           | 1560.7 |
 | 29   | The Maze Runner: The Death Cure | 1559.8 |
 | 30   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
-| 31   | Doctor Strange       | 1558.6 |
-| 32   | Titanic              | 1549.3 |
-| 33   | Inception            | 1548.9 |
-| 34   | Scream VI            | 1548.0 |
+| 31   | Scream VI            | 1558.1 |
+| 32   | Doctor Strange       | 1555.5 |
+| 33   | Titanic              | 1549.3 |
+| 34   | Inception            | 1548.9 |
 | 35   | My Name              | 1548.0 |
 | 36   | The Wild Robot       | 1547.0 |
 | 37   | Tenet                | 1544.7 |
@@ -97,10 +97,10 @@ python3 mvr.py
 | 87   | GoldenEye            | 1497.3 |
 | 88   | The Terminal List    | 1497.1 |
 | 89   | Ip Man               | 1495.6 |
-| 90   | A Boy Called Christmas | 1491.7 |
-| 91   | Mission Impossible: Rogue Nation | 1491.6 |
-| 92   | Dune                 | 1490.9 |
-| 93   | Jack Reacher         | 1490.3 |
+| 90   | Jack Reacher         | 1493.4 |
+| 91   | A Boy Called Christmas | 1491.7 |
+| 92   | Mission Impossible: Rogue Nation | 1491.6 |
+| 93   | Dune                 | 1490.9 |
 | 94   | Oppenheimer          | 1489.4 |
 | 95   | Peter the Rabbit     | 1488.2 |
 | 96   | Top Gun: Maverick    | 1488.1 |
@@ -124,25 +124,25 @@ python3 mvr.py
 | 114  | Saving Private Ryan  | 1472.5 |
 | 115  | The Matrix Reloaded  | 1472.2 |
 | 116  | Knight and Day       | 1471.6 |
-| 117  | Red Eye              | 1471.2 |
-| 118  | The BFG              | 1471.1 |
-| 119  | The Ring 2           | 1470.9 |
-| 120  | Heidi                | 1468.7 |
-| 121  | Avatar: The Last Airbender | 1468.7 |
-| 122  | Skyfall              | 1468.7 |
-| 123  | Unbreakable          | 1468.5 |
-| 124  | Ninja Turtles        | 1465.0 |
-| 125  | Black Widow          | 1463.1 |
-| 126  | Sweet Tooth          | 1462.2 |
-| 127  | Rampage              | 1462.0 |
-| 128  | Road House           | 1461.3 |
-| 129  | Exam                 | 1460.9 |
-| 130  | The Mask of Zorro    | 1459.8 |
-| 131  | Drunken Master       | 1459.7 |
-| 132  | Mission Impossible 2 | 1459.6 |
-| 133  | The Matrix Revolutions | 1459.0 |
-| 134  | Red Notice           | 1458.4 |
-| 135  | The Mask             | 1458.4 |
+| 117  | The Mask             | 1471.5 |
+| 118  | Red Eye              | 1471.2 |
+| 119  | The BFG              | 1471.1 |
+| 120  | The Ring 2           | 1470.9 |
+| 121  | Heidi                | 1468.7 |
+| 122  | Avatar: The Last Airbender | 1468.7 |
+| 123  | Skyfall              | 1468.7 |
+| 124  | Unbreakable          | 1468.5 |
+| 125  | Ninja Turtles        | 1465.0 |
+| 126  | Black Widow          | 1463.1 |
+| 127  | Sweet Tooth          | 1462.2 |
+| 128  | Rampage              | 1462.0 |
+| 129  | Road House           | 1461.3 |
+| 130  | Exam                 | 1460.9 |
+| 131  | The Mask of Zorro    | 1459.8 |
+| 132  | Drunken Master       | 1459.7 |
+| 133  | Mission Impossible 2 | 1459.6 |
+| 134  | The Matrix Revolutions | 1459.0 |
+| 135  | Red Notice           | 1458.4 |
 | 136  | Onward               | 1457.9 |
 | 137  | Terminator           | 1455.5 |
 | 138  | Mission Impossible 1 | 1455.4 |
@@ -167,14 +167,14 @@ python3 mvr.py
 | 157  | Darkest Hour         | 1419.9 |
 | 158  | Zero Dark Thirty     | 1418.9 |
 | 159  | Arrow                | 1415.3 |
-| 160  | All Quiet on The Western Front | 1413.1 |
-| 161  | AK-47 Kalashnikov    | 1409.5 |
-| 162  | Spooky Buddies       | 1406.8 |
-| 163  | Gravity              | 1405.9 |
-| 164  | The Battle at Lake Changjin | 1405.4 |
+| 160  | AK-47 Kalashnikov    | 1409.5 |
+| 161  | Spooky Buddies       | 1406.8 |
+| 162  | Gravity              | 1405.9 |
+| 163  | The Battle at Lake Changjin | 1405.4 |
+| 164  | All Quiet on The Western Front | 1403.0 |
 | 165  | Jurassic World: Dominion | 1403.0 |
 | 166  | A Quiet Place: Day One | 1400.6 |
 | 167  | Black Hawk Down      | 1398.1 |
-| 168  | Everything, everywhere, all at once | 1394.1 |
-| 169  | Spectral             | 1390.9 |
-| 170  | Shadow               | 1389.5 |
+| 168  | Spectral             | 1390.9 |
+| 169  | Shadow               | 1389.5 |
+| 170  | Everything, everywhere, all at once | 1381.0 |
