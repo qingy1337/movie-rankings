@@ -93,31 +93,31 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1508.0}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1505.3}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1504.7}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1502.9}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1501.4}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1500.0}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1498.3}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1495.3}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1491.2}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1490.8}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1489.7}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1488.5}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1501.4}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1500.0}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1498.3}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1496.3}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1495.3}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1491.2}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1490.8}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1489.7}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1488.5}$ |
+| $\color{red}\text{96  }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1485.1}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1484.8}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1484.2}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1478.1}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1476.1}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.8}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1470.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1469.5}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1469.0}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1468.1}$ |
-| $\color{green}\text{107 }$ | $\color{green}\text{Sweet Tooth}$ | $\color{green}\text{1466.9}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1465.1}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.8}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1463.0}$ |
+| $\color{green}\text{99  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1480.8}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1478.1}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1476.1}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.8}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1470.4}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1469.5}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1469.0}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1466.9}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1465.1}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1459.6}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1459.1}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{red}\text{169 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1348.7}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1345.5}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1345.2}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1342.3}$ |
+| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1342.3}$ |
