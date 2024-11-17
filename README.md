@@ -9,8 +9,8 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1627.4}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1609.6}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1607.5}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1611.3}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1609.6}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1600.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1596.8}$ |
@@ -54,7 +54,7 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{green}\text{47  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1544.6}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1544.6}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.8}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1541.6}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
@@ -116,9 +116,9 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
+| $\color{red}\text{111 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1469.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
@@ -141,7 +141,7 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1450.6}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1450.6}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1449.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
