@@ -43,7 +43,7 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.3}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
-| $\color{green}\text{36  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1545.2}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
 | $\color{green}\text{39  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1541.3}$ |
@@ -131,31 +131,31 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.1}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1470.3}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1468.5}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1466.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
+| $\color{red}\text{124 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1466.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
+| $\color{red}\text{132 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1462.1}$ |
 | $\color{red}\text{133 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1461.7}$ |
 | $\color{red}\text{134 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1459.3}$ |
 | $\color{red}\text{135 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1459.2}$ |
-| $\color{red}\text{136 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1458.9}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1458.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
-| $\color{red}\text{144 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1451.6}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1447.0}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1446.3}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1446.1}$ |
+| $\color{green}\text{143 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1452.5}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1451.6}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1447.0}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1446.3}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1442.7}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
