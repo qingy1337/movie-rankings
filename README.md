@@ -59,45 +59,45 @@ python3 mvr.py
 | 49   | Mission Impossible: Ghost Protocol | 1547.9 |
 | 50   | Scream V             | 1538.4 |
 | 51   | The Prestige         | 1538.4 |
-| 52   | Mission Impossible: Rogue Nation | 1536.1 |
-| 53   | The Wild Robot       | 1535.6 |
-| 54   | Mission Impossible: Fallout | 1534.9 |
-| 55   | Jack Ryan            | 1534.5 |
-| 56   | The Day After Tomorrow | 1533.6 |
-| 57   | Soul                 | 1532.1 |
-| 58   | Titanic              | 1530.0 |
-| 59   | Captain America: The Winter Soldier | 1529.3 |
-| 60   | My Name              | 1528.0 |
-| 61   | Avengers: Infinity War | 1527.6 |
-| 62   | The Man Who Knew Infinity | 1526.6 |
-| 63   | Mission Impossible 3 | 1523.9 |
-| 64   | Guy Ritchie’s The Covenant | 1523.6 |
-| 65   | Top Gun              | 1523.2 |
-| 66   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
-| 67   | Halo                 | 1522.6 |
+| 52   | Halo                 | 1538.2 |
+| 53   | Mission Impossible: Rogue Nation | 1536.1 |
+| 54   | The Wild Robot       | 1535.6 |
+| 55   | Mission Impossible: Fallout | 1534.9 |
+| 56   | Jack Ryan            | 1534.5 |
+| 57   | The Day After Tomorrow | 1533.6 |
+| 58   | Soul                 | 1532.1 |
+| 59   | Titanic              | 1530.0 |
+| 60   | Captain America: The Winter Soldier | 1529.3 |
+| 61   | My Name              | 1528.0 |
+| 62   | Avengers: Infinity War | 1527.6 |
+| 63   | The Man Who Knew Infinity | 1526.6 |
+| 64   | Mission Impossible 3 | 1523.9 |
+| 65   | Guy Ritchie’s The Covenant | 1523.6 |
+| 66   | Top Gun              | 1523.2 |
+| 67   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
 | 68   | Star Trek: Picard    | 1521.3 |
 | 69   | A Haunting in Venice | 1519.8 |
-| 70   | Rebel Ridge          | 1519.0 |
-| 71   | The Maze Runner: The Scorch Trials | 1518.0 |
-| 72   | Thor                 | 1516.7 |
-| 73   | Avatar               | 1514.5 |
-| 74   | Lord of the Rings    | 1513.5 |
+| 70   | Jack Reacher         | 1519.6 |
+| 71   | Rebel Ridge          | 1519.0 |
+| 72   | The Maze Runner: The Scorch Trials | 1518.0 |
+| 73   | Thor                 | 1516.7 |
+| 74   | Avatar               | 1514.5 |
 | 75   | The Terminal List    | 1513.0 |
 | 76   | Ip Man               | 1510.8 |
 | 77   | Zodiac               | 1510.3 |
-| 78   | Jack Reacher         | 1508.0 |
-| 79   | Rainman              | 1507.7 |
-| 80   | Dark Waters          | 1507.1 |
-| 81   | Shawshank Redemption | 1506.9 |
-| 82   | Captain America: Civil War | 1504.8 |
-| 83   | Top Gun: Maverick    | 1503.4 |
+| 78   | Rainman              | 1507.7 |
+| 79   | Dark Waters          | 1507.1 |
+| 80   | Shawshank Redemption | 1506.9 |
+| 81   | Captain America: Civil War | 1504.8 |
+| 82   | Top Gun: Maverick    | 1503.4 |
+| 83   | Sweet Tooth          | 1503.0 |
 | 84   | Iron Chef            | 1501.7 |
 | 85   | Gladiator            | 1501.6 |
 | 86   | Cars                 | 1500.4 |
-| 87   | A Boy Called Christmas | 1495.6 |
-| 88   | Skyfall              | 1494.9 |
-| 89   | The Spy Next Door    | 1492.0 |
-| 90   | Sweet Tooth          | 1491.0 |
+| 87   | Lord of the Rings    | 1497.9 |
+| 88   | A Boy Called Christmas | 1495.6 |
+| 89   | Skyfall              | 1494.9 |
+| 90   | The Spy Next Door    | 1492.0 |
 | 91   | Dune                 | 1490.9 |
 | 92   | Total Recall         | 1489.5 |
 | 93   | Onward               | 1487.3 |
@@ -135,10 +135,10 @@ python3 mvr.py
 | 125  | Terminator           | 1455.5 |
 | 126  | The Darkest Hour     | 1455.1 |
 | 127  | Knight and Day       | 1455.0 |
-| 128  | Unbreakable          | 1455.0 |
+| 128  | Unbreakable          | 1454.8 |
 | 129  | When a Stranger Calls | 1454.2 |
 | 130  | The Matrix Revolutions | 1451.4 |
-| 131  | Red Eye              | 1450.5 |
+| 131  | Red Eye              | 1450.7 |
 | 132  | Rango                | 1450.5 |
 | 133  | Mission Impossible 2 | 1448.3 |
 | 134  | American Sniper      | 1447.2 |
@@ -158,16 +158,16 @@ python3 mvr.py
 | 148  | The Silence          | 1418.5 |
 | 149  | The Matrix Reloaded  | 1415.0 |
 | 150  | The Last Samurai     | 1414.3 |
-| 151  | Awake                | 1409.8 |
-| 152  | 65                   | 1403.9 |
-| 153  | Everything, everywhere, all at once | 1401.1 |
-| 154  | AK-47 Kalashnikov    | 1399.4 |
-| 155  | Zero Dark Thirty     | 1399.2 |
-| 156  | Arrow                | 1397.7 |
-| 157  | War Horse            | 1394.0 |
-| 158  | The Firm             | 1392.9 |
-| 159  | A Quiet Place: Day One | 1392.8 |
-| 160  | Stillwater           | 1391.0 |
+| 151  | 65                   | 1403.9 |
+| 152  | AK-47 Kalashnikov    | 1399.4 |
+| 153  | Zero Dark Thirty     | 1399.2 |
+| 154  | Awake                | 1398.2 |
+| 155  | Arrow                | 1397.7 |
+| 156  | War Horse            | 1394.0 |
+| 157  | The Firm             | 1392.9 |
+| 158  | A Quiet Place: Day One | 1392.8 |
+| 159  | Stillwater           | 1391.0 |
+| 160  | Everything, everywhere, all at once | 1389.1 |
 | 161  | Jurassic World: Dominion | 1388.8 |
 | 162  | Spooky Buddies       | 1388.6 |
 | 163  | Gravity              | 1383.4 |
