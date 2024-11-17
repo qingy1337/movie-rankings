@@ -13,10 +13,10 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1582.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1578.7}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1578.0}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.1}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1573.3}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1573.1}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1572.8}$ |
+| $\color{green}\text{6   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1577.0}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.1}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1573.3}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1573.1}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
@@ -37,7 +37,7 @@ python3 mvr.py
 | $\color{black}\text{27  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1550.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
-| $\color{green}\text{30  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1549.6}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1549.6}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.3}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1547.2}$ |
@@ -137,17 +137,17 @@ python3 mvr.py
 | $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1463.4}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
-| $\color{red}\text{135 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1461.7}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1461.7}$ |
+| $\color{red}\text{135 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1459.2}$ |
 | $\color{red}\text{136 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1458.9}$ |
 | $\color{red}\text{137 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1458.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1458.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1456.7}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1456.7}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
