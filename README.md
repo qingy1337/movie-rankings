@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1610.9}$ |
-| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1595.8}$ |
+| $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1591.0}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1585.9}$ |
@@ -76,8 +76,8 @@ python3 mvr.py
 | $\color{black}\text{66  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1516.2}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1515.5}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1515.5}$ |
+| $\color{red}\text{70  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1515.5}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
@@ -90,7 +90,7 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
+| $\color{green}\text{83  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1500.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{red}\text{85  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1499.9}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
@@ -124,7 +124,7 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1471.6}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1471.6}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
