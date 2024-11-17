@@ -23,7 +23,7 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.5}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
-| $\color{green}\text{16  }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1562.3}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1560.7}$ |
@@ -84,12 +84,12 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1511.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
-| $\color{red}\text{79  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1506.7}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1505.3}$ |
-| $\color{red}\text{82  }$ | $\color{red}\text{Iron Chef}$ | $\color{red}\text{1505.2}$ |
+| $\color{green}\text{77  }$ | $\color{green}\text{A Haunting in Venice}$ | $\color{green}\text{1510.9}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
+| $\color{red}\text{80  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1506.7}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1504.1}$ |
@@ -110,14 +110,14 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1489.0}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
+| $\color{red}\text{110 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1479.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
