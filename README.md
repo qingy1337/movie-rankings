@@ -58,12 +58,12 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.8}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1541.6}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
+| $\color{red}\text{51  }$ | $\color{red}\text{Dune}$ | $\color{red}\text{1540.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{green}\text{54  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1539.5}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
+| $\color{green}\text{56  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1535.1}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
@@ -76,7 +76,7 @@ python3 mvr.py
 | $\color{black}\text{66  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1521.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
-| $\color{green}\text{69  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1518.9}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1512.5}$ |
