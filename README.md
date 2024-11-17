@@ -115,8 +115,8 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1489.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
-| $\color{red}\text{108 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1488.5}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1487.5}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1488.5}$ |
+| $\color{red}\text{109 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1487.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1486.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1486.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1485.7}$ |
@@ -124,7 +124,7 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1485.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1485.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.8}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1483.1}$ |
+| $\color{green}\text{117 }$ | $\color{green}\text{The Ring 2}$ | $\color{green}\text{1483.1}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1481.9}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1481.6}$ |
