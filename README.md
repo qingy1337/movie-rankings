@@ -62,13 +62,13 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1547.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.5}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1545.8}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1539.5}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
-| $\color{red}\text{58  }$ | $\color{red}\text{Avatar}$ | $\color{red}\text{1537.6}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1537.0}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1534.0}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1532.5}$ |
+| $\color{green}\text{55  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1544.1}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1539.5}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
+| $\color{red}\text{59  }$ | $\color{red}\text{Avatar}$ | $\color{red}\text{1537.6}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1537.0}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1531.3}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1529.8}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1529.5}$ |
@@ -87,7 +87,7 @@ python3 mvr.py
 | $\color{black}\text{77  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.3}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.7}$ |
 | $\color{red}\text{79  }$ | $\color{red}\text{Soul}$ | $\color{red}\text{1511.2}$ |
-| $\color{green}\text{80  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1508.8}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1508.8}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1508.0}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1506.9}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1505.3}$ |
@@ -141,10 +141,10 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1436.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1436.2}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1435.2}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1433.6}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1430.6}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1424.5}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1430.6}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1430.2}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1424.5}$ |
+| $\color{red}\text{137 }$ | $\color{red}\text{American Made}$ | $\color{red}\text{1422.0}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1421.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1421.7}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1417.9}$ |
@@ -169,7 +169,7 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1376.7}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1373.4}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1373.1}$ |
-| $\color{red}\text{162 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1372.4}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1372.4}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1370.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1366.2}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1365.8}$ |
