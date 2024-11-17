@@ -103,11 +103,11 @@ python3 mvr.py
 | 93   | Horton hears a Who   | 1499.1 |
 | 94   | Land of Bad          | 1498.2 |
 | 95   | Rebel Ridge          | 1497.6 |
-| 96   | A.I. Artificial Intelligence | 1497.5 |
-| 97   | Pompeii              | 1497.4 |
+| 96   | Pompeii              | 1497.4 |
+| 97   | A.I. Artificial Intelligence | 1497.0 |
 | 98   | Star Trek: Picard    | 1489.1 |
 | 99   | Gladiator            | 1487.2 |
-| 100  | A Boy Called Christmas | 1486.4 |
+| 100  | A Boy Called Christmas | 1486.9 |
 | 101  | Ninja Turtles        | 1485.5 |
 | 102  | Mission Impossible 3 | 1485.3 |
 | 103  | Oppenheimer          | 1484.1 |
@@ -115,12 +115,12 @@ python3 mvr.py
 | 105  | The Mask of Zorro    | 1484.0 |
 | 106  | The BFG              | 1484.0 |
 | 107  | Skyfall              | 1484.0 |
-| 108  | The Darkest Hour     | 1484.0 |
-| 109  | The Ring 2           | 1483.7 |
-| 110  | Bloodhounds          | 1483.5 |
-| 111  | Independence Day     | 1483.3 |
-| 112  | G.I.Joe movie        | 1483.3 |
-| 113  | Selfless             | 1482.9 |
+| 108  | The Ring 2           | 1483.7 |
+| 109  | Bloodhounds          | 1483.5 |
+| 110  | Independence Day     | 1483.3 |
+| 111  | G.I.Joe movie        | 1483.3 |
+| 112  | Selfless             | 1482.9 |
+| 113  | The Darkest Hour     | 1482.1 |
 | 114  | The Spy Next Door    | 1478.6 |
 | 115  | Mission Impossible: Rogue Nation | 1478.1 |
 | 116  | When a Stranger Calls | 1476.1 |
@@ -163,7 +163,7 @@ python3 mvr.py
 | 153  | The Firm             | 1453.0 |
 | 154  | War Horse            | 1446.0 |
 | 155  | American Sniper      | 1445.5 |
-| 156  | Black Hawk Down      | 1443.6 |
+| 156  | Black Hawk Down      | 1445.4 |
 | 157  | Arrow                | 1442.5 |
 | 158  | Darkest Hour         | 1442.4 |
 | 159  | Awake                | 1442.2 |
