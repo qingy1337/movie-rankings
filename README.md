@@ -74,42 +74,42 @@ python3 mvr.py
 | 64   | Bloodhounds          | 1514.6 |
 | 65   | The Maze Runner: The Scorch Trials | 1514.5 |
 | 66   | Jack Reacher         | 1514.1 |
-| 67   | The Ninth Gate       | 1513.2 |
-| 68   | The Avengers         | 1511.8 |
-| 69   | Top Gun              | 1503.4 |
-| 70   | Iron Chef            | 1501.6 |
-| 71   | The Terminal List    | 1501.5 |
-| 72   | John Wick            | 1501.4 |
-| 73   | A Quiet Place        | 1500.8 |
-| 74   | Avatar 2             | 1500.7 |
-| 75   | Avatar               | 1500.7 |
-| 76   | Mission Impossible 3 | 1500.7 |
-| 77   | Ninja Turtles        | 1500.7 |
-| 78   | Unbreakable          | 1500.6 |
-| 79   | My Name              | 1500.1 |
-| 80   | Selfless             | 1500.0 |
-| 81   | Cars 2               | 1500.0 |
-| 82   | Wrath of Man         | 1500.0 |
-| 83   | The Hunger Games     | 1500.0 |
-| 84   | Jack Reacher: Never Go Back | 1500.0 |
-| 85   | Life                 | 1500.0 |
-| 86   | The Wild Robot       | 1500.0 |
-| 87   | Captain America: The Winter Soldier | 1500.0 |
-| 88   | Star Wars            | 1500.0 |
-| 89   | The Firm             | 1500.0 |
-| 90   | Oppenheimer          | 1500.0 |
-| 91   | Shadow               | 1500.0 |
-| 92   | X-Files              | 1500.0 |
-| 93   | The Darkest Hour     | 1500.0 |
-| 94   | Top Gun: Maverick    | 1500.0 |
-| 95   | Soul                 | 1500.0 |
-| 96   | Gladiator            | 1499.6 |
-| 97   | Terminator           | 1499.3 |
-| 98   | American Made        | 1499.3 |
-| 99   | Zodiac               | 1499.3 |
-| 100  | Rebel Ridge          | 1498.6 |
-| 101  | The Ring 2           | 1498.6 |
-| 102  | Red Notice           | 1498.5 |
+| 67   | Red Notice           | 1513.9 |
+| 68   | The Ninth Gate       | 1513.2 |
+| 69   | The Avengers         | 1511.8 |
+| 70   | Top Gun              | 1503.4 |
+| 71   | Iron Chef            | 1501.6 |
+| 72   | The Terminal List    | 1501.5 |
+| 73   | John Wick            | 1501.4 |
+| 74   | A Quiet Place        | 1500.8 |
+| 75   | Avatar 2             | 1500.7 |
+| 76   | Avatar               | 1500.7 |
+| 77   | Mission Impossible 3 | 1500.7 |
+| 78   | Ninja Turtles        | 1500.7 |
+| 79   | Unbreakable          | 1500.6 |
+| 80   | My Name              | 1500.1 |
+| 81   | Selfless             | 1500.0 |
+| 82   | Cars 2               | 1500.0 |
+| 83   | Wrath of Man         | 1500.0 |
+| 84   | The Hunger Games     | 1500.0 |
+| 85   | Jack Reacher: Never Go Back | 1500.0 |
+| 86   | Life                 | 1500.0 |
+| 87   | The Wild Robot       | 1500.0 |
+| 88   | Captain America: The Winter Soldier | 1500.0 |
+| 89   | Star Wars            | 1500.0 |
+| 90   | The Firm             | 1500.0 |
+| 91   | Oppenheimer          | 1500.0 |
+| 92   | Shadow               | 1500.0 |
+| 93   | X-Files              | 1500.0 |
+| 94   | The Darkest Hour     | 1500.0 |
+| 95   | Top Gun: Maverick    | 1500.0 |
+| 96   | Soul                 | 1500.0 |
+| 97   | Gladiator            | 1499.6 |
+| 98   | Terminator           | 1499.3 |
+| 99   | American Made        | 1499.3 |
+| 100  | Zodiac               | 1499.3 |
+| 101  | Rebel Ridge          | 1498.6 |
+| 102  | The Ring 2           | 1498.6 |
 | 103  | The Spy Next Door    | 1497.3 |
 | 104  | A.I. Artificial Intelligence | 1495.9 |
 | 105  | Pompeii              | 1495.9 |
@@ -122,46 +122,46 @@ python3 mvr.py
 | 112  | Road House           | 1484.7 |
 | 113  | School of Rock       | 1484.7 |
 | 114  | The Mist             | 1484.7 |
-| 115  | Rango                | 1484.0 |
-| 116  | The Mask of Zorro    | 1484.0 |
-| 117  | Avatar: The Last Airbender | 1484.0 |
-| 118  | The BFG              | 1484.0 |
-| 119  | Black Widow          | 1484.0 |
-| 120  | Mission Impossible 1 | 1484.0 |
-| 121  | GoldenEye            | 1484.0 |
-| 122  | Sweet Tooth          | 1484.0 |
-| 123  | G.I.Joe movie        | 1484.0 |
-| 124  | Skyfall              | 1484.0 |
-| 125  | Land of Bad          | 1484.0 |
-| 126  | A Quiet Place: Day One | 1484.0 |
-| 127  | Frequency            | 1484.0 |
-| 128  | Journey 2: The Mysterious Island | 1483.9 |
-| 129  | The Curious Case of Benjamin Button | 1483.4 |
-| 130  | Red Eye              | 1483.3 |
-| 131  | The Maze Runner      | 1483.3 |
-| 132  | Independence Day     | 1483.3 |
-| 133  | All Quiet on The Western Front | 1482.6 |
-| 134  | Stillwater           | 1481.3 |
-| 135  | Mission Impossible 2 | 1473.6 |
-| 136  | The Matrix Reloaded  | 1472.2 |
-| 137  | Star Trek: Picard    | 1472.2 |
-| 138  | Black Hawk Down      | 1470.9 |
-| 139  | A Boy Called Christmas | 1470.8 |
-| 140  | Total Recall         | 1470.8 |
-| 141  | Loki                 | 1470.2 |
-| 142  | Exam                 | 1470.1 |
-| 143  | The Young and Prodigious T.S. Spivet | 1470.0 |
-| 144  | Drunken Master       | 1469.5 |
-| 145  | The Man Who Knew Infinity | 1469.5 |
-| 146  | Cars 3               | 1469.4 |
-| 147  | Spooky Buddies       | 1469.3 |
-| 148  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 149  | Johnny English       | 1468.8 |
-| 150  | Peter the Rabbit     | 1468.8 |
-| 151  | When a Stranger Calls | 1468.8 |
-| 152  | Heidi                | 1468.7 |
-| 153  | The Mask             | 1468.7 |
-| 154  | Horton hears a Who   | 1468.7 |
+| 115  | The Mask of Zorro    | 1484.0 |
+| 116  | Avatar: The Last Airbender | 1484.0 |
+| 117  | The BFG              | 1484.0 |
+| 118  | Black Widow          | 1484.0 |
+| 119  | Mission Impossible 1 | 1484.0 |
+| 120  | GoldenEye            | 1484.0 |
+| 121  | Sweet Tooth          | 1484.0 |
+| 122  | G.I.Joe movie        | 1484.0 |
+| 123  | Skyfall              | 1484.0 |
+| 124  | Land of Bad          | 1484.0 |
+| 125  | A Quiet Place: Day One | 1484.0 |
+| 126  | Frequency            | 1484.0 |
+| 127  | Journey 2: The Mysterious Island | 1483.9 |
+| 128  | The Curious Case of Benjamin Button | 1483.4 |
+| 129  | Red Eye              | 1483.3 |
+| 130  | The Maze Runner      | 1483.3 |
+| 131  | Independence Day     | 1483.3 |
+| 132  | All Quiet on The Western Front | 1482.6 |
+| 133  | Stillwater           | 1481.3 |
+| 134  | Mission Impossible 2 | 1473.6 |
+| 135  | The Matrix Reloaded  | 1472.2 |
+| 136  | Star Trek: Picard    | 1472.2 |
+| 137  | Black Hawk Down      | 1470.9 |
+| 138  | A Boy Called Christmas | 1470.8 |
+| 139  | Total Recall         | 1470.8 |
+| 140  | Loki                 | 1470.2 |
+| 141  | Exam                 | 1470.1 |
+| 142  | The Young and Prodigious T.S. Spivet | 1470.0 |
+| 143  | Drunken Master       | 1469.5 |
+| 144  | The Man Who Knew Infinity | 1469.5 |
+| 145  | Cars 3               | 1469.4 |
+| 146  | Spooky Buddies       | 1469.3 |
+| 147  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 148  | Johnny English       | 1468.8 |
+| 149  | Peter the Rabbit     | 1468.8 |
+| 150  | When a Stranger Calls | 1468.8 |
+| 151  | Heidi                | 1468.7 |
+| 152  | The Mask             | 1468.7 |
+| 153  | Horton hears a Who   | 1468.7 |
+| 154  | Rango                | 1468.7 |
 | 155  | Onward               | 1468.1 |
 | 156  | "Everything, everywhere, all at once" | 1468.1 |
 | 157  | The Man in the Iron Mask | 1468.0 |
