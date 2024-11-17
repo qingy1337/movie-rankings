@@ -11,8 +11,8 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1610.9}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1594.6}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1590.3}$ |
+| $\color{green}\text{4   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1594.8}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1594.6}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
@@ -78,7 +78,7 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1519.4}$ |
 | $\color{green}\text{69  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1517.4}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
-| $\color{green}\text{71  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1514.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1514.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
@@ -90,9 +90,9 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1507.0}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1504.6}$ |
+| $\color{green}\text{83  }$ | $\color{green}\text{Mission Impossible 3}$ | $\color{green}\text{1504.3}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
+| $\color{red}\text{85  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1500.1}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
@@ -150,22 +150,22 @@ python3 mvr.py
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1441.7}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1438.9}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1438.3}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1438.3}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
+| $\color{red}\text{148 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1433.9}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
 | $\color{red}\text{152 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1429.1}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
 | $\color{red}\text{154 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1426.4}$ |
-| $\color{green}\text{155 }$ | $\color{green}\text{Black Hawk Down}$ | $\color{green}\text{1425.7}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1425.7}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{red}\text{157 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1422.9}$ |
-| $\color{red}\text{158 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1421.9}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1421.9}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
