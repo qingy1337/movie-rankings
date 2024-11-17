@@ -53,12 +53,12 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1542.6}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
+| $\color{green}\text{46  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1541.2}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
-| $\color{green}\text{51  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1534.6}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.6}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
@@ -101,7 +101,7 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1492.0}$ |
-| $\color{red}\text{94  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1491.7}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.7}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.4}$ |
@@ -162,11 +162,11 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.9}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1419.5}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1419.4}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1419.5}$ |
+| $\color{red}\text{158 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1419.4}$ |
+| $\color{red}\text{159 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1418.8}$ |
 | $\color{red}\text{160 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1416.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
