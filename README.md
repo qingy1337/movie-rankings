@@ -17,21 +17,21 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1577.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{green}\text{10  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1576.5}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{red}\text{13  }$ | $\color{red}\text{Thirteen Lives}$ | $\color{red}\text{1573.6}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1573.6}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1559.2}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
-| $\color{green}\text{22  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1558.2}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
+| $\color{green}\text{20  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1560.5}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1559.2}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
+| $\color{green}\text{23  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1558.2}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
@@ -115,16 +115,16 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1479.4}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
+| $\color{red}\text{117 }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1474.7}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1473.3}$ |
