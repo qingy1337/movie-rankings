@@ -114,7 +114,7 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1475.7}$ |
-| $\color{green}\text{107 }$ | $\color{green}\text{Onward}$ | $\color{green}\text{1473.5}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
@@ -154,15 +154,15 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1428.3}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1422.8}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1420.5}$ |
+| $\color{green}\text{147 }$ | $\color{green}\text{Everything, everywhere, all at once}$ | $\color{green}\text{1426.0}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
+| $\color{red}\text{150 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1422.8}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1420.1}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
-| $\color{red}\text{155 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1415.4}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1415.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1409.5}$ |
@@ -177,6 +177,6 @@ python3 mvr.py
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1394.8}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1391.6}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
-| $\color{black}\text{172 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
+| $\color{red}\text{172 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1386.1}$ |
