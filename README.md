@@ -42,20 +42,20 @@ python3 mvr.py
 | 32   | The Illusionist      | 1559.2 |
 | 33   | Vagabond             | 1558.2 |
 | 34   | Life                 | 1558.1 |
-| 35   | The Maze Runner: The Death Cure | 1557.0 |
-| 36   | Halo                 | 1556.2 |
-| 37   | A Quiet Place        | 1555.8 |
-| 38   | Scream VI            | 1554.1 |
-| 39   | The Young and Prodigious T.S. Spivet | 1553.9 |
-| 40   | The Avengers         | 1553.0 |
-| 41   | Tenet                | 1552.7 |
-| 42   | Beut Mind            | 1552.4 |
-| 43   | Rebel Ridge          | 1551.9 |
-| 44   | The Day After Tomorrow | 1549.3 |
-| 45   | Loki                 | 1547.8 |
-| 46   | Train to Busan       | 1546.0 |
-| 47   | The Hunger Games     | 1545.4 |
-| 48   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
+| 35   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
+| 36   | The Maze Runner: The Death Cure | 1557.0 |
+| 37   | Halo                 | 1556.2 |
+| 38   | A Quiet Place        | 1555.8 |
+| 39   | Scream VI            | 1554.1 |
+| 40   | The Young and Prodigious T.S. Spivet | 1553.9 |
+| 41   | The Avengers         | 1553.0 |
+| 42   | Tenet                | 1552.7 |
+| 43   | Beut Mind            | 1552.4 |
+| 44   | Rebel Ridge          | 1551.9 |
+| 45   | The Day After Tomorrow | 1549.3 |
+| 46   | Loki                 | 1547.8 |
+| 47   | Train to Busan       | 1546.0 |
+| 48   | The Hunger Games     | 1545.4 |
 | 49   | Avengers: Infinity War | 1542.0 |
 | 50   | Catch Me If You Can  | 1541.9 |
 | 51   | Mission Impossible 3 | 1541.8 |
@@ -87,21 +87,21 @@ python3 mvr.py
 | 77   | Jack Reacher         | 1508.0 |
 | 78   | Dark Waters          | 1507.1 |
 | 79   | Captain America: Civil War | 1504.8 |
-| 80   | Total Recall         | 1503.7 |
-| 81   | Top Gun: Maverick    | 1503.4 |
-| 82   | Gladiator            | 1501.6 |
-| 83   | Cars                 | 1501.0 |
-| 84   | Soul                 | 1500.7 |
-| 85   | Lord of the Rings    | 1498.9 |
-| 86   | Pompeii              | 1498.8 |
-| 87   | Rango                | 1498.4 |
-| 88   | The Terminal List    | 1497.1 |
-| 89   | A Boy Called Christmas | 1495.6 |
-| 90   | Zootopia             | 1495.5 |
-| 91   | Oppenheimer          | 1493.8 |
-| 92   | The Man in the Iron Mask | 1492.4 |
-| 93   | Cars 2               | 1492.2 |
-| 94   | Dune                 | 1490.9 |
+| 80   | Top Gun: Maverick    | 1503.4 |
+| 81   | Gladiator            | 1501.6 |
+| 82   | Cars                 | 1501.0 |
+| 83   | Soul                 | 1500.7 |
+| 84   | Lord of the Rings    | 1498.9 |
+| 85   | Pompeii              | 1498.8 |
+| 86   | Rango                | 1498.4 |
+| 87   | The Terminal List    | 1497.1 |
+| 88   | A Boy Called Christmas | 1495.6 |
+| 89   | Zootopia             | 1495.5 |
+| 90   | Oppenheimer          | 1493.8 |
+| 91   | The Man in the Iron Mask | 1492.4 |
+| 92   | Cars 2               | 1492.2 |
+| 93   | Dune                 | 1490.9 |
+| 94   | Total Recall         | 1489.5 |
 | 95   | Megan                | 1486.9 |
 | 96   | Glass Castle         | 1486.7 |
 | 97   | Bloodhounds          | 1483.5 |
