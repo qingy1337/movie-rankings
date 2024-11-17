@@ -25,11 +25,11 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{green}\text{17  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1566.5}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
-| $\color{red}\text{21  }$ | $\color{red}\text{Scream V}$ | $\color{red}\text{1560.1}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1559.2}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1563.0}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
+| $\color{red}\text{22  }$ | $\color{red}\text{Scream V}$ | $\color{red}\text{1560.1}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1558.2}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
@@ -38,7 +38,7 @@ python3 mvr.py
 | $\color{green}\text{28  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1550.6}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
-| $\color{green}\text{31  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1549.6}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1549.6}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
@@ -86,7 +86,7 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1509.6}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1509.3}$ |
-| $\color{red}\text{79  }$ | $\color{red}\text{Zodiac}$ | $\color{red}\text{1506.9}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1506.9}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1506.7}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
@@ -171,10 +171,10 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1426.4}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1423.7}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1423.7}$ |
+| $\color{red}\text{167 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1422.6}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
