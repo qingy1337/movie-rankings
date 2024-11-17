@@ -103,26 +103,26 @@ python3 mvr.py
 | 93   | X-Files              | 1500.0 |
 | 94   | Top Gun: Maverick    | 1500.0 |
 | 95   | Oppenheimer          | 1499.4 |
-| 96   | Terminator           | 1499.3 |
-| 97   | The Curious Case of Benjamin Button | 1498.7 |
-| 98   | Rebel Ridge          | 1498.6 |
-| 99   | The Ring 2           | 1498.6 |
-| 100  | Bloodhounds          | 1497.9 |
-| 101  | The Spy Next Door    | 1497.3 |
-| 102  | A.I. Artificial Intelligence | 1495.9 |
-| 103  | Pompeii              | 1495.9 |
-| 104  | Mission Impossible: Rogue Nation | 1491.2 |
-| 105  | The Young and Prodigious T.S. Spivet | 1488.8 |
-| 106  | Vagabond             | 1488.1 |
-| 107  | Loki                 | 1487.5 |
-| 108  | Gladiator            | 1487.4 |
-| 109  | Star Trek: Picard    | 1486.9 |
-| 110  | Cars                 | 1486.8 |
-| 111  | The Matrix Revolutions | 1485.5 |
-| 112  | Iron Chef            | 1484.8 |
-| 113  | The Matrix           | 1484.7 |
-| 114  | The Mist             | 1484.7 |
-| 115  | Shadow               | 1484.1 |
+| 96   | Independence Day     | 1499.3 |
+| 97   | Terminator           | 1499.3 |
+| 98   | The Curious Case of Benjamin Button | 1498.7 |
+| 99   | Rebel Ridge          | 1498.6 |
+| 100  | The Ring 2           | 1498.6 |
+| 101  | Bloodhounds          | 1497.9 |
+| 102  | The Spy Next Door    | 1497.3 |
+| 103  | A.I. Artificial Intelligence | 1495.9 |
+| 104  | Pompeii              | 1495.9 |
+| 105  | Mission Impossible: Rogue Nation | 1491.2 |
+| 106  | The Young and Prodigious T.S. Spivet | 1488.8 |
+| 107  | Vagabond             | 1488.1 |
+| 108  | Loki                 | 1487.5 |
+| 109  | Gladiator            | 1487.4 |
+| 110  | Star Trek: Picard    | 1486.9 |
+| 111  | Cars                 | 1486.8 |
+| 112  | The Matrix Revolutions | 1485.5 |
+| 113  | Iron Chef            | 1484.8 |
+| 114  | The Matrix           | 1484.7 |
+| 115  | The Mist             | 1484.7 |
 | 116  | The Mask of Zorro    | 1484.0 |
 | 117  | The BFG              | 1484.0 |
 | 118  | Mission Impossible 1 | 1484.0 |
@@ -134,33 +134,33 @@ python3 mvr.py
 | 124  | Frequency            | 1484.0 |
 | 125  | G.I.Joe movie        | 1483.3 |
 | 126  | Red Eye              | 1483.3 |
-| 127  | Independence Day     | 1483.3 |
-| 128  | The Firm             | 1482.7 |
-| 129  | All Quiet on The Western Front | 1482.6 |
-| 130  | American Made        | 1481.9 |
-| 131  | Stillwater           | 1481.3 |
-| 132  | Total Recall         | 1474.1 |
-| 133  | Mission Impossible 2 | 1473.6 |
-| 134  | The Matrix Reloaded  | 1472.2 |
-| 135  | Zero Dark Thirty     | 1471.5 |
-| 136  | Road House           | 1470.9 |
-| 137  | A Boy Called Christmas | 1470.8 |
-| 138  | Journey 2: The Mysterious Island | 1470.0 |
-| 139  | Drunken Master       | 1469.5 |
-| 140  | Crouching Tiger Hidden Dragon | 1469.5 |
-| 141  | The Man Who Knew Infinity | 1469.5 |
-| 142  | Sweet Tooth          | 1469.4 |
-| 143  | Johnny English       | 1468.8 |
-| 144  | Peter the Rabbit     | 1468.8 |
-| 145  | When a Stranger Calls | 1468.8 |
-| 146  | Heidi                | 1468.7 |
-| 147  | The Mask             | 1468.7 |
-| 148  | Avatar: The Last Airbender | 1468.7 |
-| 149  | Horton hears a Who   | 1468.7 |
-| 150  | Rango                | 1468.7 |
-| 151  | Onward               | 1468.1 |
-| 152  | "Everything, everywhere, all at once" | 1468.1 |
-| 153  | The Man in the Iron Mask | 1468.0 |
+| 127  | The Firm             | 1482.7 |
+| 128  | All Quiet on The Western Front | 1482.6 |
+| 129  | American Made        | 1481.9 |
+| 130  | Stillwater           | 1481.3 |
+| 131  | Total Recall         | 1474.1 |
+| 132  | Mission Impossible 2 | 1473.6 |
+| 133  | The Matrix Reloaded  | 1472.2 |
+| 134  | Zero Dark Thirty     | 1471.5 |
+| 135  | Road House           | 1470.9 |
+| 136  | A Boy Called Christmas | 1470.8 |
+| 137  | Journey 2: The Mysterious Island | 1470.0 |
+| 138  | Drunken Master       | 1469.5 |
+| 139  | Crouching Tiger Hidden Dragon | 1469.5 |
+| 140  | The Man Who Knew Infinity | 1469.5 |
+| 141  | Sweet Tooth          | 1469.4 |
+| 142  | Johnny English       | 1468.8 |
+| 143  | Peter the Rabbit     | 1468.8 |
+| 144  | When a Stranger Calls | 1468.8 |
+| 145  | Heidi                | 1468.7 |
+| 146  | The Mask             | 1468.7 |
+| 147  | Avatar: The Last Airbender | 1468.7 |
+| 148  | Horton hears a Who   | 1468.7 |
+| 149  | Rango                | 1468.7 |
+| 150  | Onward               | 1468.1 |
+| 151  | "Everything, everywhere, all at once" | 1468.1 |
+| 152  | The Man in the Iron Mask | 1468.0 |
+| 153  | Shadow               | 1468.0 |
 | 154  | Arrow                | 1468.0 |
 | 155  | Darkest Hour         | 1468.0 |
 | 156  | 65                   | 1467.4 |
