@@ -15,10 +15,10 @@ python3 mvr.py
 | $\color{black}\text{5   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1596.8}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1595.2}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.4}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
+| $\color{green}\text{8   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1595.2}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1595.2}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.4}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1590.9}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1590.6}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
@@ -76,7 +76,7 @@ python3 mvr.py
 | $\color{green}\text{66  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1524.9}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1524.0}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
-| $\color{green}\text{69  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1515.8}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1514.1}$ |
@@ -148,8 +148,8 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1438.8}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1435.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1428.3}$ |
