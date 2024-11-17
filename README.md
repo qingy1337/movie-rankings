@@ -10,10 +10,10 @@ python3 mvr.py
 |------|------------------------|--------|
 | 1    | Wednesday            | 1626.0 |
 | 2    | The Martian          | 1624.7 |
-| 3    | Harry Potter         | 1618.8 |
-| 4    | Star Wars            | 1617.0 |
-| 5    | Ant-Man              | 1615.5 |
-| 6    | Lost in Space        | 1614.0 |
+| 3    | Lost in Space        | 1622.3 |
+| 4    | Harry Potter         | 1618.8 |
+| 5    | Star Wars            | 1617.0 |
+| 6    | Ant-Man              | 1615.5 |
 | 7    | Life of Pi           | 1606.7 |
 | 8    | Pirates of the Caribbean | 1606.6 |
 | 9    | Thirteen Lives       | 1605.2 |
@@ -27,9 +27,9 @@ python3 mvr.py
 | 17   | Sneaky Pete          | 1585.6 |
 | 18   | The Maze Runner      | 1585.2 |
 | 19   | Maleficent           | 1583.3 |
-| 20   | The Hobbit           | 1575.0 |
-| 21   | Avengers: Endgame    | 1573.7 |
-| 22   | Doctor Strange       | 1569.9 |
+| 20   | Doctor Strange       | 1580.7 |
+| 21   | The Hobbit           | 1575.0 |
+| 22   | Avengers: Endgame    | 1573.7 |
 | 23   | Locke and Key        | 1569.6 |
 | 24   | Source Code          | 1568.2 |
 | 25   | The Ninth Gate       | 1567.9 |
@@ -142,19 +142,19 @@ python3 mvr.py
 | 132  | Unbreakable          | 1455.0 |
 | 133  | Horton hears a Who   | 1454.6 |
 | 134  | Black Widow          | 1454.1 |
-| 135  | The Ring 2           | 1454.0 |
-| 136  | Red Notice           | 1453.2 |
-| 137  | School of Rock       | 1447.9 |
-| 138  | The Silence          | 1445.4 |
-| 139  | Journey 2: The Mysterious Island | 1444.1 |
-| 140  | Road House           | 1443.3 |
+| 135  | Red Notice           | 1453.2 |
+| 136  | School of Rock       | 1447.9 |
+| 137  | The Silence          | 1445.4 |
+| 138  | Journey 2: The Mysterious Island | 1444.1 |
+| 139  | Road House           | 1443.3 |
+| 140  | The Ring 2           | 1443.1 |
 | 141  | Cars 3               | 1442.7 |
 | 142  | Avatar: The Last Airbender | 1442.7 |
 | 143  | Independence Day     | 1442.2 |
 | 144  | Frequency            | 1441.7 |
 | 145  | Crouching Tiger Hidden Dragon | 1438.6 |
 | 146  | The Matrix Reloaded  | 1438.3 |
-| 147  | The Last Samurai     | 1431.2 |
+| 147  | The Last Samurai     | 1423.0 |
 | 148  | Zero Dark Thirty     | 1422.6 |
 | 149  | 65                   | 1422.2 |
 | 150  | The BFG              | 1419.9 |
