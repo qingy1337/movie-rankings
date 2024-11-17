@@ -37,10 +37,10 @@ python3 mvr.py
 | 27   | Avengers: Age of Ultron | 1564.9 |
 | 28   | Squid Game           | 1560.7 |
 | 29   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
-| 30   | Scream VI            | 1558.1 |
-| 31   | The Ninth Gate       | 1555.6 |
-| 32   | Doctor Strange       | 1555.5 |
-| 33   | Titanic              | 1549.3 |
+| 30   | Titanic              | 1558.4 |
+| 31   | Scream VI            | 1558.1 |
+| 32   | The Ninth Gate       | 1555.6 |
+| 33   | Doctor Strange       | 1555.5 |
 | 34   | Inception            | 1548.9 |
 | 35   | My Name              | 1548.0 |
 | 36   | The Wild Robot       | 1547.0 |
@@ -175,6 +175,6 @@ python3 mvr.py
 | 165  | A Quiet Place: Day One | 1400.6 |
 | 166  | Black Hawk Down      | 1398.1 |
 | 167  | The Battle at Lake Changjin | 1393.3 |
-| 168  | Spectral             | 1390.9 |
-| 169  | Shadow               | 1389.5 |
-| 170  | Everything, everywhere, all at once | 1384.7 |
+| 168  | Shadow               | 1389.5 |
+| 169  | Everything, everywhere, all at once | 1384.7 |
+| 170  | Spectral             | 1381.7 |
