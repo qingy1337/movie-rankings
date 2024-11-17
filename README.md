@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | Wednesday            | 1647.9 |
+| 1    | Wednesday            | 1656.3 |
 | 2    | Harry Potter         | 1643.9 |
 | 3    | Iron Man             | 1634.9 |
 | 4    | Pirates of the Caribbean | 1625.8 |
@@ -60,15 +60,15 @@ python3 mvr.py
 | 50   | The Wild Robot       | 1547.7 |
 | 51   | The Prestige         | 1547.4 |
 | 52   | Mission Impossible: Fallout | 1545.3 |
-| 53   | Captain America: The Winter Soldier | 1539.8 |
-| 54   | Halo                 | 1538.2 |
-| 55   | Train to Busan       | 1537.4 |
-| 56   | The Ninth Gate       | 1537.2 |
-| 57   | Guy Ritchie’s The Covenant | 1537.2 |
-| 58   | The Man Who Knew Infinity | 1535.9 |
-| 59   | Jack Ryan            | 1534.5 |
-| 60   | The Day After Tomorrow | 1533.6 |
-| 61   | Soul                 | 1532.1 |
+| 53   | Soul                 | 1542.9 |
+| 54   | Captain America: The Winter Soldier | 1539.8 |
+| 55   | Halo                 | 1538.2 |
+| 56   | Train to Busan       | 1537.4 |
+| 57   | The Ninth Gate       | 1537.2 |
+| 58   | Guy Ritchie’s The Covenant | 1537.2 |
+| 59   | The Man Who Knew Infinity | 1535.9 |
+| 60   | Jack Ryan            | 1534.5 |
+| 61   | The Day After Tomorrow | 1533.6 |
 | 62   | The Maze Runner: The Scorch Trials | 1531.6 |
 | 63   | Titanic              | 1530.0 |
 | 64   | Avengers: Infinity War | 1527.6 |
@@ -115,13 +115,13 @@ python3 mvr.py
 | 105  | Johnny English       | 1470.8 |
 | 106  | Knight and Day       | 1469.9 |
 | 107  | The Ring             | 1469.2 |
-| 108  | The Curious Case of Benjamin Button | 1468.4 |
+| 108  | The Matrix Revolutions | 1468.1 |
 | 109  | Mission Impossible 1 | 1467.9 |
-| 110  | Ninja Turtles        | 1466.5 |
-| 111  | Rampage              | 1466.5 |
-| 112  | Exam                 | 1465.7 |
-| 113  | World War Z          | 1464.8 |
-| 114  | GoldenEye            | 1463.3 |
+| 110  | Rampage              | 1466.5 |
+| 111  | Exam                 | 1465.7 |
+| 112  | World War Z          | 1464.8 |
+| 113  | GoldenEye            | 1463.3 |
+| 114  | The Curious Case of Benjamin Button | 1460.0 |
 | 115  | Megan                | 1459.6 |
 | 116  | The Ring 2           | 1457.9 |
 | 117  | Glass Castle         | 1457.4 |
@@ -133,9 +133,9 @@ python3 mvr.py
 | 123  | Unbreakable          | 1454.8 |
 | 124  | When a Stranger Calls | 1454.2 |
 | 125  | The Man in the Iron Mask | 1452.8 |
-| 126  | The Matrix Revolutions | 1451.4 |
-| 127  | Zootopia             | 1450.8 |
-| 128  | Rango                | 1450.5 |
+| 126  | Zootopia             | 1450.8 |
+| 127  | Rango                | 1450.5 |
+| 128  | Ninja Turtles        | 1449.8 |
 | 129  | School of Rock       | 1448.4 |
 | 130  | Mission Impossible 2 | 1448.3 |
 | 131  | John Wick            | 1443.7 |
@@ -153,8 +153,8 @@ python3 mvr.py
 | 143  | Heidi                | 1429.3 |
 | 144  | Independence Day     | 1429.3 |
 | 145  | Horton hears a Who   | 1425.6 |
-| 146  | The Matrix Reloaded  | 1415.0 |
-| 147  | Crouching Tiger Hidden Dragon | 1411.0 |
+| 146  | Crouching Tiger Hidden Dragon | 1411.0 |
+| 147  | The Matrix Reloaded  | 1404.2 |
 | 148  | Cars 3               | 1403.4 |
 | 149  | The Last Samurai     | 1402.3 |
 | 150  | AK-47 Kalashnikov    | 1399.4 |
