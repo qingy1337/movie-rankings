@@ -91,11 +91,11 @@ python3 mvr.py
 | $\color{black}\text{81  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1504.4}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1503.0}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1501.6}$ |
-| $\color{red}\text{86  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1498.0}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1501.6}$ |
+| $\color{red}\text{85  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1498.0}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
+| $\color{red}\text{88  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1495.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
@@ -126,7 +126,7 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1461.3}$ |
-| $\color{green}\text{119 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1460.9}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1460.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
@@ -146,9 +146,9 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1445.5}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
+| $\color{green}\text{139 }$ | $\color{green}\text{G.I.Joe movie}$ | $\color{green}\text{1444.7}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1435.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
