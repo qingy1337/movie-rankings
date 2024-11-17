@@ -99,12 +99,12 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1492.0}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{green}\text{94  }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1488.5}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.7}$ |
+| $\color{green}\text{92  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1491.0}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
+| $\color{green}\text{95  }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1488.5}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{green}\text{98  }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1485.0}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1484.3}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
@@ -146,9 +146,9 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
-| $\color{green}\text{139 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1444.2}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
-| $\color{red}\text{141 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1443.4}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.2}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1443.4}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1438.8}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
@@ -164,7 +164,7 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
-| $\color{red}\text{157 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1413.4}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1413.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1413.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
