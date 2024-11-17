@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | 1    | Wednesday            | 1647.9 |
-| 2    | The Martian          | 1624.7 |
+| 2    | The Martian          | 1637.9 |
 | 3    | Harry Potter         | 1618.8 |
 | 4    | Ant-Man              | 1615.5 |
 | 5    | The Mandalorian      | 1614.3 |
@@ -43,18 +43,18 @@ python3 mvr.py
 | 33   | The Avengers         | 1565.3 |
 | 34   | The Young and Prodigious T.S. Spivet | 1563.8 |
 | 35   | Loki                 | 1563.0 |
-| 36   | The Wild Robot       | 1562.8 |
-| 37   | Avatar 2             | 1561.3 |
-| 38   | Locke and Key        | 1560.2 |
-| 39   | The Illusionist      | 1559.2 |
-| 40   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
-| 41   | Catch Me If You Can  | 1555.6 |
-| 42   | Tenet                | 1554.6 |
-| 43   | Scream VI            | 1554.1 |
-| 44   | Jack Ryan            | 1553.7 |
-| 45   | Train to Busan       | 1552.4 |
-| 46   | Interstellar         | 1550.8 |
-| 47   | Beut Mind            | 1550.6 |
+| 36   | Avatar 2             | 1561.3 |
+| 37   | Locke and Key        | 1560.2 |
+| 38   | The Illusionist      | 1559.2 |
+| 39   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
+| 40   | Catch Me If You Can  | 1555.6 |
+| 41   | Tenet                | 1554.6 |
+| 42   | Scream VI            | 1554.1 |
+| 43   | Jack Ryan            | 1553.7 |
+| 44   | Train to Busan       | 1552.4 |
+| 45   | Interstellar         | 1550.8 |
+| 46   | Beut Mind            | 1550.6 |
+| 47   | The Wild Robot       | 1549.6 |
 | 48   | The Matrix           | 1544.2 |
 | 49   | Avengers: Infinity War | 1542.0 |
 | 50   | Scream V             | 1538.4 |
