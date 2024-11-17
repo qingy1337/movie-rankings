@@ -18,24 +18,24 @@ python3 mvr.py
 | $\color{green}\text{8   }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1578.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1577.6}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1576.7}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1576.6}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1574.3}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1574.0}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1572.4}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1571.8}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1570.2}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1569.9}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.6}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1568.4}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1567.7}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.6}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.4}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.0}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1574.3}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1574.0}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1572.4}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1571.8}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1570.2}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1569.9}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.6}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1568.4}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1567.7}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.6}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.4}$ |
+| $\color{red}\text{23  }$ | $\color{red}\text{Life}$ | $\color{red}\text{1567.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1562.7}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1560.4}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1559.7}$ |
-| $\color{green}\text{28  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1559.1}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.1}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1556.0}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.6}$ |
@@ -59,17 +59,17 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1530.3}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1529.8}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1529.7}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1529.4}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1528.2}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1526.7}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1525.9}$ |
-| $\color{red}\text{56  }$ | $\color{red}\text{Jack Reacher}$ | $\color{red}\text{1525.8}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1524.4}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1523.6}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1522.8}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.8}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1521.1}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1520.4}$ |
+| $\color{green}\text{52  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1529.7}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1529.4}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1528.2}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1526.7}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1525.9}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.8}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1524.4}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1523.6}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1522.8}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.8}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1521.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1519.9}$ |
