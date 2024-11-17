@@ -137,12 +137,12 @@ python3 mvr.py
 | $\color{black}\text{127 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.7}$ |
-| $\color{green}\text{130 }$ | $\color{green}\text{Red Eye}$ | $\color{green}\text{1458.5}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
 | $\color{red}\text{131 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1457.8}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
-| $\color{red}\text{133 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1454.0}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.7}$ |
+| $\color{green}\text{132 }$ | $\color{green}\text{Unbreakable}$ | $\color{green}\text{1457.1}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1454.0}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{green}\text{137 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1449.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
@@ -164,7 +164,7 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
-| $\color{red}\text{157 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1424.3}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1424.3}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{65}$ | $\color{black}\text{1422.8}$ |
 | $\color{green}\text{160 }$ | $\color{green}\text{Gravity}$ | $\color{green}\text{1422.7}$ |
@@ -174,9 +174,9 @@ python3 mvr.py
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1415.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1411.8}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1409.5}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1409.5}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
+| $\color{red}\text{171 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1406.5}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1397.2}$ |
