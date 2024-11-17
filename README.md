@@ -16,12 +16,12 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1589.1}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1586.3}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1584.2}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1587.0}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1586.3}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1584.2}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1579.9}$ |
@@ -78,12 +78,12 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.4}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
 | $\color{red}\text{70  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1515.3}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1514.9}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1513.7}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1511.9}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1513.7}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1511.9}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
+| $\color{red}\text{76  }$ | $\color{red}\text{Soul}$ | $\color{red}\text{1510.1}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1508.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1507.8}$ |
@@ -93,7 +93,7 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
-| $\color{green}\text{86  }$ | $\color{green}\text{The Ring 2}$ | $\color{green}\text{1498.9}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.9}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
