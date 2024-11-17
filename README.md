@@ -75,7 +75,7 @@ python3 mvr.py
 | $\color{black}\text{65  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1515.9}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1515.3}$ |
-| $\color{green}\text{68  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1515.2}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1512.8}$ |
@@ -110,7 +110,7 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{red}\text{103 }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1485.0}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1485.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
@@ -126,11 +126,11 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
 | $\color{red}\text{118 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1471.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
-| $\color{red}\text{120 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1469.1}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
+| $\color{green}\text{119 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1471.7}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
+| $\color{red}\text{121 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1469.1}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
@@ -156,11 +156,11 @@ python3 mvr.py
 | $\color{black}\text{146 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
-| $\color{green}\text{151 }$ | $\color{green}\text{All Quiet on The Western Front}$ | $\color{green}\text{1441.3}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
+| $\color{green}\text{150 }$ | $\color{green}\text{All Quiet on The Western Front}$ | $\color{green}\text{1441.3}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
+| $\color{red}\text{153 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1436.7}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1431.7}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
