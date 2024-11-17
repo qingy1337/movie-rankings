@@ -16,8 +16,8 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1585.2}$ |
-| $\color{green}\text{10  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1584.4}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1584.4}$ |
+| $\color{red}\text{10  }$ | $\color{red}\text{Inception}$ | $\color{red}\text{1584.2}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
 | $\color{green}\text{12  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1582.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
@@ -40,7 +40,7 @@ python3 mvr.py
 | $\color{black}\text{30  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1556.5}$ |
-| $\color{green}\text{33  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1554.9}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.4}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
@@ -59,10 +59,10 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.8}$ |
+| $\color{green}\text{52  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1530.7}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1529.1}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
@@ -106,7 +106,7 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
-| $\color{red}\text{99  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1487.5}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1487.5}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
