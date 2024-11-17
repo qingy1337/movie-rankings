@@ -56,10 +56,10 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1539.2}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1536.1}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1540.9}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1539.2}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1532.9}$ |
@@ -73,7 +73,7 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1524.1}$ |
 | $\color{green}\text{65  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1521.6}$ |
-| $\color{red}\text{66  }$ | $\color{red}\text{Road House}$ | $\color{red}\text{1519.9}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1519.9}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
@@ -122,17 +122,17 @@ python3 mvr.py
 | $\color{green}\text{112 }$ | $\color{green}\text{The Mask}$ | $\color{green}\text{1471.2}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1465.1}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1464.8}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1464.3}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.6}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1464.8}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1464.3}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.6}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{The Man in the Iron Mask}$ | $\color{red}\text{1460.3}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
@@ -150,7 +150,7 @@ python3 mvr.py
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
-| $\color{green}\text{143 }$ | $\color{green}\text{Saving Private Ryan}$ | $\color{green}\text{1434.7}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1434.7}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1432.5}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
