@@ -15,7 +15,7 @@ python3 mvr.py
 | $\color{black}\text{5   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1604.2}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1600.5}$ |
-| $\color{green}\text{8   }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1599.4}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
@@ -85,7 +85,7 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.9}$ |
-| $\color{red}\text{78  }$ | $\color{red}\text{Iron Chef}$ | $\color{red}\text{1505.8}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
@@ -114,12 +114,12 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.4}$ |
-| $\color{green}\text{110 }$ | $\color{green}\text{The Mask}$ | $\color{green}\text{1468.0}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1466.6}$ |
+| $\color{green}\text{107 }$ | $\color{green}\text{Johnny English}$ | $\color{green}\text{1472.5}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.4}$ |
+| $\color{green}\text{111 }$ | $\color{green}\text{The Mask}$ | $\color{green}\text{1468.0}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1464.4}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
@@ -127,15 +127,15 @@ python3 mvr.py
 | $\color{black}\text{117 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1458.2}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1458.2}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.6}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
+| $\color{red}\text{128 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1454.1}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1452.5}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
