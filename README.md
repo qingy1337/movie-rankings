@@ -10,10 +10,10 @@ python3 mvr.py
 |------|------------------------|--------|
 | 1    | The Martian          | 1624.7 |
 | 2    | Lost in Space        | 1606.5 |
-| 3    | Ant-Man              | 1595.2 |
-| 4    | Star Wars            | 1594.9 |
-| 5    | Life of Pi           | 1593.8 |
-| 6    | Thirteen Lives       | 1592.6 |
+| 3    | Star Wars            | 1594.9 |
+| 4    | Life of Pi           | 1593.8 |
+| 5    | Thirteen Lives       | 1592.6 |
+| 6    | Ant-Man              | 1592.2 |
 | 7    | Passengers           | 1591.5 |
 | 8    | Wednesday            | 1590.2 |
 | 9    | Sneaky Pete          | 1585.6 |
@@ -62,9 +62,9 @@ python3 mvr.py
 | 52   | Avengers: Endgame    | 1535.0 |
 | 53   | Mission Impossible: Fallout | 1534.9 |
 | 54   | The Day After Tomorrow | 1534.3 |
-| 55   | The Man Who Knew Infinity | 1530.9 |
-| 56   | The Hunger Games     | 1530.3 |
-| 57   | Mission Impossible 3 | 1528.8 |
+| 55   | Mission Impossible 3 | 1531.8 |
+| 56   | The Man Who Knew Infinity | 1530.9 |
+| 57   | The Hunger Games     | 1530.3 |
 | 58   | Shawshank Redemption | 1528.4 |
 | 59   | Zodiac               | 1527.3 |
 | 60   | Rainman              | 1526.3 |
@@ -91,9 +91,9 @@ python3 mvr.py
 | 81   | The Ring             | 1504.0 |
 | 82   | Total Recall         | 1503.7 |
 | 83   | Thor                 | 1502.4 |
-| 84   | Soul                 | 1502.0 |
-| 85   | A Haunting in Venice | 1501.3 |
-| 86   | Top Gun              | 1501.1 |
+| 84   | A Haunting in Venice | 1501.3 |
+| 85   | Top Gun              | 1501.1 |
+| 86   | Soul                 | 1500.7 |
 | 87   | Wrath of Man         | 1500.1 |
 | 88   | Lord of the Rings    | 1498.9 |
 | 89   | Pompeii              | 1498.8 |
@@ -113,8 +113,8 @@ python3 mvr.py
 | 103  | GoldenEye            | 1481.6 |
 | 104  | A Boy Called Christmas | 1479.3 |
 | 105  | When a Stranger Calls | 1477.8 |
-| 106  | School of Rock       | 1474.9 |
-| 107  | The Mist             | 1474.3 |
+| 106  | The Mist             | 1475.6 |
+| 107  | School of Rock       | 1474.9 |
 | 108  | Peter the Rabbit     | 1472.7 |
 | 109  | World War Z          | 1472.5 |
 | 110  | Saving Private Ryan  | 1472.5 |
