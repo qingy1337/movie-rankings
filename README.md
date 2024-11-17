@@ -10,12 +10,12 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1672.9}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1669.6}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1663.7}$ |
+| $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1669.4}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1644.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1644.2}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1641.4}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Life}$ | $\color{black}\text{1636.0}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1634.9}$ |
+| $\color{green}\text{7   }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1641.0}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Life}$ | $\color{black}\text{1636.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1633.7}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1630.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1629.7}$ |
@@ -27,12 +27,12 @@ python3 mvr.py
 | $\color{black}\text{17  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1622.6}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1620.2}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1619.5}$ |
-| $\color{green}\text{20  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1616.2}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1613.7}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1612.9}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1611.8}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1609.4}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1608.6}$ |
+| $\color{green}\text{20  }$ | $\color{green}\text{Avengers: Age of Ultron}$ | $\color{green}\text{1617.2}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1616.2}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1613.7}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1612.9}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1611.8}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1609.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1603.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1601.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1597.9}$ |
@@ -40,7 +40,7 @@ python3 mvr.py
 | $\color{black}\text{30  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1596.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1595.3}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1592.0}$ |
-| $\color{red}\text{33  }$ | $\color{red}\text{Doctor Strange}$ | $\color{red}\text{1589.7}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1589.7}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1583.3}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1580.2}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1579.2}$ |
@@ -63,7 +63,7 @@ python3 mvr.py
 | $\color{black}\text{53  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1553.3}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1553.1}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1547.0}$ |
-| $\color{green}\text{56  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1545.7}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1545.7}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1544.1}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
 | $\color{red}\text{59  }$ | $\color{red}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{red}\text{1540.1}$ |
@@ -107,7 +107,7 @@ python3 mvr.py
 | $\color{black}\text{97  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1482.7}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1479.0}$ |
-| $\color{red}\text{100 }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1478.9}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1478.9}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1478.1}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1475.0}$ |
@@ -137,10 +137,10 @@ python3 mvr.py
 | $\color{black}\text{127 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1438.3}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1437.5}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1436.2}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1435.2}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1434.6}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1430.6}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1427.2}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1434.6}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1430.6}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1427.2}$ |
+| $\color{red}\text{133 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1426.6}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1425.6}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1424.5}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1421.9}$ |
@@ -155,15 +155,15 @@ python3 mvr.py
 | $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1407.0}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1405.6}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1397.7}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1395.5}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1395.5}$ |
+| $\color{red}\text{149 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1392.0}$ |
 | $\color{red}\text{150 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1383.3}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1383.1}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1382.0}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1380.9}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1379.5}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1378.6}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1378.5}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1382.0}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1380.9}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1379.5}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1378.6}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1378.5}$ |
+| $\color{red}\text{156 }$ | $\color{red}\text{Selfless}$ | $\color{red}\text{1377.1}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1372.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1370.2}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1369.6}$ |
@@ -171,7 +171,7 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1367.8}$ |
 | $\color{red}\text{162 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1363.6}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1361.2}$ |
-| $\color{red}\text{164 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1357.1}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1357.1}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1355.2}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1354.1}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1351.5}$ |
