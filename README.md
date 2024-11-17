@@ -39,11 +39,11 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{red}\text{30  }$ | $\color{red}\text{The Menu}$ | $\color{red}\text{1570.0}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
-| $\color{green}\text{34  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1567.2}$ |
-| $\color{red}\text{35  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1565.8}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
+| $\color{green}\text{32  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1569.0}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
+| $\color{green}\text{35  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1567.2}$ |
+| $\color{red}\text{36  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1565.8}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
@@ -73,12 +73,12 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
-| $\color{green}\text{66  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1524.7}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1524.7}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1523.3}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1518.8}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.7}$ |
-| $\color{red}\text{71  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1516.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1516.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.4}$ |
@@ -115,9 +115,9 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1475.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1472.1}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
-| $\color{red}\text{110 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1467.9}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
+| $\color{red}\text{109 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1467.9}$ |
+| $\color{red}\text{110 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1467.6}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1465.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
