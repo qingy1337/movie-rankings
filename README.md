@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1624.2}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1629.5}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1616.6}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
@@ -29,9 +29,9 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{green}\text{21  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1585.7}$ |
-| $\color{green}\text{22  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1584.6}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1583.6}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1584.6}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
+| $\color{red}\text{24  }$ | $\color{red}\text{Source Code}$ | $\color{red}\text{1578.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1575.2}$ |
