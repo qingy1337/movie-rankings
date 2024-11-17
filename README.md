@@ -14,13 +14,13 @@ python3 mvr.py
 | 4    | Lost in Space        | 1574.7 |
 | 5    | X-Men                | 1574.5 |
 | 6    | The Mandalorian      | 1574.4 |
-| 7    | The Maze Runner      | 1572.5 |
-| 8    | Life of Pi           | 1572.1 |
-| 9    | Thirteen Lives       | 1570.3 |
-| 10   | Locke and Key        | 1569.6 |
-| 11   | Passengers           | 1569.5 |
-| 12   | Source Code          | 1567.6 |
-| 13   | Pirates of the Caribbean | 1563.6 |
+| 7    | Pirates of the Caribbean | 1574.2 |
+| 8    | The Maze Runner      | 1572.5 |
+| 9    | Life of Pi           | 1572.1 |
+| 10   | Thirteen Lives       | 1570.3 |
+| 11   | Locke and Key        | 1569.6 |
+| 12   | Passengers           | 1569.5 |
+| 13   | Source Code          | 1567.6 |
 | 14   | Harry Potter         | 1562.9 |
 | 15   | Wednesday            | 1560.0 |
 | 16   | Avengers: Infinity War | 1559.8 |
@@ -161,13 +161,13 @@ python3 mvr.py
 | 151  | Darkest Hour         | 1442.4 |
 | 152  | American Made        | 1442.2 |
 | 153  | Stillwater           | 1441.3 |
-| 154  | Spooky Buddies       | 1440.8 |
-| 155  | 65                   | 1440.7 |
-| 156  | Everything, everywhere, all at once | 1439.7 |
-| 157  | Onward               | 1438.8 |
-| 158  | The Last Samurai     | 1433.9 |
-| 159  | Frequency            | 1432.7 |
-| 160  | American Sniper      | 1432.0 |
+| 154  | 65                   | 1440.7 |
+| 155  | Everything, everywhere, all at once | 1439.7 |
+| 156  | Onward               | 1438.8 |
+| 157  | The Last Samurai     | 1433.9 |
+| 158  | Frequency            | 1432.7 |
+| 159  | American Sniper      | 1432.0 |
+| 160  | Spooky Buddies       | 1430.2 |
 | 161  | Awake                | 1430.2 |
 | 162  | All Quiet on The Western Front | 1428.0 |
 | 163  | Jurassic World: Dominion | 1427.5 |
