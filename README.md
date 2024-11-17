@@ -39,9 +39,9 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.9}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1559.1}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1559.1}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{red}\text{34  }$ | $\color{red}\text{Scream V}$ | $\color{red}\text{1558.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
@@ -86,7 +86,7 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.1}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1508.2}$ |
-| $\color{red}\text{79  }$ | $\color{red}\text{Beut Mind}$ | $\color{red}\text{1507.0}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1507.0}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{green}\text{82  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1505.2}$ |
@@ -115,8 +115,8 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{green}\text{108 }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1476.1}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
 | $\color{red}\text{112 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1470.5}$ |
@@ -131,7 +131,7 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
-| $\color{green}\text{124 }$ | $\color{green}\text{Cars 3}$ | $\color{green}\text{1461.0}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.0}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1459.7}$ |
