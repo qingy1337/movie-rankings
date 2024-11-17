@@ -8,8 +8,8 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{red}\text{1   }$ | $\color{red}\text{Harry Potter}$ | $\color{red}\text{1626.7}$ |
-| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1620.5}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1626.7}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1624.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1604.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
@@ -25,7 +25,7 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1589.7}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{green}\text{18  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1587.3}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1587.3}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1587.2}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
@@ -110,10 +110,10 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1479.6}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1479.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
+| $\color{red}\text{106 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1475.7}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{red}\text{108 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1470.5}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
