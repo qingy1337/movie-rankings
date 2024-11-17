@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1624.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{green}\text{5   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1604.2}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1604.2}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1600.5}$ |
 | $\color{green}\text{8   }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1599.4}$ |
@@ -51,7 +51,7 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1551.7}$ |
-| $\color{red}\text{44  }$ | $\color{red}\text{Scream VI}$ | $\color{red}\text{1549.3}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1549.3}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1547.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
@@ -91,11 +91,11 @@ python3 mvr.py
 | $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{red}\text{82  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1503.7}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1501.6}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
+| $\color{red}\text{88  }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1494.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.6}$ |
@@ -117,13 +117,13 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.4}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
-| $\color{red}\text{111 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1466.6}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1464.4}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1461.3}$ |
+| $\color{green}\text{110 }$ | $\color{green}\text{The Mask}$ | $\color{green}\text{1468.0}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
+| $\color{red}\text{112 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1466.6}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1464.4}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
