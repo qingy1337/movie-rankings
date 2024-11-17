@@ -21,15 +21,15 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1586.8}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1583.3}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1575.8}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
+| $\color{red}\text{22  }$ | $\color{red}\text{X-Files}$ | $\color{red}\text{1574.1}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
@@ -104,7 +104,7 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.7}$ |
-| $\color{red}\text{97  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1484.3}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1484.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
@@ -112,8 +112,8 @@ python3 mvr.py
 | $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
-| $\color{green}\text{105 }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1477.6}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
+| $\color{green}\text{105 }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1478.4}$ |
+| $\color{green}\text{106 }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1477.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
