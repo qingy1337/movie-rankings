@@ -9,8 +9,8 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | 1    | The Martian          | 1583.8 |
-| 2    | The Maze Runner: The Death Cure | 1558.3 |
-| 3    | Captain America: Civil War | 1547.1 |
+| 2    | Captain America: Civil War | 1561.6 |
+| 3    | The Maze Runner: The Death Cure | 1558.3 |
 | 4    | Avengers: Age of Ultron | 1546.5 |
 | 5    | Halo                 | 1544.5 |
 | 6    | No Country for Old Men | 1544.3 |
@@ -72,38 +72,38 @@ python3 mvr.py
 | 62   | The Illusionist      | 1514.6 |
 | 63   | The Maze Runner: The Scorch Trials | 1514.5 |
 | 64   | Jack Reacher         | 1514.1 |
-| 65   | Gladiator            | 1514.0 |
-| 66   | The Avengers         | 1511.8 |
-| 67   | Top Gun              | 1503.4 |
-| 68   | Iron Chef            | 1501.6 |
-| 69   | The Terminal List    | 1501.5 |
-| 70   | Knight and Day       | 1501.4 |
-| 71   | John Wick            | 1501.4 |
-| 72   | A Quiet Place        | 1500.8 |
-| 73   | Avatar 2             | 1500.7 |
-| 74   | Avatar               | 1500.7 |
-| 75   | Mission Impossible 3 | 1500.7 |
-| 76   | Ninja Turtles        | 1500.7 |
-| 77   | Unbreakable          | 1500.6 |
-| 78   | My Name              | 1500.1 |
-| 79   | Selfless             | 1500.0 |
-| 80   | Cars 2               | 1500.0 |
-| 81   | Wrath of Man         | 1500.0 |
-| 82   | The Hunger Games     | 1500.0 |
-| 83   | Jack Reacher: Never Go Back | 1500.0 |
-| 84   | Life                 | 1500.0 |
-| 85   | The Wild Robot       | 1500.0 |
-| 86   | Captain America: The Winter Soldier | 1500.0 |
-| 87   | Star Wars            | 1500.0 |
-| 88   | The Firm             | 1500.0 |
-| 89   | Oppenheimer          | 1500.0 |
-| 90   | Thor                 | 1500.0 |
-| 91   | Shadow               | 1500.0 |
-| 92   | Sweet Tooth          | 1500.0 |
-| 93   | X-Files              | 1500.0 |
-| 94   | The Darkest Hour     | 1500.0 |
-| 95   | Top Gun: Maverick    | 1500.0 |
-| 96   | Soul                 | 1500.0 |
+| 65   | The Avengers         | 1511.8 |
+| 66   | Top Gun              | 1503.4 |
+| 67   | Iron Chef            | 1501.6 |
+| 68   | The Terminal List    | 1501.5 |
+| 69   | Knight and Day       | 1501.4 |
+| 70   | John Wick            | 1501.4 |
+| 71   | A Quiet Place        | 1500.8 |
+| 72   | Avatar 2             | 1500.7 |
+| 73   | Avatar               | 1500.7 |
+| 74   | Mission Impossible 3 | 1500.7 |
+| 75   | Ninja Turtles        | 1500.7 |
+| 76   | Unbreakable          | 1500.6 |
+| 77   | My Name              | 1500.1 |
+| 78   | Selfless             | 1500.0 |
+| 79   | Cars 2               | 1500.0 |
+| 80   | Wrath of Man         | 1500.0 |
+| 81   | The Hunger Games     | 1500.0 |
+| 82   | Jack Reacher: Never Go Back | 1500.0 |
+| 83   | Life                 | 1500.0 |
+| 84   | The Wild Robot       | 1500.0 |
+| 85   | Captain America: The Winter Soldier | 1500.0 |
+| 86   | Star Wars            | 1500.0 |
+| 87   | The Firm             | 1500.0 |
+| 88   | Oppenheimer          | 1500.0 |
+| 89   | Thor                 | 1500.0 |
+| 90   | Shadow               | 1500.0 |
+| 91   | Sweet Tooth          | 1500.0 |
+| 92   | X-Files              | 1500.0 |
+| 93   | The Darkest Hour     | 1500.0 |
+| 94   | Top Gun: Maverick    | 1500.0 |
+| 95   | Soul                 | 1500.0 |
+| 96   | Gladiator            | 1499.6 |
 | 97   | American Made        | 1499.3 |
 | 98   | Zodiac               | 1499.3 |
 | 99   | Rebel Ridge          | 1498.6 |
