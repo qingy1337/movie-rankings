@@ -106,7 +106,7 @@ python3 mvr.py
 | 96   | Bloodhounds          | 1483.5 |
 | 97   | The Curious Case of Benjamin Button | 1481.1 |
 | 98   | Mission Impossible 2 | 1479.6 |
-| 99   | Ninja Turtles        | 1479.1 |
+| 99   | Ninja Turtles        | 1478.3 |
 | 100  | Rampage              | 1478.0 |
 | 101  | The Matrix Revolutions | 1475.4 |
 | 102  | The Man in the Iron Mask | 1472.8 |
@@ -122,26 +122,26 @@ python3 mvr.py
 | 112  | The Ring             | 1469.2 |
 | 113  | Heidi                | 1468.7 |
 | 114  | Mission Impossible 1 | 1467.9 |
-| 115  | Iron Chef            | 1465.8 |
-| 116  | The Mist             | 1465.4 |
-| 117  | When a Stranger Calls | 1465.4 |
-| 118  | World War Z          | 1464.8 |
-| 119  | GoldenEye            | 1463.3 |
-| 120  | Johnny English       | 1461.2 |
-| 121  | Sweet Tooth          | 1460.3 |
-| 122  | Exam                 | 1460.3 |
-| 123  | The Mask of Zorro    | 1459.8 |
-| 124  | Drunken Master       | 1459.7 |
-| 125  | John Wick            | 1459.6 |
-| 126  | The Spy Next Door    | 1457.3 |
-| 127  | Wrath of Man         | 1456.9 |
-| 128  | Peter the Rabbit     | 1455.9 |
-| 129  | G.I.Joe movie        | 1455.9 |
-| 130  | Terminator           | 1455.5 |
-| 131  | The Darkest Hour     | 1455.1 |
-| 132  | Unbreakable          | 1455.0 |
-| 133  | Horton hears a Who   | 1454.6 |
-| 134  | Black Widow          | 1454.1 |
+| 115  | Black Widow          | 1467.2 |
+| 116  | Iron Chef            | 1465.8 |
+| 117  | The Mist             | 1465.4 |
+| 118  | When a Stranger Calls | 1465.4 |
+| 119  | World War Z          | 1464.8 |
+| 120  | GoldenEye            | 1463.3 |
+| 121  | Johnny English       | 1462.0 |
+| 122  | Sweet Tooth          | 1460.3 |
+| 123  | Exam                 | 1460.3 |
+| 124  | The Mask of Zorro    | 1459.8 |
+| 125  | Drunken Master       | 1459.7 |
+| 126  | John Wick            | 1459.6 |
+| 127  | The Spy Next Door    | 1457.3 |
+| 128  | Wrath of Man         | 1456.9 |
+| 129  | Peter the Rabbit     | 1455.9 |
+| 130  | G.I.Joe movie        | 1455.9 |
+| 131  | Terminator           | 1455.5 |
+| 132  | The Darkest Hour     | 1455.1 |
+| 133  | Unbreakable          | 1455.0 |
+| 134  | Horton hears a Who   | 1454.6 |
 | 135  | Red Notice           | 1453.2 |
 | 136  | School of Rock       | 1447.9 |
 | 137  | The Silence          | 1445.4 |
@@ -171,10 +171,10 @@ python3 mvr.py
 | 161  | War Horse            | 1394.0 |
 | 162  | A Quiet Place: Day One | 1392.8 |
 | 163  | Gravity              | 1391.8 |
-| 164  | Darkest Hour         | 1389.2 |
-| 165  | Spooky Buddies       | 1388.6 |
-| 166  | Black Hawk Down      | 1385.4 |
-| 167  | All Quiet on The Western Front | 1385.3 |
-| 168  | Shadow               | 1382.8 |
+| 164  | Spooky Buddies       | 1388.6 |
+| 165  | Black Hawk Down      | 1385.4 |
+| 166  | All Quiet on The Western Front | 1385.3 |
+| 167  | Shadow               | 1382.8 |
+| 168  | Darkest Hour         | 1376.2 |
 | 169  | The Battle at Lake Changjin | 1370.0 |
 | 170  | Spectral             | 1359.0 |
