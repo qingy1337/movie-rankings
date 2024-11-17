@@ -25,7 +25,7 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{green}\text{17  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1566.9}$ |
-| $\color{green}\text{18  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1566.5}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
@@ -56,11 +56,11 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1529.3}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1524.9}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1530.1}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1529.3}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.9}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
@@ -117,16 +117,16 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1473.3}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1473.3}$ |
+| $\color{red}\text{119 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1473.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1472.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.9}$ |
@@ -178,5 +178,5 @@ python3 mvr.py
 | $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{red}\text{169 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1419.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
-| $\color{red}\text{171 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1415.1}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1415.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1405.6}$ |
