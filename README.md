@@ -67,31 +67,31 @@ python3 mvr.py
 | 57   | The Spy Next Door    | 1513.9 |
 | 58   | Train to Busan       | 1512.6 |
 | 59   | Scream VI            | 1502.2 |
-| 60   | Vagabond             | 1501.5 |
-| 61   | World War Z          | 1501.5 |
-| 62   | The Terminal List    | 1501.5 |
-| 63   | John Wick            | 1501.4 |
-| 64   | Ip Man               | 1501.1 |
-| 65   | The Tomorrow War     | 1500.7 |
-| 66   | Avatar 2             | 1500.7 |
-| 67   | Gladiator            | 1500.7 |
-| 68   | A.I. Artificial Intelligence | 1500.7 |
-| 69   | Mission Impossible 3 | 1500.7 |
-| 70   | Ninja Turtles        | 1500.7 |
-| 71   | Sneaky Pete          | 1500.0 |
-| 72   | 65                   | 1500.0 |
-| 73   | The Matrix           | 1500.0 |
-| 74   | Selfless             | 1500.0 |
-| 75   | Zootopia             | 1500.0 |
-| 76   | Cars 2               | 1500.0 |
-| 77   | Locke and Key        | 1500.0 |
-| 78   | Loki                 | 1500.0 |
-| 79   | Wrath of Man         | 1500.0 |
-| 80   | The Maze Runner      | 1500.0 |
-| 81   | The Hunger Games     | 1500.0 |
-| 82   | The Ring 2           | 1500.0 |
-| 83   | Jack Reacher: Never Go Back | 1500.0 |
-| 84   | Peter the Rabbit     | 1500.0 |
+| 60   | Zero Dark Thirty     | 1501.5 |
+| 61   | Vagabond             | 1501.5 |
+| 62   | World War Z          | 1501.5 |
+| 63   | The Terminal List    | 1501.5 |
+| 64   | Knight and Day       | 1501.4 |
+| 65   | John Wick            | 1501.4 |
+| 66   | Ip Man               | 1501.1 |
+| 67   | The Tomorrow War     | 1500.7 |
+| 68   | Avatar 2             | 1500.7 |
+| 69   | Gladiator            | 1500.7 |
+| 70   | Mission Impossible 3 | 1500.7 |
+| 71   | Ninja Turtles        | 1500.7 |
+| 72   | Sneaky Pete          | 1500.0 |
+| 73   | 65                   | 1500.0 |
+| 74   | The Matrix           | 1500.0 |
+| 75   | Selfless             | 1500.0 |
+| 76   | Zootopia             | 1500.0 |
+| 77   | Cars 2               | 1500.0 |
+| 78   | Locke and Key        | 1500.0 |
+| 79   | Loki                 | 1500.0 |
+| 80   | Wrath of Man         | 1500.0 |
+| 81   | The Maze Runner      | 1500.0 |
+| 82   | The Hunger Games     | 1500.0 |
+| 83   | The Ring 2           | 1500.0 |
+| 84   | Jack Reacher: Never Go Back | 1500.0 |
 | 85   | Replicas             | 1500.0 |
 | 86   | Life of Pi           | 1500.0 |
 | 87   | Red Eye              | 1500.0 |
@@ -129,28 +129,28 @@ python3 mvr.py
 | 119  | Top Gun              | 1486.0 |
 | 120  | The Matrix Revolutions | 1485.4 |
 | 121  | Road House           | 1484.7 |
-| 122  | Zero Dark Thirty     | 1484.7 |
-| 123  | Knight and Day       | 1484.7 |
-| 124  | Drunken Master       | 1484.7 |
-| 125  | The Man in the Iron Mask | 1484.7 |
-| 126  | A Quiet Place        | 1484.0 |
-| 127  | Cars 3               | 1484.0 |
-| 128  | Rango                | 1484.0 |
-| 129  | Heidi                | 1484.0 |
-| 130  | Jurassic World: Dominion | 1484.0 |
-| 131  | Crouching Tiger Hidden Dragon | 1484.0 |
-| 132  | The Mask of Zorro    | 1484.0 |
-| 133  | Avatar: The Last Airbender | 1484.0 |
-| 134  | The BFG              | 1484.0 |
-| 135  | Avatar               | 1484.0 |
-| 136  | Total Recall         | 1484.0 |
-| 137  | Mission Impossible 1 | 1484.0 |
-| 138  | G.I.Joe movie        | 1484.0 |
-| 139  | Skyfall              | 1484.0 |
-| 140  | Land of Bad          | 1484.0 |
-| 141  | A Quiet Place: Day One | 1484.0 |
-| 142  | Frequency            | 1484.0 |
-| 143  | Onward               | 1483.3 |
+| 122  | Drunken Master       | 1484.7 |
+| 123  | The Man in the Iron Mask | 1484.7 |
+| 124  | A Quiet Place        | 1484.0 |
+| 125  | Cars 3               | 1484.0 |
+| 126  | Rango                | 1484.0 |
+| 127  | Heidi                | 1484.0 |
+| 128  | Jurassic World: Dominion | 1484.0 |
+| 129  | Crouching Tiger Hidden Dragon | 1484.0 |
+| 130  | The Mask of Zorro    | 1484.0 |
+| 131  | Avatar: The Last Airbender | 1484.0 |
+| 132  | The BFG              | 1484.0 |
+| 133  | Avatar               | 1484.0 |
+| 134  | Total Recall         | 1484.0 |
+| 135  | Mission Impossible 1 | 1484.0 |
+| 136  | G.I.Joe movie        | 1484.0 |
+| 137  | Skyfall              | 1484.0 |
+| 138  | Land of Bad          | 1484.0 |
+| 139  | A Quiet Place: Day One | 1484.0 |
+| 140  | Frequency            | 1484.0 |
+| 141  | A.I. Artificial Intelligence | 1484.0 |
+| 142  | Onward               | 1483.3 |
+| 143  | Peter the Rabbit     | 1483.3 |
 | 144  | Johnny English       | 1483.3 |
 | 145  | When a Stranger Calls | 1483.3 |
 | 146  | Independence Day     | 1483.3 |
