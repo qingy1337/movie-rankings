@@ -58,10 +58,10 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
 | $\color{green}\text{49  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1530.8}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1529.7}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1526.2}$ |
+| $\color{green}\text{51  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1530.4}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1529.7}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
@@ -95,7 +95,7 @@ python3 mvr.py
 | $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
-| $\color{red}\text{88  }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1499.9}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
@@ -136,7 +136,7 @@ python3 mvr.py
 | $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
-| $\color{green}\text{129 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1463.1}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.6}$ |
@@ -175,8 +175,8 @@ python3 mvr.py
 | $\color{black}\text{165 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1422.6}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1418.1}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
+| $\color{red}\text{170 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1414.0}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1400.8}$ |
