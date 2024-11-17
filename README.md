@@ -86,12 +86,12 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.6}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1504.4}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1504.4}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
+| $\color{red}\text{84  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1503.0}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1500.3}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
@@ -144,12 +144,12 @@ python3 mvr.py
 | $\color{green}\text{134 }$ | $\color{green}\text{Unbreakable}$ | $\color{green}\text{1452.8}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{red}\text{137 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1445.7}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1445.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1438.5}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1432.7}$ |
+| $\color{green}\text{140 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1440.0}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1438.5}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1429.0}$ |
@@ -160,7 +160,7 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
-| $\color{green}\text{153 }$ | $\color{green}\text{Spooky Buddies}$ | $\color{green}\text{1422.0}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1419.1}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
