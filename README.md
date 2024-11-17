@@ -59,12 +59,12 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
 | $\color{red}\text{50  }$ | $\color{red}\text{Scream VI}$ | $\color{red}\text{1530.8}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.9}$ |
+| $\color{green}\text{52  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1530.1}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
 | $\color{green}\text{58  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1525.4}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
@@ -97,13 +97,13 @@ python3 mvr.py
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
-| $\color{green}\text{90  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1496.8}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1496.8}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
 | $\color{red}\text{95  }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1492.4}$ |
-| $\color{red}\text{96  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1488.8}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1488.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
@@ -171,9 +171,9 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1416.5}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1414.3}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.9}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
