@@ -76,15 +76,15 @@ python3 mvr.py
 | 66   | Guy Ritchie’s The Covenant | 1523.6 |
 | 67   | Top Gun              | 1523.2 |
 | 68   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
-| 69   | Star Trek: Picard    | 1521.3 |
-| 70   | A Haunting in Venice | 1519.8 |
-| 71   | Jack Reacher         | 1519.6 |
-| 72   | Rebel Ridge          | 1519.0 |
-| 73   | Thor                 | 1516.7 |
-| 74   | Avatar               | 1514.5 |
-| 75   | The Terminal List    | 1513.0 |
-| 76   | Ip Man               | 1510.8 |
-| 77   | Zodiac               | 1510.3 |
+| 69   | Zodiac               | 1521.3 |
+| 70   | Star Trek: Picard    | 1521.3 |
+| 71   | A Haunting in Venice | 1519.8 |
+| 72   | Jack Reacher         | 1519.6 |
+| 73   | Rebel Ridge          | 1519.0 |
+| 74   | Thor                 | 1516.7 |
+| 75   | Avatar               | 1514.5 |
+| 76   | The Terminal List    | 1513.0 |
+| 77   | Ip Man               | 1510.8 |
 | 78   | Rainman              | 1507.7 |
 | 79   | Dark Waters          | 1507.1 |
 | 80   | Shawshank Redemption | 1506.9 |
@@ -160,15 +160,15 @@ python3 mvr.py
 | 150  | Crouching Tiger Hidden Dragon | 1411.0 |
 | 151  | 65                   | 1403.9 |
 | 152  | AK-47 Kalashnikov    | 1399.4 |
-| 153  | Zero Dark Thirty     | 1399.2 |
-| 154  | Awake                | 1398.2 |
-| 155  | Arrow                | 1397.7 |
-| 156  | War Horse            | 1394.0 |
-| 157  | The Firm             | 1392.9 |
-| 158  | A Quiet Place: Day One | 1392.8 |
-| 159  | Stillwater           | 1391.0 |
-| 160  | Everything, everywhere, all at once | 1389.1 |
-| 161  | Spooky Buddies       | 1388.6 |
+| 153  | Awake                | 1398.2 |
+| 154  | Arrow                | 1397.7 |
+| 155  | War Horse            | 1394.0 |
+| 156  | The Firm             | 1392.9 |
+| 157  | A Quiet Place: Day One | 1392.8 |
+| 158  | Stillwater           | 1391.0 |
+| 159  | Everything, everywhere, all at once | 1389.1 |
+| 160  | Spooky Buddies       | 1388.6 |
+| 161  | Zero Dark Thirty     | 1388.1 |
 | 162  | Gravity              | 1383.4 |
 | 163  | Jurassic World: Dominion | 1381.7 |
 | 164  | Spectral             | 1380.0 |
