@@ -93,7 +93,7 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
-| $\color{green}\text{86  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1500.2}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
@@ -115,35 +115,35 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
-| $\color{red}\text{108 }$ | $\color{red}\text{Rainman}$ | $\color{red}\text{1478.8}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
-| $\color{green}\text{112 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1478.2}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
-| $\color{red}\text{115 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1476.5}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
+| $\color{green}\text{108 }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1479.4}$ |
+| $\color{red}\text{109 }$ | $\color{red}\text{Rainman}$ | $\color{red}\text{1478.8}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
+| $\color{green}\text{113 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1478.2}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
+| $\color{red}\text{116 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1476.5}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1466.0}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{red}\text{127 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1464.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
+| $\color{red}\text{126 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1464.6}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
+| $\color{red}\text{130 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1458.9}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1457.9}$ |
 | $\color{red}\text{132 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1456.9}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
-| $\color{red}\text{136 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1454.8}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1454.4}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
