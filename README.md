@@ -17,7 +17,7 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1598.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
 | $\color{green}\text{9   }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1596.8}$ |
-| $\color{green}\text{10  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1596.0}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1595.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
@@ -47,7 +47,7 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1557.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1556.0}$ |
-| $\color{red}\text{40  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1554.9}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
@@ -166,13 +166,13 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1411.7}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1405.5}$ |
+| $\color{green}\text{159 }$ | $\color{green}\text{The Mask of Zorro}$ | $\color{green}\text{1406.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1400.2}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1399.4}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
