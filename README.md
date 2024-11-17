@@ -39,13 +39,13 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{green}\text{31  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1558.2}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{green}\text{33  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1554.4}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1552.5}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1551.1}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1550.9}$ |
+| $\color{green}\text{32  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1556.5}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1554.4}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1552.5}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1551.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
@@ -65,11 +65,11 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.8}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1529.1}$ |
-| $\color{red}\text{58  }$ | $\color{red}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{red}\text{1527.3}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1526.8}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1526.8}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
+| $\color{red}\text{62  }$ | $\color{red}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{red}\text{1521.7}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1521.7}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.6}$ |
@@ -135,7 +135,7 @@ python3 mvr.py
 | $\color{red}\text{125 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1459.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
-| $\color{green}\text{128 }$ | $\color{green}\text{Land of Bad}$ | $\color{green}\text{1458.4}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1458.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
 | $\color{red}\text{131 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1454.8}$ |
@@ -153,7 +153,7 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1441.7}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1438.9}$ |
-| $\color{red}\text{146 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1438.3}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1438.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1437.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
