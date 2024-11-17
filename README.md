@@ -13,11 +13,11 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1578.0}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1576.8}$ |
-| $\color{green}\text{9   }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1574.9}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1573.3}$ |
+| $\color{green}\text{6   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1578.2}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1578.0}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1576.8}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1574.9}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.5}$ |
@@ -81,18 +81,18 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1512.4}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1511.9}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1511.6}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1511.3}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1511.3}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
+| $\color{red}\text{79  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1506.7}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1505.3}$ |
 | $\color{red}\text{82  }$ | $\color{red}\text{Iron Chef}$ | $\color{red}\text{1505.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
-| $\color{green}\text{84  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1504.5}$ |
-| $\color{red}\text{85  }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1504.1}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.5}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1504.1}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.8}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
