@@ -18,7 +18,7 @@ python3 mvr.py
 | $\color{black}\text{8   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1579.1}$ |
-| $\color{green}\text{11  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1578.1}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1578.1}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
@@ -75,23 +75,23 @@ python3 mvr.py
 | $\color{black}\text{65  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1515.9}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1515.3}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1512.8}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.2}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1512.0}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.2}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1510.2}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1509.6}$ |
+| $\color{green}\text{68  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1515.2}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1512.8}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.2}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1512.0}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.2}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1510.2}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1509.3}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1504.7}$ |
-| $\color{red}\text{84  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1503.9}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1503.9}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
@@ -102,15 +102,15 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{red}\text{93  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1494.9}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1490.6}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1489.4}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1489.4}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1485.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
