@@ -53,7 +53,7 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{green}\text{44  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1542.6}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{green}\text{46  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1539.4}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1539.4}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
@@ -101,22 +101,22 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1487.5}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
+| $\color{green}\text{94  }$ | $\color{green}\text{Exam}$ | $\color{green}\text{1491.7}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1487.5}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
-| $\color{green}\text{103 }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1483.2}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
+| $\color{red}\text{109 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1477.2}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{red}\text{111 }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1476.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
@@ -172,7 +172,7 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1415.5}$ |
 | $\color{red}\text{163 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1414.9}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{65}$ | $\color{red}\text{1413.2}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{65}$ | $\color{black}\text{1413.2}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{red}\text{167 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1409.5}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1409.5}$ |
