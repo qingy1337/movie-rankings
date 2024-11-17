@@ -15,7 +15,7 @@ python3 mvr.py
 | $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1600.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1598.9}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
-| $\color{green}\text{8   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1596.9}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1596.9}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1595.2}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{red}\text{39  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1557.1}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1557.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
@@ -61,9 +61,9 @@ python3 mvr.py
 | $\color{black}\text{51  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
+| $\color{green}\text{54  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1539.5}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
@@ -116,10 +116,10 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1475.8}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
-| $\color{red}\text{111 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1468.5}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.3}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
+| $\color{red}\text{110 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1468.5}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.3}$ |
+| $\color{red}\text{112 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1466.4}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
