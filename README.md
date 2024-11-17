@@ -18,7 +18,7 @@ python3 mvr.py
 | $\color{black}\text{8   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{green}\text{11  }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1586.5}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1586.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1584.2}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
@@ -35,10 +35,10 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1561.0}$ |
+| $\color{green}\text{28  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1564.7}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1559.1}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
@@ -162,16 +162,16 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.9}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1419.5}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.9}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1419.5}$ |
+| $\color{red}\text{159 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1419.4}$ |
 | $\color{red}\text{160 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1416.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
-| $\color{red}\text{164 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1412.1}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1412.1}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1411.1}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
