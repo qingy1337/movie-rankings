@@ -23,9 +23,9 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1575.6}$ |
+| $\color{green}\text{16  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1579.9}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -100,7 +100,7 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
-| $\color{red}\text{93  }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1492.8}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1492.8}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1491.7}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
@@ -113,13 +113,13 @@ python3 mvr.py
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{red}\text{112 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1473.4}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
 | $\color{red}\text{115 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1470.3}$ |
@@ -146,7 +146,7 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
-| $\color{green}\text{139 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1445.6}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.6}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1441.7}$ |
