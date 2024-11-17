@@ -28,7 +28,7 @@ python3 mvr.py
 | $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1586.3}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
-| $\color{green}\text{21  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1576.6}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1576.6}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1574.1}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
@@ -40,10 +40,10 @@ python3 mvr.py
 | $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{green}\text{33  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1563.7}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1559.5}$ |
+| $\color{green}\text{33  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1564.3}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1563.7}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
@@ -102,11 +102,11 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1484.3}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1484.2}$ |
-| $\color{red}\text{99  }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1483.9}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1484.3}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1484.2}$ |
+| $\color{red}\text{98  }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1483.9}$ |
+| $\color{red}\text{99  }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1483.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
@@ -124,7 +124,7 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{Rainman}$ | $\color{red}\text{1463.2}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
