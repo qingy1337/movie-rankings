@@ -44,19 +44,19 @@ python3 mvr.py
 | 34   | Doctor Strange       | 1555.5 |
 | 35   | The Avengers         | 1553.0 |
 | 36   | The Maze Runner: The Scorch Trials | 1552.1 |
-| 37   | The Wild Robot       | 1547.0 |
-| 38   | Jack Ryan            | 1546.5 |
-| 39   | The Hunger Games     | 1545.4 |
-| 40   | The Young and Prodigious T.S. Spivet | 1544.3 |
-| 41   | The Prestige         | 1544.1 |
-| 42   | Life                 | 1543.3 |
-| 43   | A Quiet Place        | 1543.3 |
-| 44   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
-| 45   | Avengers: Infinity War | 1542.0 |
-| 46   | Catch Me If You Can  | 1541.9 |
-| 47   | Tenet                | 1541.6 |
-| 48   | Shawshank Redemption | 1541.2 |
-| 49   | Rebel Ridge          | 1537.6 |
+| 37   | Rebel Ridge          | 1551.9 |
+| 38   | The Wild Robot       | 1547.0 |
+| 39   | Jack Ryan            | 1546.5 |
+| 40   | The Hunger Games     | 1545.4 |
+| 41   | The Young and Prodigious T.S. Spivet | 1544.3 |
+| 42   | The Prestige         | 1544.1 |
+| 43   | Life                 | 1543.3 |
+| 44   | A Quiet Place        | 1543.3 |
+| 45   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
+| 46   | Avengers: Infinity War | 1542.0 |
+| 47   | Catch Me If You Can  | 1541.9 |
+| 48   | Tenet                | 1541.6 |
+| 49   | Shawshank Redemption | 1541.2 |
 | 50   | Loki                 | 1536.1 |
 | 51   | Train to Busan       | 1535.6 |
 | 52   | Mission Impossible: Ghost Protocol | 1535.3 |
@@ -96,15 +96,15 @@ python3 mvr.py
 | 86   | A Haunting in Venice | 1501.3 |
 | 87   | Glass Castle         | 1501.2 |
 | 88   | Soul                 | 1500.7 |
-| 89   | Wrath of Man         | 1500.1 |
-| 90   | Lord of the Rings    | 1498.9 |
-| 91   | Pompeii              | 1498.8 |
-| 92   | The Terminal List    | 1497.1 |
-| 93   | Zootopia             | 1495.5 |
-| 94   | Mission Impossible: Dead Reckoning P1 | 1493.7 |
-| 95   | Jack Reacher         | 1493.4 |
-| 96   | Dune                 | 1490.9 |
-| 97   | Gladiator            | 1487.2 |
+| 89   | Lord of the Rings    | 1498.9 |
+| 90   | Pompeii              | 1498.8 |
+| 91   | The Terminal List    | 1497.1 |
+| 92   | Zootopia             | 1495.5 |
+| 93   | Mission Impossible: Dead Reckoning P1 | 1493.7 |
+| 94   | Jack Reacher         | 1493.4 |
+| 95   | Dune                 | 1490.9 |
+| 96   | Gladiator            | 1487.2 |
+| 97   | Wrath of Man         | 1485.8 |
 | 98   | Bloodhounds          | 1483.5 |
 | 99   | Jack Reacher: Never Go Back | 1483.5 |
 | 100  | The Curious Case of Benjamin Button | 1483.0 |
