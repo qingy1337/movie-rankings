@@ -11,7 +11,7 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1596.6}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.7}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
-| $\color{green}\text{4   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1582.4}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
@@ -21,7 +21,7 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{No Country for Old Men}$ | $\color{green}\text{1569.1}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
@@ -37,7 +37,7 @@ python3 mvr.py
 | $\color{black}\text{27  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
-| $\color{red}\text{30  }$ | $\color{red}\text{Avengers: Age of Ultron}$ | $\color{red}\text{1549.2}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1549.2}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.3}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
@@ -168,12 +168,12 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1434.4}$ |
 | $\color{green}\text{159 }$ | $\color{green}\text{Heidi}$ | $\color{green}\text{1434.2}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1431.5}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1428.5}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1428.5}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1426.4}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1425.2}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1422.5}$ |
