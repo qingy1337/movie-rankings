@@ -52,14 +52,14 @@ python3 mvr.py
 | 42   | Mission Impossible: Ghost Protocol | 1560.4 |
 | 43   | The Prestige         | 1557.0 |
 | 44   | Mission Impossible: Rogue Nation | 1556.9 |
-| 45   | Tenet                | 1554.6 |
-| 46   | The Matrix           | 1553.4 |
-| 47   | Halo                 | 1552.0 |
-| 48   | Interstellar         | 1550.8 |
-| 49   | Beut Mind            | 1550.6 |
-| 50   | The Tomorrow War     | 1548.5 |
-| 51   | A Haunting in Venice | 1548.4 |
-| 52   | The Day After Tomorrow | 1546.4 |
+| 45   | The Day After Tomorrow | 1555.0 |
+| 46   | Tenet                | 1554.6 |
+| 47   | The Matrix           | 1553.4 |
+| 48   | Halo                 | 1552.0 |
+| 49   | Interstellar         | 1550.8 |
+| 50   | Beut Mind            | 1550.6 |
+| 51   | The Tomorrow War     | 1548.5 |
+| 52   | A Haunting in Venice | 1548.4 |
 | 53   | Mission Impossible: Fallout | 1546.1 |
 | 54   | The Illusionist      | 1545.8 |
 | 55   | Locke and Key        | 1545.1 |
@@ -170,10 +170,10 @@ python3 mvr.py
 | 160  | Everything, everywhere, all at once | 1377.1 |
 | 161  | Gravity              | 1376.8 |
 | 162  | All Quiet on The Western Front | 1376.7 |
-| 163  | War Horse            | 1373.7 |
-| 164  | Jurassic World: Dominion | 1373.1 |
-| 165  | The Firm             | 1370.2 |
-| 166  | Black Hawk Down      | 1367.8 |
+| 163  | Jurassic World: Dominion | 1373.1 |
+| 164  | The Firm             | 1370.2 |
+| 165  | Black Hawk Down      | 1367.8 |
+| 166  | War Horse            | 1365.1 |
 | 167  | Spectral             | 1362.2 |
 | 168  | Shadow               | 1361.8 |
 | 169  | Darkest Hour         | 1352.5 |
