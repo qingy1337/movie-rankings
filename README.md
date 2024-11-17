@@ -43,26 +43,26 @@ python3 mvr.py
 | 33   | Inception            | 1548.9 |
 | 34   | Scream VI            | 1548.0 |
 | 35   | My Name              | 1548.0 |
-| 36   | Shawshank Redemption | 1547.2 |
-| 37   | The Wild Robot       | 1547.0 |
-| 38   | Tenet                | 1544.7 |
-| 39   | The Young and Prodigious T.S. Spivet | 1544.3 |
-| 40   | The Prestige         | 1544.1 |
-| 41   | Life                 | 1543.3 |
-| 42   | A Quiet Place        | 1543.3 |
-| 43   | The Ninth Gate       | 1542.5 |
-| 44   | The Illusionist      | 1542.4 |
-| 45   | Avengers: Infinity War | 1542.0 |
-| 46   | Catch Me If You Can  | 1541.9 |
-| 47   | Train to Busan       | 1535.6 |
-| 48   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 49   | Avengers: Endgame    | 1535.0 |
-| 50   | Mission Impossible: Fallout | 1534.9 |
-| 51   | The Day After Tomorrow | 1534.3 |
-| 52   | Jack Ryan            | 1531.6 |
-| 53   | The Man Who Knew Infinity | 1530.9 |
-| 54   | The Hunger Games     | 1530.3 |
-| 55   | Mission Impossible 3 | 1528.8 |
+| 36   | The Wild Robot       | 1547.0 |
+| 37   | Tenet                | 1544.7 |
+| 38   | The Young and Prodigious T.S. Spivet | 1544.3 |
+| 39   | The Prestige         | 1544.1 |
+| 40   | Life                 | 1543.3 |
+| 41   | A Quiet Place        | 1543.3 |
+| 42   | The Ninth Gate       | 1542.5 |
+| 43   | The Illusionist      | 1542.4 |
+| 44   | Avengers: Infinity War | 1542.0 |
+| 45   | Catch Me If You Can  | 1541.9 |
+| 46   | Train to Busan       | 1535.6 |
+| 47   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 48   | Avengers: Endgame    | 1535.0 |
+| 49   | Mission Impossible: Fallout | 1534.9 |
+| 50   | The Day After Tomorrow | 1534.3 |
+| 51   | Jack Ryan            | 1531.6 |
+| 52   | The Man Who Knew Infinity | 1530.9 |
+| 53   | The Hunger Games     | 1530.3 |
+| 54   | Mission Impossible 3 | 1528.8 |
+| 55   | Shawshank Redemption | 1528.4 |
 | 56   | Zodiac               | 1527.3 |
 | 57   | Rainman              | 1526.3 |
 | 58   | Replicas             | 1525.3 |
@@ -70,44 +70,44 @@ python3 mvr.py
 | 60   | Loki                 | 1522.5 |
 | 61   | The Avengers         | 1522.0 |
 | 62   | Star Trek: Picard    | 1521.3 |
-| 63   | Captain America: Civil War | 1519.7 |
-| 64   | Scream V             | 1516.0 |
-| 65   | Cars                 | 1515.8 |
-| 66   | Interstellar         | 1515.2 |
-| 67   | Captain America: The Winter Soldier | 1514.6 |
-| 68   | Avatar               | 1514.4 |
-| 69   | Guy Ritchie’s The Covenant | 1514.2 |
-| 70   | Dark Waters          | 1511.2 |
-| 71   | Zootopia             | 1510.5 |
-| 72   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
-| 73   | The Tomorrow War     | 1508.3 |
+| 63   | The Tomorrow War     | 1519.7 |
+| 64   | Captain America: Civil War | 1519.7 |
+| 65   | Scream V             | 1516.0 |
+| 66   | Cars                 | 1515.8 |
+| 67   | Interstellar         | 1515.2 |
+| 68   | Captain America: The Winter Soldier | 1514.6 |
+| 69   | Avatar               | 1514.4 |
+| 70   | Guy Ritchie’s The Covenant | 1514.2 |
+| 71   | Dark Waters          | 1511.2 |
+| 72   | Zootopia             | 1510.5 |
+| 73   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
 | 74   | The Man in the Iron Mask | 1506.8 |
 | 75   | Glass Castle         | 1504.7 |
 | 76   | Jack Reacher         | 1504.2 |
-| 77   | Total Recall         | 1503.7 |
-| 78   | Thor                 | 1502.4 |
-| 79   | Soul                 | 1502.0 |
-| 80   | A Haunting in Venice | 1501.3 |
-| 81   | The Matrix           | 1500.7 |
-| 82   | Wrath of Man         | 1500.1 |
-| 83   | Jack Reacher: Never Go Back | 1500.1 |
-| 84   | Cars 2               | 1499.8 |
-| 85   | Lord of the Rings    | 1498.9 |
-| 86   | GoldenEye            | 1497.3 |
-| 87   | The Terminal List    | 1497.1 |
-| 88   | Ip Man               | 1495.6 |
-| 89   | Vagabond             | 1493.3 |
-| 90   | A Boy Called Christmas | 1491.7 |
-| 91   | Dune                 | 1490.9 |
-| 92   | When a Stranger Calls | 1490.6 |
-| 93   | Oppenheimer          | 1489.4 |
-| 94   | Peter the Rabbit     | 1488.2 |
-| 95   | Top Gun: Maverick    | 1488.1 |
-| 96   | Rango                | 1488.0 |
-| 97   | Megan                | 1487.9 |
-| 98   | Gladiator            | 1487.2 |
-| 99   | Top Gun              | 1485.3 |
-| 100  | The Ring             | 1485.1 |
+| 77   | The Ring             | 1504.0 |
+| 78   | Total Recall         | 1503.7 |
+| 79   | Thor                 | 1502.4 |
+| 80   | Soul                 | 1502.0 |
+| 81   | A Haunting in Venice | 1501.3 |
+| 82   | The Matrix           | 1500.7 |
+| 83   | Wrath of Man         | 1500.1 |
+| 84   | Jack Reacher: Never Go Back | 1500.1 |
+| 85   | Cars 2               | 1499.8 |
+| 86   | Lord of the Rings    | 1498.9 |
+| 87   | GoldenEye            | 1497.3 |
+| 88   | The Terminal List    | 1497.1 |
+| 89   | Ip Man               | 1495.6 |
+| 90   | Vagabond             | 1493.3 |
+| 91   | A Boy Called Christmas | 1491.7 |
+| 92   | Dune                 | 1490.9 |
+| 93   | When a Stranger Calls | 1490.6 |
+| 94   | Oppenheimer          | 1489.4 |
+| 95   | Peter the Rabbit     | 1488.2 |
+| 96   | Top Gun: Maverick    | 1488.1 |
+| 97   | Rango                | 1488.0 |
+| 98   | Megan                | 1487.9 |
+| 99   | Gladiator            | 1487.2 |
+| 100  | Top Gun              | 1485.3 |
 | 101  | Land of Bad          | 1485.0 |
 | 102  | Saving Private Ryan  | 1484.5 |
 | 103  | The BFG              | 1483.6 |
@@ -171,10 +171,10 @@ python3 mvr.py
 | 161  | AK-47 Kalashnikov    | 1409.5 |
 | 162  | Spooky Buddies       | 1406.8 |
 | 163  | Gravity              | 1405.9 |
-| 164  | Everything, everywhere, all at once | 1405.5 |
-| 165  | The Battle at Lake Changjin | 1405.4 |
-| 166  | Jurassic World: Dominion | 1403.0 |
-| 167  | A Quiet Place: Day One | 1400.6 |
-| 168  | Black Hawk Down      | 1398.1 |
+| 164  | The Battle at Lake Changjin | 1405.4 |
+| 165  | Jurassic World: Dominion | 1403.0 |
+| 166  | A Quiet Place: Day One | 1400.6 |
+| 167  | Black Hawk Down      | 1398.1 |
+| 168  | Everything, everywhere, all at once | 1394.1 |
 | 169  | Spectral             | 1390.9 |
 | 170  | Shadow               | 1389.5 |
