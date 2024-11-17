@@ -55,7 +55,7 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1549.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
-| $\color{green}\text{48  }$ | $\color{green}\text{Lost in Space}$ | $\color{green}\text{1543.0}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1543.0}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
@@ -82,11 +82,11 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1507.4}$ |
+| $\color{green}\text{75  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1511.7}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1507.4}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
@@ -130,7 +130,7 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{red}\text{121 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1460.0}$ |
 | $\color{red}\text{122 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1459.6}$ |
-| $\color{red}\text{123 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1459.5}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
@@ -175,8 +175,8 @@ python3 mvr.py
 | $\color{red}\text{165 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1408.1}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
-| $\color{red}\text{168 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1402.1}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1399.0}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1399.0}$ |
+| $\color{red}\text{170 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1397.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
