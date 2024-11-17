@@ -14,33 +14,33 @@ python3 mvr.py
 | 4    | The Maze Runner: The Death Cure | 1558.3 |
 | 5    | Avengers: Age of Ultron | 1546.5 |
 | 6    | Dune                 | 1545.8 |
-| 7    | World War Z          | 1545.0 |
-| 8    | Black Panther        | 1544.6 |
-| 9    | Halo                 | 1544.5 |
-| 10   | Beut Mind            | 1544.4 |
-| 11   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
-| 12   | Catch Me If You Can  | 1541.9 |
-| 13   | Megan                | 1541.3 |
-| 14   | Sneaky Pete          | 1534.0 |
-| 15   | Avengers: Infinity War | 1533.4 |
-| 16   | X-Men                | 1533.4 |
-| 17   | Squid Game           | 1532.8 |
-| 18   | Avengers: Endgame    | 1532.0 |
-| 19   | Inception            | 1531.9 |
-| 20   | A Quiet Place        | 1531.3 |
-| 21   | Lost in Space        | 1531.3 |
-| 22   | Jack Ryan            | 1531.3 |
-| 23   | Source Code          | 1531.3 |
-| 24   | Passengers           | 1531.3 |
-| 25   | Dark Waters          | 1531.3 |
-| 26   | Shawshank Redemption | 1531.3 |
-| 27   | Pirates of the Caribbean | 1531.3 |
-| 28   | Wednesday            | 1531.2 |
-| 29   | Thirteen Lives       | 1530.6 |
-| 30   | Harry Potter         | 1530.5 |
-| 31   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
-| 32   | Maleficent           | 1530.5 |
-| 33   | Locke and Key        | 1529.8 |
+| 7    | Locke and Key        | 1545.2 |
+| 8    | World War Z          | 1545.0 |
+| 9    | Black Panther        | 1544.6 |
+| 10   | Halo                 | 1544.5 |
+| 11   | Beut Mind            | 1544.4 |
+| 12   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 13   | Catch Me If You Can  | 1541.9 |
+| 14   | Megan                | 1541.3 |
+| 15   | Sneaky Pete          | 1534.0 |
+| 16   | Avengers: Infinity War | 1533.4 |
+| 17   | X-Men                | 1533.4 |
+| 18   | Squid Game           | 1532.8 |
+| 19   | Avengers: Endgame    | 1532.0 |
+| 20   | Inception            | 1531.9 |
+| 21   | A Quiet Place        | 1531.3 |
+| 22   | Lost in Space        | 1531.3 |
+| 23   | Jack Ryan            | 1531.3 |
+| 24   | Source Code          | 1531.3 |
+| 25   | Passengers           | 1531.3 |
+| 26   | Dark Waters          | 1531.3 |
+| 27   | Shawshank Redemption | 1531.3 |
+| 28   | Pirates of the Caribbean | 1531.3 |
+| 29   | Wednesday            | 1531.2 |
+| 30   | Thirteen Lives       | 1530.6 |
+| 31   | Harry Potter         | 1530.5 |
+| 32   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
+| 33   | Maleficent           | 1530.5 |
 | 34   | Titanic              | 1529.8 |
 | 35   | Zootopia             | 1529.8 |
 | 36   | Mission Impossible: Ghost Protocol | 1529.3 |
@@ -72,33 +72,33 @@ python3 mvr.py
 | 62   | Life of Pi           | 1515.3 |
 | 63   | Mission Impossible: Fallout | 1515.3 |
 | 64   | The Ring             | 1515.3 |
-| 65   | Interstellar         | 1515.3 |
-| 66   | Captain America: The Winter Soldier | 1515.3 |
-| 67   | The Hobbit           | 1514.6 |
-| 68   | The Maze Runner: The Scorch Trials | 1514.5 |
-| 69   | Jack Reacher         | 1514.1 |
-| 70   | Zodiac               | 1513.9 |
-| 71   | Red Notice           | 1513.9 |
-| 72   | The Ninth Gate       | 1513.2 |
-| 73   | The Prestige         | 1512.5 |
-| 74   | Pompeii              | 1512.1 |
-| 75   | The Avengers         | 1511.8 |
-| 76   | The Last Samurai     | 1510.5 |
-| 77   | Top Gun              | 1503.4 |
-| 78   | School of Rock       | 1502.7 |
-| 79   | The Maze Runner      | 1501.7 |
-| 80   | The Terminal List    | 1501.5 |
-| 81   | Black Widow          | 1500.8 |
-| 82   | Avatar 2             | 1500.7 |
-| 83   | Ninja Turtles        | 1500.7 |
-| 84   | My Name              | 1500.1 |
-| 85   | Selfless             | 1500.0 |
-| 86   | Wrath of Man         | 1500.0 |
-| 87   | Jack Reacher: Never Go Back | 1500.0 |
-| 88   | Glass Castle         | 1500.0 |
-| 89   | Life                 | 1500.0 |
-| 90   | Star Wars            | 1500.0 |
-| 91   | Guy Ritchie’s The Covenant | 1500.0 |
+| 65   | Captain America: The Winter Soldier | 1515.3 |
+| 66   | The Hobbit           | 1514.6 |
+| 67   | The Maze Runner: The Scorch Trials | 1514.5 |
+| 68   | Jack Reacher         | 1514.1 |
+| 69   | Zodiac               | 1513.9 |
+| 70   | Red Notice           | 1513.9 |
+| 71   | The Ninth Gate       | 1513.2 |
+| 72   | The Prestige         | 1512.5 |
+| 73   | Pompeii              | 1512.1 |
+| 74   | The Avengers         | 1511.8 |
+| 75   | The Last Samurai     | 1510.5 |
+| 76   | Top Gun              | 1503.4 |
+| 77   | School of Rock       | 1502.7 |
+| 78   | The Maze Runner      | 1501.7 |
+| 79   | The Terminal List    | 1501.5 |
+| 80   | Black Widow          | 1500.8 |
+| 81   | Avatar 2             | 1500.7 |
+| 82   | Ninja Turtles        | 1500.7 |
+| 83   | My Name              | 1500.1 |
+| 84   | Selfless             | 1500.0 |
+| 85   | Wrath of Man         | 1500.0 |
+| 86   | Jack Reacher: Never Go Back | 1500.0 |
+| 87   | Glass Castle         | 1500.0 |
+| 88   | Life                 | 1500.0 |
+| 89   | Star Wars            | 1500.0 |
+| 90   | Guy Ritchie’s The Covenant | 1500.0 |
+| 91   | Interstellar         | 1499.9 |
 | 92   | Oppenheimer          | 1499.4 |
 | 93   | Independence Day     | 1499.3 |
 | 94   | Terminator           | 1499.3 |
