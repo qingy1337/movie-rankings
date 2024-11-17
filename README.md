@@ -20,11 +20,11 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1591.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1589.1}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1589.6}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1589.1}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1586.3}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
@@ -165,15 +165,15 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1414.9}$ |
-| $\color{green}\text{158 }$ | $\color{green}\text{Awake}$ | $\color{green}\text{1412.8}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
 | $\color{red}\text{160 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1409.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1408.7}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1408.5}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
+| $\color{red}\text{163 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1405.3}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
-| $\color{red}\text{166 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1402.1}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1402.1}$ |
 | $\color{red}\text{167 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1399.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
