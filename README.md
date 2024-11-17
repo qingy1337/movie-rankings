@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1599.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
-| $\color{green}\text{13  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1597.0}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1597.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
@@ -52,7 +52,7 @@ python3 mvr.py
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1554.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1546.8}$ |
-| $\color{red}\text{45  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1546.4}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{green}\text{48  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1541.9}$ |
@@ -92,13 +92,13 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
 | $\color{green}\text{84  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1500.3}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
+| $\color{green}\text{85  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1498.3}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1496.3}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
@@ -159,9 +159,9 @@ python3 mvr.py
 | $\color{black}\text{149 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1424.0}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{65}$ | $\color{red}\text{1412.6}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1406.7}$ |
