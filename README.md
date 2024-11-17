@@ -15,10 +15,10 @@ python3 mvr.py
 | 5    | The Mandalorian      | 1633.5 |
 | 6    | Black Panther        | 1628.9 |
 | 7    | Pirates of the Caribbean | 1625.8 |
-| 8    | The Martian          | 1617.4 |
-| 9    | Life of Pi           | 1616.6 |
-| 10   | Inception            | 1615.2 |
-| 11   | Source Code          | 1612.4 |
+| 8    | Source Code          | 1619.5 |
+| 9    | The Martian          | 1617.4 |
+| 10   | Life of Pi           | 1616.6 |
+| 11   | Inception            | 1615.2 |
 | 12   | Avengers: Age of Ultron | 1609.5 |
 | 13   | Vagabond             | 1606.7 |
 | 14   | Squid Game           | 1605.4 |
@@ -101,10 +101,10 @@ python3 mvr.py
 | 91   | Rainman              | 1494.3 |
 | 92   | A Boy Called Christmas | 1493.1 |
 | 93   | Dune                 | 1490.9 |
-| 94   | Dark Waters          | 1488.7 |
-| 95   | Road House           | 1487.5 |
-| 96   | The Ring             | 1486.3 |
-| 97   | Cars 2               | 1478.5 |
+| 94   | Cars 2               | 1490.1 |
+| 95   | Dark Waters          | 1488.7 |
+| 96   | Road House           | 1487.5 |
+| 97   | The Ring             | 1486.3 |
 | 98   | The Mask             | 1477.0 |
 | 99   | Jack Reacher: Never Go Back | 1476.6 |
 | 100  | Oppenheimer          | 1476.1 |
@@ -159,20 +159,20 @@ python3 mvr.py
 | 149  | The Last Samurai     | 1402.3 |
 | 150  | AK-47 Kalashnikov    | 1399.4 |
 | 151  | Awake                | 1398.2 |
-| 152  | 65                   | 1396.1 |
-| 153  | A Quiet Place: Day One | 1392.8 |
-| 154  | Stillwater           | 1391.0 |
-| 155  | The Silence          | 1389.5 |
+| 152  | A Quiet Place: Day One | 1392.8 |
+| 153  | Stillwater           | 1391.0 |
+| 154  | The Silence          | 1389.5 |
+| 155  | 65                   | 1389.0 |
 | 156  | Spooky Buddies       | 1388.6 |
 | 157  | Zero Dark Thirty     | 1388.1 |
 | 158  | Arrow                | 1385.9 |
 | 159  | War Horse            | 1381.9 |
-| 160  | The Firm             | 1381.8 |
-| 161  | Jurassic World: Dominion | 1381.7 |
-| 162  | Selfless             | 1378.2 |
-| 163  | Everything, everywhere, all at once | 1377.1 |
-| 164  | Gravity              | 1376.8 |
-| 165  | All Quiet on The Western Front | 1376.7 |
+| 160  | Jurassic World: Dominion | 1381.7 |
+| 161  | Selfless             | 1378.2 |
+| 162  | Everything, everywhere, all at once | 1377.1 |
+| 163  | Gravity              | 1376.8 |
+| 164  | All Quiet on The Western Front | 1376.7 |
+| 165  | The Firm             | 1370.2 |
 | 166  | Black Hawk Down      | 1367.8 |
 | 167  | Spectral             | 1362.2 |
 | 168  | Shadow               | 1361.8 |
