@@ -96,7 +96,7 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1501.6}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
-| $\color{red}\text{89  }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1494.4}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.8}$ |
@@ -119,13 +119,13 @@ python3 mvr.py
 | $\color{red}\text{109 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1470.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1468.5}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1461.3}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1461.3}$ |
+| $\color{green}\text{112 }$ | $\color{green}\text{The Man in the Iron Mask}$ | $\color{green}\text{1466.7}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1461.3}$ |
 | $\color{green}\text{119 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1460.9}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1460.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
@@ -153,10 +153,10 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1428.3}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.3}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
+| $\color{red}\text{149 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1422.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1420.5}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1420.1}$ |
