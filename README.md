@@ -31,15 +31,15 @@ python3 mvr.py
 | 21   | Avatar 2             | 1571.6 |
 | 22   | Locke and Key        | 1569.6 |
 | 23   | Source Code          | 1568.2 |
-| 24   | X-Files              | 1565.9 |
-| 25   | Avengers: Age of Ultron | 1564.9 |
-| 26   | Halo                 | 1563.1 |
-| 27   | Squid Game           | 1560.7 |
-| 28   | The Illusionist      | 1559.2 |
-| 29   | Titanic              | 1558.4 |
-| 30   | Scream VI            | 1558.1 |
-| 31   | The Maze Runner: The Death Cure | 1557.0 |
-| 32   | The Ninth Gate       | 1555.6 |
+| 24   | The Ninth Gate       | 1567.9 |
+| 25   | X-Files              | 1565.9 |
+| 26   | Avengers: Age of Ultron | 1564.9 |
+| 27   | Halo                 | 1563.1 |
+| 28   | Squid Game           | 1560.7 |
+| 29   | The Illusionist      | 1559.2 |
+| 30   | Titanic              | 1558.4 |
+| 31   | Scream VI            | 1558.1 |
+| 32   | The Maze Runner: The Death Cure | 1557.0 |
 | 33   | Doctor Strange       | 1555.5 |
 | 34   | The Maze Runner: The Scorch Trials | 1552.1 |
 | 35   | Inception            | 1548.9 |
@@ -114,22 +114,22 @@ python3 mvr.py
 | 104  | A Boy Called Christmas | 1479.3 |
 | 105  | When a Stranger Calls | 1477.8 |
 | 106  | The Mist             | 1475.6 |
-| 107  | School of Rock       | 1474.9 |
-| 108  | World War Z          | 1472.5 |
-| 109  | Saving Private Ryan  | 1472.5 |
-| 110  | The Matrix Reloaded  | 1472.2 |
-| 111  | Onward               | 1472.1 |
-| 112  | Knight and Day       | 1471.6 |
-| 113  | The Mask             | 1471.5 |
-| 114  | The BFG              | 1471.1 |
-| 115  | The Ring 2           | 1470.9 |
-| 116  | Land of Bad          | 1469.5 |
-| 117  | Heidi                | 1468.7 |
-| 118  | G.I.Joe movie        | 1467.5 |
-| 119  | Iron Chef            | 1465.8 |
-| 120  | The Spy Next Door    | 1465.6 |
-| 121  | Ninja Turtles        | 1465.0 |
-| 122  | Black Widow          | 1463.1 |
+| 107  | World War Z          | 1472.5 |
+| 108  | Saving Private Ryan  | 1472.5 |
+| 109  | The Matrix Reloaded  | 1472.2 |
+| 110  | Onward               | 1472.1 |
+| 111  | Knight and Day       | 1471.6 |
+| 112  | The Mask             | 1471.5 |
+| 113  | The BFG              | 1471.1 |
+| 114  | The Ring 2           | 1470.9 |
+| 115  | Land of Bad          | 1469.5 |
+| 116  | Heidi                | 1468.7 |
+| 117  | G.I.Joe movie        | 1467.5 |
+| 118  | Iron Chef            | 1465.8 |
+| 119  | The Spy Next Door    | 1465.6 |
+| 120  | Ninja Turtles        | 1465.0 |
+| 121  | Black Widow          | 1463.1 |
+| 122  | School of Rock       | 1462.5 |
 | 123  | Sweet Tooth          | 1462.2 |
 | 124  | Rampage              | 1462.0 |
 | 125  | Exam                 | 1460.9 |
