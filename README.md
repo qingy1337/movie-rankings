@@ -40,7 +40,7 @@ python3 mvr.py
 | $\color{black}\text{30  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{green}\text{33  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1563.1}$ |
+| $\color{green}\text{33  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1562.8}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1558.7}$ |
@@ -50,7 +50,7 @@ python3 mvr.py
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1545.7}$ |
+| $\color{green}\text{43  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1546.0}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
@@ -82,7 +82,7 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
 | $\color{green}\text{74  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1511.7}$ |
-| $\color{green}\text{75  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1511.2}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.2}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
@@ -137,7 +137,7 @@ python3 mvr.py
 | $\color{black}\text{127 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.8}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
-| $\color{red}\text{130 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1455.4}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
