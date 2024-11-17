@@ -27,10 +27,10 @@ python3 mvr.py
 | $\color{black}\text{17  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1622.6}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1620.2}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1619.5}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1617.2}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1616.2}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1613.7}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1612.9}$ |
+| $\color{green}\text{20  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1619.2}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1617.2}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1616.2}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1613.7}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1611.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1609.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1603.0}$ |
@@ -144,7 +144,7 @@ python3 mvr.py
 | $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1425.6}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1424.5}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1421.9}$ |
-| $\color{green}\text{137 }$ | $\color{green}\text{Rampage}$ | $\color{green}\text{1420.6}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1420.6}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.2}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1417.0}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1416.9}$ |
@@ -167,9 +167,9 @@ python3 mvr.py
 | $\color{black}\text{157 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1377.1}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1372.4}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1369.6}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1368.4}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1367.8}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1363.6}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1367.8}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1363.6}$ |
+| $\color{red}\text{162 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1362.1}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1361.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1357.1}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1355.2}$ |
@@ -178,5 +178,5 @@ python3 mvr.py
 | $\color{red}\text{168 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1345.4}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1345.2}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1339.6}$ |
-| $\color{red}\text{171 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1334.3}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1334.3}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1327.5}$ |
