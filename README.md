@@ -10,9 +10,9 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1596.6}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.7}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.3}$ |
+| $\color{green}\text{3   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1587.4}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1578.2}$ |
@@ -56,9 +56,9 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1531.1}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
+| $\color{red}\text{51  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1524.9}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
@@ -88,7 +88,7 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1509.3}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
-| $\color{red}\text{81  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1506.1}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
@@ -132,7 +132,7 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
-| $\color{green}\text{125 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1466.0}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{red}\text{127 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1464.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
