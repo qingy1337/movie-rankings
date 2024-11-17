@@ -33,7 +33,7 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1578.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.2}$ |
-| $\color{green}\text{26  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1576.0}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{green}\text{28  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1572.6}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
@@ -62,10 +62,10 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1533.7}$ |
+| $\color{green}\text{55  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1538.3}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
 | $\color{red}\text{59  }$ | $\color{red}\text{The Man Who Knew Infinity}$ | $\color{red}\text{1532.9}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1532.3}$ |
@@ -138,10 +138,10 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{red}\text{131 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1452.0}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1447.4}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1435.6}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1435.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.7}$ |
