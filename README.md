@@ -64,9 +64,9 @@ python3 mvr.py
 | $\color{black}\text{54  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.3}$ |
+| $\color{green}\text{57  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1533.2}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1528.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
@@ -83,7 +83,7 @@ python3 mvr.py
 | $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
-| $\color{red}\text{76  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1512.2}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
 | $\color{green}\text{78  }$ | $\color{green}\text{Star Trek: Picard}$ | $\color{green}\text{1509.8}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
@@ -99,7 +99,7 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1492.0}$ |
-| $\color{green}\text{92  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1491.3}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1488.5}$ |
@@ -174,9 +174,9 @@ python3 mvr.py
 | $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1402.1}$ |
-| $\color{red}\text{167 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1399.7}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
+| $\color{red}\text{170 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1395.9}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1394.8}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
