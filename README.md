@@ -78,17 +78,17 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1513.4}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1512.9}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.4}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1510.8}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1507.1}$ |
+| $\color{green}\text{71  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1512.4}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.6}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.4}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1510.8}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1505.9}$ |
-| $\color{green}\text{81  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1505.8}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
@@ -135,16 +135,16 @@ python3 mvr.py
 | $\color{red}\text{125 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1466.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1461.7}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1462.4}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1462.2}$ |
+| $\color{red}\text{133 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1461.7}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1459.3}$ |
 | $\color{red}\text{135 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1459.2}$ |
 | $\color{red}\text{136 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1458.9}$ |
-| $\color{red}\text{137 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1458.5}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1458.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
