@@ -9,8 +9,8 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1610.9}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1591.0}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.7}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1591.7}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1591.0}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1585.9}$ |
 | $\color{green}\text{6   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1583.1}$ |
@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.5}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1517.9}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.0}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1515.9}$ |
@@ -131,11 +131,11 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1468.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1467.4}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{red}\text{128 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1463.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
@@ -158,7 +158,7 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
-| $\color{red}\text{151 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1441.3}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1440.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
