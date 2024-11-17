@@ -59,7 +59,7 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
-| $\color{green}\text{52  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1530.3}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1530.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.8}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
@@ -111,13 +111,13 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.5}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1482.0}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
-| $\color{green}\text{108 }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1477.9}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
+| $\color{green}\text{104 }$ | $\color{green}\text{School of Rock}$ | $\color{green}\text{1482.8}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1482.0}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
+| $\color{green}\text{109 }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1477.9}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
@@ -151,13 +151,13 @@ python3 mvr.py
 | $\color{black}\text{141 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1444.2}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1442.7}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1442.7}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1442.7}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.4}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1442.7}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1442.7}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.4}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
+| $\color{red}\text{150 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1437.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1436.6}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1434.0}$ |
@@ -178,5 +178,5 @@ python3 mvr.py
 | $\color{black}\text{168 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1409.6}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
-| $\color{red}\text{171 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1408.3}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1400.8}$ |
