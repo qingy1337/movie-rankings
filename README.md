@@ -85,10 +85,10 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1504.4}$ |
+| $\color{green}\text{78  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1510.0}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1501.6}$ |
@@ -111,9 +111,9 @@ python3 mvr.py
 | $\color{green}\text{101 }$ | $\color{green}\text{Exam}$ | $\color{green}\text{1481.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1479.6}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
+| $\color{red}\text{106 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
@@ -155,7 +155,7 @@ python3 mvr.py
 | $\color{green}\text{145 }$ | $\color{green}\text{Arrow}$ | $\color{green}\text{1428.7}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1428.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
-| $\color{green}\text{148 }$ | $\color{green}\text{Everything, everywhere, all at once}$ | $\color{green}\text{1426.0}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
