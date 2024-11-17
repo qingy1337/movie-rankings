@@ -16,10 +16,10 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1600.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1598.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
-| $\color{green}\text{9   }$ | $\color{green}\text{Life}$ | $\color{green}\text{1596.0}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1595.2}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1594.8}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1593.5}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1596.8}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1596.0}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1595.2}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1590.9}$ |
@@ -85,7 +85,7 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.0}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
-| $\color{red}\text{78  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1509.2}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1509.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.9}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
@@ -99,7 +99,7 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1495.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
-| $\color{green}\text{92  }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1491.6}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.6}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.8}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
@@ -158,8 +158,8 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1424.0}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1420.1}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1420.1}$ |
+| $\color{red}\text{152 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1418.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1415.4}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
