@@ -10,12 +10,12 @@ python3 mvr.py
 |------|------------------------|--------|
 | 1    | The Martian          | 1624.7 |
 | 2    | Star Wars            | 1617.0 |
-| 3    | Lost in Space        | 1614.0 |
-| 4    | Harry Potter         | 1608.7 |
-| 5    | Wednesday            | 1608.1 |
-| 6    | Life of Pi           | 1606.7 |
-| 7    | Pirates of the Caribbean | 1606.6 |
-| 8    | Ant-Man              | 1606.2 |
+| 3    | Ant-Man              | 1615.5 |
+| 4    | Lost in Space        | 1614.0 |
+| 5    | Harry Potter         | 1608.7 |
+| 6    | Wednesday            | 1608.1 |
+| 7    | Life of Pi           | 1606.7 |
+| 8    | Pirates of the Caribbean | 1606.6 |
 | 9    | No Country for Old Men | 1604.2 |
 | 10   | Iron Man             | 1603.5 |
 | 11   | The Mandalorian      | 1597.1 |
@@ -142,15 +142,15 @@ python3 mvr.py
 | 132  | Unbreakable          | 1455.0 |
 | 133  | Horton hears a Who   | 1454.6 |
 | 134  | The Spy Next Door    | 1452.4 |
-| 135  | Frequency            | 1451.0 |
-| 136  | American Sniper      | 1450.3 |
-| 137  | School of Rock       | 1447.9 |
-| 138  | Sweet Tooth          | 1446.2 |
-| 139  | The Silence          | 1445.4 |
-| 140  | Journey 2: The Mysterious Island | 1444.1 |
-| 141  | Cars 3               | 1442.7 |
-| 142  | Avatar: The Last Airbender | 1442.7 |
-| 143  | Independence Day     | 1442.2 |
+| 135  | American Sniper      | 1450.3 |
+| 136  | School of Rock       | 1447.9 |
+| 137  | Sweet Tooth          | 1446.2 |
+| 138  | The Silence          | 1445.4 |
+| 139  | Journey 2: The Mysterious Island | 1444.1 |
+| 140  | Cars 3               | 1442.7 |
+| 141  | Avatar: The Last Airbender | 1442.7 |
+| 142  | Independence Day     | 1442.2 |
+| 143  | Frequency            | 1441.7 |
 | 144  | Crouching Tiger Hidden Dragon | 1438.6 |
 | 145  | The Matrix Reloaded  | 1438.3 |
 | 146  | The Firm             | 1432.5 |
