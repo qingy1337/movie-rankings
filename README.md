@@ -25,14 +25,14 @@ python3 mvr.py
 | $\color{green}\text{15  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1580.6}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
-| $\color{green}\text{18  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1575.6}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1575.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{green}\text{25  }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1565.8}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1565.8}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1564.6}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
@@ -92,15 +92,15 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{red}\text{83  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1504.6}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.1}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
+| $\color{red}\text{93  }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1492.8}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1491.7}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
@@ -119,7 +119,7 @@ python3 mvr.py
 | $\color{black}\text{109 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
-| $\color{red}\text{112 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1475.4}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
 | $\color{red}\text{114 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1473.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
@@ -146,11 +146,11 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
-| $\color{red}\text{139 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1444.1}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1441.7}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1438.9}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1438.6}$ |
+| $\color{green}\text{139 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1445.6}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1444.1}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1441.7}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1438.9}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1438.3}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
 | $\color{red}\text{146 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1438.1}$ |
@@ -160,12 +160,12 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1432.8}$ |
 | $\color{green}\text{151 }$ | $\color{green}\text{Arrow}$ | $\color{green}\text{1432.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1428.2}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
+| $\color{green}\text{153 }$ | $\color{green}\text{Black Hawk Down}$ | $\color{green}\text{1430.4}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1424.3}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
+| $\color{red}\text{158 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1421.9}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
