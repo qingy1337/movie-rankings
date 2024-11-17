@@ -75,7 +75,7 @@ python3 mvr.py
 | $\color{black}\text{65  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1510.2}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1510.2}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
-| $\color{red}\text{68  }$ | $\color{red}\text{The Maze Runner: The Scorch Trials}$ | $\color{red}\text{1509.7}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1509.7}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1507.8}$ |
 | $\color{green}\text{71  }$ | $\color{green}\text{A Haunting in Venice}$ | $\color{green}\text{1507.8}$ |
@@ -93,9 +93,9 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1502.8}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1502.7}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.4}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1500.3}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
-| $\color{green}\text{88  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1500.1}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
+| $\color{green}\text{87  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1500.1}$ |
+| $\color{red}\text{88  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1500.0}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1498.7}$ |
@@ -140,11 +140,11 @@ python3 mvr.py
 | $\color{black}\text{130 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1474.6}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1474.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1474.6}$ |
-| $\color{green}\text{133 }$ | $\color{green}\text{Land of Bad}$ | $\color{green}\text{1474.5}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1474.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1474.5}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1474.1}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.9}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1473.7}$ |
+| $\color{green}\text{136 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1474.0}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.9}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1470.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1470.5}$ |
