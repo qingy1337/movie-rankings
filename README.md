@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | The Martian          | 1583.8 |
+| 1    | The Martian          | 1596.0 |
 | 2    | Captain America: Civil War | 1561.6 |
 | 3    | Ant-Man              | 1560.5 |
 | 4    | The Maze Runner: The Death Cure | 1558.3 |
@@ -102,19 +102,19 @@ python3 mvr.py
 | 92   | Star Wars            | 1500.0 |
 | 93   | X-Files              | 1500.0 |
 | 94   | Top Gun: Maverick    | 1500.0 |
-| 95   | Gladiator            | 1499.6 |
-| 96   | Oppenheimer          | 1499.4 |
-| 97   | Terminator           | 1499.3 |
-| 98   | American Made        | 1499.3 |
-| 99   | The Curious Case of Benjamin Button | 1498.7 |
-| 100  | Rebel Ridge          | 1498.6 |
-| 101  | The Ring 2           | 1498.6 |
-| 102  | Bloodhounds          | 1497.9 |
-| 103  | The Spy Next Door    | 1497.3 |
-| 104  | A.I. Artificial Intelligence | 1495.9 |
-| 105  | Pompeii              | 1495.9 |
-| 106  | Mission Impossible: Rogue Nation | 1491.2 |
-| 107  | Vagabond             | 1488.1 |
+| 95   | Oppenheimer          | 1499.4 |
+| 96   | Terminator           | 1499.3 |
+| 97   | American Made        | 1499.3 |
+| 98   | The Curious Case of Benjamin Button | 1498.7 |
+| 99   | Rebel Ridge          | 1498.6 |
+| 100  | The Ring 2           | 1498.6 |
+| 101  | Bloodhounds          | 1497.9 |
+| 102  | The Spy Next Door    | 1497.3 |
+| 103  | A.I. Artificial Intelligence | 1495.9 |
+| 104  | Pompeii              | 1495.9 |
+| 105  | Mission Impossible: Rogue Nation | 1491.2 |
+| 106  | Vagabond             | 1488.1 |
+| 107  | Gladiator            | 1487.4 |
 | 108  | Star Trek: Picard    | 1486.9 |
 | 109  | Cars                 | 1486.9 |
 | 110  | The Matrix Revolutions | 1485.4 |
