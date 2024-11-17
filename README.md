@@ -27,7 +27,7 @@ python3 mvr.py
 | $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1579.9}$ |
-| $\color{green}\text{20  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1578.1}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1578.1}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
@@ -56,10 +56,10 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{green}\text{48  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1540.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1535.3}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.6}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1538.7}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1535.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
 | $\color{green}\text{55  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1532.0}$ |
@@ -108,7 +108,7 @@ python3 mvr.py
 | $\color{black}\text{98  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1483.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
-| $\color{red}\text{101 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1481.5}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.5}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
@@ -163,9 +163,9 @@ python3 mvr.py
 | $\color{red}\text{153 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1428.2}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
+| $\color{red}\text{158 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1417.4}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1416.9}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
