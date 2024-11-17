@@ -74,14 +74,14 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.6}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1521.6}$ |
+| $\color{green}\text{67  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1524.0}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.9}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
+| $\color{red}\text{74  }$ | $\color{red}\text{Iron Chef}$ | $\color{red}\text{1515.5}$ |
 | $\color{green}\text{75  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1512.6}$ |
 | $\color{green}\text{76  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1511.7}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
@@ -90,7 +90,7 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1507.4}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
-| $\color{green}\text{83  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1504.4}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1504.4}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1500.3}$ |
