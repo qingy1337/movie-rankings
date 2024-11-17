@@ -10,12 +10,12 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1627.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1609.6}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1604.0}$ |
+| $\color{green}\text{3   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1607.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1600.3}$ |
 | $\color{green}\text{6   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1596.8}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1594.2}$ |
-| $\color{red}\text{8   }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1593.4}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1592.7}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1591.4}$ |
@@ -65,7 +65,7 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1533.2}$ |
-| $\color{green}\text{58  }$ | $\color{green}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{green}\text{1532.6}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1528.3}$ |
@@ -141,8 +141,8 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1452.8}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
+| $\color{red}\text{135 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1449.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
