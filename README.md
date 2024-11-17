@@ -14,7 +14,7 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1598.8}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.7}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1592.3}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.3}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
@@ -50,14 +50,14 @@ python3 mvr.py
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
-| $\color{green}\text{43  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1546.0}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1545.2}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1540.9}$ |
+| $\color{green}\text{43  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1546.2}$ |
+| $\color{green}\text{44  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1546.0}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1545.2}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
@@ -94,11 +94,11 @@ python3 mvr.py
 | $\color{black}\text{84  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1503.4}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1500.0}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
+| $\color{red}\text{91  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1494.5}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.0}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
