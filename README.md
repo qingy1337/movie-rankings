@@ -34,18 +34,18 @@ python3 mvr.py
 | 24   | Locke and Key        | 1569.6 |
 | 25   | Source Code          | 1568.2 |
 | 26   | The Ninth Gate       | 1567.9 |
-| 27   | X-Files              | 1565.9 |
-| 28   | The Wild Robot       | 1562.8 |
-| 29   | X-Men                | 1561.6 |
-| 30   | Avatar 2             | 1561.3 |
-| 31   | Jack Ryan            | 1560.7 |
-| 32   | Squid Game           | 1560.7 |
-| 33   | The Illusionist      | 1559.2 |
-| 34   | Vagabond             | 1558.2 |
-| 35   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
-| 36   | The Maze Runner: The Death Cure | 1557.0 |
-| 37   | Halo                 | 1556.2 |
-| 38   | A Quiet Place        | 1555.8 |
+| 27   | A Quiet Place        | 1567.6 |
+| 28   | X-Files              | 1565.9 |
+| 29   | The Wild Robot       | 1562.8 |
+| 30   | X-Men                | 1561.6 |
+| 31   | Avatar 2             | 1561.3 |
+| 32   | Jack Ryan            | 1560.7 |
+| 33   | Squid Game           | 1560.7 |
+| 34   | The Illusionist      | 1559.2 |
+| 35   | Vagabond             | 1558.2 |
+| 36   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
+| 37   | The Maze Runner: The Death Cure | 1557.0 |
+| 38   | Halo                 | 1556.2 |
 | 39   | Tenet                | 1554.6 |
 | 40   | Scream VI            | 1554.1 |
 | 41   | The Young and Prodigious T.S. Spivet | 1553.9 |
@@ -128,21 +128,21 @@ python3 mvr.py
 | 118  | When a Stranger Calls | 1465.4 |
 | 119  | World War Z          | 1464.8 |
 | 120  | GoldenEye            | 1463.3 |
-| 121  | Johnny English       | 1462.0 |
-| 122  | Sweet Tooth          | 1460.3 |
-| 123  | Exam                 | 1460.3 |
-| 124  | The Mask of Zorro    | 1459.8 |
-| 125  | Drunken Master       | 1459.7 |
-| 126  | John Wick            | 1459.6 |
-| 127  | The Spy Next Door    | 1457.3 |
-| 128  | Wrath of Man         | 1456.9 |
-| 129  | Peter the Rabbit     | 1455.9 |
-| 130  | G.I.Joe movie        | 1455.9 |
-| 131  | Terminator           | 1455.5 |
-| 132  | The Darkest Hour     | 1455.1 |
-| 133  | Unbreakable          | 1455.0 |
-| 134  | Horton hears a Who   | 1454.6 |
-| 135  | Red Notice           | 1453.2 |
+| 121  | Sweet Tooth          | 1460.3 |
+| 122  | Exam                 | 1460.3 |
+| 123  | The Mask of Zorro    | 1459.8 |
+| 124  | Drunken Master       | 1459.7 |
+| 125  | John Wick            | 1459.6 |
+| 126  | The Spy Next Door    | 1457.3 |
+| 127  | Wrath of Man         | 1456.9 |
+| 128  | Peter the Rabbit     | 1455.9 |
+| 129  | G.I.Joe movie        | 1455.9 |
+| 130  | Terminator           | 1455.5 |
+| 131  | The Darkest Hour     | 1455.1 |
+| 132  | Unbreakable          | 1455.0 |
+| 133  | Horton hears a Who   | 1454.6 |
+| 134  | Red Notice           | 1453.2 |
+| 135  | Johnny English       | 1450.2 |
 | 136  | School of Rock       | 1447.9 |
 | 137  | The Silence          | 1445.4 |
 | 138  | Journey 2: The Mysterious Island | 1444.1 |
