@@ -48,7 +48,7 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
-| $\color{green}\text{41  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1555.7}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
 | $\color{red}\text{43  }$ | $\color{red}\text{Lord of the Rings}$ | $\color{red}\text{1545.7}$ |
 | $\color{green}\text{44  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1545.5}$ |
@@ -71,9 +71,9 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1524.1}$ |
-| $\color{green}\text{65  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1521.6}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1519.9}$ |
+| $\color{green}\text{64  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1524.1}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1524.1}$ |
+| $\color{green}\text{66  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1521.6}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
@@ -160,7 +160,7 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
-| $\color{red}\text{153 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1420.5}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1420.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1419.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
@@ -171,9 +171,9 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1413.0}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1406.5}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1405.0}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
