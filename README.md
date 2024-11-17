@@ -75,9 +75,9 @@ python3 mvr.py
 | $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
 | $\color{green}\text{66  }$ | $\color{green}\text{Titanic}$ | $\color{green}\text{1525.0}$ |
 | $\color{red}\text{67  }$ | $\color{red}\text{Road House}$ | $\color{red}\text{1523.3}$ |
-| $\color{red}\text{68  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1518.6}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1518.6}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1517.6}$ |
-| $\color{green}\text{70  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1516.2}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1514.1}$ |
@@ -147,9 +147,9 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1441.5}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1439.4}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1435.3}$ |
+| $\color{green}\text{140 }$ | $\color{green}\text{Mission Impossible 2}$ | $\color{green}\text{1440.9}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1439.4}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.7}$ |
@@ -161,10 +161,10 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1420.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1415.4}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1411.7}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1411.7}$ |
+| $\color{red}\text{157 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1409.7}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
