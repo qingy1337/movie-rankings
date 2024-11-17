@@ -21,9 +21,9 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1580.6}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1581.3}$ |
+| $\color{green}\text{15  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1580.6}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
 | $\color{green}\text{18  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1575.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
@@ -114,19 +114,19 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
-| $\color{red}\text{113 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1475.4}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{green}\text{115 }$ | $\color{green}\text{Land of Bad}$ | $\color{green}\text{1471.2}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
+| $\color{red}\text{112 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1475.4}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{red}\text{114 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1473.3}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
-| $\color{red}\text{119 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1465.9}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
