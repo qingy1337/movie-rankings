@@ -57,7 +57,7 @@ python3 mvr.py
 | $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{green}\text{48  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1535.4}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
-| $\color{green}\text{50  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1531.1}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
@@ -139,12 +139,12 @@ python3 mvr.py
 | $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
-| $\color{red}\text{133 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1453.4}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.9}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
-| $\color{green}\text{137 }$ | $\color{green}\text{The Matrix Reloaded}$ | $\color{green}\text{1449.6}$ |
+| $\color{green}\text{132 }$ | $\color{green}\text{The Matrix Reloaded}$ | $\color{green}\text{1455.1}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1453.4}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.9}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
@@ -170,9 +170,9 @@ python3 mvr.py
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{65}$ | $\color{black}\text{1422.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1416.0}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.9}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
 | $\color{red}\text{168 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1412.4}$ |
