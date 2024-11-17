@@ -31,9 +31,9 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1583.6}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1578.8}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1576.0}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1580.2}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1578.8}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -55,7 +55,7 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{red}\text{48  }$ | $\color{red}\text{Jack Reacher}$ | $\color{red}\text{1542.4}$ |
+| $\color{green}\text{48  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1542.4}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
@@ -115,9 +115,9 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1475.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1472.2}$ |
-| $\color{green}\text{109 }$ | $\color{green}\text{John Wick}$ | $\color{green}\text{1472.1}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1472.1}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
+| $\color{red}\text{110 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1467.9}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1465.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
