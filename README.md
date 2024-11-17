@@ -69,17 +69,17 @@ python3 mvr.py
 | 59   | Captain America: The Winter Soldier | 1529.3 |
 | 60   | My Name              | 1528.0 |
 | 61   | Avengers: Infinity War | 1527.6 |
-| 62   | Mission Impossible 3 | 1523.9 |
-| 63   | Guy Ritchie’s The Covenant | 1523.6 |
-| 64   | Top Gun              | 1523.2 |
-| 65   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
-| 66   | Halo                 | 1522.6 |
-| 67   | Star Trek: Picard    | 1521.3 |
-| 68   | A Haunting in Venice | 1519.8 |
-| 69   | Rebel Ridge          | 1519.0 |
-| 70   | The Maze Runner: The Scorch Trials | 1518.0 |
-| 71   | Thor                 | 1516.7 |
-| 72   | The Man Who Knew Infinity | 1515.7 |
+| 62   | The Man Who Knew Infinity | 1526.6 |
+| 63   | Mission Impossible 3 | 1523.9 |
+| 64   | Guy Ritchie’s The Covenant | 1523.6 |
+| 65   | Top Gun              | 1523.2 |
+| 66   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
+| 67   | Halo                 | 1522.6 |
+| 68   | Star Trek: Picard    | 1521.3 |
+| 69   | A Haunting in Venice | 1519.8 |
+| 70   | Rebel Ridge          | 1519.0 |
+| 71   | The Maze Runner: The Scorch Trials | 1518.0 |
+| 72   | Thor                 | 1516.7 |
 | 73   | Avatar               | 1514.5 |
 | 74   | Lord of the Rings    | 1513.5 |
 | 75   | The Terminal List    | 1513.0 |
@@ -109,9 +109,9 @@ python3 mvr.py
 | 99   | The Mist             | 1479.1 |
 | 100  | Cars 2               | 1478.5 |
 | 101  | Ninja Turtles        | 1478.3 |
-| 102  | Saving Private Ryan  | 1472.5 |
-| 103  | Megan                | 1472.1 |
-| 104  | Knight and Day       | 1471.6 |
+| 102  | Drunken Master       | 1476.3 |
+| 103  | Saving Private Ryan  | 1472.5 |
+| 104  | Megan                | 1472.1 |
 | 105  | Glass Castle         | 1471.0 |
 | 106  | Johnny English       | 1470.8 |
 | 107  | Jack Reacher: Never Go Back | 1470.7 |
@@ -127,14 +127,14 @@ python3 mvr.py
 | 117  | Road House           | 1461.8 |
 | 118  | The Man in the Iron Mask | 1461.7 |
 | 119  | The Mask             | 1461.3 |
-| 120  | Drunken Master       | 1459.7 |
-| 121  | John Wick            | 1459.6 |
-| 122  | Land of Bad          | 1456.6 |
-| 123  | Peter the Rabbit     | 1455.9 |
-| 124  | Frequency            | 1455.9 |
-| 125  | G.I.Joe movie        | 1455.9 |
-| 126  | Terminator           | 1455.5 |
-| 127  | The Darkest Hour     | 1455.1 |
+| 120  | John Wick            | 1459.6 |
+| 121  | Land of Bad          | 1456.6 |
+| 122  | Peter the Rabbit     | 1455.9 |
+| 123  | Frequency            | 1455.9 |
+| 124  | G.I.Joe movie        | 1455.9 |
+| 125  | Terminator           | 1455.5 |
+| 126  | The Darkest Hour     | 1455.1 |
+| 127  | Knight and Day       | 1455.0 |
 | 128  | Unbreakable          | 1455.0 |
 | 129  | When a Stranger Calls | 1454.2 |
 | 130  | The Matrix Revolutions | 1451.4 |
@@ -160,14 +160,14 @@ python3 mvr.py
 | 150  | The Last Samurai     | 1414.3 |
 | 151  | Awake                | 1409.8 |
 | 152  | 65                   | 1403.9 |
-| 153  | Stillwater           | 1402.0 |
-| 154  | Everything, everywhere, all at once | 1401.1 |
-| 155  | AK-47 Kalashnikov    | 1399.4 |
-| 156  | Zero Dark Thirty     | 1399.2 |
-| 157  | Arrow                | 1397.7 |
-| 158  | War Horse            | 1394.0 |
-| 159  | The Firm             | 1392.9 |
-| 160  | A Quiet Place: Day One | 1392.8 |
+| 153  | Everything, everywhere, all at once | 1401.1 |
+| 154  | AK-47 Kalashnikov    | 1399.4 |
+| 155  | Zero Dark Thirty     | 1399.2 |
+| 156  | Arrow                | 1397.7 |
+| 157  | War Horse            | 1394.0 |
+| 158  | The Firm             | 1392.9 |
+| 159  | A Quiet Place: Day One | 1392.8 |
+| 160  | Stillwater           | 1391.0 |
 | 161  | Jurassic World: Dominion | 1388.8 |
 | 162  | Spooky Buddies       | 1388.6 |
 | 163  | Gravity              | 1383.4 |
