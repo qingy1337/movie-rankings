@@ -24,8 +24,8 @@ python3 mvr.py
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1574.2}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1573.2}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1572.0}$ |
-| $\color{green}\text{17  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1570.9}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1570.2}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
@@ -56,8 +56,8 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1535.1}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.1}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1530.8}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
@@ -114,7 +114,7 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
 | $\color{red}\text{106 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1484.0}$ |
-| $\color{green}\text{107 }$ | $\color{green}\text{Mission Impossible 1}$ | $\color{green}\text{1481.0}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.0}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.2}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1400.8}$ |
+| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1400.8}$ |
