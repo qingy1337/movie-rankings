@@ -117,8 +117,8 @@ python3 mvr.py
 | 107  | Loki                 | 1487.5 |
 | 108  | Gladiator            | 1487.4 |
 | 109  | Star Trek: Picard    | 1486.9 |
-| 110  | Cars                 | 1486.9 |
-| 111  | The Matrix Revolutions | 1485.4 |
+| 110  | Cars                 | 1486.8 |
+| 111  | The Matrix Revolutions | 1485.5 |
 | 112  | Iron Chef            | 1484.8 |
 | 113  | The Matrix           | 1484.7 |
 | 114  | The Mist             | 1484.7 |
