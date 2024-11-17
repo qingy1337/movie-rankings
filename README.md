@@ -41,7 +41,7 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1561.0}$ |
 | $\color{green}\text{32  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1559.1}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{green}\text{34  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1556.2}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1556.2}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
@@ -97,7 +97,7 @@ python3 mvr.py
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
-| $\color{red}\text{90  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1495.0}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.1}$ |
@@ -117,12 +117,12 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
-| $\color{red}\text{110 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1475.1}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
-| $\color{red}\text{115 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1468.8}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
+| $\color{red}\text{114 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1468.8}$ |
+| $\color{red}\text{115 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1468.3}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
@@ -153,12 +153,12 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.4}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1433.9}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.7}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
+| $\color{green}\text{146 }$ | $\color{green}\text{Saving Private Ryan}$ | $\color{green}\text{1437.1}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1433.9}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.7}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
