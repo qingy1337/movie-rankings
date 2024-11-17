@@ -63,19 +63,19 @@ python3 mvr.py
 | $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
 | $\color{green}\text{55  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1538.3}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
-| $\color{red}\text{59  }$ | $\color{red}\text{The Man Who Knew Infinity}$ | $\color{red}\text{1532.9}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1532.3}$ |
+| $\color{green}\text{56  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1537.3}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
+| $\color{red}\text{60  }$ | $\color{red}\text{The Man Who Knew Infinity}$ | $\color{red}\text{1532.9}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1525.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1523.3}$ |
-| $\color{green}\text{68  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1523.0}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1523.0}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1518.6}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
@@ -111,11 +111,11 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{red}\text{104 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1477.2}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1477.2}$ |
-| $\color{green}\text{106 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1475.3}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1477.2}$ |
+| $\color{green}\text{105 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1475.3}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
+| $\color{red}\text{108 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1472.2}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
