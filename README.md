@@ -17,12 +17,12 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1579.1}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1577.5}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1574.2}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1573.2}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1578.1}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1577.5}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1574.2}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1572.0}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{green}\text{18  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1570.2}$ |
@@ -33,7 +33,7 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1559.5}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
-| $\color{green}\text{26  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1555.0}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
 | $\color{green}\text{27  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1554.5}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1554.3}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1554.2}$ |
@@ -87,11 +87,11 @@ python3 mvr.py
 | $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1509.6}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1509.3}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1508.8}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1504.7}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1504.7}$ |
+| $\color{red}\text{84  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1503.9}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
@@ -145,7 +145,7 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1452.4}$ |
-| $\color{red}\text{138 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1451.9}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
