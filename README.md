@@ -63,17 +63,17 @@ python3 mvr.py
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1539.5}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{green}\text{56  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1535.5}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1535.5}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1533.7}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1532.3}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
-| $\color{green}\text{63  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1528.0}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1528.0}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
+| $\color{green}\text{61  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1531.0}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
+| $\color{green}\text{64  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1528.0}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1528.0}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1524.9}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1524.9}$ |
 | $\color{green}\text{69  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1517.6}$ |
@@ -113,11 +113,11 @@ python3 mvr.py
 | $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1473.5}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{red}\text{108 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1470.6}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
+| $\color{red}\text{107 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1470.6}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
+| $\color{red}\text{110 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1468.4}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{red}\text{113 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1464.4}$ |
@@ -156,7 +156,7 @@ python3 mvr.py
 | $\color{black}\text{146 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1424.0}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1424.0}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1420.1}$ |
