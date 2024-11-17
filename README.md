@@ -23,9 +23,9 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1581.3}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1579.9}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
+| $\color{green}\text{16  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1580.9}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1579.9}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
 | $\color{green}\text{20  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1575.5}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
@@ -50,7 +50,7 @@ python3 mvr.py
 | $\color{black}\text{40  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
-| $\color{green}\text{43  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1545.2}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1542.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
@@ -74,7 +74,7 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1524.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1522.3}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
-| $\color{red}\text{67  }$ | $\color{red}\text{Top Gun: Maverick}$ | $\color{red}\text{1517.9}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.4}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1515.3}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1401.1}$ |
-| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1397.2}$ |
+| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1394.0}$ |
