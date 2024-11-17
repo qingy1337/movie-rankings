@@ -18,11 +18,11 @@ python3 mvr.py
 | $\color{black}\text{8   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1596.8}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
-| $\color{green}\text{12  }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1595.8}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1595.2}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.4}$ |
+| $\color{green}\text{11  }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1596.2}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1595.8}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1595.2}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1591.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
@@ -95,7 +95,7 @@ python3 mvr.py
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
-| $\color{red}\text{88  }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1494.9}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1494.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1490.9}$ |
@@ -118,13 +118,13 @@ python3 mvr.py
 | $\color{black}\text{108 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.4}$ |
-| $\color{green}\text{111 }$ | $\color{green}\text{The Mask}$ | $\color{green}\text{1468.0}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1464.4}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
+| $\color{red}\text{117 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1460.5}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1458.2}$ |
