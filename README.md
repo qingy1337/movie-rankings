@@ -62,7 +62,7 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
-| $\color{green}\text{55  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1534.5}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1530.7}$ |
@@ -78,11 +78,11 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1516.0}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.2}$ |
+| $\color{green}\text{71  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1516.1}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1516.0}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
@@ -96,7 +96,7 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1500.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
-| $\color{red}\text{89  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1497.9}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{red}\text{92  }$ | $\color{red}\text{Shawshank Redemption}$ | $\color{red}\text{1489.2}$ |
@@ -147,7 +147,7 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1443.3}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1438.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{green}\text{142 }$ | $\color{green}\text{G.I.Joe movie}$ | $\color{green}\text{1437.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.6}$ |
