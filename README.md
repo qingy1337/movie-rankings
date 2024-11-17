@@ -100,7 +100,7 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
+| $\color{red}\text{93  }$ | $\color{red}\text{Shawshank Redemption}$ | $\color{red}\text{1494.0}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{red}\text{96  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1486.3}$ |
@@ -109,7 +109,7 @@ python3 mvr.py
 | $\color{black}\text{99  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
 | $\color{red}\text{101 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1481.5}$ |
-| $\color{green}\text{102 }$ | $\color{green}\text{Johnny English}$ | $\color{green}\text{1480.5}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
@@ -145,7 +145,7 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{red}\text{137 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1448.8}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1447.4}$ |
+| $\color{green}\text{138 }$ | $\color{green}\text{Rango}$ | $\color{green}\text{1448.2}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
@@ -177,6 +177,6 @@ python3 mvr.py
 | $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1405.0}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
-| $\color{red}\text{170 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1404.0}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1394.7}$ |
