@@ -56,20 +56,20 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1556.9}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1556.5}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1555.0}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1554.8}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1554.6}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1554.0}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1553.1}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1547.0}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1545.7}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1544.1}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1555.9}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1555.0}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1554.8}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1554.6}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1554.0}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1553.1}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1547.0}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1545.7}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1542.0}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1540.1}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1537.6}$ |
 | $\color{green}\text{61  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1535.5}$ |
-| $\color{red}\text{62  }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1535.3}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1535.3}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1534.6}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1534.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1534.0}$ |
@@ -78,7 +78,7 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1529.8}$ |
 | $\color{green}\text{69  }$ | $\color{green}\text{Frequency}$ | $\color{green}\text{1527.7}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.0}$ |
-| $\color{green}\text{71  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1526.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1526.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1526.8}$ |
 | $\color{green}\text{73  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1526.7}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.9}$ |
@@ -127,12 +127,12 @@ python3 mvr.py
 | $\color{black}\text{117 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1456.7}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1453.9}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1453.4}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1452.0}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1450.2}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1448.8}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1442.1}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1441.0}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1441.0}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1450.2}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1448.8}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1442.1}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1441.0}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1441.0}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1440.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1438.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1436.2}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1434.8}$ |
