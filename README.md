@@ -40,7 +40,7 @@ python3 mvr.py
 | $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1553.8}$ |
-| $\color{green}\text{33  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1553.2}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1553.2}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
@@ -55,10 +55,10 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
-| $\color{green}\text{49  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1531.1}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1530.8}$ |
+| $\color{green}\text{48  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1535.4}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
+| $\color{green}\text{50  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1531.1}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
 | $\color{green}\text{54  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1529.8}$ |
@@ -147,12 +147,12 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1447.3}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1444.2}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
-| $\color{red}\text{144 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1442.7}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1442.7}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1444.2}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1442.7}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1442.7}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1442.7}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1442.7}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
