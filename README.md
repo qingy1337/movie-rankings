@@ -13,7 +13,7 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1591.0}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1585.9}$ |
-| $\color{green}\text{6   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1583.1}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1583.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
@@ -42,7 +42,7 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{red}\text{35  }$ | $\color{red}\text{The Prestige}$ | $\color{red}\text{1548.6}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
@@ -50,10 +50,10 @@ python3 mvr.py
 | $\color{green}\text{40  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1543.8}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1538.1}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.7}$ |
-| $\color{green}\text{46  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1535.5}$ |
+| $\color{green}\text{43  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1540.4}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1538.1}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.7}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1535.1}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
@@ -123,11 +123,11 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1475.2}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1474.0}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1472.4}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
-| $\color{red}\text{119 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1471.4}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1470.8}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1472.4}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
+| $\color{red}\text{118 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1471.4}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1470.8}$ |
+| $\color{red}\text{120 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1469.1}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
