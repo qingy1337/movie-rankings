@@ -20,12 +20,12 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.4}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1590.9}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1589.7}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{green}\text{17  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1587.2}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1590.6}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1589.7}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1587.2}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1586.6}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
@@ -51,8 +51,8 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
-| $\color{red}\text{44  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1548.3}$ |
-| $\color{green}\text{45  }$ | $\color{green}\text{Lost in Space}$ | $\color{green}\text{1547.8}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1548.3}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1547.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1544.6}$ |
@@ -142,10 +142,10 @@ python3 mvr.py
 | $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1449.2}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
+| $\color{red}\text{138 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1445.5}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1438.8}$ |
