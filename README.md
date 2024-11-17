@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | 1    | The Martian          | 1624.7 |
-| 2    | Lost in Space        | 1597.2 |
+| 2    | Lost in Space        | 1606.5 |
 | 3    | Ant-Man              | 1595.2 |
 | 4    | Star Wars            | 1594.9 |
 | 5    | Life of Pi           | 1593.8 |
@@ -44,23 +44,23 @@ python3 mvr.py
 | 34   | Inception            | 1548.9 |
 | 35   | My Name              | 1548.0 |
 | 36   | The Wild Robot       | 1547.0 |
-| 37   | Tenet                | 1544.7 |
-| 38   | The Young and Prodigious T.S. Spivet | 1544.3 |
-| 39   | The Prestige         | 1544.1 |
-| 40   | Life                 | 1543.3 |
-| 41   | A Quiet Place        | 1543.3 |
-| 42   | The Illusionist      | 1542.4 |
-| 43   | The Maze Runner: The Death Cure | 1542.0 |
-| 44   | Avengers: Infinity War | 1542.0 |
-| 45   | Catch Me If You Can  | 1541.9 |
-| 46   | The Avengers         | 1539.7 |
-| 47   | Loki                 | 1536.1 |
-| 48   | Train to Busan       | 1535.6 |
-| 49   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 50   | Avengers: Endgame    | 1535.0 |
-| 51   | Mission Impossible: Fallout | 1534.9 |
-| 52   | The Day After Tomorrow | 1534.3 |
-| 53   | Jack Ryan            | 1531.6 |
+| 37   | Jack Ryan            | 1546.5 |
+| 38   | Tenet                | 1544.7 |
+| 39   | The Young and Prodigious T.S. Spivet | 1544.3 |
+| 40   | The Prestige         | 1544.1 |
+| 41   | Life                 | 1543.3 |
+| 42   | A Quiet Place        | 1543.3 |
+| 43   | The Illusionist      | 1542.4 |
+| 44   | The Maze Runner: The Death Cure | 1542.0 |
+| 45   | Avengers: Infinity War | 1542.0 |
+| 46   | Catch Me If You Can  | 1541.9 |
+| 47   | The Avengers         | 1539.7 |
+| 48   | Loki                 | 1536.1 |
+| 49   | Train to Busan       | 1535.6 |
+| 50   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 51   | Avengers: Endgame    | 1535.0 |
+| 52   | Mission Impossible: Fallout | 1534.9 |
+| 53   | The Day After Tomorrow | 1534.3 |
 | 54   | The Man Who Knew Infinity | 1530.9 |
 | 55   | The Hunger Games     | 1530.3 |
 | 56   | Mission Impossible 3 | 1528.8 |
@@ -82,22 +82,22 @@ python3 mvr.py
 | 72   | Guy Ritchie’s The Covenant | 1514.2 |
 | 73   | Dark Waters          | 1511.2 |
 | 74   | Zootopia             | 1510.5 |
-| 75   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
-| 76   | The Man in the Iron Mask | 1506.8 |
-| 77   | Oppenheimer          | 1505.9 |
-| 78   | Glass Castle         | 1504.7 |
-| 79   | The Ring             | 1504.0 |
-| 80   | Mission Impossible: Rogue Nation | 1503.7 |
-| 81   | Total Recall         | 1503.7 |
-| 82   | Thor                 | 1502.4 |
-| 83   | Soul                 | 1502.0 |
-| 84   | A Haunting in Venice | 1501.3 |
-| 85   | The Matrix           | 1500.7 |
-| 86   | Wrath of Man         | 1500.1 |
-| 87   | Lord of the Rings    | 1498.9 |
-| 88   | GoldenEye            | 1497.3 |
-| 89   | The Terminal List    | 1497.1 |
-| 90   | Ip Man               | 1495.6 |
+| 75   | The Man in the Iron Mask | 1506.8 |
+| 76   | Oppenheimer          | 1505.9 |
+| 77   | Glass Castle         | 1504.7 |
+| 78   | The Ring             | 1504.0 |
+| 79   | Mission Impossible: Rogue Nation | 1503.7 |
+| 80   | Total Recall         | 1503.7 |
+| 81   | Thor                 | 1502.4 |
+| 82   | Soul                 | 1502.0 |
+| 83   | A Haunting in Venice | 1501.3 |
+| 84   | The Matrix           | 1500.7 |
+| 85   | Wrath of Man         | 1500.1 |
+| 86   | Lord of the Rings    | 1498.9 |
+| 87   | GoldenEye            | 1497.3 |
+| 88   | The Terminal List    | 1497.1 |
+| 89   | Ip Man               | 1495.6 |
+| 90   | Mission Impossible: Dead Reckoning P1 | 1493.7 |
 | 91   | Jack Reacher         | 1493.4 |
 | 92   | Dune                 | 1490.9 |
 | 93   | Top Gun: Maverick    | 1488.1 |
@@ -152,10 +152,10 @@ python3 mvr.py
 | 142  | Cars 3               | 1442.7 |
 | 143  | Johnny English       | 1442.4 |
 | 144  | Independence Day     | 1442.2 |
-| 145  | The Firm             | 1441.8 |
-| 146  | A.I. Artificial Intelligence | 1440.7 |
-| 147  | Selfless             | 1440.5 |
-| 148  | Crouching Tiger Hidden Dragon | 1438.6 |
+| 145  | A.I. Artificial Intelligence | 1440.7 |
+| 146  | Selfless             | 1440.5 |
+| 147  | Crouching Tiger Hidden Dragon | 1438.6 |
+| 148  | The Firm             | 1432.5 |
 | 149  | American Made        | 1432.4 |
 | 150  | American Sniper      | 1432.0 |
 | 151  | 65                   | 1431.0 |
