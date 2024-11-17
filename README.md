@@ -15,12 +15,12 @@ python3 mvr.py
 | $\color{green}\text{5   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1608.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1599.7}$ |
-| $\color{green}\text{10  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1599.4}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1599.2}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
+| $\color{green}\text{8   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1600.9}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1599.7}$ |
+| $\color{green}\text{11  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1599.4}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1599.2}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1597.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
@@ -120,7 +120,7 @@ python3 mvr.py
 | $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1467.9}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
-| $\color{green}\text{113 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1466.7}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
@@ -146,10 +146,10 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1445.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
-| $\color{red}\text{139 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1441.6}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1438.7}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{All Quiet on The Western Front}$ | $\color{red}\text{1435.2}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1429.9}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
