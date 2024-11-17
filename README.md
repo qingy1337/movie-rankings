@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | The Martian          | 1614.6 |
+| 1    | The Martian          | 1624.7 |
 | 2    | Lost in Space        | 1597.2 |
 | 3    | Ant-Man              | 1595.2 |
 | 4    | Star Wars            | 1594.9 |
@@ -84,16 +84,16 @@ python3 mvr.py
 | 74   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
 | 75   | Vagabond             | 1508.4 |
 | 76   | The Man in the Iron Mask | 1506.8 |
-| 77   | Glass Castle         | 1504.7 |
-| 78   | The Ring             | 1504.0 |
-| 79   | Mission Impossible: Rogue Nation | 1503.7 |
-| 80   | Total Recall         | 1503.7 |
-| 81   | Thor                 | 1502.4 |
-| 82   | Soul                 | 1502.0 |
-| 83   | A Haunting in Venice | 1501.3 |
-| 84   | The Matrix           | 1500.7 |
-| 85   | Wrath of Man         | 1500.1 |
-| 86   | Jack Reacher: Never Go Back | 1500.1 |
+| 77   | Oppenheimer          | 1505.9 |
+| 78   | Glass Castle         | 1504.7 |
+| 79   | The Ring             | 1504.0 |
+| 80   | Mission Impossible: Rogue Nation | 1503.7 |
+| 81   | Total Recall         | 1503.7 |
+| 82   | Thor                 | 1502.4 |
+| 83   | Soul                 | 1502.0 |
+| 84   | A Haunting in Venice | 1501.3 |
+| 85   | The Matrix           | 1500.7 |
+| 86   | Wrath of Man         | 1500.1 |
 | 87   | Lord of the Rings    | 1498.9 |
 | 88   | GoldenEye            | 1497.3 |
 | 89   | The Terminal List    | 1497.1 |
@@ -101,34 +101,34 @@ python3 mvr.py
 | 91   | Jack Reacher         | 1493.4 |
 | 92   | A Boy Called Christmas | 1491.7 |
 | 93   | Dune                 | 1490.9 |
-| 94   | Oppenheimer          | 1489.4 |
-| 95   | Top Gun: Maverick    | 1488.1 |
-| 96   | Rango                | 1488.0 |
-| 97   | Megan                | 1487.9 |
-| 98   | Gladiator            | 1487.2 |
-| 99   | Top Gun              | 1485.3 |
-| 100  | Land of Bad          | 1485.0 |
+| 94   | Top Gun: Maverick    | 1488.1 |
+| 95   | Rango                | 1488.0 |
+| 96   | Megan                | 1487.9 |
+| 97   | Gladiator            | 1487.2 |
+| 98   | Top Gun              | 1485.3 |
+| 99   | Land of Bad          | 1485.0 |
+| 100  | Jack Reacher: Never Go Back | 1483.6 |
 | 101  | Bloodhounds          | 1483.5 |
 | 102  | Pompeii              | 1483.4 |
 | 103  | The Curious Case of Benjamin Button | 1483.0 |
 | 104  | Frequency            | 1482.2 |
 | 105  | G.I.Joe movie        | 1481.9 |
 | 106  | Iron Chef            | 1481.6 |
-| 107  | Horton hears a Who   | 1480.1 |
-| 108  | The Spy Next Door    | 1478.6 |
-| 109  | When a Stranger Calls | 1477.8 |
-| 110  | School of Rock       | 1474.9 |
-| 111  | The Mist             | 1474.3 |
-| 112  | Peter the Rabbit     | 1472.7 |
-| 113  | World War Z          | 1472.5 |
-| 114  | Saving Private Ryan  | 1472.5 |
-| 115  | The Matrix Reloaded  | 1472.2 |
-| 116  | Onward               | 1472.1 |
-| 117  | Knight and Day       | 1471.6 |
-| 118  | The Mask             | 1471.5 |
-| 119  | Red Eye              | 1471.2 |
-| 120  | The BFG              | 1471.1 |
-| 121  | The Ring 2           | 1470.9 |
+| 107  | The Spy Next Door    | 1478.6 |
+| 108  | When a Stranger Calls | 1477.8 |
+| 109  | School of Rock       | 1474.9 |
+| 110  | The Mist             | 1474.3 |
+| 111  | Peter the Rabbit     | 1472.7 |
+| 112  | World War Z          | 1472.5 |
+| 113  | Saving Private Ryan  | 1472.5 |
+| 114  | The Matrix Reloaded  | 1472.2 |
+| 115  | Onward               | 1472.1 |
+| 116  | Knight and Day       | 1471.6 |
+| 117  | The Mask             | 1471.5 |
+| 118  | Red Eye              | 1471.2 |
+| 119  | The BFG              | 1471.1 |
+| 120  | The Ring 2           | 1470.9 |
+| 121  | Horton hears a Who   | 1470.0 |
 | 122  | Heidi                | 1468.7 |
 | 123  | Avatar: The Last Airbender | 1468.7 |
 | 124  | Skyfall              | 1468.7 |
@@ -136,13 +136,13 @@ python3 mvr.py
 | 126  | Black Widow          | 1463.1 |
 | 127  | Sweet Tooth          | 1462.2 |
 | 128  | Rampage              | 1462.0 |
-| 129  | Road House           | 1461.3 |
-| 130  | Exam                 | 1460.9 |
-| 131  | The Mask of Zorro    | 1459.8 |
-| 132  | Drunken Master       | 1459.7 |
-| 133  | Mission Impossible 2 | 1459.6 |
-| 134  | The Matrix Revolutions | 1459.0 |
-| 135  | Red Notice           | 1458.4 |
+| 129  | Exam                 | 1460.9 |
+| 130  | The Mask of Zorro    | 1459.8 |
+| 131  | Drunken Master       | 1459.7 |
+| 132  | Mission Impossible 2 | 1459.6 |
+| 133  | The Matrix Revolutions | 1459.0 |
+| 134  | Red Notice           | 1458.4 |
+| 135  | Road House           | 1457.7 |
 | 136  | Terminator           | 1455.5 |
 | 137  | Mission Impossible 1 | 1455.4 |
 | 138  | Unbreakable          | 1455.0 |
@@ -177,4 +177,4 @@ python3 mvr.py
 | 167  | The Battle at Lake Changjin | 1393.3 |
 | 168  | Spectral             | 1390.9 |
 | 169  | Shadow               | 1389.5 |
-| 170  | Everything, everywhere, all at once | 1381.0 |
+| 170  | Everything, everywhere, all at once | 1384.7 |
