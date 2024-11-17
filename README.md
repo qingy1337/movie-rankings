@@ -13,7 +13,7 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1603.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1598.8}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
-| $\color{red}\text{6   }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1594.7}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{red}\text{8   }$ | $\color{red}\text{The Hunger Games}$ | $\color{red}\text{1589.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
@@ -22,7 +22,7 @@ python3 mvr.py
 | $\color{black}\text{12  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1586.1}$ |
-| $\color{green}\text{15  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1584.5}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1584.5}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
@@ -100,14 +100,14 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.0}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
+| $\color{green}\text{95  }$ | $\color{green}\text{World War Z}$ | $\color{green}\text{1488.1}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1486.3}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.0}$ |
+| $\color{red}\text{98  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1484.3}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.5}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1481.0}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
