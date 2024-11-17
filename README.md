@@ -41,11 +41,11 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1549.9}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
 | $\color{green}\text{41  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1542.6}$ |
@@ -160,12 +160,12 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
-| $\color{green}\text{153 }$ | $\color{green}\text{The Silence}$ | $\color{green}\text{1435.8}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1435.8}$ |
 | $\color{red}\text{154 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1433.9}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1431.7}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1428.3}$ |
-| $\color{red}\text{158 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1428.1}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
@@ -176,7 +176,7 @@ python3 mvr.py
 | $\color{red}\text{166 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1419.4}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1418.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
+| $\color{red}\text{169 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1412.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1409.6}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1400.8}$ |
