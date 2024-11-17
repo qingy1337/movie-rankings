@@ -47,7 +47,7 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{green}\text{40  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1543.8}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
 | $\color{green}\text{43  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1540.4}$ |
@@ -100,7 +100,7 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{red}\text{93  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1494.9}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.9}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1489.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
@@ -139,11 +139,11 @@ python3 mvr.py
 | $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.6}$ |
+| $\color{green}\text{132 }$ | $\color{green}\text{A.I. Artificial Intelligence}$ | $\color{green}\text{1458.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.3}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
+| $\color{red}\text{136 }$ | $\color{red}\text{Red Eye}$ | $\color{red}\text{1452.5}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1452.4}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
