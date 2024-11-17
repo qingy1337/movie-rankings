@@ -102,7 +102,7 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.9}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
-| $\color{green}\text{95  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1490.7}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1490.7}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
@@ -129,7 +129,7 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
-| $\color{red}\text{122 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1466.1}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
 | $\color{red}\text{124 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1464.6}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
@@ -138,9 +138,9 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1462.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
+| $\color{green}\text{131 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1458.9}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.5}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1452.4}$ |
@@ -173,9 +173,9 @@ python3 mvr.py
 | $\color{red}\text{163 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1421.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1418.2}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
-| $\color{red}\text{168 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1414.3}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
+| $\color{red}\text{167 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1414.3}$ |
+| $\color{red}\text{168 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1412.9}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1409.6}$ |
