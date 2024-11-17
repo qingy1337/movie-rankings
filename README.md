@@ -81,14 +81,14 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1520.6}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1520.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1517.0}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1515.4}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.3}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.7}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1509.4}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.6}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1508.0}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1506.9}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1505.8}$ |
+| $\color{green}\text{74  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1515.6}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1515.4}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.3}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.7}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1509.4}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.6}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1508.0}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1506.9}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1505.6}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1505.3}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1504.7}$ |
@@ -145,7 +145,7 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1432.9}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1432.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1430.6}$ |
-| $\color{red}\text{138 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1430.2}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1424.5}$ |
 | $\color{red}\text{141 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1421.9}$ |
@@ -173,10 +173,10 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1370.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1366.2}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1365.8}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1365.1}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1362.2}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1361.4}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1355.3}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1362.2}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1361.4}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1355.3}$ |
+| $\color{red}\text{169 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1355.2}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1353.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1345.5}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1345.2}$ |
