@@ -32,29 +32,29 @@ python3 mvr.py
 | 22   | Avengers: Endgame    | 1573.7 |
 | 23   | Life                 | 1570.4 |
 | 24   | Locke and Key        | 1569.6 |
-| 25   | Source Code          | 1568.2 |
-| 26   | The Ninth Gate       | 1567.9 |
-| 27   | A Quiet Place        | 1567.6 |
-| 28   | X-Files              | 1565.9 |
-| 29   | The Wild Robot       | 1562.8 |
-| 30   | X-Men                | 1561.6 |
-| 31   | Avatar 2             | 1561.3 |
-| 32   | Jack Ryan            | 1560.7 |
-| 33   | Squid Game           | 1560.7 |
-| 34   | The Illusionist      | 1559.2 |
-| 35   | Vagabond             | 1558.2 |
-| 36   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
-| 37   | The Maze Runner: The Death Cure | 1557.0 |
-| 38   | Halo                 | 1556.2 |
-| 39   | Tenet                | 1554.6 |
-| 40   | Scream VI            | 1554.1 |
-| 41   | The Young and Prodigious T.S. Spivet | 1553.9 |
-| 42   | The Avengers         | 1553.0 |
-| 43   | Beut Mind            | 1552.4 |
-| 44   | Rebel Ridge          | 1551.9 |
-| 45   | The Day After Tomorrow | 1549.3 |
-| 46   | Loki                 | 1547.8 |
-| 47   | The Hunger Games     | 1545.4 |
+| 25   | Squid Game           | 1569.2 |
+| 26   | Source Code          | 1568.2 |
+| 27   | The Ninth Gate       | 1567.9 |
+| 28   | A Quiet Place        | 1567.6 |
+| 29   | X-Files              | 1565.9 |
+| 30   | The Wild Robot       | 1562.8 |
+| 31   | X-Men                | 1561.6 |
+| 32   | Avatar 2             | 1561.3 |
+| 33   | Jack Ryan            | 1560.7 |
+| 34   | The Hunger Games     | 1560.4 |
+| 35   | The Illusionist      | 1559.2 |
+| 36   | Vagabond             | 1558.2 |
+| 37   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
+| 38   | The Maze Runner: The Death Cure | 1557.0 |
+| 39   | Halo                 | 1556.2 |
+| 40   | Tenet                | 1554.6 |
+| 41   | Scream VI            | 1554.1 |
+| 42   | The Young and Prodigious T.S. Spivet | 1553.9 |
+| 43   | The Avengers         | 1553.0 |
+| 44   | Beut Mind            | 1552.4 |
+| 45   | Rebel Ridge          | 1551.9 |
+| 46   | The Day After Tomorrow | 1549.3 |
+| 47   | Loki                 | 1547.8 |
 | 48   | Train to Busan       | 1542.2 |
 | 49   | Avengers: Infinity War | 1542.0 |
 | 50   | Catch Me If You Can  | 1541.9 |
@@ -72,18 +72,18 @@ python3 mvr.py
 | 62   | Rainman              | 1526.3 |
 | 63   | Replicas             | 1525.3 |
 | 64   | Scream V             | 1524.9 |
-| 65   | Shawshank Redemption | 1524.4 |
-| 66   | Star Trek: Picard    | 1521.3 |
-| 67   | Mission Impossible: Rogue Nation | 1519.4 |
-| 68   | Thor                 | 1516.7 |
-| 69   | Captain America: The Winter Soldier | 1514.6 |
-| 70   | Avatar               | 1514.4 |
-| 71   | The Matrix           | 1513.9 |
-| 72   | The Terminal List    | 1513.0 |
-| 73   | A Haunting in Venice | 1511.5 |
-| 74   | Ip Man               | 1510.8 |
-| 75   | Top Gun              | 1510.2 |
-| 76   | Mission Impossible: Dead Reckoning P1 | 1509.9 |
+| 65   | Star Trek: Picard    | 1521.3 |
+| 66   | Mission Impossible: Rogue Nation | 1519.4 |
+| 67   | Thor                 | 1516.7 |
+| 68   | Captain America: The Winter Soldier | 1514.6 |
+| 69   | Avatar               | 1514.4 |
+| 70   | The Matrix           | 1513.9 |
+| 71   | The Terminal List    | 1513.0 |
+| 72   | A Haunting in Venice | 1511.5 |
+| 73   | Ip Man               | 1510.8 |
+| 74   | Top Gun              | 1510.2 |
+| 75   | Mission Impossible: Dead Reckoning P1 | 1509.9 |
+| 76   | Shawshank Redemption | 1509.3 |
 | 77   | Jack Reacher         | 1508.0 |
 | 78   | Dark Waters          | 1507.1 |
 | 79   | Captain America: Civil War | 1504.8 |
@@ -172,9 +172,9 @@ python3 mvr.py
 | 162  | A Quiet Place: Day One | 1392.8 |
 | 163  | Gravity              | 1391.8 |
 | 164  | Spooky Buddies       | 1388.6 |
-| 165  | Black Hawk Down      | 1385.4 |
-| 166  | All Quiet on The Western Front | 1385.3 |
-| 167  | Shadow               | 1382.8 |
+| 165  | All Quiet on The Western Front | 1385.3 |
+| 166  | Shadow               | 1382.8 |
+| 167  | Black Hawk Down      | 1376.9 |
 | 168  | Darkest Hour         | 1376.2 |
 | 169  | The Battle at Lake Changjin | 1370.0 |
 | 170  | Spectral             | 1359.0 |
