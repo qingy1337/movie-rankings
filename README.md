@@ -35,12 +35,12 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1536.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1535.3}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1535.3}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1534.5}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1533.7}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1533.4}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1532.7}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1532.3}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1531.8}$ |
+| $\color{green}\text{28  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1535.2}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1534.5}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1533.7}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1533.4}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1532.7}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1532.3}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1531.7}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1531.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1530.5}$ |
@@ -94,7 +94,7 @@ python3 mvr.py
 | $\color{black}\text{84  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1502.7}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.4}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
-| $\color{green}\text{87  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1500.1}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.1}$ |
 | $\color{red}\text{88  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1500.0}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
@@ -145,10 +145,10 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1474.1}$ |
 | $\color{green}\text{136 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1474.0}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.9}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1473.5}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1470.9}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1470.4}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1470.9}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1470.5}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1470.4}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1470.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1470.0}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1467.0}$ |
@@ -158,7 +158,7 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1460.0}$ |
-| $\color{red}\text{151 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1459.5}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1459.5}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1458.6}$ |
 | $\color{red}\text{153 }$ | $\color{red}\text{65}$ | $\color{red}\text{1457.2}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
