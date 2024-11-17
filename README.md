@@ -89,15 +89,15 @@ python3 mvr.py
 | $\color{black}\text{79  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1509.3}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1506.7}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1506.0}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.1}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
-| $\color{red}\text{89  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1499.8}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.1}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.8}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
+| $\color{red}\text{90  }$ | $\color{red}\text{Mission Impossible 3}$ | $\color{red}\text{1499.5}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
@@ -111,14 +111,14 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.3}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
+| $\color{green}\text{104 }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1484.3}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.3}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
@@ -134,7 +134,7 @@ python3 mvr.py
 | $\color{green}\text{124 }$ | $\color{green}\text{Terminator}$ | $\color{green}\text{1467.3}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1466.0}$ |
-| $\color{green}\text{127 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1464.7}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
