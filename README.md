@@ -18,21 +18,21 @@ python3 mvr.py
 | $\color{black}\text{8   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1576.8}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.5}$ |
+| $\color{green}\text{11  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1574.4}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1560.7}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1556.8}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1555.1}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1556.8}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1555.1}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
+| $\color{red}\text{25  }$ | $\color{red}\text{Avengers: Age of Ultron}$ | $\color{red}\text{1554.8}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1552.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
@@ -63,7 +63,7 @@ python3 mvr.py
 | $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
-| $\color{green}\text{56  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1521.4}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1521.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
@@ -146,7 +146,7 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1454.4}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
-| $\color{red}\text{139 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1453.5}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
