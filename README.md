@@ -82,16 +82,16 @@ python3 mvr.py
 | 72   | Jack Reacher         | 1519.6 |
 | 73   | Rebel Ridge          | 1519.0 |
 | 74   | Thor                 | 1517.3 |
-| 75   | Top Gun: Maverick    | 1515.4 |
-| 76   | Avatar               | 1514.5 |
-| 77   | Sweet Tooth          | 1514.1 |
-| 78   | The Terminal List    | 1513.0 |
-| 79   | Ip Man               | 1510.8 |
-| 80   | My Name              | 1509.4 |
-| 81   | Shawshank Redemption | 1506.9 |
-| 82   | Captain America: Civil War | 1504.8 |
-| 83   | Total Recall         | 1504.7 |
-| 84   | The Spy Next Door    | 1503.8 |
+| 75   | The Spy Next Door    | 1517.0 |
+| 76   | Top Gun: Maverick    | 1515.4 |
+| 77   | Avatar               | 1514.5 |
+| 78   | Sweet Tooth          | 1514.1 |
+| 79   | The Terminal List    | 1513.0 |
+| 80   | Ip Man               | 1510.8 |
+| 81   | My Name              | 1509.4 |
+| 82   | Shawshank Redemption | 1506.9 |
+| 83   | Captain America: Civil War | 1504.8 |
+| 84   | Total Recall         | 1504.7 |
 | 85   | Gladiator            | 1501.6 |
 | 86   | Onward               | 1500.4 |
 | 87   | Cars                 | 1500.4 |
@@ -108,47 +108,47 @@ python3 mvr.py
 | 98   | Wrath of Man         | 1479.8 |
 | 99   | The Mist             | 1479.1 |
 | 100  | Cars 2               | 1478.5 |
-| 101  | The Mask             | 1477.0 |
-| 102  | Drunken Master       | 1476.3 |
-| 103  | The Darkest Hour     | 1473.5 |
-| 104  | Johnny English       | 1470.8 |
-| 105  | Knight and Day       | 1469.9 |
-| 106  | The Ring             | 1469.2 |
-| 107  | The Curious Case of Benjamin Button | 1468.4 |
-| 108  | Mission Impossible 1 | 1467.9 |
-| 109  | Ninja Turtles        | 1466.5 |
-| 110  | Rampage              | 1466.5 |
-| 111  | Exam                 | 1465.7 |
-| 112  | World War Z          | 1464.8 |
-| 113  | GoldenEye            | 1463.3 |
-| 114  | Road House           | 1461.8 |
+| 101  | Road House           | 1477.7 |
+| 102  | The Mask             | 1477.0 |
+| 103  | Drunken Master       | 1476.3 |
+| 104  | The Darkest Hour     | 1473.5 |
+| 105  | Johnny English       | 1470.8 |
+| 106  | Knight and Day       | 1469.9 |
+| 107  | The Ring             | 1469.2 |
+| 108  | The Curious Case of Benjamin Button | 1468.4 |
+| 109  | Mission Impossible 1 | 1467.9 |
+| 110  | Ninja Turtles        | 1466.5 |
+| 111  | Rampage              | 1466.5 |
+| 112  | Exam                 | 1465.7 |
+| 113  | World War Z          | 1464.8 |
+| 114  | GoldenEye            | 1463.3 |
 | 115  | Megan                | 1459.6 |
-| 116  | John Wick            | 1459.6 |
-| 117  | The Ring 2           | 1457.9 |
-| 118  | Glass Castle         | 1457.4 |
-| 119  | Saving Private Ryan  | 1457.3 |
-| 120  | Land of Bad          | 1456.6 |
-| 121  | Frequency            | 1455.9 |
-| 122  | Pompeii              | 1455.7 |
-| 123  | Terminator           | 1455.5 |
-| 124  | Unbreakable          | 1454.8 |
-| 125  | When a Stranger Calls | 1454.2 |
-| 126  | The Man in the Iron Mask | 1452.8 |
-| 127  | The Matrix Revolutions | 1451.4 |
-| 128  | Zootopia             | 1450.8 |
-| 129  | Rango                | 1450.5 |
-| 130  | School of Rock       | 1448.4 |
-| 131  | Mission Impossible 2 | 1448.3 |
-| 132  | American Sniper      | 1447.2 |
-| 133  | G.I.Joe movie        | 1443.5 |
-| 134  | American Made        | 1443.3 |
-| 135  | The BFG              | 1442.7 |
-| 136  | Avatar: The Last Airbender | 1442.7 |
-| 137  | Red Eye              | 1441.8 |
-| 138  | Red Notice           | 1441.0 |
-| 139  | Peter the Rabbit     | 1440.2 |
-| 140  | A.I. Artificial Intelligence | 1432.2 |
-| 141  | The Mask of Zorro    | 1430.5 |
+| 116  | The Ring 2           | 1457.9 |
+| 117  | Glass Castle         | 1457.4 |
+| 118  | Saving Private Ryan  | 1457.3 |
+| 119  | Land of Bad          | 1456.6 |
+| 120  | Frequency            | 1455.9 |
+| 121  | Pompeii              | 1455.7 |
+| 122  | Terminator           | 1455.5 |
+| 123  | Unbreakable          | 1454.8 |
+| 124  | When a Stranger Calls | 1454.2 |
+| 125  | The Man in the Iron Mask | 1452.8 |
+| 126  | The Matrix Revolutions | 1451.4 |
+| 127  | Zootopia             | 1450.8 |
+| 128  | Rango                | 1450.5 |
+| 129  | School of Rock       | 1448.4 |
+| 130  | Mission Impossible 2 | 1448.3 |
+| 131  | American Sniper      | 1447.2 |
+| 132  | John Wick            | 1443.7 |
+| 133  | American Made        | 1443.3 |
+| 134  | The BFG              | 1442.7 |
+| 135  | Avatar: The Last Airbender | 1442.7 |
+| 136  | Red Eye              | 1441.8 |
+| 137  | Red Notice           | 1441.0 |
+| 138  | Peter the Rabbit     | 1440.2 |
+| 139  | A.I. Artificial Intelligence | 1432.2 |
+| 140  | The Mask of Zorro    | 1430.5 |
+| 141  | G.I.Joe movie        | 1430.3 |
 | 142  | Journey 2: The Mysterious Island | 1429.8 |
 | 143  | Heidi                | 1429.3 |
 | 144  | Independence Day     | 1429.3 |
