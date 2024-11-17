@@ -18,40 +18,40 @@ python3 mvr.py
 | 8    | Source Code          | 1555.5 |
 | 9    | Harry Potter         | 1547.1 |
 | 10   | X-Men                | 1547.1 |
-| 11   | Avengers: Age of Ultron | 1546.5 |
-| 12   | Avengers: Infinity War | 1546.5 |
-| 13   | Dune                 | 1545.8 |
-| 14   | Maleficent           | 1545.7 |
-| 15   | Black Panther        | 1544.6 |
-| 16   | Halo                 | 1544.5 |
-| 17   | The Prestige         | 1544.1 |
-| 18   | Mission Impossible: Ghost Protocol | 1543.3 |
-| 19   | Lord of the Rings    | 1543.2 |
-| 20   | The Hobbit           | 1543.1 |
-| 21   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 11   | Avengers: Infinity War | 1546.5 |
+| 12   | Dune                 | 1545.8 |
+| 13   | Maleficent           | 1545.7 |
+| 14   | Black Panther        | 1544.6 |
+| 15   | Halo                 | 1544.5 |
+| 16   | The Prestige         | 1544.1 |
+| 17   | Mission Impossible: Ghost Protocol | 1543.3 |
+| 18   | Lord of the Rings    | 1543.2 |
+| 19   | The Hobbit           | 1543.1 |
+| 20   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 21   | Mission Impossible: Fallout | 1543.0 |
 | 22   | The Tomorrow War     | 1542.9 |
-| 23   | Rainman              | 1542.5 |
-| 24   | The Illusionist      | 1542.4 |
-| 25   | Catch Me If You Can  | 1541.9 |
-| 26   | Megan                | 1541.3 |
-| 27   | The Avengers         | 1541.2 |
-| 28   | Sneaky Pete          | 1534.0 |
-| 29   | Squid Game           | 1532.8 |
-| 30   | Avengers: Endgame    | 1532.0 |
-| 31   | Inception            | 1531.9 |
-| 32   | A Quiet Place        | 1531.3 |
-| 33   | The Mandalorian      | 1531.3 |
-| 34   | Lost in Space        | 1531.3 |
-| 35   | Jack Ryan            | 1531.3 |
-| 36   | Dark Waters          | 1531.3 |
-| 37   | Shawshank Redemption | 1531.3 |
-| 38   | Pirates of the Caribbean | 1531.3 |
-| 39   | Wednesday            | 1531.2 |
-| 40   | Wrath of Man         | 1530.6 |
-| 41   | Captain America: The Winter Soldier | 1530.5 |
-| 42   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
-| 43   | Titanic              | 1529.8 |
-| 44   | Mission Impossible: Fallout | 1529.8 |
+| 23   | Avengers: Age of Ultron | 1542.5 |
+| 24   | Rainman              | 1542.5 |
+| 25   | The Illusionist      | 1542.4 |
+| 26   | Catch Me If You Can  | 1541.9 |
+| 27   | Megan                | 1541.3 |
+| 28   | The Avengers         | 1541.2 |
+| 29   | Sneaky Pete          | 1534.0 |
+| 30   | Squid Game           | 1532.8 |
+| 31   | Avengers: Endgame    | 1532.0 |
+| 32   | Inception            | 1531.9 |
+| 33   | A Quiet Place        | 1531.3 |
+| 34   | The Mandalorian      | 1531.3 |
+| 35   | Lost in Space        | 1531.3 |
+| 36   | Jack Ryan            | 1531.3 |
+| 37   | Dark Waters          | 1531.3 |
+| 38   | Shawshank Redemption | 1531.3 |
+| 39   | Pirates of the Caribbean | 1531.3 |
+| 40   | Wednesday            | 1531.2 |
+| 41   | Wrath of Man         | 1530.6 |
+| 42   | Captain America: The Winter Soldier | 1530.5 |
+| 43   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
+| 44   | Titanic              | 1529.8 |
 | 45   | Iron Man             | 1529.8 |
 | 46   | Zootopia             | 1527.7 |
 | 47   | The Terminal List    | 1526.7 |
@@ -150,24 +150,24 @@ python3 mvr.py
 | 140  | The Mist             | 1468.1 |
 | 141  | Mission Impossible 1 | 1468.0 |
 | 142  | 65                   | 1467.6 |
-| 143  | Stillwater           | 1467.5 |
-| 144  | The Last Samurai     | 1462.5 |
+| 143  | The Last Samurai     | 1462.5 |
+| 144  | Total Recall         | 1461.3 |
 | 145  | Zero Dark Thirty     | 1457.6 |
-| 146  | Total Recall         | 1457.3 |
-| 147  | When a Stranger Calls | 1456.8 |
-| 148  | A Quiet Place: Day One | 1456.8 |
-| 149  | The Mask             | 1456.2 |
-| 150  | Cars 3               | 1456.1 |
-| 151  | Awake                | 1455.6 |
-| 152  | Jurassic World: Dominion | 1455.5 |
-| 153  | Arrow                | 1455.0 |
-| 154  | Peter the Rabbit     | 1455.0 |
-| 155  | The Silence          | 1454.9 |
-| 156  | All Quiet on The Western Front | 1454.9 |
-| 157  | Onward               | 1454.9 |
-| 158  | Shadow               | 1454.8 |
-| 159  | Journey 2: The Mysterious Island | 1454.8 |
-| 160  | Spooky Buddies       | 1454.7 |
+| 146  | When a Stranger Calls | 1456.8 |
+| 147  | A Quiet Place: Day One | 1456.8 |
+| 148  | The Mask             | 1456.2 |
+| 149  | Cars 3               | 1456.1 |
+| 150  | Awake                | 1455.6 |
+| 151  | Jurassic World: Dominion | 1455.5 |
+| 152  | Arrow                | 1455.0 |
+| 153  | Peter the Rabbit     | 1455.0 |
+| 154  | The Silence          | 1454.9 |
+| 155  | All Quiet on The Western Front | 1454.9 |
+| 156  | Onward               | 1454.9 |
+| 157  | Shadow               | 1454.8 |
+| 158  | Journey 2: The Mysterious Island | 1454.8 |
+| 159  | Spooky Buddies       | 1454.7 |
+| 160  | Stillwater           | 1454.4 |
 | 161  | "Everything, everywhere, all at once" | 1454.3 |
 | 162  | The Matrix Revolutions | 1453.6 |
 | 163  | War Horse            | 1446.0 |
