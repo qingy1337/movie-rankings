@@ -12,9 +12,9 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1609.6}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1604.0}$ |
 | $\color{green}\text{4   }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1602.9}$ |
-| $\color{green}\text{5   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1600.7}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1595.7}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1594.2}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1595.7}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1594.2}$ |
+| $\color{red}\text{7   }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1593.4}$ |
 | $\color{red}\text{8   }$ | $\color{red}\text{The Maze Runner: The Death Cure}$ | $\color{red}\text{1592.7}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1591.4}$ |
@@ -42,7 +42,7 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1566.8}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.7}$ |
-| $\color{green}\text{35  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1562.3}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
@@ -65,14 +65,14 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1533.2}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1528.3}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
+| $\color{green}\text{58  }$ | $\color{green}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{green}\text{1532.6}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1528.3}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1521.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
@@ -167,7 +167,7 @@ python3 mvr.py
 | $\color{black}\text{157 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{red}\text{158 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1412.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
-| $\color{red}\text{160 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1408.9}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1408.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1408.7}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
