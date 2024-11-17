@@ -42,11 +42,11 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1553.2}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
 | $\color{green}\text{34  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1552.5}$ |
-| $\color{green}\text{35  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1551.9}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1550.7}$ |
 | $\color{red}\text{38  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1550.3}$ |
-| $\color{red}\text{39  }$ | $\color{red}\text{Train to Busan}$ | $\color{red}\text{1549.9}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
@@ -54,10 +54,10 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
-| $\color{red}\text{50  }$ | $\color{red}\text{Loki}$ | $\color{red}\text{1531.8}$ |
+| $\color{red}\text{47  }$ | $\color{red}\text{Loki}$ | $\color{red}\text{1537.6}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
@@ -78,13 +78,13 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1516.2}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.5}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
-| $\color{red}\text{75  }$ | $\color{red}\text{The Tomorrow War}$ | $\color{red}\text{1512.0}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
+| $\color{red}\text{74  }$ | $\color{red}\text{The Tomorrow War}$ | $\color{red}\text{1512.0}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
+| $\color{red}\text{77  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1507.0}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
