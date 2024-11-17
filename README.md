@@ -11,9 +11,9 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1615.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1600.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1599.3}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.8}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1594.0}$ |
+| $\color{green}\text{4   }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1598.8}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1591.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
@@ -29,7 +29,7 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1579.9}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
-| $\color{green}\text{22  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1573.4}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -71,10 +71,10 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1525.7}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1524.6}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1524.1}$ |
-| $\color{green}\text{64  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1522.1}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.3}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.3}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
+| $\color{green}\text{67  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1517.3}$ |
 | $\color{red}\text{68  }$ | $\color{red}\text{The Maze Runner: The Scorch Trials}$ | $\color{red}\text{1516.0}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1515.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1423.2}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
