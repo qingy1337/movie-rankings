@@ -12,15 +12,15 @@ python3 mvr.py
 | 2    | Lost in Space        | 1614.0 |
 | 3    | Star Wars            | 1608.9 |
 | 4    | Pirates of the Caribbean | 1606.6 |
-| 5    | No Country for Old Men | 1604.2 |
-| 6    | Wednesday            | 1599.3 |
-| 7    | The Mandalorian      | 1597.1 |
-| 8    | Harry Potter         | 1594.1 |
-| 9    | Life of Pi           | 1593.7 |
-| 10   | Thirteen Lives       | 1592.7 |
-| 11   | Ant-Man              | 1592.2 |
-| 12   | Passengers           | 1589.2 |
-| 13   | Black Panther        | 1586.2 |
+| 5    | Black Panther        | 1605.6 |
+| 6    | No Country for Old Men | 1604.2 |
+| 7    | Wednesday            | 1599.3 |
+| 8    | The Mandalorian      | 1597.1 |
+| 9    | Harry Potter         | 1594.1 |
+| 10   | Life of Pi           | 1593.7 |
+| 11   | Thirteen Lives       | 1592.7 |
+| 12   | Ant-Man              | 1592.2 |
+| 13   | Passengers           | 1589.2 |
 | 14   | Sneaky Pete          | 1585.6 |
 | 15   | The Maze Runner      | 1585.2 |
 | 16   | X-Men                | 1584.2 |
@@ -38,34 +38,34 @@ python3 mvr.py
 | 28   | Inception            | 1566.5 |
 | 29   | X-Files              | 1565.9 |
 | 30   | Halo                 | 1563.1 |
-| 31   | Squid Game           | 1560.7 |
-| 32   | The Illusionist      | 1559.2 |
-| 33   | Avengers: Endgame    | 1557.2 |
-| 34   | The Maze Runner: The Death Cure | 1557.0 |
-| 35   | Scream VI            | 1554.1 |
-| 36   | The Avengers         | 1553.0 |
-| 37   | Rebel Ridge          | 1551.9 |
-| 38   | The Day After Tomorrow | 1548.8 |
-| 39   | The Wild Robot       | 1547.0 |
+| 31   | The Wild Robot       | 1562.8 |
+| 32   | Squid Game           | 1560.7 |
+| 33   | The Illusionist      | 1559.2 |
+| 34   | Avengers: Endgame    | 1557.2 |
+| 35   | The Maze Runner: The Death Cure | 1557.0 |
+| 36   | Scream VI            | 1554.1 |
+| 37   | The Avengers         | 1553.0 |
+| 38   | Rebel Ridge          | 1551.9 |
+| 39   | The Day After Tomorrow | 1548.8 |
 | 40   | Jack Ryan            | 1546.5 |
 | 41   | The Hunger Games     | 1545.4 |
 | 42   | The Young and Prodigious T.S. Spivet | 1544.3 |
-| 43   | The Prestige         | 1544.1 |
-| 44   | Life                 | 1543.3 |
-| 45   | A Quiet Place        | 1543.3 |
-| 46   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
-| 47   | Avengers: Infinity War | 1542.0 |
-| 48   | Catch Me If You Can  | 1541.9 |
-| 49   | Tenet                | 1541.6 |
-| 50   | Vagabond             | 1540.1 |
-| 51   | The Maze Runner: The Scorch Trials | 1538.1 |
+| 43   | Life                 | 1543.3 |
+| 44   | A Quiet Place        | 1543.3 |
+| 45   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
+| 46   | Avengers: Infinity War | 1542.0 |
+| 47   | Catch Me If You Can  | 1541.9 |
+| 48   | Tenet                | 1541.6 |
+| 49   | Vagabond             | 1540.1 |
+| 50   | The Maze Runner: The Scorch Trials | 1538.1 |
+| 51   | The Tomorrow War     | 1536.2 |
 | 52   | Loki                 | 1536.1 |
 | 53   | Train to Busan       | 1535.6 |
 | 54   | Mission Impossible: Ghost Protocol | 1535.3 |
 | 55   | Mission Impossible: Fallout | 1534.9 |
 | 56   | The Man Who Knew Infinity | 1530.9 |
-| 57   | Scream V             | 1530.4 |
-| 58   | Mission Impossible 3 | 1528.7 |
+| 57   | Mission Impossible 3 | 1528.7 |
+| 58   | The Prestige         | 1528.2 |
 | 59   | My Name              | 1528.0 |
 | 60   | Guy Ritchie’s The Covenant | 1527.5 |
 | 61   | Zodiac               | 1527.3 |
@@ -73,15 +73,15 @@ python3 mvr.py
 | 63   | Replicas             | 1525.3 |
 | 64   | Shawshank Redemption | 1524.4 |
 | 65   | Star Trek: Picard    | 1521.3 |
-| 66   | The Tomorrow War     | 1519.7 |
-| 67   | Mission Impossible: Rogue Nation | 1519.4 |
-| 68   | Thor                 | 1516.7 |
-| 69   | Cars                 | 1515.8 |
-| 70   | Top Gun              | 1515.7 |
-| 71   | Cars 2               | 1515.3 |
-| 72   | Interstellar         | 1515.2 |
-| 73   | Captain America: The Winter Soldier | 1514.6 |
-| 74   | Avatar               | 1514.4 |
+| 66   | Mission Impossible: Rogue Nation | 1519.4 |
+| 67   | Thor                 | 1516.7 |
+| 68   | Cars                 | 1515.8 |
+| 69   | Top Gun              | 1515.7 |
+| 70   | Cars 2               | 1515.3 |
+| 71   | Interstellar         | 1515.2 |
+| 72   | Captain America: The Winter Soldier | 1514.6 |
+| 73   | Avatar               | 1514.4 |
+| 74   | Scream V             | 1513.9 |
 | 75   | The Matrix           | 1513.9 |
 | 76   | Dark Waters          | 1511.2 |
 | 77   | Mission Impossible: Dead Reckoning P1 | 1511.1 |
@@ -112,21 +112,21 @@ python3 mvr.py
 | 102  | When a Stranger Calls | 1477.8 |
 | 103  | The Mist             | 1475.6 |
 | 104  | The Matrix Revolutions | 1475.4 |
-| 105  | Red Notice           | 1474.4 |
-| 106  | World War Z          | 1472.5 |
-| 107  | Saving Private Ryan  | 1472.5 |
-| 108  | The Matrix Reloaded  | 1472.2 |
-| 109  | Onward               | 1472.1 |
-| 110  | Knight and Day       | 1471.6 |
-| 111  | Red Eye              | 1471.5 |
-| 112  | The Mask             | 1471.5 |
-| 113  | Jack Reacher: Never Go Back | 1470.7 |
-| 114  | Land of Bad          | 1469.5 |
-| 115  | Heidi                | 1468.7 |
-| 116  | Black Widow          | 1466.7 |
-| 117  | Iron Chef            | 1465.8 |
-| 118  | The Spy Next Door    | 1465.6 |
-| 119  | Ninja Turtles        | 1465.0 |
+| 105  | World War Z          | 1472.5 |
+| 106  | Saving Private Ryan  | 1472.5 |
+| 107  | The Matrix Reloaded  | 1472.2 |
+| 108  | Onward               | 1472.1 |
+| 109  | Knight and Day       | 1471.6 |
+| 110  | Red Eye              | 1471.5 |
+| 111  | The Mask             | 1471.5 |
+| 112  | Jack Reacher: Never Go Back | 1470.7 |
+| 113  | Land of Bad          | 1469.5 |
+| 114  | Heidi                | 1468.7 |
+| 115  | Black Widow          | 1466.7 |
+| 116  | Iron Chef            | 1465.8 |
+| 117  | The Spy Next Door    | 1465.6 |
+| 118  | Ninja Turtles        | 1465.0 |
+| 119  | Red Notice           | 1463.7 |
 | 120  | GoldenEye            | 1463.3 |
 | 121  | Exam                 | 1460.9 |
 | 122  | The Mask of Zorro    | 1459.8 |
@@ -162,11 +162,11 @@ python3 mvr.py
 | 152  | Stillwater           | 1424.4 |
 | 153  | War Horse            | 1419.9 |
 | 154  | American Made        | 1418.9 |
-| 155  | Arrow                | 1415.3 |
-| 156  | A.I. Artificial Intelligence | 1412.5 |
-| 157  | Darkest Hour         | 1410.6 |
-| 158  | Awake                | 1409.8 |
-| 159  | AK-47 Kalashnikov    | 1409.5 |
+| 155  | A.I. Artificial Intelligence | 1412.5 |
+| 156  | Darkest Hour         | 1410.6 |
+| 157  | Awake                | 1409.8 |
+| 158  | AK-47 Kalashnikov    | 1409.5 |
+| 159  | Arrow                | 1406.6 |
 | 160  | Gravity              | 1405.9 |
 | 161  | Jurassic World: Dominion | 1403.0 |
 | 162  | Everything, everywhere, all at once | 1401.1 |
