@@ -30,11 +30,11 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1566.5}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
-| $\color{green}\text{25  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1559.0}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
+| $\color{green}\text{23  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1562.8}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1559.0}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1556.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
@@ -93,7 +93,7 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
-| $\color{green}\text{86  }$ | $\color{green}\text{Mission Impossible 3}$ | $\color{green}\text{1499.3}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1496.8}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
@@ -132,13 +132,13 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1464.0}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1462.1}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
-| $\color{red}\text{128 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1460.7}$ |
-| $\color{red}\text{129 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1459.2}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1462.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
+| $\color{red}\text{127 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1460.7}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1459.2}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
+| $\color{red}\text{131 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1458.7}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.9}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
