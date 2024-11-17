@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1627.4}$ |
-| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1616.5}$ |
+| $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1616.5}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1604.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
@@ -31,7 +31,7 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1579.4}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.8}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1577.3}$ |
+| $\color{red}\text{24  }$ | $\color{red}\text{The Menu}$ | $\color{red}\text{1576.2}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1571.9}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -45,7 +45,7 @@ python3 mvr.py
 | $\color{black}\text{35  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{red}\text{38  }$ | $\color{red}\text{Train to Busan}$ | $\color{red}\text{1557.2}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1557.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1556.0}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
@@ -79,8 +79,8 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1512.5}$ |
+| $\color{green}\text{72  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1513.6}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
