@@ -30,7 +30,7 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.0}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
-| $\color{green}\text{23  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1561.9}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1556.5}$ |
@@ -64,13 +64,13 @@ python3 mvr.py
 | $\color{black}\text{54  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1525.4}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1521.7}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1521.6}$ |
+| $\color{green}\text{57  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1526.3}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1525.4}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1521.7}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1521.1}$ |
@@ -102,7 +102,7 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
-| $\color{red}\text{95  }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1492.4}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1488.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
@@ -151,14 +151,14 @@ python3 mvr.py
 | $\color{black}\text{141 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1444.2}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1444.0}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
-| $\color{red}\text{146 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1442.7}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1442.7}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1442.7}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1442.7}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
+| $\color{red}\text{151 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1439.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
 | $\color{green}\text{153 }$ | $\color{green}\text{Crouching Tiger Hidden Dragon}$ | $\color{green}\text{1436.6}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1433.9}$ |
