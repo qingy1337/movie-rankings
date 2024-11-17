@@ -14,13 +14,13 @@ python3 mvr.py
 | 4    | Locke and Key        | 1569.6 |
 | 5    | Passengers           | 1569.5 |
 | 6    | Avengers: Age of Ultron | 1568.7 |
-| 7    | Pirates of the Caribbean | 1563.6 |
-| 8    | X-Men                | 1563.5 |
-| 9    | Harry Potter         | 1562.9 |
-| 10   | Avengers: Infinity War | 1559.8 |
-| 11   | The Maze Runner: The Death Cure | 1558.3 |
-| 12   | Source Code          | 1555.5 |
-| 13   | Black Panther        | 1553.7 |
+| 7    | Black Panther        | 1567.4 |
+| 8    | Pirates of the Caribbean | 1563.6 |
+| 9    | X-Men                | 1563.5 |
+| 10   | Harry Potter         | 1562.9 |
+| 11   | Avengers: Infinity War | 1559.8 |
+| 12   | The Maze Runner: The Death Cure | 1558.3 |
+| 13   | Source Code          | 1555.5 |
 | 14   | Sneaky Pete          | 1549.0 |
 | 15   | Shawshank Redemption | 1547.2 |
 | 16   | Dark Waters          | 1546.9 |
@@ -85,14 +85,14 @@ python3 mvr.py
 | 75   | Jack Reacher         | 1514.1 |
 | 76   | Zodiac               | 1513.9 |
 | 77   | The Curious Case of Benjamin Button | 1513.3 |
-| 78   | The Tomorrow War     | 1510.6 |
-| 79   | Zootopia             | 1510.5 |
-| 80   | Soul                 | 1509.6 |
-| 81   | Replicas             | 1509.1 |
-| 82   | The Terminal List    | 1508.4 |
-| 83   | The Young and Prodigious T.S. Spivet | 1506.1 |
-| 84   | The Man Who Knew Infinity | 1503.4 |
-| 85   | Sweet Tooth          | 1502.7 |
+| 78   | Rebel Ridge          | 1511.2 |
+| 79   | The Tomorrow War     | 1510.6 |
+| 80   | Zootopia             | 1510.5 |
+| 81   | Soul                 | 1509.6 |
+| 82   | Replicas             | 1509.1 |
+| 83   | The Terminal List    | 1508.4 |
+| 84   | The Young and Prodigious T.S. Spivet | 1506.1 |
+| 85   | The Man Who Knew Infinity | 1503.4 |
 | 86   | The Matrix           | 1502.7 |
 | 87   | Glass Castle         | 1501.4 |
 | 88   | Ip Man               | 1500.2 |
@@ -101,11 +101,11 @@ python3 mvr.py
 | 91   | Terminator           | 1499.3 |
 | 92   | Horton hears a Who   | 1499.1 |
 | 93   | Land of Bad          | 1498.2 |
-| 94   | Rebel Ridge          | 1497.6 |
-| 95   | Pompeii              | 1497.4 |
-| 96   | A.I. Artificial Intelligence | 1497.0 |
-| 97   | Star Trek: Picard    | 1489.1 |
-| 98   | The Man in the Iron Mask | 1489.1 |
+| 94   | Pompeii              | 1497.4 |
+| 95   | A.I. Artificial Intelligence | 1497.0 |
+| 96   | Star Trek: Picard    | 1489.1 |
+| 97   | The Man in the Iron Mask | 1489.1 |
+| 98   | Sweet Tooth          | 1489.1 |
 | 99   | School of Rock       | 1488.3 |
 | 100  | Gladiator            | 1487.2 |
 | 101  | A Boy Called Christmas | 1486.9 |
@@ -162,18 +162,18 @@ python3 mvr.py
 | 152  | The Firm             | 1453.0 |
 | 153  | War Horse            | 1446.0 |
 | 154  | American Sniper      | 1445.5 |
-| 155  | Black Hawk Down      | 1445.4 |
-| 156  | Arrow                | 1442.5 |
-| 157  | Darkest Hour         | 1442.4 |
-| 158  | Awake                | 1442.2 |
-| 159  | All Quiet on The Western Front | 1441.3 |
-| 160  | Exam                 | 1441.1 |
-| 161  | Spooky Buddies       | 1440.8 |
-| 162  | Everything, everywhere, all at once | 1439.7 |
-| 163  | A Quiet Place: Day One | 1439.3 |
-| 164  | Onward               | 1438.8 |
-| 165  | Spectral             | 1436.4 |
-| 166  | The Last Samurai     | 1433.9 |
+| 155  | Arrow                | 1442.5 |
+| 156  | Darkest Hour         | 1442.4 |
+| 157  | Awake                | 1442.2 |
+| 158  | All Quiet on The Western Front | 1441.3 |
+| 159  | Exam                 | 1441.1 |
+| 160  | Spooky Buddies       | 1440.8 |
+| 161  | Everything, everywhere, all at once | 1439.7 |
+| 162  | A Quiet Place: Day One | 1439.3 |
+| 163  | Onward               | 1438.8 |
+| 164  | Spectral             | 1436.4 |
+| 165  | The Last Samurai     | 1433.9 |
+| 166  | Black Hawk Down      | 1431.8 |
 | 167  | Jurassic World: Dominion | 1427.5 |
 | 168  | The Battle at Lake Changjin | 1415.1 |
 | 169  | AK-47 Kalashnikov    | 1406.4 |
