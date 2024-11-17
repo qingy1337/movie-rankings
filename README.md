@@ -83,25 +83,25 @@ python3 mvr.py
 | 73   | Thor                 | 1517.3 |
 | 74   | The Spy Next Door    | 1517.0 |
 | 75   | Titanic              | 1516.7 |
-| 76   | The Maze Runner: The Scorch Trials | 1516.2 |
-| 77   | Top Gun: Maverick    | 1515.4 |
-| 78   | Gladiator            | 1514.8 |
-| 79   | A Boy Called Christmas | 1514.3 |
-| 80   | Mission Impossible 3 | 1512.4 |
-| 81   | Bloodhounds          | 1512.1 |
-| 82   | My Name              | 1509.4 |
+| 76   | Top Gun: Maverick    | 1515.4 |
+| 77   | Gladiator            | 1514.8 |
+| 78   | A Boy Called Christmas | 1514.3 |
+| 79   | Mission Impossible 3 | 1512.4 |
+| 80   | Bloodhounds          | 1512.1 |
+| 81   | My Name              | 1509.4 |
+| 82   | Dune                 | 1508.1 |
 | 83   | Shawshank Redemption | 1506.9 |
 | 84   | Captain America: Civil War | 1504.8 |
 | 85   | Total Recall         | 1504.7 |
 | 86   | Dark Waters          | 1502.9 |
 | 87   | Onward               | 1502.2 |
 | 88   | Cars                 | 1501.4 |
-| 89   | Lord of the Rings    | 1497.9 |
-| 90   | Ip Man               | 1497.9 |
-| 91   | Sweet Tooth          | 1495.0 |
-| 92   | Skyfall              | 1494.9 |
-| 93   | Rainman              | 1494.3 |
-| 94   | Dune                 | 1490.9 |
+| 89   | The Maze Runner: The Scorch Trials | 1499.0 |
+| 90   | Lord of the Rings    | 1497.9 |
+| 91   | Ip Man               | 1497.9 |
+| 92   | Sweet Tooth          | 1495.0 |
+| 93   | Skyfall              | 1494.9 |
+| 94   | Rainman              | 1494.3 |
 | 95   | Cars 2               | 1490.1 |
 | 96   | Wrath of Man         | 1488.1 |
 | 97   | Road House           | 1487.5 |
