@@ -34,7 +34,7 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
 | $\color{green}\text{25  }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1561.2}$ |
 | $\color{green}\text{26  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1560.5}$ |
-| $\color{green}\text{27  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1559.6}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1559.6}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1559.0}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1556.5}$ |
@@ -55,7 +55,7 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{green}\text{47  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1538.1}$ |
-| $\color{red}\text{48  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1537.1}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
@@ -94,10 +94,10 @@ python3 mvr.py
 | $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1494.3}$ |
+| $\color{green}\text{87  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1499.8}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1492.5}$ |
@@ -126,12 +126,12 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1471.4}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1469.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1464.0}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1464.0}$ |
+| $\color{red}\text{124 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1463.5}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1462.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1460.7}$ |
