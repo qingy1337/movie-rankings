@@ -33,17 +33,17 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
 | $\color{green}\text{25  }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1561.2}$ |
-| $\color{green}\text{26  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1559.6}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1559.0}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1557.0}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1560.5}$ |
+| $\color{green}\text{27  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1559.6}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1559.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1556.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1553.2}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1553.2}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
+| $\color{red}\text{36  }$ | $\color{red}\text{Source Code}$ | $\color{red}\text{1550.9}$ |
 | $\color{green}\text{37  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1550.7}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
@@ -72,7 +72,7 @@ python3 mvr.py
 | $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
-| $\color{green}\text{65  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1520.9}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1520.9}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.2}$ |
@@ -124,7 +124,7 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1471.4}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1471.4}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1469.9}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
