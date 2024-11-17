@@ -51,11 +51,11 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.3}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{green}\text{45  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1539.4}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1537.6}$ |
+| $\color{green}\text{44  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1542.6}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
+| $\color{green}\text{46  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1539.4}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
@@ -96,7 +96,7 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
-| $\color{green}\text{89  }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1498.7}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
@@ -110,15 +110,15 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1481.5}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.9}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.9}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{red}\text{111 }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1476.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
@@ -128,7 +128,7 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1466.5}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
-| $\color{red}\text{121 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1464.3}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1460.1}$ |
