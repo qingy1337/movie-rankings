@@ -45,36 +45,36 @@ python3 mvr.py
 | 35   | Megan                | 1529.8 |
 | 36   | Mission Impossible: Ghost Protocol | 1529.3 |
 | 37   | The Illusionist      | 1529.2 |
-| 38   | Lord of the Rings    | 1528.6 |
-| 39   | Replicas             | 1528.5 |
-| 40   | Train to Busan       | 1524.9 |
-| 41   | Scream VI            | 1518.8 |
-| 42   | Tenet                | 1518.7 |
-| 43   | John Wick            | 1517.4 |
-| 44   | Ip Man               | 1517.0 |
-| 45   | The Day After Tomorrow | 1516.7 |
-| 46   | Knight and Day       | 1516.7 |
-| 47   | Iron Man             | 1516.5 |
-| 48   | Scream V             | 1516.0 |
-| 49   | Saving Private Ryan  | 1516.0 |
-| 50   | A Haunting in Venice | 1516.0 |
-| 51   | Thor                 | 1516.0 |
-| 52   | Guy Ritchie’s The Covenant | 1516.0 |
-| 53   | Soul                 | 1516.0 |
-| 54   | The Mandalorian      | 1516.0 |
-| 55   | Wednesday            | 1516.0 |
-| 56   | Doctor Strange       | 1516.0 |
-| 57   | Mission Impossible 3 | 1515.3 |
-| 58   | Life of Pi           | 1515.3 |
-| 59   | Mission Impossible: Fallout | 1515.3 |
-| 60   | The Ring             | 1515.3 |
-| 61   | Jack Ryan            | 1515.3 |
-| 62   | Interstellar         | 1515.3 |
-| 63   | Captain America: The Winter Soldier | 1515.3 |
-| 64   | The Hobbit           | 1514.6 |
-| 65   | The Maze Runner: The Scorch Trials | 1514.5 |
-| 66   | Jack Reacher         | 1514.1 |
-| 67   | The Tomorrow War     | 1514.1 |
+| 38   | The Tomorrow War     | 1529.0 |
+| 39   | Lord of the Rings    | 1528.6 |
+| 40   | Replicas             | 1528.5 |
+| 41   | Train to Busan       | 1524.9 |
+| 42   | Scream VI            | 1518.8 |
+| 43   | Tenet                | 1518.7 |
+| 44   | John Wick            | 1517.4 |
+| 45   | Ip Man               | 1517.0 |
+| 46   | The Day After Tomorrow | 1516.7 |
+| 47   | Knight and Day       | 1516.7 |
+| 48   | Iron Man             | 1516.5 |
+| 49   | Scream V             | 1516.0 |
+| 50   | Saving Private Ryan  | 1516.0 |
+| 51   | A Haunting in Venice | 1516.0 |
+| 52   | Thor                 | 1516.0 |
+| 53   | Guy Ritchie’s The Covenant | 1516.0 |
+| 54   | Soul                 | 1516.0 |
+| 55   | The Mandalorian      | 1516.0 |
+| 56   | Wednesday            | 1516.0 |
+| 57   | Doctor Strange       | 1516.0 |
+| 58   | Mission Impossible 3 | 1515.3 |
+| 59   | Life of Pi           | 1515.3 |
+| 60   | Mission Impossible: Fallout | 1515.3 |
+| 61   | The Ring             | 1515.3 |
+| 62   | Jack Ryan            | 1515.3 |
+| 63   | Interstellar         | 1515.3 |
+| 64   | Captain America: The Winter Soldier | 1515.3 |
+| 65   | The Hobbit           | 1514.6 |
+| 66   | The Maze Runner: The Scorch Trials | 1514.5 |
+| 67   | Jack Reacher         | 1514.1 |
 | 68   | Zodiac               | 1513.9 |
 | 69   | Red Notice           | 1513.9 |
 | 70   | The Ninth Gate       | 1513.2 |
@@ -111,33 +111,33 @@ python3 mvr.py
 | 101  | The Spy Next Door    | 1497.3 |
 | 102  | A.I. Artificial Intelligence | 1495.9 |
 | 103  | Pompeii              | 1495.9 |
-| 104  | Mission Impossible: Rogue Nation | 1491.2 |
-| 105  | The Young and Prodigious T.S. Spivet | 1488.8 |
-| 106  | Vagabond             | 1488.1 |
-| 107  | Loki                 | 1487.5 |
-| 108  | Gladiator            | 1487.4 |
-| 109  | Star Trek: Picard    | 1486.9 |
-| 110  | Cars                 | 1486.8 |
-| 111  | The Matrix Revolutions | 1485.5 |
-| 112  | Iron Chef            | 1484.8 |
-| 113  | The Matrix           | 1484.7 |
-| 114  | Top Gun: Maverick    | 1484.7 |
-| 115  | The Mist             | 1484.7 |
-| 116  | The Mask of Zorro    | 1484.0 |
-| 117  | The BFG              | 1484.0 |
-| 118  | Mission Impossible 1 | 1484.0 |
-| 119  | GoldenEye            | 1484.0 |
-| 120  | Skyfall              | 1484.0 |
-| 121  | The Darkest Hour     | 1484.0 |
-| 122  | Land of Bad          | 1484.0 |
-| 123  | A Quiet Place: Day One | 1484.0 |
-| 124  | Frequency            | 1484.0 |
-| 125  | G.I.Joe movie        | 1483.3 |
-| 126  | Red Eye              | 1483.3 |
-| 127  | The Firm             | 1482.7 |
-| 128  | All Quiet on The Western Front | 1482.6 |
-| 129  | American Made        | 1481.9 |
-| 130  | Stillwater           | 1481.3 |
+| 104  | The Young and Prodigious T.S. Spivet | 1488.8 |
+| 105  | Vagabond             | 1488.1 |
+| 106  | Loki                 | 1487.5 |
+| 107  | Gladiator            | 1487.4 |
+| 108  | Star Trek: Picard    | 1486.9 |
+| 109  | Cars                 | 1486.8 |
+| 110  | The Matrix Revolutions | 1485.5 |
+| 111  | Iron Chef            | 1484.8 |
+| 112  | The Matrix           | 1484.7 |
+| 113  | Top Gun: Maverick    | 1484.7 |
+| 114  | The Mist             | 1484.7 |
+| 115  | The Mask of Zorro    | 1484.0 |
+| 116  | The BFG              | 1484.0 |
+| 117  | Mission Impossible 1 | 1484.0 |
+| 118  | GoldenEye            | 1484.0 |
+| 119  | Skyfall              | 1484.0 |
+| 120  | The Darkest Hour     | 1484.0 |
+| 121  | Land of Bad          | 1484.0 |
+| 122  | A Quiet Place: Day One | 1484.0 |
+| 123  | Frequency            | 1484.0 |
+| 124  | G.I.Joe movie        | 1483.3 |
+| 125  | Red Eye              | 1483.3 |
+| 126  | The Firm             | 1482.7 |
+| 127  | All Quiet on The Western Front | 1482.6 |
+| 128  | American Made        | 1481.9 |
+| 129  | Stillwater           | 1481.3 |
+| 130  | Mission Impossible: Rogue Nation | 1476.2 |
 | 131  | Total Recall         | 1474.1 |
 | 132  | Mission Impossible 2 | 1473.6 |
 | 133  | The Matrix Reloaded  | 1472.2 |
