@@ -16,9 +16,9 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1600.5}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1596.8}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1596.2}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1599.2}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1595.2}$ |
@@ -125,7 +125,7 @@ python3 mvr.py
 | $\color{black}\text{115 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{green}\text{118 }$ | $\color{green}\text{American Sniper}$ | $\color{green}\text{1458.3}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1458.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1458.2}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
 | $\color{red}\text{121 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1457.8}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1439.4}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1435.7}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.7}$ |
@@ -167,9 +167,9 @@ python3 mvr.py
 | $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{red}\text{158 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1406.7}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
+| $\color{red}\text{162 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1402.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
