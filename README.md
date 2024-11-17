@@ -44,17 +44,17 @@ python3 mvr.py
 | 34   | X-Men                | 1573.6 |
 | 35   | The Hunger Games     | 1572.3 |
 | 36   | Lost in Space        | 1570.6 |
-| 37   | Scream VI            | 1565.8 |
-| 38   | Loki                 | 1563.0 |
-| 39   | Train to Busan       | 1562.8 |
-| 40   | Shang-Chi and the Legend of the Ten Rings | 1560.7 |
-| 41   | Mission Impossible: Ghost Protocol | 1560.4 |
-| 42   | The Prestige         | 1557.0 |
-| 43   | Mission Impossible: Rogue Nation | 1556.9 |
-| 44   | Catch Me If You Can  | 1556.5 |
-| 45   | The Day After Tomorrow | 1555.0 |
-| 46   | Tenet                | 1554.6 |
-| 47   | The Matrix           | 1553.4 |
+| 37   | The Matrix           | 1567.5 |
+| 38   | Scream VI            | 1565.8 |
+| 39   | Loki                 | 1563.0 |
+| 40   | Train to Busan       | 1562.8 |
+| 41   | Shang-Chi and the Legend of the Ten Rings | 1560.7 |
+| 42   | Mission Impossible: Ghost Protocol | 1560.4 |
+| 43   | The Prestige         | 1557.0 |
+| 44   | Mission Impossible: Rogue Nation | 1556.9 |
+| 45   | Catch Me If You Can  | 1556.5 |
+| 46   | The Day After Tomorrow | 1555.0 |
+| 47   | Tenet                | 1554.6 |
 | 48   | Halo                 | 1552.0 |
 | 49   | Interstellar         | 1550.8 |
 | 50   | Beut Mind            | 1550.6 |
@@ -78,8 +78,8 @@ python3 mvr.py
 | 68   | Zodiac               | 1521.3 |
 | 69   | Star Trek: Picard    | 1521.3 |
 | 70   | Iron Chef            | 1520.2 |
-| 71   | Jack Reacher         | 1519.6 |
-| 72   | Rebel Ridge          | 1519.0 |
+| 71   | Rebel Ridge          | 1519.0 |
+| 72   | Jack Reacher         | 1518.9 |
 | 73   | Thor                 | 1517.3 |
 | 74   | The Spy Next Door    | 1517.0 |
 | 75   | Titanic              | 1516.7 |
@@ -87,16 +87,16 @@ python3 mvr.py
 | 77   | Gladiator            | 1514.8 |
 | 78   | A Boy Called Christmas | 1514.3 |
 | 79   | Mission Impossible 3 | 1512.4 |
-| 80   | Bloodhounds          | 1512.1 |
-| 81   | My Name              | 1509.4 |
-| 82   | Dune                 | 1508.1 |
-| 83   | Shawshank Redemption | 1506.9 |
-| 84   | Captain America: Civil War | 1504.8 |
-| 85   | Total Recall         | 1504.7 |
-| 86   | Dark Waters          | 1502.9 |
-| 87   | Onward               | 1502.2 |
-| 88   | Cars                 | 1501.4 |
-| 89   | The Maze Runner: The Scorch Trials | 1499.0 |
+| 80   | My Name              | 1509.4 |
+| 81   | Dune                 | 1508.1 |
+| 82   | Shawshank Redemption | 1506.9 |
+| 83   | Captain America: Civil War | 1505.4 |
+| 84   | Total Recall         | 1504.7 |
+| 85   | Dark Waters          | 1502.9 |
+| 86   | Onward               | 1502.2 |
+| 87   | Cars                 | 1501.4 |
+| 88   | The Maze Runner: The Scorch Trials | 1499.0 |
+| 89   | Bloodhounds          | 1498.0 |
 | 90   | Lord of the Rings    | 1497.9 |
 | 91   | Ip Man               | 1497.9 |
 | 92   | Sweet Tooth          | 1495.0 |
