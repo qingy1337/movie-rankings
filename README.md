@@ -36,7 +36,7 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
-| $\color{green}\text{29  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1567.5}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
@@ -143,11 +143,11 @@ python3 mvr.py
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1448.8}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.3}$ |
+| $\color{green}\text{136 }$ | $\color{green}\text{Rango}$ | $\color{green}\text{1449.0}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1448.8}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
 | $\color{green}\text{143 }$ | $\color{green}\text{Saving Private Ryan}$ | $\color{green}\text{1434.7}$ |
@@ -158,11 +158,11 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1429.0}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1424.9}$ |
-| $\color{red}\text{152 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1424.4}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1424.4}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
+| $\color{red}\text{155 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1419.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1418.0}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
