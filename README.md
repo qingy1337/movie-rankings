@@ -68,7 +68,7 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.3}$ |
 | $\color{green}\text{60  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1528.3}$ |
-| $\color{green}\text{61  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1528.2}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
@@ -137,11 +137,11 @@ python3 mvr.py
 | $\color{red}\text{127 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1455.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{red}\text{133 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1452.2}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
+| $\color{green}\text{130 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1455.1}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1452.2}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{red}\text{137 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1445.7}$ |
@@ -169,10 +169,10 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1413.0}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1408.1}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1408.1}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1406.8}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
