@@ -12,8 +12,8 @@ python3 mvr.py
 | $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1629.5}$ |
 | $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1621.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1604.2}$ |
+| $\color{green}\text{5   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1608.4}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1599.7}$ |
@@ -55,7 +55,7 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{green}\text{48  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1544.0}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1542.4}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
@@ -97,9 +97,9 @@ python3 mvr.py
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
+| $\color{red}\text{92  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1492.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
@@ -132,7 +132,7 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1454.3}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1453.7}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
