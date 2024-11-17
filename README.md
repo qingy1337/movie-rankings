@@ -10,7 +10,7 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1615.4}$ |
 | $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1604.0}$ |
-| $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1603.1}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1603.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1598.8}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1596.1}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
@@ -56,11 +56,11 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{green}\text{51  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1536.1}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1535.3}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1539.2}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{green}\text{52  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1536.1}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1532.9}$ |
@@ -121,7 +121,7 @@ python3 mvr.py
 | $\color{green}\text{111 }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1472.0}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
-| $\color{red}\text{114 }$ | $\color{red}\text{The Man in the Iron Mask}$ | $\color{red}\text{1465.1}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1465.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1464.8}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
@@ -171,9 +171,9 @@ python3 mvr.py
 | $\color{red}\text{161 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1413.0}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1412.1}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1408.2}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1405.0}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
