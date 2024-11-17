@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1627.4}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1627.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1609.6}$ |
 | $\color{green}\text{3   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1607.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
@@ -41,7 +41,7 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.7}$ |
-| $\color{red}\text{34  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1562.6}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
@@ -76,13 +76,13 @@ python3 mvr.py
 | $\color{black}\text{66  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1521.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1518.3}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
-| $\color{red}\text{74  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1514.1}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
+| $\color{red}\text{73  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1514.1}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
+| $\color{red}\text{75  }$ | $\color{red}\text{Locke and Key}$ | $\color{red}\text{1511.7}$ |
 | $\color{red}\text{76  }$ | $\color{red}\text{Iron Chef}$ | $\color{red}\text{1510.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1508.6}$ |
@@ -99,10 +99,10 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1484.2}$ |
+| $\color{green}\text{92  }$ | $\color{green}\text{Rebel Ridge}$ | $\color{green}\text{1490.8}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1483.9}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1483.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
