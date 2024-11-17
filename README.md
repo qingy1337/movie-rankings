@@ -97,10 +97,10 @@ python3 mvr.py
 | $\color{black}\text{87  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1494.9}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1490.9}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
+| $\color{green}\text{90  }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1494.2}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1490.9}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
@@ -135,12 +135,12 @@ python3 mvr.py
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1456.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
+| $\color{red}\text{133 }$ | $\color{red}\text{A.I. Artificial Intelligence}$ | $\color{red}\text{1448.7}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1447.4}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
@@ -148,7 +148,7 @@ python3 mvr.py
 | $\color{green}\text{138 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1445.7}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
-| $\color{green}\text{141 }$ | $\color{green}\text{All Quiet on The Western Front}$ | $\color{green}\text{1438.7}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1438.7}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{red}\text{144 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1429.9}$ |
