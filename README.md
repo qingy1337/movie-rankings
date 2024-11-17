@@ -31,8 +31,8 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1565.8}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1571.1}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1564.6}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
@@ -67,12 +67,12 @@ python3 mvr.py
 | $\color{black}\text{57  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1529.1}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1526.8}$ |
-| $\color{green}\text{60  }$ | $\color{green}\text{Titanic}$ | $\color{green}\text{1526.5}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1526.2}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{green}\text{1526.2}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1522.3}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
+| $\color{green}\text{61  }$ | $\color{green}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{green}\text{1526.2}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1522.3}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
+| $\color{red}\text{65  }$ | $\color{red}\text{Captain America: Civil War}$ | $\color{red}\text{1520.9}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1519.4}$ |
@@ -164,7 +164,7 @@ python3 mvr.py
 | $\color{red}\text{154 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1426.4}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1425.7}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
-| $\color{red}\text{157 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1422.9}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.9}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1421.9}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
