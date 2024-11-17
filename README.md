@@ -30,21 +30,21 @@ python3 mvr.py
 | 20   | Sneaky Pete          | 1585.6 |
 | 21   | Doctor Strange       | 1580.7 |
 | 22   | Passengers           | 1580.5 |
-| 23   | Locke and Key        | 1579.2 |
-| 24   | Life                 | 1578.9 |
-| 25   | The Ninth Gate       | 1578.5 |
-| 26   | Squid Game           | 1576.9 |
-| 27   | X-Men                | 1575.3 |
-| 28   | The Maze Runner: The Death Cure | 1572.6 |
-| 29   | Vagabond             | 1570.7 |
-| 30   | Source Code          | 1568.2 |
-| 31   | A Quiet Place        | 1567.6 |
-| 32   | X-Files              | 1565.9 |
-| 33   | The Young and Prodigious T.S. Spivet | 1563.8 |
-| 34   | Loki                 | 1563.0 |
-| 35   | The Wild Robot       | 1562.8 |
-| 36   | Avatar 2             | 1561.3 |
-| 37   | Jack Ryan            | 1560.7 |
+| 23   | Vagabond             | 1579.3 |
+| 24   | Locke and Key        | 1579.2 |
+| 25   | Life                 | 1578.9 |
+| 26   | The Ninth Gate       | 1578.5 |
+| 27   | Squid Game           | 1576.9 |
+| 28   | X-Men                | 1575.3 |
+| 29   | Jack Ryan            | 1572.8 |
+| 30   | The Maze Runner: The Death Cure | 1572.6 |
+| 31   | Source Code          | 1568.2 |
+| 32   | A Quiet Place        | 1567.6 |
+| 33   | X-Files              | 1565.9 |
+| 34   | The Young and Prodigious T.S. Spivet | 1563.8 |
+| 35   | Loki                 | 1563.0 |
+| 36   | The Wild Robot       | 1562.8 |
+| 37   | Avatar 2             | 1561.3 |
 | 38   | The Hunger Games     | 1560.4 |
 | 39   | The Illusionist      | 1559.2 |
 | 40   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
@@ -60,10 +60,10 @@ python3 mvr.py
 | 50   | Mission Impossible 3 | 1541.8 |
 | 51   | Scream V             | 1538.4 |
 | 52   | The Prestige         | 1538.4 |
-| 53   | Halo                 | 1537.3 |
-| 54   | The Tomorrow War     | 1536.2 |
-| 55   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 56   | Mission Impossible: Fallout | 1534.9 |
+| 53   | The Tomorrow War     | 1536.2 |
+| 54   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 55   | Mission Impossible: Fallout | 1534.9 |
+| 56   | Halo                 | 1534.0 |
 | 57   | The Day After Tomorrow | 1533.6 |
 | 58   | Rebel Ridge          | 1531.3 |
 | 59   | Titanic              | 1530.0 |
@@ -110,24 +110,24 @@ python3 mvr.py
 | 100  | Zootopia             | 1478.2 |
 | 101  | Sweet Tooth          | 1478.1 |
 | 102  | Rampage              | 1478.0 |
-| 103  | The Matrix Revolutions | 1475.4 |
-| 104  | Saving Private Ryan  | 1472.5 |
-| 105  | American Sniper      | 1472.1 |
-| 106  | Knight and Day       | 1471.6 |
-| 107  | Red Eye              | 1471.5 |
-| 108  | Glass Castle         | 1471.0 |
-| 109  | Johnny English       | 1470.8 |
-| 110  | The Spy Next Door    | 1469.9 |
-| 111  | Land of Bad          | 1469.5 |
-| 112  | The Ring             | 1469.2 |
+| 103  | Saving Private Ryan  | 1472.5 |
+| 104  | American Sniper      | 1472.1 |
+| 105  | Knight and Day       | 1471.6 |
+| 106  | Red Eye              | 1471.5 |
+| 107  | Glass Castle         | 1471.0 |
+| 108  | Johnny English       | 1470.8 |
+| 109  | The Spy Next Door    | 1469.9 |
+| 110  | Land of Bad          | 1469.5 |
+| 111  | The Ring             | 1469.2 |
+| 112  | When a Stranger Calls | 1468.8 |
 | 113  | The Curious Case of Benjamin Button | 1468.4 |
 | 114  | School of Rock       | 1468.0 |
 | 115  | Mission Impossible 1 | 1467.9 |
 | 116  | Iron Chef            | 1465.8 |
-| 117  | When a Stranger Calls | 1465.5 |
-| 118  | The Mist             | 1465.4 |
-| 119  | World War Z          | 1464.8 |
-| 120  | GoldenEye            | 1463.3 |
+| 117  | The Mist             | 1465.4 |
+| 118  | World War Z          | 1464.8 |
+| 119  | GoldenEye            | 1463.3 |
+| 120  | The Matrix Revolutions | 1463.3 |
 | 121  | Road House           | 1461.8 |
 | 122  | The Man in the Iron Mask | 1461.7 |
 | 123  | The Mask             | 1461.3 |
@@ -167,11 +167,11 @@ python3 mvr.py
 | 157  | Stillwater           | 1402.0 |
 | 158  | Everything, everywhere, all at once | 1401.1 |
 | 159  | AK-47 Kalashnikov    | 1399.4 |
-| 160  | Selfless             | 1396.0 |
-| 161  | War Horse            | 1394.0 |
-| 162  | A Quiet Place: Day One | 1392.8 |
-| 163  | Spooky Buddies       | 1388.6 |
-| 164  | All Quiet on The Western Front | 1387.9 |
+| 160  | War Horse            | 1394.0 |
+| 161  | A Quiet Place: Day One | 1392.8 |
+| 162  | Spooky Buddies       | 1388.6 |
+| 163  | All Quiet on The Western Front | 1387.9 |
+| 164  | Selfless             | 1387.5 |
 | 165  | Gravity              | 1383.4 |
 | 166  | Black Hawk Down      | 1376.9 |
 | 167  | Darkest Hour         | 1376.2 |
