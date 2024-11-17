@@ -28,9 +28,9 @@ python3 mvr.py
 | $\color{black}\text{18  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1587.3}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1587.2}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1579.4}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.8}$ |
+| $\color{green}\text{21  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1582.8}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1579.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1571.9}$ |
@@ -96,7 +96,7 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
 | $\color{green}\text{88  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1496.9}$ |
-| $\color{red}\text{89  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1495.9}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1495.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.8}$ |
@@ -126,13 +126,13 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1461.3}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1460.4}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
-| $\color{red}\text{123 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1458.3}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
+| $\color{red}\text{122 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1458.3}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{American Made}$ | $\color{red}\text{1456.3}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
 | $\color{red}\text{128 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1455.8}$ |
@@ -146,7 +146,7 @@ python3 mvr.py
 | $\color{red}\text{136 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1445.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1445.5}$ |
-| $\color{green}\text{139 }$ | $\color{green}\text{G.I.Joe movie}$ | $\color{green}\text{1444.7}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1444.7}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1435.3}$ |
