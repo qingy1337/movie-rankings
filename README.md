@@ -92,17 +92,17 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1503.4}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.9}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
-| $\color{red}\text{90  }$ | $\color{red}\text{Locke and Key}$ | $\color{red}\text{1497.3}$ |
+| $\color{red}\text{85  }$ | $\color{red}\text{Locke and Key}$ | $\color{red}\text{1502.1}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.9}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.0}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
-| $\color{green}\text{95  }$ | $\color{green}\text{Zootopia}$ | $\color{green}\text{1488.7}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
@@ -144,7 +144,7 @@ python3 mvr.py
 | $\color{black}\text{134 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1448.8}$ |
-| $\color{red}\text{137 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1448.3}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.3}$ |
@@ -155,10 +155,10 @@ python3 mvr.py
 | $\color{red}\text{145 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1433.2}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1429.9}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1429.8}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.2}$ |
+| $\color{red}\text{148 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1429.8}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.2}$ |
+| $\color{red}\text{151 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1425.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1424.9}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
