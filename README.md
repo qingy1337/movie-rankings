@@ -42,11 +42,11 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1596.4}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1595.3}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1589.7}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1583.3}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.1}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1580.2}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1579.3}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1575.1}$ |
+| $\color{green}\text{35  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1585.0}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1583.3}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.1}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1580.2}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1579.3}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1572.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1566.0}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1563.0}$ |
@@ -56,7 +56,7 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1556.9}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1556.5}$ |
-| $\color{green}\text{49  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1555.9}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1555.9}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1554.6}$ |
@@ -134,14 +134,14 @@ python3 mvr.py
 | $\color{black}\text{124 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1441.0}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1438.3}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1436.2}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1434.8}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1434.6}$ |
-| $\color{red}\text{129 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1431.7}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1430.6}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1427.6}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1427.2}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1426.6}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1425.6}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1434.6}$ |
+| $\color{red}\text{128 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1431.7}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1430.6}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1427.6}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1427.2}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1426.6}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1425.6}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1425.0}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1424.5}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1420.6}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.2}$ |
