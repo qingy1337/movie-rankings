@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1615.4}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1615.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.8}$ |
@@ -27,11 +27,11 @@ python3 mvr.py
 | $\color{black}\text{17  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1579.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
-| $\color{green}\text{21  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1572.4}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1571.2}$ |
+| $\color{green}\text{20  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1575.5}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
+| $\color{green}\text{22  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1572.4}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
@@ -77,7 +77,7 @@ python3 mvr.py
 | $\color{red}\text{67  }$ | $\color{red}\text{Top Gun: Maverick}$ | $\color{red}\text{1517.9}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.4}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
-| $\color{red}\text{70  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1515.3}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1515.3}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1513.7}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1511.9}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
@@ -123,13 +123,13 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
 | $\color{red}\text{114 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1468.8}$ |
 | $\color{red}\text{115 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1468.3}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
+| $\color{red}\text{122 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1463.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
 | $\color{red}\text{124 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1460.3}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1460.1}$ |
