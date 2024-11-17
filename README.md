@@ -16,15 +16,15 @@ python3 mvr.py
 | 6    | Thirteen Lives       | 1592.6 |
 | 7    | Passengers           | 1591.5 |
 | 8    | Wednesday            | 1590.2 |
-| 9    | No Country for Old Men | 1585.5 |
-| 10   | Pirates of the Caribbean | 1585.5 |
-| 11   | The Maze Runner      | 1585.2 |
-| 12   | X-Men                | 1584.2 |
-| 13   | Harry Potter         | 1583.2 |
-| 14   | Black Panther        | 1582.9 |
-| 15   | Iron Man             | 1580.6 |
-| 16   | The Mandalorian      | 1579.9 |
-| 17   | Sneaky Pete          | 1576.3 |
+| 9    | Sneaky Pete          | 1585.6 |
+| 10   | No Country for Old Men | 1585.5 |
+| 11   | Pirates of the Caribbean | 1585.5 |
+| 12   | The Maze Runner      | 1585.2 |
+| 13   | X-Men                | 1584.2 |
+| 14   | Harry Potter         | 1583.2 |
+| 15   | Black Panther        | 1582.9 |
+| 16   | Iron Man             | 1580.6 |
+| 17   | The Mandalorian      | 1579.9 |
 | 18   | Beut Mind            | 1576.0 |
 | 19   | The Hobbit           | 1575.0 |
 | 20   | Maleficent           | 1573.1 |
@@ -164,8 +164,8 @@ python3 mvr.py
 | 154  | The Last Samurai     | 1425.0 |
 | 155  | Awake                | 1421.0 |
 | 156  | War Horse            | 1419.9 |
-| 157  | Darkest Hour         | 1419.9 |
-| 158  | Arrow                | 1415.3 |
+| 157  | Arrow                | 1415.3 |
+| 158  | Darkest Hour         | 1410.6 |
 | 159  | AK-47 Kalashnikov    | 1409.5 |
 | 160  | Gravity              | 1405.9 |
 | 161  | Zero Dark Thirty     | 1404.6 |
