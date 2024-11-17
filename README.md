@@ -9,9 +9,9 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1596.6}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.3}$ |
-| $\color{green}\text{4   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1582.3}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1587.7}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{green}\text{7   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1578.2}$ |
@@ -38,14 +38,14 @@ python3 mvr.py
 | $\color{black}\text{28  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1549.6}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.3}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{green}\text{37  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1544.7}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.3}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1544.7}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
+| $\color{red}\text{38  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1544.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1542.4}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1541.4}$ |
@@ -147,7 +147,7 @@ python3 mvr.py
 | $\color{red}\text{137 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1454.4}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
 | $\color{red}\text{139 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1453.5}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1452.7}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
