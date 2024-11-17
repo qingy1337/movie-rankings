@@ -38,23 +38,23 @@ python3 mvr.py
 | $\color{black}\text{28  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1553.8}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1553.2}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
+| $\color{green}\text{31  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1554.5}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1553.8}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1553.2}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{green}\text{41  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1545.2}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{red}\text{47  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1537.8}$ |
 | $\color{green}\text{48  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1535.4}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
@@ -111,7 +111,7 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.5}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
-| $\color{green}\text{104 }$ | $\color{green}\text{The Ring 2}$ | $\color{green}\text{1482.0}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1482.0}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
@@ -160,7 +160,7 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1436.6}$ |
-| $\color{red}\text{153 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1434.0}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1434.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1433.9}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
