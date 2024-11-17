@@ -103,21 +103,21 @@ python3 mvr.py
 | 93   | Total Recall         | 1489.5 |
 | 94   | Megan                | 1486.9 |
 | 95   | Onward               | 1486.6 |
-| 96   | Bloodhounds          | 1483.5 |
-| 97   | The Curious Case of Benjamin Button | 1481.1 |
-| 98   | Skyfall              | 1480.6 |
-| 99   | Mission Impossible 2 | 1479.6 |
-| 100  | Ninja Turtles        | 1478.3 |
-| 101  | Rampage              | 1478.0 |
-| 102  | The Matrix Revolutions | 1475.4 |
-| 103  | The Man in the Iron Mask | 1472.8 |
-| 104  | Saving Private Ryan  | 1472.5 |
-| 105  | American Sniper      | 1472.1 |
-| 106  | Knight and Day       | 1471.6 |
-| 107  | Red Eye              | 1471.5 |
-| 108  | The Mask             | 1471.5 |
-| 109  | Jack Reacher: Never Go Back | 1470.7 |
-| 110  | Glass Castle         | 1470.4 |
+| 96   | Glass Castle         | 1485.7 |
+| 97   | Bloodhounds          | 1483.5 |
+| 98   | The Curious Case of Benjamin Button | 1481.1 |
+| 99   | Skyfall              | 1480.6 |
+| 100  | Mission Impossible 2 | 1479.6 |
+| 101  | Ninja Turtles        | 1478.3 |
+| 102  | Rampage              | 1478.0 |
+| 103  | The Matrix Revolutions | 1475.4 |
+| 104  | The Man in the Iron Mask | 1472.8 |
+| 105  | Saving Private Ryan  | 1472.5 |
+| 106  | American Sniper      | 1472.1 |
+| 107  | Knight and Day       | 1471.6 |
+| 108  | Red Eye              | 1471.5 |
+| 109  | The Mask             | 1471.5 |
+| 110  | Jack Reacher: Never Go Back | 1470.7 |
 | 111  | The Spy Next Door    | 1469.9 |
 | 112  | Land of Bad          | 1469.5 |
 | 113  | The Ring             | 1469.2 |
@@ -140,17 +140,17 @@ python3 mvr.py
 | 130  | Terminator           | 1455.5 |
 | 131  | The Darkest Hour     | 1455.1 |
 | 132  | Unbreakable          | 1455.0 |
-| 133  | Horton hears a Who   | 1454.6 |
-| 134  | Red Notice           | 1453.2 |
-| 135  | Johnny English       | 1450.2 |
-| 136  | School of Rock       | 1447.9 |
-| 137  | Journey 2: The Mysterious Island | 1444.1 |
-| 138  | Road House           | 1443.3 |
-| 139  | Cars 3               | 1442.7 |
-| 140  | Avatar: The Last Airbender | 1442.7 |
-| 141  | Independence Day     | 1442.2 |
-| 142  | Frequency            | 1441.7 |
-| 143  | The Ring 2           | 1440.5 |
+| 133  | Red Notice           | 1453.2 |
+| 134  | Johnny English       | 1450.2 |
+| 135  | School of Rock       | 1447.9 |
+| 136  | Journey 2: The Mysterious Island | 1444.1 |
+| 137  | Road House           | 1443.3 |
+| 138  | Cars 3               | 1442.7 |
+| 139  | Avatar: The Last Airbender | 1442.7 |
+| 140  | Independence Day     | 1442.2 |
+| 141  | Frequency            | 1441.7 |
+| 142  | The Ring 2           | 1440.5 |
+| 143  | Horton hears a Who   | 1439.3 |
 | 144  | The Matrix Reloaded  | 1438.3 |
 | 145  | The Silence          | 1434.9 |
 | 146  | Crouching Tiger Hidden Dragon | 1424.2 |
