@@ -99,7 +99,7 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
-| $\color{red}\text{92  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1493.1}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1491.7}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
@@ -143,10 +143,10 @@ python3 mvr.py
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1453.8}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1453.8}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1450.5}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
+| $\color{red}\text{139 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1444.1}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1441.7}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1438.9}$ |
@@ -158,12 +158,12 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1433.6}$ |
 | $\color{red}\text{150 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1432.8}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
-| $\color{red}\text{153 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1428.2}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
+| $\color{green}\text{151 }$ | $\color{green}\text{Arrow}$ | $\color{green}\text{1432.1}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1428.2}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1424.3}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
