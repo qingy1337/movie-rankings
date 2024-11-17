@@ -48,11 +48,11 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1539.4}$ |
+| $\color{green}\text{41  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1545.2}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
@@ -64,12 +64,12 @@ python3 mvr.py
 | $\color{green}\text{54  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1529.8}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
+| $\color{red}\text{62  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1522.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1521.7}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
