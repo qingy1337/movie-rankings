@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1626.7}$ |
+| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1630.8}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1624.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
@@ -43,7 +43,7 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1567.1}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
-| $\color{green}\text{36  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1561.9}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1560.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
@@ -82,9 +82,9 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1514.1}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.9}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.9}$ |
+| $\color{red}\text{77  }$ | $\color{red}\text{Gladiator}$ | $\color{red}\text{1507.3}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
@@ -104,7 +104,7 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
-| $\color{red}\text{97  }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1484.2}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.2}$ |
 | $\color{red}\text{98  }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1483.4}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
