@@ -28,24 +28,24 @@ python3 mvr.py
 | 18   | Sneaky Pete          | 1585.6 |
 | 19   | Maleficent           | 1583.3 |
 | 20   | Doctor Strange       | 1580.7 |
-| 21   | The Ninth Gate       | 1578.5 |
-| 22   | The Hobbit           | 1575.0 |
-| 23   | Avengers: Endgame    | 1573.7 |
-| 24   | Life                 | 1570.4 |
-| 25   | Locke and Key        | 1569.6 |
-| 26   | Squid Game           | 1569.2 |
-| 27   | Source Code          | 1568.2 |
-| 28   | A Quiet Place        | 1567.6 |
-| 29   | X-Files              | 1565.9 |
-| 30   | The Wild Robot       | 1562.8 |
-| 31   | X-Men                | 1561.6 |
-| 32   | Avatar 2             | 1561.3 |
-| 33   | Jack Ryan            | 1560.7 |
-| 34   | The Hunger Games     | 1560.4 |
-| 35   | The Illusionist      | 1559.2 |
-| 36   | Vagabond             | 1558.2 |
-| 37   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
-| 38   | The Maze Runner: The Death Cure | 1557.0 |
+| 21   | Locke and Key        | 1579.2 |
+| 22   | The Ninth Gate       | 1578.5 |
+| 23   | The Hobbit           | 1575.0 |
+| 24   | Avengers: Endgame    | 1573.7 |
+| 25   | The Maze Runner: The Death Cure | 1572.6 |
+| 26   | Life                 | 1570.4 |
+| 27   | Squid Game           | 1569.2 |
+| 28   | Source Code          | 1568.2 |
+| 29   | A Quiet Place        | 1567.6 |
+| 30   | X-Files              | 1565.9 |
+| 31   | The Wild Robot       | 1562.8 |
+| 32   | X-Men                | 1561.6 |
+| 33   | Avatar 2             | 1561.3 |
+| 34   | Jack Ryan            | 1560.7 |
+| 35   | The Hunger Games     | 1560.4 |
+| 36   | The Illusionist      | 1559.2 |
+| 37   | Vagabond             | 1558.2 |
+| 38   | Shang-Chi and the Legend of the Ten Rings | 1557.2 |
 | 39   | Halo                 | 1556.2 |
 | 40   | Tenet                | 1554.6 |
 | 41   | Scream VI            | 1554.1 |
@@ -53,31 +53,31 @@ python3 mvr.py
 | 43   | The Avengers         | 1553.0 |
 | 44   | Beut Mind            | 1552.4 |
 | 45   | Rebel Ridge          | 1551.9 |
-| 46   | The Day After Tomorrow | 1549.3 |
-| 47   | Loki                 | 1547.8 |
-| 48   | Train to Busan       | 1542.2 |
-| 49   | Avengers: Infinity War | 1542.0 |
-| 50   | Catch Me If You Can  | 1541.9 |
-| 51   | Mission Impossible 3 | 1541.8 |
-| 52   | The Prestige         | 1538.4 |
-| 53   | The Maze Runner: The Scorch Trials | 1538.1 |
-| 54   | The Tomorrow War     | 1536.2 |
-| 55   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 56   | Mission Impossible: Fallout | 1534.9 |
+| 46   | Loki                 | 1547.8 |
+| 47   | Train to Busan       | 1542.2 |
+| 48   | Avengers: Infinity War | 1542.0 |
+| 49   | Catch Me If You Can  | 1541.9 |
+| 50   | Mission Impossible 3 | 1541.8 |
+| 51   | The Prestige         | 1538.4 |
+| 52   | The Maze Runner: The Scorch Trials | 1538.1 |
+| 53   | The Tomorrow War     | 1536.2 |
+| 54   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 55   | Mission Impossible: Fallout | 1534.9 |
+| 56   | The Day After Tomorrow | 1533.6 |
 | 57   | Interstellar         | 1531.7 |
 | 58   | The Man Who Knew Infinity | 1530.9 |
 | 59   | Titanic              | 1530.0 |
-| 60   | My Name              | 1528.0 |
-| 61   | Guy Ritchie’s The Covenant | 1527.5 |
-| 62   | Rainman              | 1526.3 |
-| 63   | Replicas             | 1525.3 |
-| 64   | Scream V             | 1524.9 |
-| 65   | Star Trek: Picard    | 1521.3 |
-| 66   | Mission Impossible: Rogue Nation | 1519.4 |
-| 67   | Thor                 | 1516.7 |
-| 68   | Captain America: The Winter Soldier | 1514.6 |
-| 69   | Avatar               | 1514.4 |
-| 70   | The Matrix           | 1513.9 |
+| 60   | The Matrix           | 1528.6 |
+| 61   | My Name              | 1528.0 |
+| 62   | Guy Ritchie’s The Covenant | 1527.5 |
+| 63   | Rainman              | 1526.3 |
+| 64   | Replicas             | 1525.3 |
+| 65   | Scream V             | 1524.9 |
+| 66   | Star Trek: Picard    | 1521.3 |
+| 67   | Mission Impossible: Rogue Nation | 1519.4 |
+| 68   | Thor                 | 1516.7 |
+| 69   | Captain America: The Winter Soldier | 1514.6 |
+| 70   | Avatar               | 1514.4 |
 | 71   | The Terminal List    | 1513.0 |
 | 72   | A Haunting in Venice | 1511.5 |
 | 73   | Ip Man               | 1510.8 |
@@ -94,21 +94,21 @@ python3 mvr.py
 | 84   | Soul                 | 1500.7 |
 | 85   | Lord of the Rings    | 1498.9 |
 | 86   | Pompeii              | 1498.8 |
-| 87   | Rango                | 1498.4 |
-| 88   | A Boy Called Christmas | 1495.6 |
-| 89   | Zootopia             | 1495.5 |
-| 90   | Oppenheimer          | 1493.8 |
-| 91   | Cars 2               | 1492.2 |
-| 92   | Dune                 | 1490.9 |
-| 93   | Total Recall         | 1489.5 |
-| 94   | Megan                | 1486.9 |
-| 95   | Onward               | 1486.6 |
-| 96   | Glass Castle         | 1485.7 |
-| 97   | Bloodhounds          | 1483.5 |
-| 98   | The Curious Case of Benjamin Button | 1481.1 |
-| 99   | Skyfall              | 1480.6 |
-| 100  | Mission Impossible 2 | 1479.6 |
-| 101  | Ninja Turtles        | 1478.3 |
+| 87   | A Boy Called Christmas | 1495.6 |
+| 88   | Zootopia             | 1495.5 |
+| 89   | Oppenheimer          | 1493.8 |
+| 90   | Cars 2               | 1492.2 |
+| 91   | Dune                 | 1490.9 |
+| 92   | Total Recall         | 1489.5 |
+| 93   | Megan                | 1486.9 |
+| 94   | Onward               | 1486.6 |
+| 95   | Bloodhounds          | 1483.5 |
+| 96   | The Curious Case of Benjamin Button | 1481.1 |
+| 97   | Rango                | 1480.7 |
+| 98   | Skyfall              | 1480.6 |
+| 99   | Mission Impossible 2 | 1479.6 |
+| 100  | Ninja Turtles        | 1478.3 |
+| 101  | Sweet Tooth          | 1478.1 |
 | 102  | Rampage              | 1478.0 |
 | 103  | The Matrix Revolutions | 1475.4 |
 | 104  | The Man in the Iron Mask | 1472.8 |
@@ -117,19 +117,19 @@ python3 mvr.py
 | 107  | Knight and Day       | 1471.6 |
 | 108  | Red Eye              | 1471.5 |
 | 109  | The Mask             | 1471.5 |
-| 110  | Jack Reacher: Never Go Back | 1470.7 |
-| 111  | The Spy Next Door    | 1469.9 |
-| 112  | Land of Bad          | 1469.5 |
-| 113  | The Ring             | 1469.2 |
-| 114  | Heidi                | 1468.7 |
-| 115  | Mission Impossible 1 | 1467.9 |
-| 116  | Black Widow          | 1467.2 |
-| 117  | Iron Chef            | 1465.8 |
-| 118  | The Mist             | 1465.4 |
-| 119  | When a Stranger Calls | 1465.4 |
-| 120  | World War Z          | 1464.8 |
-| 121  | GoldenEye            | 1463.3 |
-| 122  | Sweet Tooth          | 1460.3 |
+| 110  | Glass Castle         | 1471.0 |
+| 111  | Jack Reacher: Never Go Back | 1470.7 |
+| 112  | The Spy Next Door    | 1469.9 |
+| 113  | Land of Bad          | 1469.5 |
+| 114  | The Ring             | 1469.2 |
+| 115  | Heidi                | 1468.7 |
+| 116  | Mission Impossible 1 | 1467.9 |
+| 117  | Black Widow          | 1467.2 |
+| 118  | Iron Chef            | 1465.8 |
+| 119  | The Mist             | 1465.4 |
+| 120  | When a Stranger Calls | 1465.4 |
+| 121  | World War Z          | 1464.8 |
+| 122  | GoldenEye            | 1463.3 |
 | 123  | Exam                 | 1460.3 |
 | 124  | The Mask of Zorro    | 1459.8 |
 | 125  | Drunken Master       | 1459.7 |
@@ -156,10 +156,10 @@ python3 mvr.py
 | 146  | Crouching Tiger Hidden Dragon | 1424.2 |
 | 147  | The Last Samurai     | 1423.0 |
 | 148  | Zero Dark Thirty     | 1422.6 |
-| 149  | 65                   | 1422.2 |
-| 150  | The BFG              | 1419.9 |
-| 151  | The Firm             | 1418.1 |
-| 152  | A.I. Artificial Intelligence | 1416.5 |
+| 149  | The BFG              | 1419.9 |
+| 150  | The Firm             | 1418.1 |
+| 151  | A.I. Artificial Intelligence | 1416.5 |
+| 152  | 65                   | 1412.6 |
 | 153  | Selfless             | 1412.1 |
 | 154  | American Made        | 1410.9 |
 | 155  | Arrow                | 1410.6 |
