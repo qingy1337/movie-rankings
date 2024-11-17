@@ -51,10 +51,10 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1545.2}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.8}$ |
+| $\color{green}\text{44  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1542.9}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{green}\text{48  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1536.0}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
@@ -105,18 +105,18 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
-| $\color{green}\text{98  }$ | $\color{green}\text{The Ring 2}$ | $\color{green}\text{1487.3}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1487.3}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.5}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1482.8}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.9}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.9}$ |
+| $\color{red}\text{109 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1477.7}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
@@ -156,7 +156,7 @@ python3 mvr.py
 | $\color{black}\text{146 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.4}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1438.9}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1438.9}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1437.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1436.6}$ |
