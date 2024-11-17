@@ -129,7 +129,7 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.8}$ |
-| $\color{red}\text{122 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1471.3}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1471.3}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
@@ -166,12 +166,12 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1434.4}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1431.5}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1428.5}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1428.5}$ |
+| $\color{green}\text{159 }$ | $\color{green}\text{Heidi}$ | $\color{green}\text{1434.2}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1431.5}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1422.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
-| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1410.2}$ |
+| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1404.5}$ |
