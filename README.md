@@ -73,7 +73,7 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1524.1}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.3}$ |
-| $\color{green}\text{66  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1519.6}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{red}\text{68  }$ | $\color{red}\text{Bloodhounds}$ | $\color{red}\text{1517.3}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
@@ -113,12 +113,12 @@ python3 mvr.py
 | $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.4}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1471.5}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
+| $\color{green}\text{106 }$ | $\color{green}\text{Land of Bad}$ | $\color{green}\text{1476.6}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.4}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1471.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
@@ -150,12 +150,12 @@ python3 mvr.py
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.3}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1433.2}$ |
-| $\color{red}\text{145 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1432.5}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1429.8}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1433.2}$ |
+| $\color{red}\text{144 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1432.5}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1429.8}$ |
+| $\color{red}\text{148 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1429.0}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
@@ -169,7 +169,7 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
-| $\color{red}\text{162 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1412.5}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1412.1}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
