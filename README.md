@@ -44,7 +44,7 @@ python3 mvr.py
 | $\color{black}\text{34  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
-| $\color{red}\text{37  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1560.4}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.4}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1557.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1556.0}$ |
@@ -57,7 +57,7 @@ python3 mvr.py
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1544.6}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.8}$ |
-| $\color{green}\text{50  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1541.2}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
@@ -114,11 +114,11 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
 | $\color{red}\text{106 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1475.7}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{red}\text{108 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1470.5}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1468.5}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.3}$ |
+| $\color{green}\text{107 }$ | $\color{green}\text{Onward}$ | $\color{green}\text{1473.5}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
+| $\color{red}\text{109 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1470.5}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1468.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
@@ -158,11 +158,11 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
-| $\color{red}\text{151 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1420.6}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1420.5}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1420.1}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1420.5}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1420.1}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
+| $\color{red}\text{155 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1415.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1409.5}$ |
