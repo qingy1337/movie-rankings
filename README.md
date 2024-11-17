@@ -20,10 +20,10 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
+| $\color{red}\text{13  }$ | $\color{red}\text{The Mandalorian}$ | $\color{red}\text{1586.5}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1586.1}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1584.5}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
+| $\color{green}\text{16  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1582.4}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1579.9}$ |
@@ -102,10 +102,10 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.0}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{green}\text{95  }$ | $\color{green}\text{World War Z}$ | $\color{green}\text{1488.1}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1488.1}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1486.3}$ |
-| $\color{red}\text{98  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1484.3}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1484.3}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.5}$ |
