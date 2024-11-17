@@ -10,7 +10,7 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1624.2}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
+| $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1616.6}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1604.2}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
@@ -33,7 +33,7 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1578.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.2}$ |
-| $\color{green}\text{26  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1576.0}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
@@ -129,11 +129,11 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1458.3}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1458.2}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
+| $\color{red}\text{126 }$ | $\color{red}\text{Red Eye}$ | $\color{red}\text{1454.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
 | $\color{red}\text{129 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1451.4}$ |
@@ -163,7 +163,7 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
-| $\color{red}\text{156 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1408.3}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1406.7}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
