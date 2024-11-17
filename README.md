@@ -10,8 +10,8 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1611.7}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1599.5}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1588.5}$ |
-| $\color{green}\text{4   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1588.0}$ |
+| $\color{green}\text{3   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1594.7}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1588.5}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.9}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.9}$ |
 | $\color{red}\text{7   }$ | $\color{red}\text{Avengers: Endgame}$ | $\color{red}\text{1585.8}$ |
@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1582.4}$ |
 | $\color{green}\text{11  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1581.6}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1581.3}$ |
-| $\color{green}\text{13  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1580.4}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.4}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1577.6}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1576.7}$ |
@@ -62,14 +62,14 @@ python3 mvr.py
 | $\color{green}\text{52  }$ | $\color{green}\text{Guy Ritchie’s The Covenant}$ | $\color{green}\text{1531.4}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1530.3}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1529.7}$ |
-| $\color{green}\text{56  }$ | $\color{green}\text{Titanic}$ | $\color{green}\text{1529.1}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1529.0}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1527.8}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.8}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.2}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1524.4}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1523.7}$ |
+| $\color{green}\text{55  }$ | $\color{green}\text{Titanic}$ | $\color{green}\text{1529.1}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1529.0}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1527.8}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.8}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.2}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1524.4}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1523.7}$ |
+| $\color{red}\text{62  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1523.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.8}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1521.3}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1520.1}$ |
@@ -177,6 +177,6 @@ python3 mvr.py
 | $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1406.4}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1404.8}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.6}$ |
-| $\color{red}\text{170 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1401.3}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.3}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1400.6}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1391.7}$ |
