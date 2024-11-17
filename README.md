@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | Wednesday            | 1636.5 |
+| 1    | Wednesday            | 1647.9 |
 | 2    | The Martian          | 1624.7 |
 | 3    | Lost in Space        | 1622.3 |
 | 4    | Harry Potter         | 1618.8 |
@@ -22,23 +22,23 @@ python3 mvr.py
 | 12   | No Country for Old Men | 1601.7 |
 | 13   | Black Panther        | 1599.9 |
 | 14   | The Mandalorian      | 1597.1 |
-| 15   | Maleficent           | 1594.4 |
-| 16   | Avengers: Endgame    | 1591.8 |
-| 17   | The Hobbit           | 1588.8 |
-| 18   | Avengers: Age of Ultron | 1588.6 |
-| 19   | The Maze Runner      | 1586.0 |
-| 20   | Sneaky Pete          | 1585.6 |
+| 15   | Sneaky Pete          | 1596.8 |
+| 16   | Maleficent           | 1594.4 |
+| 17   | Avengers: Endgame    | 1591.8 |
+| 18   | The Hobbit           | 1588.8 |
+| 19   | Avengers: Age of Ultron | 1588.6 |
+| 20   | The Maze Runner      | 1586.0 |
 | 21   | Doctor Strange       | 1580.7 |
 | 22   | Passengers           | 1580.5 |
 | 23   | Vagabond             | 1579.3 |
 | 24   | Locke and Key        | 1579.2 |
 | 25   | Life                 | 1578.9 |
 | 26   | The Ninth Gate       | 1578.5 |
-| 27   | Squid Game           | 1576.9 |
-| 28   | X-Men                | 1575.3 |
-| 29   | Jack Ryan            | 1572.8 |
-| 30   | The Maze Runner: The Death Cure | 1572.6 |
-| 31   | Source Code          | 1568.2 |
+| 27   | Source Code          | 1577.7 |
+| 28   | Squid Game           | 1576.9 |
+| 29   | X-Men                | 1575.3 |
+| 30   | Jack Ryan            | 1572.8 |
+| 31   | The Maze Runner: The Death Cure | 1572.6 |
 | 32   | A Quiet Place        | 1567.6 |
 | 33   | X-Files              | 1565.9 |
 | 34   | The Young and Prodigious T.S. Spivet | 1563.8 |
@@ -63,15 +63,15 @@ python3 mvr.py
 | 53   | The Tomorrow War     | 1536.2 |
 | 54   | Mission Impossible: Ghost Protocol | 1535.3 |
 | 55   | Mission Impossible: Fallout | 1534.9 |
-| 56   | Halo                 | 1534.0 |
-| 57   | The Day After Tomorrow | 1533.6 |
-| 58   | Rebel Ridge          | 1531.3 |
-| 59   | Titanic              | 1530.0 |
-| 60   | My Name              | 1528.0 |
-| 61   | Guy Ritchie’s The Covenant | 1527.5 |
-| 62   | Rainman              | 1526.3 |
-| 63   | Replicas             | 1525.3 |
-| 64   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
+| 56   | The Day After Tomorrow | 1533.6 |
+| 57   | Rebel Ridge          | 1531.3 |
+| 58   | Titanic              | 1530.0 |
+| 59   | My Name              | 1528.0 |
+| 60   | Guy Ritchie’s The Covenant | 1527.5 |
+| 61   | Rainman              | 1526.3 |
+| 62   | Replicas             | 1525.3 |
+| 63   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
+| 64   | Halo                 | 1522.6 |
 | 65   | Star Trek: Picard    | 1521.3 |
 | 66   | The Maze Runner: The Scorch Trials | 1518.0 |
 | 67   | Thor                 | 1516.7 |
@@ -104,23 +104,23 @@ python3 mvr.py
 | 94   | Bloodhounds          | 1483.5 |
 | 95   | Rango                | 1480.7 |
 | 96   | Pompeii              | 1480.3 |
-| 97   | Mission Impossible 2 | 1479.6 |
-| 98   | Cars 2               | 1478.5 |
-| 99   | Ninja Turtles        | 1478.3 |
-| 100  | Zootopia             | 1478.2 |
-| 101  | Sweet Tooth          | 1478.1 |
-| 102  | Rampage              | 1478.0 |
-| 103  | Saving Private Ryan  | 1472.5 |
-| 104  | American Sniper      | 1472.1 |
-| 105  | Knight and Day       | 1471.6 |
-| 106  | Red Eye              | 1471.5 |
-| 107  | Glass Castle         | 1471.0 |
-| 108  | Johnny English       | 1470.8 |
-| 109  | The Spy Next Door    | 1469.9 |
-| 110  | Land of Bad          | 1469.5 |
-| 111  | The Ring             | 1469.2 |
-| 112  | When a Stranger Calls | 1468.8 |
-| 113  | The Curious Case of Benjamin Button | 1468.4 |
+| 97   | Cars 2               | 1478.5 |
+| 98   | Ninja Turtles        | 1478.3 |
+| 99   | Zootopia             | 1478.2 |
+| 100  | Sweet Tooth          | 1478.1 |
+| 101  | Rampage              | 1478.0 |
+| 102  | Saving Private Ryan  | 1472.5 |
+| 103  | American Sniper      | 1472.1 |
+| 104  | Knight and Day       | 1471.6 |
+| 105  | Red Eye              | 1471.5 |
+| 106  | Glass Castle         | 1471.0 |
+| 107  | Johnny English       | 1470.8 |
+| 108  | The Spy Next Door    | 1469.9 |
+| 109  | Land of Bad          | 1469.5 |
+| 110  | The Ring             | 1469.2 |
+| 111  | When a Stranger Calls | 1468.8 |
+| 112  | The Curious Case of Benjamin Button | 1468.4 |
+| 113  | Mission Impossible 2 | 1468.3 |
 | 114  | School of Rock       | 1468.0 |
 | 115  | Mission Impossible 1 | 1467.9 |
 | 116  | Iron Chef            | 1465.8 |
@@ -151,23 +151,23 @@ python3 mvr.py
 | 141  | Horton hears a Who   | 1439.3 |
 | 142  | The Matrix Reloaded  | 1438.3 |
 | 143  | The Silence          | 1434.9 |
-| 144  | Journey 2: The Mysterious Island | 1429.8 |
-| 145  | Independence Day     | 1429.3 |
-| 146  | American Made        | 1426.9 |
-| 147  | Crouching Tiger Hidden Dragon | 1424.2 |
-| 148  | The BFG              | 1419.9 |
-| 149  | The Firm             | 1418.1 |
-| 150  | A.I. Artificial Intelligence | 1416.5 |
-| 151  | The Last Samurai     | 1414.3 |
-| 152  | Arrow                | 1410.6 |
-| 153  | Awake                | 1409.8 |
-| 154  | 65                   | 1403.9 |
-| 155  | Zero Dark Thirty     | 1403.3 |
-| 156  | Jurassic World: Dominion | 1403.0 |
-| 157  | Stillwater           | 1402.0 |
-| 158  | Everything, everywhere, all at once | 1401.1 |
-| 159  | AK-47 Kalashnikov    | 1399.4 |
-| 160  | War Horse            | 1394.0 |
+| 144  | A.I. Artificial Intelligence | 1432.2 |
+| 145  | Journey 2: The Mysterious Island | 1429.8 |
+| 146  | Independence Day     | 1429.3 |
+| 147  | American Made        | 1426.9 |
+| 148  | Crouching Tiger Hidden Dragon | 1424.2 |
+| 149  | The BFG              | 1419.9 |
+| 150  | The Last Samurai     | 1414.3 |
+| 151  | Arrow                | 1410.6 |
+| 152  | Awake                | 1409.8 |
+| 153  | 65                   | 1403.9 |
+| 154  | Zero Dark Thirty     | 1403.3 |
+| 155  | Jurassic World: Dominion | 1403.0 |
+| 156  | Stillwater           | 1402.0 |
+| 157  | Everything, everywhere, all at once | 1401.1 |
+| 158  | AK-47 Kalashnikov    | 1399.4 |
+| 159  | War Horse            | 1394.0 |
+| 160  | The Firm             | 1392.9 |
 | 161  | A Quiet Place: Day One | 1392.8 |
 | 162  | Spooky Buddies       | 1388.6 |
 | 163  | All Quiet on The Western Front | 1387.9 |
