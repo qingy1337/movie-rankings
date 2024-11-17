@@ -19,7 +19,7 @@ python3 mvr.py
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1633.7}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1630.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1629.7}$ |
-| $\color{green}\text{12  }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1627.4}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1627.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1627.2}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1627.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1624.9}$ |
@@ -43,11 +43,11 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1589.7}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1583.3}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1580.2}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1579.2}$ |
-| $\color{green}\text{37  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1577.7}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1575.1}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1572.2}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1567.5}$ |
+| $\color{green}\text{36  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1579.3}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1579.2}$ |
+| $\color{green}\text{38  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1577.7}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1575.1}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1572.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1565.5}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1563.0}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1559.3}$ |
@@ -110,14 +110,14 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1478.9}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1478.1}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1475.0}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.8}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1470.4}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1469.5}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1469.0}$ |
-| $\color{green}\text{108 }$ | $\color{green}\text{John Wick}$ | $\color{green}\text{1468.8}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1465.1}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.8}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1470.4}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1469.5}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1469.0}$ |
+| $\color{green}\text{107 }$ | $\color{green}\text{John Wick}$ | $\color{green}\text{1468.8}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1465.1}$ |
+| $\color{red}\text{110 }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1463.2}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1462.2}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1462.0}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1459.6}$ |
@@ -157,7 +157,7 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1395.5}$ |
 | $\color{red}\text{149 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1392.0}$ |
-| $\color{red}\text{150 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1383.3}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1383.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1382.0}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1380.9}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1379.5}$ |
