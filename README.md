@@ -26,15 +26,15 @@ python3 mvr.py
 | 16   | Iron Man             | 1569.1 |
 | 17   | Source Code          | 1567.6 |
 | 18   | Sneaky Pete          | 1564.5 |
-| 19   | Star Wars            | 1560.9 |
-| 20   | Squid Game           | 1560.7 |
-| 21   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
-| 22   | Halo                 | 1557.9 |
-| 23   | The Hobbit           | 1557.0 |
-| 24   | The Maze Runner: The Scorch Trials | 1554.2 |
-| 25   | X-Files              | 1551.6 |
-| 26   | Avengers: Age of Ultron | 1551.0 |
-| 27   | My Name              | 1548.8 |
+| 19   | My Name              | 1563.4 |
+| 20   | Star Wars            | 1560.9 |
+| 21   | Squid Game           | 1560.7 |
+| 22   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
+| 23   | Halo                 | 1557.9 |
+| 24   | The Hobbit           | 1557.0 |
+| 25   | The Maze Runner: The Scorch Trials | 1554.2 |
+| 26   | X-Files              | 1551.6 |
+| 27   | Avengers: Age of Ultron | 1551.0 |
 | 28   | No Country for Old Men | 1548.7 |
 | 29   | Avatar 2             | 1547.5 |
 | 30   | Shawshank Redemption | 1547.2 |
@@ -66,18 +66,18 @@ python3 mvr.py
 | 56   | The Avengers         | 1522.0 |
 | 57   | The Young and Prodigious T.S. Spivet | 1521.9 |
 | 58   | The Matrix           | 1519.4 |
-| 59   | Glass Castle         | 1519.3 |
-| 60   | Lord of the Rings    | 1519.1 |
-| 61   | Inception            | 1517.3 |
-| 62   | The Hunger Games     | 1516.2 |
-| 63   | GoldenEye            | 1516.2 |
-| 64   | Scream V             | 1516.0 |
-| 65   | Cars                 | 1515.8 |
-| 66   | Interstellar         | 1515.2 |
-| 67   | Wrath of Man         | 1514.7 |
-| 68   | Captain America: The Winter Soldier | 1514.6 |
-| 69   | Avatar               | 1514.4 |
-| 70   | Guy Ritchie’s The Covenant | 1514.2 |
+| 59   | Lord of the Rings    | 1519.1 |
+| 60   | Inception            | 1517.3 |
+| 61   | The Hunger Games     | 1516.2 |
+| 62   | GoldenEye            | 1516.2 |
+| 63   | Scream V             | 1516.0 |
+| 64   | Cars                 | 1515.8 |
+| 65   | Interstellar         | 1515.2 |
+| 66   | Wrath of Man         | 1514.7 |
+| 67   | Captain America: The Winter Soldier | 1514.6 |
+| 68   | Avatar               | 1514.4 |
+| 69   | Guy Ritchie’s The Covenant | 1514.2 |
+| 70   | Mission Impossible 3 | 1514.1 |
 | 71   | Zodiac               | 1513.9 |
 | 72   | The Tomorrow War     | 1510.6 |
 | 73   | Zootopia             | 1510.5 |
@@ -90,30 +90,30 @@ python3 mvr.py
 | 80   | Megan                | 1507.0 |
 | 81   | Star Trek: Picard    | 1506.8 |
 | 82   | The Man in the Iron Mask | 1506.8 |
-| 83   | Thor                 | 1502.4 |
-| 84   | Soul                 | 1502.0 |
-| 85   | A Haunting in Venice | 1501.3 |
-| 86   | The Ring             | 1500.7 |
-| 87   | Jack Reacher: Never Go Back | 1500.1 |
-| 88   | Cars 2               | 1499.8 |
-| 89   | Jack Reacher         | 1499.0 |
-| 90   | Mission Impossible 3 | 1498.1 |
-| 91   | Terminator           | 1497.2 |
-| 92   | Ip Man               | 1495.6 |
-| 93   | G.I.Joe movie        | 1495.0 |
-| 94   | World War Z          | 1490.6 |
-| 95   | Oppenheimer          | 1489.4 |
-| 96   | Gladiator            | 1487.2 |
-| 97   | Total Recall         | 1486.7 |
-| 98   | Land of Bad          | 1485.0 |
-| 99   | Saving Private Ryan  | 1484.5 |
-| 100  | Skyfall              | 1484.0 |
-| 101  | Knight and Day       | 1483.7 |
-| 102  | The Ring 2           | 1483.7 |
-| 103  | The BFG              | 1483.6 |
-| 104  | Bloodhounds          | 1483.5 |
-| 105  | Pompeii              | 1483.4 |
-| 106  | The Curious Case of Benjamin Button | 1483.0 |
+| 83   | Glass Castle         | 1504.7 |
+| 84   | Thor                 | 1502.4 |
+| 85   | Soul                 | 1502.0 |
+| 86   | A Haunting in Venice | 1501.3 |
+| 87   | The Ring             | 1500.7 |
+| 88   | Jack Reacher: Never Go Back | 1500.1 |
+| 89   | Cars 2               | 1499.8 |
+| 90   | Jack Reacher         | 1499.0 |
+| 91   | Ip Man               | 1495.6 |
+| 92   | G.I.Joe movie        | 1495.0 |
+| 93   | World War Z          | 1490.6 |
+| 94   | Oppenheimer          | 1489.4 |
+| 95   | Gladiator            | 1487.2 |
+| 96   | Total Recall         | 1486.7 |
+| 97   | Land of Bad          | 1485.0 |
+| 98   | Saving Private Ryan  | 1484.5 |
+| 99   | Skyfall              | 1484.0 |
+| 100  | Knight and Day       | 1483.7 |
+| 101  | The Ring 2           | 1483.7 |
+| 102  | The BFG              | 1483.6 |
+| 103  | Bloodhounds          | 1483.5 |
+| 104  | Pompeii              | 1483.4 |
+| 105  | The Curious Case of Benjamin Button | 1483.0 |
+| 106  | Terminator           | 1481.3 |
 | 107  | Horton hears a Who   | 1480.1 |
 | 108  | Mission Impossible: Rogue Nation | 1479.4 |
 | 109  | The Spy Next Door    | 1478.6 |
@@ -131,13 +131,13 @@ python3 mvr.py
 | 121  | Red Eye              | 1471.2 |
 | 122  | A Boy Called Christmas | 1471.2 |
 | 123  | Peter the Rabbit     | 1470.0 |
-| 124  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 125  | Heidi                | 1468.7 |
-| 126  | Avatar: The Last Airbender | 1468.7 |
-| 127  | Iron Chef            | 1468.7 |
-| 128  | Unbreakable          | 1468.5 |
-| 129  | Top Gun              | 1468.2 |
-| 130  | Ninja Turtles        | 1468.2 |
+| 124  | Heidi                | 1468.7 |
+| 125  | Avatar: The Last Airbender | 1468.7 |
+| 126  | Iron Chef            | 1468.7 |
+| 127  | Unbreakable          | 1468.5 |
+| 128  | Top Gun              | 1468.2 |
+| 129  | Ninja Turtles        | 1468.2 |
+| 130  | Crouching Tiger Hidden Dragon | 1468.2 |
 | 131  | Mission Impossible 1 | 1468.0 |
 | 132  | Frequency            | 1466.7 |
 | 133  | Rampage              | 1462.0 |
@@ -147,8 +147,8 @@ python3 mvr.py
 | 137  | Top Gun: Maverick    | 1457.5 |
 | 138  | The Silence          | 1456.9 |
 | 139  | Cars 3               | 1456.1 |
-| 140  | Journey 2: The Mysterious Island | 1454.8 |
-| 141  | John Wick            | 1454.2 |
+| 140  | John Wick            | 1454.8 |
+| 141  | Journey 2: The Mysterious Island | 1454.8 |
 | 142  | The Mist             | 1453.7 |
 | 143  | The Firm             | 1453.0 |
 | 144  | A.I. Artificial Intelligence | 1450.8 |
