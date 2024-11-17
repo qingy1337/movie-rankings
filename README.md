@@ -27,8 +27,8 @@ python3 mvr.py
 | $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1579.9}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
+| $\color{green}\text{20  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1578.1}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
@@ -40,10 +40,10 @@ python3 mvr.py
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1562.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{green}\text{33  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1559.5}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1559.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
-| $\color{red}\text{36  }$ | $\color{red}\text{Avatar 2}$ | $\color{red}\text{1557.7}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1553.5}$ |
@@ -105,10 +105,10 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{red}\text{96  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1486.3}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1486.0}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1483.2}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1483.2}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
+| $\color{red}\text{101 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1481.5}$ |
 | $\color{green}\text{102 }$ | $\color{green}\text{Johnny English}$ | $\color{green}\text{1480.5}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
