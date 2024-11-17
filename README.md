@@ -61,11 +61,11 @@ python3 mvr.py
 | $\color{green}\text{51  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1536.3}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1535.3}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1534.5}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
-| $\color{green}\text{57  }$ | $\color{green}\text{Guy Ritchie’s The Covenant}$ | $\color{green}\text{1530.7}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
+| $\color{green}\text{54  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1535.0}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1534.5}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1530.7}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
@@ -123,16 +123,16 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
-| $\color{green}\text{116 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1465.5}$ |
-| $\color{green}\text{117 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1464.8}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
-| $\color{red}\text{119 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1464.3}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
-| $\color{red}\text{123 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1463.3}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
+| $\color{green}\text{116 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1464.8}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
+| $\color{red}\text{118 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1464.3}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
+| $\color{green}\text{125 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1460.6}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
