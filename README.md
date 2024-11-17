@@ -55,15 +55,15 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{red}\text{56  }$ | $\color{red}\text{Jack Reacher}$ | $\color{red}\text{1537.6}$ |
+| $\color{red}\text{48  }$ | $\color{red}\text{Jack Reacher}$ | $\color{red}\text{1542.4}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
@@ -77,7 +77,7 @@ python3 mvr.py
 | $\color{black}\text{67  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1523.3}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1518.8}$ |
-| $\color{green}\text{70  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1518.7}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.7}$ |
 | $\color{red}\text{71  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1516.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
@@ -111,7 +111,7 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1477.2}$ |
-| $\color{red}\text{104 }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1476.8}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1476.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1475.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
@@ -120,8 +120,8 @@ python3 mvr.py
 | $\color{black}\text{110 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1465.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1465.7}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
+| $\color{red}\text{114 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1460.9}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1459.8}$ |
