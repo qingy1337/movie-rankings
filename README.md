@@ -64,30 +64,30 @@ python3 mvr.py
 | 54   | The Mandalorian      | 1516.0 |
 | 55   | Wednesday            | 1516.0 |
 | 56   | Doctor Strange       | 1516.0 |
-| 57   | Life of Pi           | 1515.3 |
-| 58   | Mission Impossible: Fallout | 1515.3 |
-| 59   | The Ring             | 1515.3 |
-| 60   | Jack Ryan            | 1515.3 |
-| 61   | Interstellar         | 1515.3 |
-| 62   | Captain America: The Winter Soldier | 1515.3 |
-| 63   | The Hobbit           | 1514.6 |
-| 64   | The Maze Runner: The Scorch Trials | 1514.5 |
-| 65   | Jack Reacher         | 1514.1 |
-| 66   | The Tomorrow War     | 1514.1 |
-| 67   | Zodiac               | 1513.9 |
-| 68   | Red Notice           | 1513.9 |
-| 69   | The Ninth Gate       | 1513.2 |
-| 70   | The Prestige         | 1512.5 |
-| 71   | The Avengers         | 1511.8 |
-| 72   | The Last Samurai     | 1510.5 |
-| 73   | Top Gun              | 1503.4 |
-| 74   | School of Rock       | 1502.7 |
-| 75   | The Maze Runner      | 1501.7 |
-| 76   | The Terminal List    | 1501.5 |
-| 77   | Black Widow          | 1500.8 |
-| 78   | Avatar 2             | 1500.7 |
-| 79   | Avatar               | 1500.7 |
-| 80   | Mission Impossible 3 | 1500.7 |
+| 57   | Mission Impossible 3 | 1515.3 |
+| 58   | Life of Pi           | 1515.3 |
+| 59   | Mission Impossible: Fallout | 1515.3 |
+| 60   | The Ring             | 1515.3 |
+| 61   | Jack Ryan            | 1515.3 |
+| 62   | Interstellar         | 1515.3 |
+| 63   | Captain America: The Winter Soldier | 1515.3 |
+| 64   | The Hobbit           | 1514.6 |
+| 65   | The Maze Runner: The Scorch Trials | 1514.5 |
+| 66   | Jack Reacher         | 1514.1 |
+| 67   | The Tomorrow War     | 1514.1 |
+| 68   | Zodiac               | 1513.9 |
+| 69   | Red Notice           | 1513.9 |
+| 70   | The Ninth Gate       | 1513.2 |
+| 71   | The Prestige         | 1512.5 |
+| 72   | The Avengers         | 1511.8 |
+| 73   | The Last Samurai     | 1510.5 |
+| 74   | Top Gun              | 1503.4 |
+| 75   | School of Rock       | 1502.7 |
+| 76   | The Maze Runner      | 1501.7 |
+| 77   | The Terminal List    | 1501.5 |
+| 78   | Black Widow          | 1500.8 |
+| 79   | Avatar 2             | 1500.7 |
+| 80   | Avatar               | 1500.7 |
 | 81   | Ninja Turtles        | 1500.7 |
 | 82   | Unbreakable          | 1500.6 |
 | 83   | My Name              | 1500.1 |
@@ -141,30 +141,30 @@ python3 mvr.py
 | 131  | Total Recall         | 1474.1 |
 | 132  | Mission Impossible 2 | 1473.6 |
 | 133  | The Matrix Reloaded  | 1472.2 |
-| 134  | Road House           | 1470.9 |
-| 135  | A Boy Called Christmas | 1470.8 |
-| 136  | Journey 2: The Mysterious Island | 1470.0 |
-| 137  | Drunken Master       | 1469.5 |
-| 138  | Crouching Tiger Hidden Dragon | 1469.5 |
-| 139  | The Man Who Knew Infinity | 1469.5 |
-| 140  | Sweet Tooth          | 1469.4 |
-| 141  | Johnny English       | 1468.8 |
-| 142  | Peter the Rabbit     | 1468.8 |
-| 143  | When a Stranger Calls | 1468.8 |
-| 144  | Heidi                | 1468.7 |
-| 145  | The Mask             | 1468.7 |
-| 146  | Avatar: The Last Airbender | 1468.7 |
-| 147  | Horton hears a Who   | 1468.7 |
-| 148  | Rango                | 1468.7 |
-| 149  | Onward               | 1468.1 |
-| 150  | "Everything, everywhere, all at once" | 1468.1 |
-| 151  | The Man in the Iron Mask | 1468.0 |
-| 152  | Shadow               | 1468.0 |
-| 153  | Arrow                | 1468.0 |
-| 154  | 65                   | 1467.4 |
-| 155  | The Silence          | 1467.4 |
-| 156  | Zero Dark Thirty     | 1457.6 |
-| 157  | Black Hawk Down      | 1456.9 |
+| 134  | A Boy Called Christmas | 1470.8 |
+| 135  | Journey 2: The Mysterious Island | 1470.0 |
+| 136  | Drunken Master       | 1469.5 |
+| 137  | Crouching Tiger Hidden Dragon | 1469.5 |
+| 138  | The Man Who Knew Infinity | 1469.5 |
+| 139  | Sweet Tooth          | 1469.4 |
+| 140  | Johnny English       | 1468.8 |
+| 141  | Peter the Rabbit     | 1468.8 |
+| 142  | When a Stranger Calls | 1468.8 |
+| 143  | Heidi                | 1468.7 |
+| 144  | The Mask             | 1468.7 |
+| 145  | Avatar: The Last Airbender | 1468.7 |
+| 146  | Horton hears a Who   | 1468.7 |
+| 147  | Rango                | 1468.7 |
+| 148  | Onward               | 1468.1 |
+| 149  | "Everything, everywhere, all at once" | 1468.1 |
+| 150  | The Man in the Iron Mask | 1468.0 |
+| 151  | Shadow               | 1468.0 |
+| 152  | Arrow                | 1468.0 |
+| 153  | 65                   | 1467.4 |
+| 154  | The Silence          | 1467.4 |
+| 155  | Zero Dark Thirty     | 1457.6 |
+| 156  | Black Hawk Down      | 1456.9 |
+| 157  | Road House           | 1456.3 |
 | 158  | Cars 3               | 1456.1 |
 | 159  | Awake                | 1455.6 |
 | 160  | American Sniper      | 1454.9 |
