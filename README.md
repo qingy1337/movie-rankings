@@ -29,7 +29,7 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1586.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
 | $\color{green}\text{21  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1581.4}$ |
-| $\color{green}\text{22  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1578.8}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.8}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1577.3}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1574.1}$ |
@@ -79,13 +79,13 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1512.5}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1508.6}$ |
+| $\color{green}\text{72  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1513.2}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1512.5}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1504.4}$ |
@@ -117,7 +117,7 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1475.8}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
-| $\color{red}\text{110 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1468.5}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1468.5}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.3}$ |
 | $\color{red}\text{112 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1466.4}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
@@ -157,10 +157,10 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1420.6}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1420.6}$ |
+| $\color{red}\text{153 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1420.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
