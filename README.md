@@ -17,13 +17,13 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{red}\text{8   }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1577.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1575.6}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1576.5}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1570.4}$ |
+| $\color{red}\text{14  }$ | $\color{red}\text{Thirteen Lives}$ | $\color{red}\text{1569.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
-| $\color{red}\text{16  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1568.2}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
@@ -80,7 +80,7 @@ python3 mvr.py
 | $\color{black}\text{70  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1512.4}$ |
-| $\color{green}\text{73  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1512.2}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1511.6}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
