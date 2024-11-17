@@ -14,30 +14,30 @@ python3 mvr.py
 | 4    | The Maze Runner: The Death Cure | 1558.3 |
 | 5    | Avengers: Age of Ultron | 1546.5 |
 | 6    | Dune                 | 1545.8 |
-| 7    | Locke and Key        | 1545.2 |
-| 8    | World War Z          | 1545.0 |
-| 9    | Black Panther        | 1544.6 |
-| 10   | Halo                 | 1544.5 |
-| 11   | Beut Mind            | 1544.4 |
-| 12   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
-| 13   | Catch Me If You Can  | 1541.9 |
-| 14   | Megan                | 1541.3 |
-| 15   | Sneaky Pete          | 1534.0 |
-| 16   | Avengers: Infinity War | 1533.4 |
-| 17   | X-Men                | 1533.4 |
-| 18   | Squid Game           | 1532.8 |
-| 19   | Avengers: Endgame    | 1532.0 |
-| 20   | Inception            | 1531.9 |
-| 21   | A Quiet Place        | 1531.3 |
-| 22   | Lost in Space        | 1531.3 |
-| 23   | Jack Ryan            | 1531.3 |
-| 24   | Source Code          | 1531.3 |
-| 25   | Passengers           | 1531.3 |
-| 26   | Dark Waters          | 1531.3 |
-| 27   | Shawshank Redemption | 1531.3 |
-| 28   | Pirates of the Caribbean | 1531.3 |
-| 29   | Wednesday            | 1531.2 |
-| 30   | Thirteen Lives       | 1530.6 |
+| 7    | Source Code          | 1545.8 |
+| 8    | Locke and Key        | 1545.2 |
+| 9    | World War Z          | 1545.0 |
+| 10   | Black Panther        | 1544.6 |
+| 11   | Halo                 | 1544.5 |
+| 12   | Beut Mind            | 1544.4 |
+| 13   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 14   | Catch Me If You Can  | 1541.9 |
+| 15   | Thirteen Lives       | 1541.5 |
+| 16   | Megan                | 1541.3 |
+| 17   | Sneaky Pete          | 1534.0 |
+| 18   | Avengers: Infinity War | 1533.4 |
+| 19   | X-Men                | 1533.4 |
+| 20   | Squid Game           | 1532.8 |
+| 21   | Avengers: Endgame    | 1532.0 |
+| 22   | Inception            | 1531.9 |
+| 23   | A Quiet Place        | 1531.3 |
+| 24   | Lost in Space        | 1531.3 |
+| 25   | Jack Ryan            | 1531.3 |
+| 26   | Passengers           | 1531.3 |
+| 27   | Dark Waters          | 1531.3 |
+| 28   | Shawshank Redemption | 1531.3 |
+| 29   | Pirates of the Caribbean | 1531.3 |
+| 30   | Wednesday            | 1531.2 |
 | 31   | Harry Potter         | 1530.5 |
 | 32   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
 | 33   | Maleficent           | 1530.5 |
@@ -92,29 +92,29 @@ python3 mvr.py
 | 82   | My Name              | 1500.1 |
 | 83   | Selfless             | 1500.0 |
 | 84   | Wrath of Man         | 1500.0 |
-| 85   | Jack Reacher: Never Go Back | 1500.0 |
-| 86   | Glass Castle         | 1500.0 |
-| 87   | Life                 | 1500.0 |
-| 88   | Star Wars            | 1500.0 |
-| 89   | Guy Ritchie’s The Covenant | 1500.0 |
-| 90   | Interstellar         | 1499.9 |
-| 91   | Oppenheimer          | 1499.4 |
-| 92   | Independence Day     | 1499.3 |
-| 93   | Terminator           | 1499.3 |
-| 94   | Mission Impossible 3 | 1499.2 |
-| 95   | The Curious Case of Benjamin Button | 1498.7 |
-| 96   | Rebel Ridge          | 1498.6 |
-| 97   | The Ring 2           | 1498.6 |
-| 98   | Bloodhounds          | 1497.9 |
-| 99   | The Spy Next Door    | 1497.3 |
-| 100  | A.I. Artificial Intelligence | 1495.9 |
-| 101  | The Young and Prodigious T.S. Spivet | 1488.8 |
-| 102  | American Sniper      | 1488.4 |
-| 103  | Vagabond             | 1488.1 |
-| 104  | Loki                 | 1487.5 |
-| 105  | Gladiator            | 1487.4 |
-| 106  | Star Trek: Picard    | 1486.9 |
-| 107  | Cars                 | 1486.8 |
+| 85   | Glass Castle         | 1500.0 |
+| 86   | Life                 | 1500.0 |
+| 87   | Star Wars            | 1500.0 |
+| 88   | Guy Ritchie’s The Covenant | 1500.0 |
+| 89   | Interstellar         | 1499.9 |
+| 90   | Oppenheimer          | 1499.4 |
+| 91   | Independence Day     | 1499.3 |
+| 92   | Terminator           | 1499.3 |
+| 93   | Mission Impossible 3 | 1499.2 |
+| 94   | The Curious Case of Benjamin Button | 1498.7 |
+| 95   | Rebel Ridge          | 1498.6 |
+| 96   | The Ring 2           | 1498.6 |
+| 97   | Bloodhounds          | 1497.9 |
+| 98   | The Spy Next Door    | 1497.3 |
+| 99   | A.I. Artificial Intelligence | 1495.9 |
+| 100  | The Young and Prodigious T.S. Spivet | 1488.8 |
+| 101  | American Sniper      | 1488.4 |
+| 102  | Vagabond             | 1488.1 |
+| 103  | Loki                 | 1487.5 |
+| 104  | Gladiator            | 1487.4 |
+| 105  | Star Trek: Picard    | 1486.9 |
+| 106  | Cars                 | 1486.8 |
+| 107  | Jack Reacher: Never Go Back | 1485.4 |
 | 108  | Iron Chef            | 1484.8 |
 | 109  | Horton hears a Who   | 1484.7 |
 | 110  | The Matrix           | 1484.7 |
@@ -176,5 +176,5 @@ python3 mvr.py
 | 166  | War Horse            | 1440.1 |
 | 167  | The Battle at Lake Changjin | 1429.2 |
 | 168  | AK-47 Kalashnikov    | 1428.3 |
-| 169  | Gravity              | 1416.9 |
-| 170  | Spectral             | 1416.4 |
+| 169  | Spectral             | 1416.4 |
+| 170  | Gravity              | 1405.9 |
