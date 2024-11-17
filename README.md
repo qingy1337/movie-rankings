@@ -17,10 +17,10 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1578.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1575.4}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{green}\text{15  }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1566.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
@@ -46,12 +46,12 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1544.7}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1544.1}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1542.4}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1541.4}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1541.4}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
+| $\color{red}\text{44  }$ | $\color{red}\text{Captain America: The Winter Soldier}$ | $\color{red}\text{1536.9}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
@@ -68,7 +68,7 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1521.2}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
-| $\color{green}\text{61  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1520.2}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1520.2}$ |
 | $\color{green}\text{62  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1520.0}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
@@ -108,7 +108,7 @@ python3 mvr.py
 | $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
 | $\color{red}\text{99  }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1485.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{red}\text{101 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1484.6}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
 | $\color{red}\text{103 }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1484.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
