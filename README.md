@@ -54,19 +54,19 @@ python3 mvr.py
 | 44   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
 | 45   | Avengers: Infinity War | 1542.0 |
 | 46   | Catch Me If You Can  | 1541.9 |
-| 47   | The Avengers         | 1539.7 |
-| 48   | Rebel Ridge          | 1537.6 |
-| 49   | Loki                 | 1536.1 |
-| 50   | Train to Busan       | 1535.6 |
-| 51   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 52   | Avengers: Endgame    | 1535.0 |
-| 53   | Mission Impossible: Fallout | 1534.9 |
-| 54   | The Day After Tomorrow | 1534.3 |
-| 55   | The Man Who Knew Infinity | 1530.9 |
-| 56   | Tenet                | 1530.5 |
-| 57   | Scream V             | 1530.4 |
-| 58   | Mission Impossible 3 | 1528.7 |
-| 59   | Shawshank Redemption | 1528.4 |
+| 47   | Shawshank Redemption | 1541.2 |
+| 48   | The Avengers         | 1539.7 |
+| 49   | Rebel Ridge          | 1537.6 |
+| 50   | Loki                 | 1536.1 |
+| 51   | Train to Busan       | 1535.6 |
+| 52   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 53   | Avengers: Endgame    | 1535.0 |
+| 54   | Mission Impossible: Fallout | 1534.9 |
+| 55   | The Day After Tomorrow | 1534.3 |
+| 56   | The Man Who Knew Infinity | 1530.9 |
+| 57   | Tenet                | 1530.5 |
+| 58   | Scream V             | 1530.4 |
+| 59   | Mission Impossible 3 | 1528.7 |
 | 60   | Guy Ritchie’s The Covenant | 1527.5 |
 | 61   | Zodiac               | 1527.3 |
 | 62   | Rainman              | 1526.3 |
@@ -134,18 +134,18 @@ python3 mvr.py
 | 124  | The Mask of Zorro    | 1459.8 |
 | 125  | Drunken Master       | 1459.7 |
 | 126  | Mission Impossible 2 | 1459.6 |
-| 127  | Skyfall              | 1457.9 |
-| 128  | Road House           | 1457.7 |
-| 129  | Mission Impossible 1 | 1457.0 |
-| 130  | The Ring 2           | 1456.2 |
-| 131  | Peter the Rabbit     | 1455.9 |
-| 132  | G.I.Joe movie        | 1455.9 |
-| 133  | Terminator           | 1455.5 |
-| 134  | Unbreakable          | 1455.0 |
-| 135  | Journey 2: The Mysterious Island | 1454.8 |
-| 136  | Horton hears a Who   | 1454.6 |
-| 137  | Sweet Tooth          | 1446.2 |
-| 138  | The Silence          | 1445.4 |
+| 127  | Road House           | 1457.7 |
+| 128  | Mission Impossible 1 | 1457.0 |
+| 129  | The Ring 2           | 1456.2 |
+| 130  | Peter the Rabbit     | 1455.9 |
+| 131  | G.I.Joe movie        | 1455.9 |
+| 132  | Terminator           | 1455.5 |
+| 133  | Unbreakable          | 1455.0 |
+| 134  | Journey 2: The Mysterious Island | 1454.8 |
+| 135  | Horton hears a Who   | 1454.6 |
+| 136  | Sweet Tooth          | 1446.2 |
+| 137  | The Silence          | 1445.4 |
+| 138  | Skyfall              | 1445.1 |
 | 139  | Cars 3               | 1442.7 |
 | 140  | Johnny English       | 1442.4 |
 | 141  | Independence Day     | 1442.2 |
