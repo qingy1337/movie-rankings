@@ -47,7 +47,7 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
-| $\color{red}\text{40  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1554.5}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1554.5}$ |
 | $\color{green}\text{41  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1553.6}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1552.3}$ |
@@ -59,7 +59,7 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
-| $\color{green}\text{52  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1539.7}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1537.6}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
@@ -106,12 +106,12 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1484.3}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
-| $\color{red}\text{103 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1479.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1479.3}$ |
+| $\color{green}\text{99  }$ | $\color{green}\text{Rebel Ridge}$ | $\color{green}\text{1484.2}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
+| $\color{red}\text{104 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1479.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1477.6}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
@@ -165,10 +165,10 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1414.9}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1413.4}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1408.7}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1408.7}$ |
+| $\color{red}\text{161 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1408.5}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1408.1}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1406.8}$ |
