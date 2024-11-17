@@ -26,15 +26,15 @@ python3 mvr.py
 | $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1566.5}$ |
-| $\color{green}\text{19  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1563.5}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
+| $\color{green}\text{19  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1566.1}$ |
+| $\color{green}\text{20  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1563.5}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
-| $\color{green}\text{27  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1554.3}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1554.3}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1550.6}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
@@ -135,7 +135,7 @@ python3 mvr.py
 | $\color{black}\text{125 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{red}\text{128 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1461.4}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1461.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1461.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
@@ -161,9 +161,9 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1437.1}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
+| $\color{red}\text{156 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1433.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1433.1}$ |
 | $\color{red}\text{158 }$ | $\color{red}\text{65}$ | $\color{red}\text{1431.7}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
