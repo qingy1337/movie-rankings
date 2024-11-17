@@ -33,7 +33,7 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1561.2}$ |
-| $\color{green}\text{26  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1560.5}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1559.6}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1559.0}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
@@ -43,7 +43,7 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
 | $\color{green}\text{34  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1552.5}$ |
 | $\color{green}\text{35  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1551.9}$ |
-| $\color{red}\text{36  }$ | $\color{red}\text{Source Code}$ | $\color{red}\text{1550.9}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1550.7}$ |
 | $\color{red}\text{38  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1550.3}$ |
 | $\color{red}\text{39  }$ | $\color{red}\text{Train to Busan}$ | $\color{red}\text{1549.9}$ |
@@ -54,20 +54,20 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1538.1}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
+| $\color{red}\text{50  }$ | $\color{red}\text{Loki}$ | $\color{red}\text{1531.8}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.8}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1528.3}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1525.2}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
+| $\color{green}\text{54  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1530.1}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.8}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1528.3}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1525.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
