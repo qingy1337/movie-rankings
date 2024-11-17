@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1606.3}$ |
+| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1610.9}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1587.7}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
@@ -39,7 +39,7 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1549.2}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{red}\text{32  }$ | $\color{red}\text{The Avengers}$ | $\color{red}\text{1548.0}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
@@ -61,16 +61,16 @@ python3 mvr.py
 | $\color{black}\text{51  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1524.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1521.4}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1521.2}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1520.2}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1521.4}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1521.2}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1520.2}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
+| $\color{red}\text{63  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1518.5}$ |
 | $\color{green}\text{64  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1518.3}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
