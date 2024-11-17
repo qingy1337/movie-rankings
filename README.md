@@ -52,12 +52,12 @@ python3 mvr.py
 | $\color{black}\text{42  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.3}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1537.6}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
+| $\color{green}\text{45  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1539.4}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1537.6}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
@@ -68,7 +68,7 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1526.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{green}\text{61  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1522.3}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1522.3}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.7}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1521.7}$ |
@@ -168,11 +168,11 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{red}\text{161 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1418.3}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.2}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1415.5}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1418.3}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1415.5}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{65}$ | $\color{red}\text{1413.2}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1409.5}$ |
