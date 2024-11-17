@@ -13,9 +13,9 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1604.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
-| $\color{green}\text{6   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1598.9}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1596.8}$ |
+| $\color{green}\text{6   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1600.5}$ |
+| $\color{green}\text{7   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1598.9}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1595.2}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.4}$ |
@@ -51,7 +51,7 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
-| $\color{green}\text{44  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1551.7}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1551.7}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1547.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
@@ -129,15 +129,15 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
-| $\color{red}\text{122 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1458.3}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{American Made}$ | $\color{red}\text{1456.3}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
-| $\color{red}\text{128 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1455.8}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
+| $\color{red}\text{124 }$ | $\color{red}\text{American Made}$ | $\color{red}\text{1456.3}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
+| $\color{red}\text{127 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1455.8}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
+| $\color{red}\text{130 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1454.6}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1382.8}$ |
+| $\color{black}\text{172 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
