@@ -20,13 +20,13 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
 | $\color{green}\text{11  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1591.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1586.3}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1583.3}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1589.1}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1586.3}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1574.1}$ |
@@ -39,9 +39,9 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
+| $\color{red}\text{34  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1560.8}$ |
 | $\color{green}\text{35  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1560.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1559.5}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
@@ -115,7 +115,7 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1477.6}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{green}\text{108 }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1473.4}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
@@ -164,7 +164,7 @@ python3 mvr.py
 | $\color{red}\text{154 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1417.7}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
-| $\color{red}\text{157 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1414.9}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1414.9}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1413.4}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
