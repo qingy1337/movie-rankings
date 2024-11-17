@@ -42,29 +42,29 @@ python3 mvr.py
 | 32   | Scream VI            | 1558.1 |
 | 33   | The Maze Runner: The Death Cure | 1557.0 |
 | 34   | Doctor Strange       | 1555.5 |
-| 35   | The Maze Runner: The Scorch Trials | 1552.1 |
-| 36   | My Name              | 1548.0 |
-| 37   | The Wild Robot       | 1547.0 |
-| 38   | Jack Ryan            | 1546.5 |
-| 39   | The Hunger Games     | 1545.4 |
-| 40   | The Young and Prodigious T.S. Spivet | 1544.3 |
-| 41   | The Prestige         | 1544.1 |
-| 42   | Life                 | 1543.3 |
-| 43   | A Quiet Place        | 1543.3 |
-| 44   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
-| 45   | Avengers: Infinity War | 1542.0 |
-| 46   | Catch Me If You Can  | 1541.9 |
-| 47   | Shawshank Redemption | 1541.2 |
-| 48   | The Avengers         | 1539.7 |
-| 49   | Rebel Ridge          | 1537.6 |
-| 50   | Loki                 | 1536.1 |
-| 51   | Train to Busan       | 1535.6 |
-| 52   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 53   | Avengers: Endgame    | 1535.0 |
-| 54   | Mission Impossible: Fallout | 1534.9 |
-| 55   | The Day After Tomorrow | 1534.3 |
-| 56   | The Man Who Knew Infinity | 1530.9 |
-| 57   | Tenet                | 1530.5 |
+| 35   | The Avengers         | 1553.0 |
+| 36   | The Maze Runner: The Scorch Trials | 1552.1 |
+| 37   | My Name              | 1548.0 |
+| 38   | The Wild Robot       | 1547.0 |
+| 39   | Jack Ryan            | 1546.5 |
+| 40   | The Hunger Games     | 1545.4 |
+| 41   | The Young and Prodigious T.S. Spivet | 1544.3 |
+| 42   | The Prestige         | 1544.1 |
+| 43   | Life                 | 1543.3 |
+| 44   | A Quiet Place        | 1543.3 |
+| 45   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
+| 46   | Avengers: Infinity War | 1542.0 |
+| 47   | Catch Me If You Can  | 1541.9 |
+| 48   | Tenet                | 1541.6 |
+| 49   | Shawshank Redemption | 1541.2 |
+| 50   | Rebel Ridge          | 1537.6 |
+| 51   | Loki                 | 1536.1 |
+| 52   | Train to Busan       | 1535.6 |
+| 53   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 54   | Avengers: Endgame    | 1535.0 |
+| 55   | Mission Impossible: Fallout | 1534.9 |
+| 56   | The Day After Tomorrow | 1534.3 |
+| 57   | The Man Who Knew Infinity | 1530.9 |
 | 58   | Scream V             | 1530.4 |
 | 59   | Mission Impossible 3 | 1528.7 |
 | 60   | Guy Ritchie’s The Covenant | 1527.5 |
@@ -109,22 +109,22 @@ python3 mvr.py
 | 99   | Jack Reacher: Never Go Back | 1483.5 |
 | 100  | The Curious Case of Benjamin Button | 1483.0 |
 | 101  | GoldenEye            | 1481.6 |
-| 102  | Black Widow          | 1479.9 |
-| 103  | A Boy Called Christmas | 1479.3 |
-| 104  | Rampage              | 1478.0 |
-| 105  | When a Stranger Calls | 1477.8 |
-| 106  | The Mist             | 1475.6 |
-| 107  | Red Notice           | 1474.4 |
-| 108  | World War Z          | 1472.5 |
-| 109  | Saving Private Ryan  | 1472.5 |
-| 110  | The Matrix Reloaded  | 1472.2 |
-| 111  | Onward               | 1472.1 |
-| 112  | Knight and Day       | 1471.6 |
-| 113  | Red Eye              | 1471.5 |
-| 114  | The Matrix Revolutions | 1471.5 |
-| 115  | The Mask             | 1471.5 |
-| 116  | Land of Bad          | 1469.5 |
-| 117  | Heidi                | 1468.7 |
+| 102  | A Boy Called Christmas | 1479.3 |
+| 103  | Rampage              | 1478.0 |
+| 104  | When a Stranger Calls | 1477.8 |
+| 105  | The Mist             | 1475.6 |
+| 106  | Red Notice           | 1474.4 |
+| 107  | World War Z          | 1472.5 |
+| 108  | Saving Private Ryan  | 1472.5 |
+| 109  | The Matrix Reloaded  | 1472.2 |
+| 110  | Onward               | 1472.1 |
+| 111  | Knight and Day       | 1471.6 |
+| 112  | Red Eye              | 1471.5 |
+| 113  | The Matrix Revolutions | 1471.5 |
+| 114  | The Mask             | 1471.5 |
+| 115  | Land of Bad          | 1469.5 |
+| 116  | Heidi                | 1468.7 |
+| 117  | Black Widow          | 1466.7 |
 | 118  | Iron Chef            | 1465.8 |
 | 119  | The Spy Next Door    | 1465.6 |
 | 120  | Frequency            | 1465.3 |
@@ -160,12 +160,12 @@ python3 mvr.py
 | 150  | The BFG              | 1431.0 |
 | 151  | Stillwater           | 1426.5 |
 | 152  | The Darkest Hour     | 1425.0 |
-| 153  | Awake                | 1421.0 |
-| 154  | War Horse            | 1419.9 |
-| 155  | American Made        | 1418.9 |
-| 156  | Arrow                | 1415.3 |
-| 157  | A.I. Artificial Intelligence | 1412.5 |
-| 158  | Darkest Hour         | 1410.6 |
+| 153  | War Horse            | 1419.9 |
+| 154  | American Made        | 1418.9 |
+| 155  | Arrow                | 1415.3 |
+| 156  | A.I. Artificial Intelligence | 1412.5 |
+| 157  | Darkest Hour         | 1410.6 |
+| 158  | Awake                | 1409.8 |
 | 159  | AK-47 Kalashnikov    | 1409.5 |
 | 160  | Gravity              | 1405.9 |
 | 161  | Zero Dark Thirty     | 1404.6 |
