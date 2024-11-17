@@ -41,16 +41,16 @@ python3 mvr.py
 | 31   | A Haunting in Venice | 1516.0 |
 | 32   | Lord of the Rings    | 1516.0 |
 | 33   | Doctor Strange       | 1516.0 |
-| 34   | School of Rock       | 1516.0 |
-| 35   | Rebel Ridge          | 1516.0 |
-| 36   | Bloodhounds          | 1516.0 |
-| 37   | Rainman              | 1516.0 |
-| 38   | Pirates of the Caribbean | 1516.0 |
-| 39   | Guy Ritchie’s The Covenant | 1516.0 |
-| 40   | The Mandalorian      | 1516.0 |
+| 34   | Rebel Ridge          | 1516.0 |
+| 35   | Bloodhounds          | 1516.0 |
+| 36   | Rainman              | 1516.0 |
+| 37   | Pirates of the Caribbean | 1516.0 |
+| 38   | Guy Ritchie’s The Covenant | 1516.0 |
+| 39   | The Mandalorian      | 1516.0 |
+| 40   | School of Rock       | 1516.0 |
 | 41   | Maleficent           | 1516.0 |
-| 42   | Thirteen Lives       | 1515.3 |
-| 43   | My Name              | 1515.3 |
+| 42   | My Name              | 1515.3 |
+| 43   | Thirteen Lives       | 1515.3 |
 | 44   | The Ring             | 1515.3 |
 | 45   | Jack Ryan            | 1515.3 |
 | 46   | No Country for Old Men | 1515.3 |
