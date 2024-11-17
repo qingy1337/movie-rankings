@@ -91,19 +91,19 @@ python3 mvr.py
 | 81   | Cars                 | 1501.0 |
 | 82   | Soul                 | 1500.7 |
 | 83   | Lord of the Rings    | 1498.9 |
-| 84   | Pompeii              | 1498.8 |
-| 85   | Shawshank Redemption | 1495.7 |
-| 86   | A Boy Called Christmas | 1495.6 |
-| 87   | Zootopia             | 1495.5 |
-| 88   | Oppenheimer          | 1493.8 |
-| 89   | Zodiac               | 1491.3 |
-| 90   | Dune                 | 1490.9 |
-| 91   | Total Recall         | 1489.5 |
-| 92   | Megan                | 1486.9 |
-| 93   | Onward               | 1486.6 |
-| 94   | Bloodhounds          | 1483.5 |
-| 95   | Rango                | 1480.7 |
-| 96   | Skyfall              | 1480.6 |
+| 84   | Shawshank Redemption | 1495.7 |
+| 85   | A Boy Called Christmas | 1495.6 |
+| 86   | Zootopia             | 1495.5 |
+| 87   | Oppenheimer          | 1493.8 |
+| 88   | Zodiac               | 1491.3 |
+| 89   | Dune                 | 1490.9 |
+| 90   | Total Recall         | 1489.5 |
+| 91   | Megan                | 1486.9 |
+| 92   | Onward               | 1486.6 |
+| 93   | Bloodhounds          | 1483.5 |
+| 94   | Rango                | 1480.7 |
+| 95   | Skyfall              | 1480.6 |
+| 96   | Pompeii              | 1480.3 |
 | 97   | Mission Impossible 2 | 1479.6 |
 | 98   | Cars 2               | 1478.5 |
 | 99   | Ninja Turtles        | 1478.3 |
@@ -131,20 +131,20 @@ python3 mvr.py
 | 121  | When a Stranger Calls | 1465.4 |
 | 122  | World War Z          | 1464.8 |
 | 123  | GoldenEye            | 1463.3 |
-| 124  | Exam                 | 1460.3 |
-| 125  | The Mask of Zorro    | 1459.8 |
-| 126  | Drunken Master       | 1459.7 |
-| 127  | John Wick            | 1459.6 |
-| 128  | Wrath of Man         | 1456.9 |
-| 129  | Peter the Rabbit     | 1455.9 |
-| 130  | G.I.Joe movie        | 1455.9 |
-| 131  | Terminator           | 1455.5 |
-| 132  | The Darkest Hour     | 1455.1 |
-| 133  | Unbreakable          | 1455.0 |
-| 134  | Red Notice           | 1453.2 |
-| 135  | School of Rock       | 1447.9 |
-| 136  | Journey 2: The Mysterious Island | 1444.1 |
-| 137  | Road House           | 1443.3 |
+| 124  | Road House           | 1461.8 |
+| 125  | Exam                 | 1460.3 |
+| 126  | The Mask of Zorro    | 1459.8 |
+| 127  | Drunken Master       | 1459.7 |
+| 128  | John Wick            | 1459.6 |
+| 129  | Wrath of Man         | 1456.9 |
+| 130  | Peter the Rabbit     | 1455.9 |
+| 131  | G.I.Joe movie        | 1455.9 |
+| 132  | Terminator           | 1455.5 |
+| 133  | The Darkest Hour     | 1455.1 |
+| 134  | Unbreakable          | 1455.0 |
+| 135  | Red Notice           | 1453.2 |
+| 136  | School of Rock       | 1447.9 |
+| 137  | Journey 2: The Mysterious Island | 1444.1 |
 | 138  | Cars 3               | 1442.7 |
 | 139  | Avatar: The Last Airbender | 1442.7 |
 | 140  | Frequency            | 1441.7 |
