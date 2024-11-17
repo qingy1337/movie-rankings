@@ -21,9 +21,9 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
-| $\color{red}\text{15  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1568.2}$ |
-| $\color{green}\text{16  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1566.4}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1570.4}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
+| $\color{red}\text{16  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1568.2}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
@@ -115,7 +115,7 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
-| $\color{green}\text{108 }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1479.4}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1479.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
@@ -137,7 +137,7 @@ python3 mvr.py
 | $\color{black}\text{127 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
-| $\color{red}\text{130 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1458.9}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1457.9}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1456.9}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1456.3}$ |
@@ -154,9 +154,9 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1450.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1446.3}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1442.5}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1442.5}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
+| $\color{red}\text{149 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1442.3}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1440.9}$ |
