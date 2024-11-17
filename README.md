@@ -94,15 +94,15 @@ python3 mvr.py
 | 84   | Lord of the Rings    | 1498.9 |
 | 85   | Shawshank Redemption | 1495.7 |
 | 86   | A Boy Called Christmas | 1495.6 |
-| 87   | Oppenheimer          | 1493.8 |
-| 88   | Dune                 | 1490.9 |
-| 89   | Total Recall         | 1489.5 |
-| 90   | Onward               | 1487.3 |
-| 91   | Megan                | 1486.9 |
-| 92   | Black Widow          | 1484.5 |
-| 93   | Bloodhounds          | 1483.5 |
-| 94   | Rango                | 1480.7 |
-| 95   | Skyfall              | 1480.6 |
+| 87   | Skyfall              | 1494.9 |
+| 88   | Oppenheimer          | 1493.8 |
+| 89   | Dune                 | 1490.9 |
+| 90   | Total Recall         | 1489.5 |
+| 91   | Onward               | 1487.3 |
+| 92   | Megan                | 1486.9 |
+| 93   | Black Widow          | 1484.5 |
+| 94   | Bloodhounds          | 1483.5 |
+| 95   | Rango                | 1480.7 |
 | 96   | Pompeii              | 1480.3 |
 | 97   | Mission Impossible 2 | 1479.6 |
 | 98   | Cars 2               | 1478.5 |
@@ -124,8 +124,8 @@ python3 mvr.py
 | 114  | School of Rock       | 1468.0 |
 | 115  | Mission Impossible 1 | 1467.9 |
 | 116  | Iron Chef            | 1465.8 |
-| 117  | The Mist             | 1465.4 |
-| 118  | World War Z          | 1464.8 |
+| 117  | World War Z          | 1464.8 |
+| 118  | The Mist             | 1464.3 |
 | 119  | GoldenEye            | 1463.3 |
 | 120  | The Matrix Revolutions | 1463.3 |
 | 121  | Road House           | 1461.8 |
@@ -144,14 +144,14 @@ python3 mvr.py
 | 134  | Unbreakable          | 1455.0 |
 | 135  | Heidi                | 1454.8 |
 | 136  | Red Notice           | 1453.2 |
-| 137  | Journey 2: The Mysterious Island | 1444.1 |
-| 138  | Cars 3               | 1442.7 |
-| 139  | Avatar: The Last Airbender | 1442.7 |
-| 140  | Frequency            | 1441.7 |
-| 141  | The Ring 2           | 1440.5 |
-| 142  | Horton hears a Who   | 1439.3 |
-| 143  | The Matrix Reloaded  | 1438.3 |
-| 144  | The Silence          | 1434.9 |
+| 137  | Cars 3               | 1442.7 |
+| 138  | Avatar: The Last Airbender | 1442.7 |
+| 139  | Frequency            | 1441.7 |
+| 140  | The Ring 2           | 1441.6 |
+| 141  | Horton hears a Who   | 1439.3 |
+| 142  | The Matrix Reloaded  | 1438.3 |
+| 143  | The Silence          | 1434.9 |
+| 144  | Journey 2: The Mysterious Island | 1429.8 |
 | 145  | Independence Day     | 1429.3 |
 | 146  | American Made        | 1426.9 |
 | 147  | Crouching Tiger Hidden Dragon | 1424.2 |
