@@ -42,36 +42,36 @@ python3 mvr.py
 | 32   | School of Rock       | 1516.0 |
 | 33   | Rebel Ridge          | 1516.0 |
 | 34   | Mission Impossible: Ghost Protocol | 1516.0 |
-| 35   | Titanic              | 1516.0 |
-| 36   | Rainman              | 1516.0 |
-| 37   | Pirates of the Caribbean | 1516.0 |
-| 38   | Guy Ritchie’s The Covenant | 1516.0 |
-| 39   | Journey 2: The Mysterious Island | 1515.9 |
-| 40   | Halo                 | 1515.3 |
-| 41   | Pompeii              | 1515.3 |
-| 42   | The Ring             | 1515.3 |
-| 43   | Jack Ryan            | 1515.3 |
-| 44   | No Country for Old Men | 1515.3 |
-| 45   | Mission Impossible: Dead Reckoning P1 | 1515.3 |
-| 46   | The Last Samurai     | 1515.3 |
-| 47   | The Hobbit           | 1514.6 |
-| 48   | The Avengers         | 1514.6 |
-| 49   | Shang-Chi and the Legend of the Ten Rings | 1514.6 |
-| 50   | World War Z          | 1501.5 |
-| 51   | Avatar 2             | 1500.7 |
-| 52   | The Day After Tomorrow | 1500.7 |
-| 53   | Mission Impossible 3 | 1500.7 |
-| 54   | Lost in Space        | 1500.7 |
-| 55   | Sneaky Pete          | 1500.0 |
-| 56   | A.I. Artificial Intelligence | 1500.0 |
-| 57   | 65                   | 1500.0 |
-| 58   | The Matrix           | 1500.0 |
-| 59   | Selfless             | 1500.0 |
-| 60   | Zootopia             | 1500.0 |
-| 61   | Stillwater           | 1500.0 |
-| 62   | Cars 2               | 1500.0 |
-| 63   | Cars 3               | 1500.0 |
-| 64   | The Terminal List    | 1500.0 |
+| 35   | Bloodhounds          | 1516.0 |
+| 36   | Titanic              | 1516.0 |
+| 37   | Rainman              | 1516.0 |
+| 38   | Pirates of the Caribbean | 1516.0 |
+| 39   | Guy Ritchie’s The Covenant | 1516.0 |
+| 40   | Journey 2: The Mysterious Island | 1515.9 |
+| 41   | Halo                 | 1515.3 |
+| 42   | Pompeii              | 1515.3 |
+| 43   | The Ring             | 1515.3 |
+| 44   | Jack Ryan            | 1515.3 |
+| 45   | No Country for Old Men | 1515.3 |
+| 46   | Mission Impossible: Dead Reckoning P1 | 1515.3 |
+| 47   | The Last Samurai     | 1515.3 |
+| 48   | The Hobbit           | 1514.6 |
+| 49   | The Avengers         | 1514.6 |
+| 50   | Shang-Chi and the Legend of the Ten Rings | 1514.6 |
+| 51   | World War Z          | 1501.5 |
+| 52   | Avatar 2             | 1500.7 |
+| 53   | The Day After Tomorrow | 1500.7 |
+| 54   | Mission Impossible 3 | 1500.7 |
+| 55   | Lost in Space        | 1500.7 |
+| 56   | Sneaky Pete          | 1500.0 |
+| 57   | A.I. Artificial Intelligence | 1500.0 |
+| 58   | 65                   | 1500.0 |
+| 59   | The Matrix           | 1500.0 |
+| 60   | Selfless             | 1500.0 |
+| 61   | Zootopia             | 1500.0 |
+| 62   | Stillwater           | 1500.0 |
+| 63   | Cars 2               | 1500.0 |
+| 64   | Cars 3               | 1500.0 |
 | 65   | Locke and Key        | 1500.0 |
 | 66   | Rango                | 1500.0 |
 | 67   | Loki                 | 1500.0 |
@@ -114,33 +114,33 @@ python3 mvr.py
 | 104  | Thor                 | 1500.0 |
 | 105  | The Curious Case of Benjamin Button | 1500.0 |
 | 106  | Mission Impossible: Fallout | 1500.0 |
-| 107  | Bloodhounds          | 1500.0 |
-| 108  | My Name              | 1500.0 |
-| 109  | Shadow               | 1500.0 |
-| 110  | GoldenEye            | 1500.0 |
-| 111  | Sweet Tooth          | 1500.0 |
-| 112  | X-Files              | 1500.0 |
-| 113  | The Darkest Hour     | 1500.0 |
-| 114  | Top Gun: Maverick    | 1500.0 |
-| 115  | A Quiet Place        | 1500.0 |
-| 116  | The Young and Prodigious T.S. Spivet | 1500.0 |
-| 117  | Soul                 | 1500.0 |
-| 118  | The Mandalorian      | 1500.0 |
-| 119  | American Made        | 1499.3 |
-| 120  | Exam                 | 1499.3 |
-| 121  | Zodiac               | 1499.3 |
-| 122  | Onward               | 1499.3 |
-| 123  | Scream VI            | 1484.7 |
-| 124  | The Matrix Reloaded  | 1484.7 |
-| 125  | The Matrix Revolutions | 1484.7 |
-| 126  | Road House           | 1484.7 |
-| 127  | Black Hawk Down      | 1484.7 |
-| 128  | Zero Dark Thirty     | 1484.7 |
-| 129  | Drunken Master       | 1484.7 |
-| 130  | Ninja Turtles        | 1484.7 |
-| 131  | John Wick            | 1484.7 |
-| 132  | Spooky Buddies       | 1484.6 |
-| 133  | Cars                 | 1484.0 |
+| 107  | My Name              | 1500.0 |
+| 108  | Shadow               | 1500.0 |
+| 109  | GoldenEye            | 1500.0 |
+| 110  | Sweet Tooth          | 1500.0 |
+| 111  | X-Files              | 1500.0 |
+| 112  | The Darkest Hour     | 1500.0 |
+| 113  | Top Gun: Maverick    | 1500.0 |
+| 114  | A Quiet Place        | 1500.0 |
+| 115  | The Young and Prodigious T.S. Spivet | 1500.0 |
+| 116  | Soul                 | 1500.0 |
+| 117  | The Mandalorian      | 1500.0 |
+| 118  | American Made        | 1499.3 |
+| 119  | Exam                 | 1499.3 |
+| 120  | Zodiac               | 1499.3 |
+| 121  | Onward               | 1499.3 |
+| 122  | Scream VI            | 1484.7 |
+| 123  | The Matrix Reloaded  | 1484.7 |
+| 124  | The Matrix Revolutions | 1484.7 |
+| 125  | Road House           | 1484.7 |
+| 126  | Black Hawk Down      | 1484.7 |
+| 127  | Zero Dark Thirty     | 1484.7 |
+| 128  | Drunken Master       | 1484.7 |
+| 129  | Ninja Turtles        | 1484.7 |
+| 130  | John Wick            | 1484.7 |
+| 131  | Spooky Buddies       | 1484.6 |
+| 132  | Cars                 | 1484.0 |
+| 133  | The Terminal List    | 1484.0 |
 | 134  | The Tomorrow War     | 1484.0 |
 | 135  | Vagabond             | 1484.0 |
 | 136  | Heidi                | 1484.0 |
