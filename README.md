@@ -24,14 +24,14 @@ python3 mvr.py
 | $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1579.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{green}\text{17  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1575.8}$ |
-| $\color{red}\text{18  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1573.0}$ |
+| $\color{green}\text{17  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1576.6}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1575.8}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{green}\text{22  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1571.2}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
+| $\color{red}\text{24  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1567.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1561.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
@@ -70,7 +70,7 @@ python3 mvr.py
 | $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1526.8}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
-| $\color{green}\text{63  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1521.7}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1521.7}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{red}\text{65  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1518.6}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
@@ -110,7 +110,7 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
-| $\color{red}\text{103 }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1481.5}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1481.5}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
