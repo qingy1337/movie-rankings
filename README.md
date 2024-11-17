@@ -76,13 +76,13 @@ python3 mvr.py
 | $\color{green}\text{66  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1524.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
-| $\color{red}\text{71  }$ | $\color{red}\text{A Haunting in Venice}$ | $\color{red}\text{1514.1}$ |
-| $\color{green}\text{72  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1513.6}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
+| $\color{green}\text{69  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1515.8}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
+| $\color{red}\text{72  }$ | $\color{red}\text{A Haunting in Venice}$ | $\color{red}\text{1514.1}$ |
+| $\color{green}\text{73  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1513.6}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
@@ -97,7 +97,7 @@ python3 mvr.py
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
-| $\color{red}\text{90  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1493.6}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.8}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
@@ -162,7 +162,7 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1420.5}$ |
 | $\color{red}\text{153 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1420.1}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
-| $\color{green}\text{155 }$ | $\color{green}\text{65}$ | $\color{green}\text{1417.3}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1409.5}$ |
@@ -176,7 +176,7 @@ python3 mvr.py
 | $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1394.8}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1394.8}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1391.6}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1391.6}$ |
+| $\color{red}\text{171 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1390.7}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
