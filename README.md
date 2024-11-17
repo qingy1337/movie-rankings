@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1591.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
-| $\color{green}\text{13  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1589.1}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1589.1}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
@@ -32,16 +32,16 @@ python3 mvr.py
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1574.1}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1568.7}$ |
+| $\color{green}\text{25  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1573.2}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
-| $\color{red}\text{34  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1560.8}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1559.5}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
@@ -110,11 +110,11 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1479.4}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1477.6}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1479.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1477.6}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{red}\text{107 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1476.0}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
