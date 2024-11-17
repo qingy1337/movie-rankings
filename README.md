@@ -13,15 +13,15 @@ python3 mvr.py
 | 3    | The Mandalorian      | 1641.0 |
 | 4    | Ant-Man              | 1635.9 |
 | 5    | Iron Man             | 1634.9 |
-| 6    | Black Panther        | 1628.9 |
-| 7    | Inception            | 1627.0 |
-| 8    | Pirates of the Caribbean | 1625.8 |
-| 9    | Vagabond             | 1620.2 |
+| 6    | Vagabond             | 1633.0 |
+| 7    | Black Panther        | 1628.9 |
+| 8    | Inception            | 1627.0 |
+| 9    | Pirates of the Caribbean | 1625.8 |
 | 10   | Source Code          | 1619.5 |
 | 11   | The Martian          | 1617.4 |
 | 12   | Life of Pi           | 1616.6 |
-| 13   | Squid Game           | 1605.4 |
-| 14   | Maleficent           | 1605.3 |
+| 13   | Maleficent           | 1611.9 |
+| 14   | Squid Game           | 1605.4 |
 | 15   | Thirteen Lives       | 1605.2 |
 | 16   | No Country for Old Men | 1601.7 |
 | 17   | Avengers: Endgame    | 1600.8 |
@@ -57,16 +57,16 @@ python3 mvr.py
 | 47   | Tenet                | 1554.6 |
 | 48   | Interstellar         | 1550.8 |
 | 49   | Beut Mind            | 1550.6 |
-| 50   | The Tomorrow War     | 1548.5 |
-| 51   | A Haunting in Venice | 1548.4 |
-| 52   | Mission Impossible: Fallout | 1546.1 |
-| 53   | The Illusionist      | 1545.8 |
-| 54   | Jack Ryan            | 1544.5 |
-| 55   | Avatar               | 1541.9 |
-| 56   | Captain America: The Winter Soldier | 1539.8 |
-| 57   | Halo                 | 1538.5 |
-| 58   | The Ninth Gate       | 1537.2 |
-| 59   | The Man Who Knew Infinity | 1535.9 |
+| 50   | A Haunting in Venice | 1548.4 |
+| 51   | Mission Impossible: Fallout | 1546.1 |
+| 52   | The Illusionist      | 1545.8 |
+| 53   | Jack Ryan            | 1544.5 |
+| 54   | Avatar               | 1541.9 |
+| 55   | Captain America: The Winter Soldier | 1539.8 |
+| 56   | Halo                 | 1538.5 |
+| 57   | The Ninth Gate       | 1537.2 |
+| 58   | The Man Who Knew Infinity | 1535.9 |
+| 59   | The Tomorrow War     | 1535.7 |
 | 60   | Replicas             | 1535.3 |
 | 61   | Locke and Key        | 1529.8 |
 | 62   | Avengers: Infinity War | 1527.6 |
@@ -171,9 +171,9 @@ python3 mvr.py
 | 161  | Gravity              | 1376.8 |
 | 162  | All Quiet on The Western Front | 1376.7 |
 | 163  | Jurassic World: Dominion | 1373.1 |
-| 164  | The Firm             | 1370.2 |
-| 165  | Black Hawk Down      | 1367.8 |
-| 166  | War Horse            | 1365.1 |
+| 164  | Black Hawk Down      | 1367.8 |
+| 165  | War Horse            | 1365.1 |
+| 166  | The Firm             | 1363.6 |
 | 167  | Spectral             | 1362.2 |
 | 168  | Shadow               | 1361.8 |
 | 169  | Darkest Hour         | 1352.5 |
