@@ -22,7 +22,7 @@ python3 mvr.py
 | 12   | Passengers           | 1599.6 |
 | 13   | The Mandalorian      | 1597.1 |
 | 14   | Inception            | 1595.9 |
-| 15   | Black Panther        | 1593.4 |
+| 15   | Black Panther        | 1591.5 |
 | 16   | Avengers: Age of Ultron | 1588.6 |
 | 17   | Sneaky Pete          | 1585.6 |
 | 18   | The Maze Runner      | 1585.2 |
@@ -46,10 +46,10 @@ python3 mvr.py
 | 36   | The Maze Runner: The Death Cure | 1557.0 |
 | 37   | Halo                 | 1556.2 |
 | 38   | A Quiet Place        | 1555.8 |
-| 39   | Scream VI            | 1554.1 |
-| 40   | The Young and Prodigious T.S. Spivet | 1553.9 |
-| 41   | The Avengers         | 1553.0 |
-| 42   | Tenet                | 1552.7 |
+| 39   | Tenet                | 1554.6 |
+| 40   | Scream VI            | 1554.1 |
+| 41   | The Young and Prodigious T.S. Spivet | 1553.9 |
+| 42   | The Avengers         | 1553.0 |
 | 43   | Beut Mind            | 1552.4 |
 | 44   | Rebel Ridge          | 1551.9 |
 | 45   | The Day After Tomorrow | 1549.3 |
