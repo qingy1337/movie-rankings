@@ -32,7 +32,7 @@ python3 mvr.py
 | $\color{red}\text{22  }$ | $\color{red}\text{Maleficent}$ | $\color{red}\text{1557.1}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
-| $\color{green}\text{25  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1552.2}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1552.2}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1550.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1550.0}$ |
@@ -46,13 +46,13 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1541.3}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.8}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1536.2}$ |
+| $\color{green}\text{39  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1541.4}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1541.3}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
 | $\color{green}\text{47  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1534.1}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1530.6}$ |
@@ -105,19 +105,19 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1493.6}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1490.6}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.9}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.2}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.9}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.2}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1485.4}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1483.1}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.0}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
-| $\color{red}\text{110 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1481.3}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
