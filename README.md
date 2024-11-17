@@ -14,11 +14,11 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1547.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1547.7}$ |
-| $\color{red}\text{7   }$ | $\color{red}\text{Avengers: Endgame}$ | $\color{red}\text{1547.1}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1547.1}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1547.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1544.4}$ |
-| $\color{green}\text{11  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1544.2}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1544.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1544.1}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1543.8}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1543.0}$ |
@@ -59,11 +59,11 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1519.2}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1518.9}$ |
-| $\color{green}\text{52  }$ | $\color{green}\text{Guy Ritchie’s The Covenant}$ | $\color{green}\text{1517.6}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1517.3}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1517.0}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1515.6}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1515.2}$ |
+| $\color{green}\text{52  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1518.6}$ |
+| $\color{green}\text{53  }$ | $\color{green}\text{Guy Ritchie’s The Covenant}$ | $\color{green}\text{1517.6}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1517.3}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1517.0}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1515.6}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1514.9}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
@@ -159,11 +159,11 @@ python3 mvr.py
 | $\color{black}\text{149 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1462.9}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1462.9}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1462.8}$ |
-| $\color{red}\text{152 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1462.4}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1460.2}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1459.2}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1461.7}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1461.7}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1460.2}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1459.2}$ |
+| $\color{red}\text{156 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1459.0}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1456.0}$ |
