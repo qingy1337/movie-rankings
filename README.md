@@ -31,12 +31,12 @@ python3 mvr.py
 | $\color{green}\text{21  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1567.0}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1559.5}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
-| $\color{green}\text{25  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1556.1}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1554.3}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1558.4}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1556.1}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
@@ -72,7 +72,7 @@ python3 mvr.py
 | $\color{green}\text{62  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1520.4}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
-| $\color{green}\text{65  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1517.1}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1517.1}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1515.3}$ |
@@ -159,9 +159,9 @@ python3 mvr.py
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
-| $\color{green}\text{154 }$ | $\color{green}\text{The Silence}$ | $\color{green}\text{1435.8}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
+| $\color{green}\text{153 }$ | $\color{green}\text{The Silence}$ | $\color{green}\text{1435.8}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1433.9}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1431.7}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1428.3}$ |
@@ -178,5 +178,5 @@ python3 mvr.py
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{red}\text{171 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1409.6}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1409.6}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1400.8}$ |
