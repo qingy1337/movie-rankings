@@ -113,14 +113,14 @@ python3 mvr.py
 | $\color{black}\text{103 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
 | $\color{red}\text{104 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1477.2}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1477.2}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
+| $\color{green}\text{106 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1475.3}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.4}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
-| $\color{green}\text{113 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1465.7}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1465.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
@@ -130,17 +130,17 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1456.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1454.1}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1456.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.6}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1454.1}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
+| $\color{red}\text{133 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1450.5}$ |
 | $\color{red}\text{134 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1447.4}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
@@ -177,6 +177,6 @@ python3 mvr.py
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
-| $\color{red}\text{170 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1386.3}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1386.3}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1382.1}$ |
