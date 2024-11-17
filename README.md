@@ -42,12 +42,12 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
+| $\color{green}\text{35  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1558.7}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
 | $\color{green}\text{42  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1551.8}$ |
 | $\color{green}\text{43  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1547.9}$ |
@@ -56,14 +56,14 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1538.7}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1535.3}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1534.5}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1535.3}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1534.5}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
+| $\color{red}\text{56  }$ | $\color{red}\text{The Man Who Knew Infinity}$ | $\color{red}\text{1532.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1530.7}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
@@ -84,7 +84,7 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
-| $\color{green}\text{77  }$ | $\color{green}\text{Mission Impossible 3}$ | $\color{green}\text{1508.4}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1390.5}$ |
+| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1390.5}$ |
