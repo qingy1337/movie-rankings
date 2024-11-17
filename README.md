@@ -60,7 +60,7 @@ python3 mvr.py
 | $\color{black}\text{50  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1529.3}$ |
-| $\color{green}\text{53  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1526.2}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1526.2}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
@@ -74,7 +74,7 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1516.6}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
-| $\color{red}\text{67  }$ | $\color{red}\text{Bloodhounds}$ | $\color{red}\text{1515.3}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1515.3}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
@@ -114,27 +114,27 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.2}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
-| $\color{green}\text{113 }$ | $\color{green}\text{The Man in the Iron Mask}$ | $\color{green}\text{1475.6}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1475.2}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1474.0}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1473.3}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1473.1}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1472.4}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.2}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
+| $\color{green}\text{112 }$ | $\color{green}\text{The Man in the Iron Mask}$ | $\color{green}\text{1475.6}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1475.2}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1474.0}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1473.3}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1473.1}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1472.4}$ |
+| $\color{red}\text{120 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1472.0}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1470.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1461.1}$ |
+| $\color{green}\text{124 }$ | $\color{green}\text{Journey 2: The Mysterious Island}$ | $\color{green}\text{1467.4}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1458.9}$ |
