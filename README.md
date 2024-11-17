@@ -56,10 +56,10 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1531.1}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
-| $\color{red}\text{51  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1524.9}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1529.9}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
+| $\color{red}\text{52  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1524.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
@@ -90,11 +90,11 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1506.0}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
+| $\color{red}\text{87  }$ | $\color{red}\text{Gladiator}$ | $\color{red}\text{1500.1}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
@@ -128,7 +128,7 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
-| $\color{green}\text{121 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1473.3}$ |
+| $\color{red}\text{121 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1473.3}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
@@ -162,7 +162,7 @@ python3 mvr.py
 | $\color{green}\text{152 }$ | $\color{green}\text{Stillwater}$ | $\color{green}\text{1440.9}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1439.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
-| $\color{red}\text{155 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1437.1}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1437.1}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1437.0}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
