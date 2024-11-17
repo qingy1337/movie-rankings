@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1615.4}$ |
-| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1600.2}$ |
+| $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1600.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1594.6}$ |
@@ -58,12 +58,12 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1537.1}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1529.1}$ |
+| $\color{green}\text{51  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1534.6}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1527.1}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1526.8}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
@@ -96,12 +96,12 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.9}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
-| $\color{red}\text{91  }$ | $\color{red}\text{Shawshank Redemption}$ | $\color{red}\text{1494.8}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1492.0}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1492.0}$ |
+| $\color{red}\text{94  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1491.7}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{red}\text{97  }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1486.4}$ |
