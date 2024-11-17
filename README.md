@@ -9,9 +9,9 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1596.6}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1582.1}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1578.7}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1582.3}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1582.1}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1576.1}$ |
@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1516.3}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.3}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1514.6}$ |
@@ -123,7 +123,7 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
-| $\color{red}\text{116 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1476.5}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
@@ -168,10 +168,10 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1434.4}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1432.2}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
+| $\color{red}\text{164 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1428.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
