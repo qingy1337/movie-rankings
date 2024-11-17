@@ -34,13 +34,13 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{green}\text{26  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1555.0}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1554.3}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1554.2}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1551.3}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1549.6}$ |
+| $\color{green}\text{27  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1554.5}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1554.3}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1554.2}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1551.3}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
@@ -71,7 +71,7 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.0}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
-| $\color{red}\text{64  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1515.9}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1515.9}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1515.3}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
@@ -104,20 +104,20 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1490.6}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1489.4}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1488.9}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
+| $\color{red}\text{106 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1484.0}$ |
 | $\color{green}\text{107 }$ | $\color{green}\text{Mission Impossible 1}$ | $\color{green}\text{1481.0}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.2}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
-| $\color{green}\text{110 }$ | $\color{green}\text{School of Rock}$ | $\color{green}\text{1477.4}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
