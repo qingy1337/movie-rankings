@@ -44,7 +44,7 @@ python3 mvr.py
 | $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
-| $\color{green}\text{37  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1557.5}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
@@ -123,17 +123,17 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
-| $\color{green}\text{116 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1464.8}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
-| $\color{red}\text{118 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1464.3}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
-| $\color{red}\text{122 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1463.3}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.1}$ |
+| $\color{green}\text{116 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1465.5}$ |
+| $\color{green}\text{117 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1464.8}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
+| $\color{red}\text{119 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1464.3}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
+| $\color{red}\text{123 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1463.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
@@ -157,11 +157,11 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1429.9}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
-| $\color{red}\text{152 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1428.2}$ |
-| $\color{red}\text{153 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1424.9}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.2}$ |
+| $\color{red}\text{152 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1424.9}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1423.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
