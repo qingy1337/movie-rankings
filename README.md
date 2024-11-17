@@ -13,10 +13,10 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1557.6}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1554.8}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1554.5}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1551.1}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1550.9}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1550.8}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1550.1}$ |
+| $\color{green}\text{6   }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1553.5}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1551.1}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1550.9}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1550.8}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1548.3}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1546.1}$ |
@@ -52,7 +52,7 @@ python3 mvr.py
 | $\color{black}\text{42  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1526.0}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1525.6}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
-| $\color{red}\text{45  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1525.3}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1525.3}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.5}$ |
@@ -79,7 +79,7 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1507.8}$ |
 | $\color{green}\text{71  }$ | $\color{green}\text{A Haunting in Venice}$ | $\color{green}\text{1507.8}$ |
-| $\color{green}\text{72  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1507.6}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1507.6}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1507.6}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1507.2}$ |
@@ -96,13 +96,13 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1500.3}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{green}\text{88  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1500.1}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1498.7}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1497.2}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1498.7}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1497.2}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
+| $\color{red}\text{95  }$ | $\color{red}\text{Top Gun}$ | $\color{red}\text{1496.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1495.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
