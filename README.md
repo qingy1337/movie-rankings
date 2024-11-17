@@ -41,13 +41,13 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1558.7}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1559.5}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1558.7}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1551.8}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
@@ -96,13 +96,13 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1500.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
 | $\color{red}\text{88  }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1498.4}$ |
-| $\color{red}\text{89  }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1497.9}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.0}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1493.4}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
+| $\color{red}\text{95  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1488.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
@@ -123,7 +123,7 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{red}\text{114 }$ | $\color{red}\text{The Man in the Iron Mask}$ | $\color{red}\text{1465.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1464.8}$ |
-| $\color{green}\text{116 }$ | $\color{green}\text{John Wick}$ | $\color{green}\text{1464.7}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
