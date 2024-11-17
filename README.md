@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1630.8}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1624.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
@@ -84,7 +84,7 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.9}$ |
-| $\color{red}\text{77  }$ | $\color{red}\text{Gladiator}$ | $\color{red}\text{1507.3}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.3}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
@@ -141,10 +141,10 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
+| $\color{green}\text{134 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1451.0}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
@@ -162,10 +162,10 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1411.7}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1409.7}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1411.7}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1409.7}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
+| $\color{red}\text{158 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1406.7}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
