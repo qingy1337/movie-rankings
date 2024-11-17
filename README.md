@@ -49,7 +49,7 @@ python3 mvr.py
 | $\color{green}\text{39  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1557.4}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1554.9}$ |
-| $\color{green}\text{42  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1554.2}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1554.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1551.7}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1547.8}$ |
@@ -105,16 +105,16 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{red}\text{96  }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1486.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.2}$ |
-| $\color{red}\text{98  }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1483.4}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1483.4}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1472.5}$ |
+| $\color{green}\text{105 }$ | $\color{green}\text{Johnny English}$ | $\color{green}\text{1477.2}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.4}$ |
@@ -172,9 +172,9 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1399.4}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
+| $\color{red}\text{167 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1394.6}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1391.1}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
