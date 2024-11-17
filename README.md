@@ -27,17 +27,17 @@ python3 mvr.py
 | 17   | The Maze Runner      | 1596.2 |
 | 18   | Life                 | 1596.1 |
 | 19   | Avengers: Endgame    | 1591.8 |
-| 20   | The Hobbit           | 1588.8 |
-| 21   | Avengers: Age of Ultron | 1588.6 |
-| 22   | The Maze Runner: The Death Cure | 1584.4 |
-| 23   | Doctor Strange       | 1580.7 |
-| 24   | Passengers           | 1580.5 |
-| 25   | A Quiet Place        | 1580.2 |
-| 26   | Vagabond             | 1579.3 |
-| 27   | Star Wars            | 1579.2 |
-| 28   | The Young and Prodigious T.S. Spivet | 1577.2 |
-| 29   | Scream V             | 1576.1 |
-| 30   | X-Men                | 1575.3 |
+| 20   | X-Men                | 1590.2 |
+| 21   | The Hobbit           | 1588.8 |
+| 22   | Avengers: Age of Ultron | 1588.6 |
+| 23   | The Maze Runner: The Death Cure | 1584.4 |
+| 24   | Doctor Strange       | 1580.7 |
+| 25   | Passengers           | 1580.5 |
+| 26   | A Quiet Place        | 1580.2 |
+| 27   | Vagabond             | 1579.3 |
+| 28   | Star Wars            | 1579.2 |
+| 29   | The Young and Prodigious T.S. Spivet | 1577.2 |
+| 30   | Scream V             | 1576.1 |
 | 31   | The Hunger Games     | 1574.9 |
 | 32   | Lost in Space        | 1570.6 |
 | 33   | Catch Me If You Can  | 1567.5 |
@@ -52,17 +52,17 @@ python3 mvr.py
 | 42   | Tenet                | 1554.6 |
 | 43   | Scream VI            | 1554.1 |
 | 44   | The Matrix           | 1553.4 |
-| 45   | Train to Busan       | 1552.4 |
-| 46   | Replicas             | 1551.9 |
-| 47   | Interstellar         | 1550.8 |
-| 48   | Beut Mind            | 1550.6 |
-| 49   | Mission Impossible: Rogue Nation | 1548.5 |
-| 50   | The Tomorrow War     | 1548.5 |
-| 51   | The Wild Robot       | 1547.7 |
-| 52   | The Prestige         | 1547.4 |
-| 53   | Mission Impossible: Fallout | 1545.3 |
-| 54   | Captain America: The Winter Soldier | 1539.8 |
-| 55   | Halo                 | 1538.2 |
+| 45   | Replicas             | 1551.9 |
+| 46   | Interstellar         | 1550.8 |
+| 47   | Beut Mind            | 1550.6 |
+| 48   | Mission Impossible: Rogue Nation | 1548.5 |
+| 49   | The Tomorrow War     | 1548.5 |
+| 50   | The Wild Robot       | 1547.7 |
+| 51   | The Prestige         | 1547.4 |
+| 52   | Mission Impossible: Fallout | 1545.3 |
+| 53   | Captain America: The Winter Soldier | 1539.8 |
+| 54   | Halo                 | 1538.2 |
+| 55   | Train to Busan       | 1537.4 |
 | 56   | The Ninth Gate       | 1537.2 |
 | 57   | Guy Ritchie’s The Covenant | 1537.2 |
 | 58   | The Man Who Knew Infinity | 1535.9 |
@@ -87,13 +87,13 @@ python3 mvr.py
 | 77   | Top Gun: Maverick    | 1515.4 |
 | 78   | Sweet Tooth          | 1514.1 |
 | 79   | The Terminal List    | 1513.0 |
-| 80   | Ip Man               | 1510.8 |
-| 81   | My Name              | 1509.4 |
-| 82   | Shawshank Redemption | 1506.9 |
-| 83   | Captain America: Civil War | 1504.8 |
-| 84   | Total Recall         | 1504.7 |
-| 85   | Gladiator            | 1501.6 |
-| 86   | Onward               | 1500.4 |
+| 80   | Onward               | 1512.0 |
+| 81   | Ip Man               | 1510.8 |
+| 82   | My Name              | 1509.4 |
+| 83   | Shawshank Redemption | 1506.9 |
+| 84   | Captain America: Civil War | 1504.8 |
+| 85   | Total Recall         | 1504.7 |
+| 86   | Gladiator            | 1501.6 |
 | 87   | Cars                 | 1500.4 |
 | 88   | Lord of the Rings    | 1497.9 |
 | 89   | A Boy Called Christmas | 1495.6 |
@@ -155,13 +155,13 @@ python3 mvr.py
 | 145  | Horton hears a Who   | 1425.6 |
 | 146  | The Matrix Reloaded  | 1415.0 |
 | 147  | Crouching Tiger Hidden Dragon | 1411.0 |
-| 148  | 65                   | 1403.9 |
-| 149  | Cars 3               | 1403.4 |
-| 150  | The Last Samurai     | 1402.3 |
-| 151  | AK-47 Kalashnikov    | 1399.4 |
-| 152  | Awake                | 1398.2 |
-| 153  | The Silence          | 1397.0 |
-| 154  | A Quiet Place: Day One | 1392.8 |
+| 148  | Cars 3               | 1403.4 |
+| 149  | The Last Samurai     | 1402.3 |
+| 150  | AK-47 Kalashnikov    | 1399.4 |
+| 151  | Awake                | 1398.2 |
+| 152  | The Silence          | 1397.0 |
+| 153  | A Quiet Place: Day One | 1392.8 |
+| 154  | 65                   | 1392.2 |
 | 155  | Stillwater           | 1391.0 |
 | 156  | Spooky Buddies       | 1388.6 |
 | 157  | Zero Dark Thirty     | 1388.1 |
