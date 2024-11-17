@@ -17,7 +17,7 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1550.8}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1550.1}$ |
-| $\color{green}\text{10  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1548.3}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1548.3}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1546.1}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
@@ -49,12 +49,12 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1527.2}$ |
 | $\color{green}\text{41  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1526.2}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1525.6}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1525.5}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1522.5}$ |
+| $\color{green}\text{42  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1526.0}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1525.6}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1525.5}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.5}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1520.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
@@ -131,14 +131,14 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1480.9}$ |
 | $\color{red}\text{122 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1480.4}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1479.0}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1478.1}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1478.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1477.1}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1475.1}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1475.0}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1474.6}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1478.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1477.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1475.1}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1475.0}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1474.6}$ |
+| $\color{red}\text{131 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1474.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1474.6}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1474.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1474.1}$ |
