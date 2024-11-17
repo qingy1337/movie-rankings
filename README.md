@@ -16,13 +16,13 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1591.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1586.1}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1584.4}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1584.2}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1587.8}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1586.1}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1584.4}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
@@ -58,7 +58,7 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1538.7}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{green}\text{51  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1536.3}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1535.3}$ |
 | $\color{green}\text{54  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1535.0}$ |
@@ -153,13 +153,13 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
-| $\color{red}\text{146 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1433.3}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1429.9}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1429.9}$ |
+| $\color{red}\text{149 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1429.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.2}$ |
-| $\color{red}\text{152 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1424.9}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1424.9}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{red}\text{154 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1423.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
