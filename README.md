@@ -15,10 +15,10 @@ python3 mvr.py
 | $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1590.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1588.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1587.0}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1581.4}$ |
+| $\color{green}\text{8   }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1585.2}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1581.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1579.0}$ |
@@ -63,7 +63,7 @@ python3 mvr.py
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.8}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
-| $\color{red}\text{56  }$ | $\color{red}\text{The Man Who Knew Infinity}$ | $\color{red}\text{1529.1}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1529.1}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1528.3}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1526.8}$ |
@@ -145,10 +145,10 @@ python3 mvr.py
 | $\color{green}\text{135 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1453.8}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
-| $\color{green}\text{138 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1449.7}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1448.0}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1444.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1442.7}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
