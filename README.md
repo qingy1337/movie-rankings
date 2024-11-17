@@ -103,17 +103,17 @@ python3 mvr.py
 | 93   | Independence Day     | 1499.3 |
 | 94   | Terminator           | 1499.3 |
 | 95   | Mission Impossible 3 | 1499.2 |
-| 96   | The Curious Case of Benjamin Button | 1498.7 |
-| 97   | The Ring 2           | 1498.6 |
-| 98   | Land of Bad          | 1497.9 |
-| 99   | Gladiator            | 1487.4 |
-| 100  | Star Trek: Picard    | 1486.9 |
-| 101  | A Boy Called Christmas | 1486.4 |
-| 102  | The Man in the Iron Mask | 1486.3 |
-| 103  | Black Widow          | 1485.5 |
-| 104  | The Man Who Knew Infinity | 1484.8 |
-| 105  | Horton hears a Who   | 1484.7 |
-| 106  | John Wick            | 1484.5 |
+| 96   | Horton hears a Who   | 1499.1 |
+| 97   | The Curious Case of Benjamin Button | 1498.7 |
+| 98   | The Ring 2           | 1498.6 |
+| 99   | Land of Bad          | 1497.9 |
+| 100  | Gladiator            | 1487.4 |
+| 101  | Star Trek: Picard    | 1486.9 |
+| 102  | A Boy Called Christmas | 1486.4 |
+| 103  | The Man in the Iron Mask | 1486.3 |
+| 104  | Sweet Tooth          | 1486.1 |
+| 105  | Black Widow          | 1485.5 |
+| 106  | The Man Who Knew Infinity | 1484.8 |
 | 107  | Oppenheimer          | 1484.1 |
 | 108  | Cars 2               | 1484.0 |
 | 109  | The Mask of Zorro    | 1484.0 |
@@ -137,16 +137,16 @@ python3 mvr.py
 | 127  | Drunken Master       | 1472.1 |
 | 128  | Frequency            | 1470.1 |
 | 129  | Top Gun: Maverick    | 1469.5 |
-| 130  | Sweet Tooth          | 1469.4 |
-| 131  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 132  | Heidi                | 1468.7 |
-| 133  | Avatar: The Last Airbender | 1468.7 |
-| 134  | Rango                | 1468.7 |
-| 135  | Unbreakable          | 1468.5 |
-| 136  | American Made        | 1468.3 |
-| 137  | Top Gun              | 1468.2 |
-| 138  | The Mist             | 1468.1 |
-| 139  | Mission Impossible 1 | 1468.0 |
+| 130  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 131  | Heidi                | 1468.7 |
+| 132  | Avatar: The Last Airbender | 1468.7 |
+| 133  | Rango                | 1468.7 |
+| 134  | Unbreakable          | 1468.5 |
+| 135  | American Made        | 1468.3 |
+| 136  | Top Gun              | 1468.2 |
+| 137  | The Mist             | 1468.1 |
+| 138  | Mission Impossible 1 | 1468.0 |
+| 139  | John Wick            | 1467.8 |
 | 140  | 65                   | 1467.6 |
 | 141  | The Firm             | 1467.6 |
 | 142  | Total Recall         | 1461.3 |
@@ -167,13 +167,13 @@ python3 mvr.py
 | 157  | Spooky Buddies       | 1454.7 |
 | 158  | Stillwater           | 1454.4 |
 | 159  | The Matrix Revolutions | 1453.6 |
-| 160  | The Last Samurai     | 1448.2 |
-| 161  | War Horse            | 1446.0 |
-| 162  | Black Hawk Down      | 1443.6 |
-| 163  | Jurassic World: Dominion | 1441.4 |
-| 164  | Exam                 | 1441.1 |
-| 165  | Everything, everywhere, all at once | 1439.7 |
-| 166  | Spectral             | 1436.4 |
+| 160  | War Horse            | 1446.0 |
+| 161  | Black Hawk Down      | 1443.6 |
+| 162  | Jurassic World: Dominion | 1441.4 |
+| 163  | Exam                 | 1441.1 |
+| 164  | Everything, everywhere, all at once | 1439.7 |
+| 165  | Spectral             | 1436.4 |
+| 166  | The Last Samurai     | 1433.9 |
 | 167  | Darkest Hour         | 1425.0 |
 | 168  | AK-47 Kalashnikov    | 1418.0 |
 | 169  | The Battle at Lake Changjin | 1415.1 |
