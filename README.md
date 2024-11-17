@@ -20,10 +20,10 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1599.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
-| $\color{green}\text{16  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1591.7}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1597.0}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1591.3}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
@@ -51,8 +51,8 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1554.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1551.7}$ |
-| $\color{green}\text{45  }$ | $\color{green}\text{Lost in Space}$ | $\color{green}\text{1546.8}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1546.8}$ |
+| $\color{red}\text{45  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1546.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1544.9}$ |
@@ -118,7 +118,7 @@ python3 mvr.py
 | $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1472.2}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
-| $\color{red}\text{111 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1465.7}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1465.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1465.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
