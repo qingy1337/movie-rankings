@@ -54,7 +54,7 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1549.7}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1549.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
-| $\color{green}\text{47  }$ | $\color{green}\text{Avengers: Age of Ultron}$ | $\color{green}\text{1545.8}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
@@ -115,11 +115,11 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1477.6}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1472.8}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
+| $\color{red}\text{112 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1468.3}$ |
 | $\color{red}\text{113 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1468.2}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
@@ -139,7 +139,7 @@ python3 mvr.py
 | $\color{black}\text{129 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1455.1}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
-| $\color{red}\text{132 }$ | $\color{red}\text{A.I. Artificial Intelligence}$ | $\color{red}\text{1454.1}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1452.8}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
@@ -162,11 +162,11 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1413.4}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1413.0}$ |
+| $\color{green}\text{155 }$ | $\color{green}\text{War Horse}$ | $\color{green}\text{1420.0}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1413.4}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1408.7}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
