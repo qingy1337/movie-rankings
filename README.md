@@ -38,12 +38,12 @@ python3 mvr.py
 | 28   | Passengers           | 1580.5 |
 | 29   | A Quiet Place        | 1580.2 |
 | 30   | Scream V             | 1576.1 |
-| 31   | X-Files              | 1574.3 |
-| 32   | Avatar 2             | 1574.0 |
-| 33   | X-Men                | 1573.6 |
-| 34   | The Hunger Games     | 1572.3 |
-| 35   | Lost in Space        | 1570.6 |
-| 36   | Catch Me If You Can  | 1567.5 |
+| 31   | Catch Me If You Can  | 1575.6 |
+| 32   | X-Files              | 1574.3 |
+| 33   | Avatar 2             | 1574.0 |
+| 34   | X-Men                | 1573.6 |
+| 35   | The Hunger Games     | 1572.3 |
+| 36   | Lost in Space        | 1570.6 |
 | 37   | Scream VI            | 1565.8 |
 | 38   | Loki                 | 1563.0 |
 | 39   | Train to Busan       | 1562.8 |
@@ -165,12 +165,12 @@ python3 mvr.py
 | 155  | Spooky Buddies       | 1388.6 |
 | 156  | Awake                | 1388.2 |
 | 157  | Zero Dark Thirty     | 1388.1 |
-| 158  | War Horse            | 1381.9 |
-| 159  | Selfless             | 1378.2 |
-| 160  | Arrow                | 1377.5 |
-| 161  | Everything, everywhere, all at once | 1377.1 |
-| 162  | Gravity              | 1376.8 |
-| 163  | All Quiet on The Western Front | 1376.7 |
+| 158  | Selfless             | 1378.2 |
+| 159  | Arrow                | 1377.5 |
+| 160  | Everything, everywhere, all at once | 1377.1 |
+| 161  | Gravity              | 1376.8 |
+| 162  | All Quiet on The Western Front | 1376.7 |
+| 163  | War Horse            | 1373.7 |
 | 164  | Jurassic World: Dominion | 1373.1 |
 | 165  | The Firm             | 1370.2 |
 | 166  | Black Hawk Down      | 1367.8 |
