@@ -28,7 +28,7 @@ python3 mvr.py
 | $\color{black}\text{18  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1587.3}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1587.2}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{green}\text{21  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1583.6}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1583.6}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
 | $\color{green}\text{24  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1578.8}$ |
@@ -104,8 +104,8 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1483.0}$ |
+| $\color{green}\text{97  }$ | $\color{green}\text{M3GAN}$ | $\color{green}\text{1488.3}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
@@ -120,7 +120,7 @@ python3 mvr.py
 | $\color{red}\text{110 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1468.4}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{red}\text{113 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1464.4}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1464.4}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
@@ -145,10 +145,10 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1444.7}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1441.5}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1441.5}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1439.4}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1435.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
