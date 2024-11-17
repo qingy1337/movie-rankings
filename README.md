@@ -67,7 +67,7 @@ python3 mvr.py
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.3}$ |
-| $\color{green}\text{60  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1528.3}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1528.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
@@ -82,12 +82,12 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{red}\text{74  }$ | $\color{red}\text{Iron Chef}$ | $\color{red}\text{1515.5}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.6}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1507.4}$ |
+| $\color{green}\text{75  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1513.2}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.6}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1511.7}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1504.4}$ |
@@ -96,9 +96,9 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1500.3}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
+| $\color{red}\text{91  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1492.0}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
@@ -141,7 +141,7 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1452.8}$ |
+| $\color{green}\text{134 }$ | $\color{green}\text{Unbreakable}$ | $\color{green}\text{1452.8}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{red}\text{137 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1445.7}$ |
