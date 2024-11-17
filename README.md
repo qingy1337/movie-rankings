@@ -18,23 +18,23 @@ python3 mvr.py
 | 8    | Pirates of the Caribbean | 1606.6 |
 | 9    | Thirteen Lives       | 1605.2 |
 | 10   | Iron Man             | 1603.5 |
-| 11   | No Country for Old Men | 1602.5 |
+| 11   | No Country for Old Men | 1601.7 |
 | 12   | Passengers           | 1599.6 |
 | 13   | The Mandalorian      | 1597.1 |
 | 14   | Inception            | 1595.9 |
 | 15   | Black Panther        | 1591.5 |
 | 16   | Avengers: Age of Ultron | 1588.6 |
-| 17   | Sneaky Pete          | 1585.6 |
-| 18   | The Maze Runner      | 1585.2 |
+| 17   | The Maze Runner      | 1586.0 |
+| 18   | Sneaky Pete          | 1585.6 |
 | 19   | Maleficent           | 1583.3 |
 | 20   | Doctor Strange       | 1580.7 |
-| 21   | The Hobbit           | 1575.0 |
-| 22   | Avengers: Endgame    | 1573.7 |
-| 23   | Life                 | 1570.4 |
-| 24   | Locke and Key        | 1569.6 |
-| 25   | Squid Game           | 1569.2 |
-| 26   | Source Code          | 1568.2 |
-| 27   | The Ninth Gate       | 1567.9 |
+| 21   | The Ninth Gate       | 1578.5 |
+| 22   | The Hobbit           | 1575.0 |
+| 23   | Avengers: Endgame    | 1573.7 |
+| 24   | Life                 | 1570.4 |
+| 25   | Locke and Key        | 1569.6 |
+| 26   | Squid Game           | 1569.2 |
+| 27   | Source Code          | 1568.2 |
 | 28   | A Quiet Place        | 1567.6 |
 | 29   | X-Files              | 1565.9 |
 | 30   | The Wild Robot       | 1562.8 |
@@ -144,15 +144,15 @@ python3 mvr.py
 | 134  | Red Notice           | 1453.2 |
 | 135  | Johnny English       | 1450.2 |
 | 136  | School of Rock       | 1447.9 |
-| 137  | The Silence          | 1445.4 |
-| 138  | Journey 2: The Mysterious Island | 1444.1 |
-| 139  | Road House           | 1443.3 |
-| 140  | The Ring 2           | 1443.1 |
-| 141  | Cars 3               | 1442.7 |
-| 142  | Avatar: The Last Airbender | 1442.7 |
-| 143  | Independence Day     | 1442.2 |
-| 144  | Frequency            | 1441.7 |
-| 145  | The Matrix Reloaded  | 1438.3 |
+| 137  | Journey 2: The Mysterious Island | 1444.1 |
+| 138  | Road House           | 1443.3 |
+| 139  | The Ring 2           | 1443.1 |
+| 140  | Cars 3               | 1442.7 |
+| 141  | Avatar: The Last Airbender | 1442.7 |
+| 142  | Independence Day     | 1442.2 |
+| 143  | Frequency            | 1441.7 |
+| 144  | The Matrix Reloaded  | 1438.3 |
+| 145  | The Silence          | 1434.9 |
 | 146  | Crouching Tiger Hidden Dragon | 1424.2 |
 | 147  | The Last Samurai     | 1423.0 |
 | 148  | Zero Dark Thirty     | 1422.6 |
