@@ -32,20 +32,20 @@ python3 mvr.py
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1578.8}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1576.0}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1571.5}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{red}\text{31  }$ | $\color{red}\text{The Menu}$ | $\color{red}\text{1570.0}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1560.9}$ |
+| $\color{green}\text{35  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1567.2}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1554.9}$ |
@@ -55,7 +55,7 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{green}\text{48  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1541.9}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
@@ -136,7 +136,7 @@ python3 mvr.py
 | $\color{red}\text{126 }$ | $\color{red}\text{Red Eye}$ | $\color{red}\text{1454.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
-| $\color{red}\text{129 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1451.4}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
