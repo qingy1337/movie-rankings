@@ -49,18 +49,18 @@ python3 mvr.py
 | 39   | Mission Impossible: Ghost Protocol | 1560.4 |
 | 40   | Locke and Key        | 1560.2 |
 | 41   | The Illusionist      | 1559.2 |
-| 42   | The Ninth Gate       | 1555.7 |
-| 43   | Tenet                | 1554.6 |
-| 44   | Scream VI            | 1554.1 |
-| 45   | The Matrix           | 1553.4 |
-| 46   | Train to Busan       | 1552.4 |
-| 47   | Replicas             | 1551.9 |
-| 48   | Interstellar         | 1550.8 |
-| 49   | Beut Mind            | 1550.6 |
-| 50   | Mission Impossible: Rogue Nation | 1548.5 |
-| 51   | The Tomorrow War     | 1548.5 |
-| 52   | The Prestige         | 1538.4 |
-| 53   | Halo                 | 1538.2 |
+| 42   | Tenet                | 1554.6 |
+| 43   | Scream VI            | 1554.1 |
+| 44   | The Matrix           | 1553.4 |
+| 45   | Train to Busan       | 1552.4 |
+| 46   | Replicas             | 1551.9 |
+| 47   | Interstellar         | 1550.8 |
+| 48   | Beut Mind            | 1550.6 |
+| 49   | Mission Impossible: Rogue Nation | 1548.5 |
+| 50   | The Tomorrow War     | 1548.5 |
+| 51   | The Prestige         | 1547.4 |
+| 52   | Halo                 | 1538.2 |
+| 53   | The Ninth Gate       | 1537.2 |
 | 54   | The Man Who Knew Infinity | 1535.9 |
 | 55   | The Wild Robot       | 1535.7 |
 | 56   | Mission Impossible: Fallout | 1534.9 |
@@ -77,30 +77,30 @@ python3 mvr.py
 | 67   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
 | 68   | Zodiac               | 1521.3 |
 | 69   | Star Trek: Picard    | 1521.3 |
-| 70   | A Haunting in Venice | 1520.0 |
-| 71   | Jack Reacher         | 1519.6 |
-| 72   | Rebel Ridge          | 1519.0 |
-| 73   | Thor                 | 1517.3 |
-| 74   | Avatar               | 1514.5 |
-| 75   | The Terminal List    | 1513.0 |
-| 76   | Ip Man               | 1510.8 |
-| 77   | My Name              | 1509.4 |
-| 78   | Rainman              | 1507.7 |
-| 79   | Dark Waters          | 1507.1 |
-| 80   | Shawshank Redemption | 1506.9 |
-| 81   | Captain America: Civil War | 1504.8 |
-| 82   | Total Recall         | 1504.7 |
-| 83   | Top Gun: Maverick    | 1503.4 |
-| 84   | Sweet Tooth          | 1503.0 |
-| 85   | Iron Chef            | 1501.7 |
-| 86   | Gladiator            | 1501.6 |
-| 87   | Onward               | 1500.4 |
-| 88   | Cars                 | 1500.4 |
-| 89   | Lord of the Rings    | 1497.9 |
-| 90   | A Boy Called Christmas | 1495.6 |
-| 91   | Skyfall              | 1494.9 |
-| 92   | Bloodhounds          | 1494.1 |
-| 93   | The Spy Next Door    | 1492.0 |
+| 70   | Iron Chef            | 1520.2 |
+| 71   | A Haunting in Venice | 1520.0 |
+| 72   | Jack Reacher         | 1519.6 |
+| 73   | Rebel Ridge          | 1519.0 |
+| 74   | Thor                 | 1517.3 |
+| 75   | Avatar               | 1514.5 |
+| 76   | Sweet Tooth          | 1514.1 |
+| 77   | The Terminal List    | 1513.0 |
+| 78   | Ip Man               | 1510.8 |
+| 79   | My Name              | 1509.4 |
+| 80   | Rainman              | 1507.7 |
+| 81   | Dark Waters          | 1507.1 |
+| 82   | Shawshank Redemption | 1506.9 |
+| 83   | Captain America: Civil War | 1504.8 |
+| 84   | Total Recall         | 1504.7 |
+| 85   | The Spy Next Door    | 1503.8 |
+| 86   | Top Gun: Maverick    | 1503.4 |
+| 87   | Gladiator            | 1501.6 |
+| 88   | Onward               | 1500.4 |
+| 89   | Cars                 | 1500.4 |
+| 90   | Lord of the Rings    | 1497.9 |
+| 91   | A Boy Called Christmas | 1495.6 |
+| 92   | Skyfall              | 1494.9 |
+| 93   | Bloodhounds          | 1494.1 |
 | 94   | Dune                 | 1490.9 |
 | 95   | Jack Reacher: Never Go Back | 1489.4 |
 | 96   | Black Widow          | 1484.5 |
@@ -161,20 +161,20 @@ python3 mvr.py
 | 151  | 65                   | 1403.9 |
 | 152  | AK-47 Kalashnikov    | 1399.4 |
 | 153  | Awake                | 1398.2 |
-| 154  | Arrow                | 1397.7 |
-| 155  | War Horse            | 1394.0 |
-| 156  | The Firm             | 1392.9 |
-| 157  | A Quiet Place: Day One | 1392.8 |
-| 158  | Stillwater           | 1391.0 |
-| 159  | Everything, everywhere, all at once | 1389.1 |
-| 160  | Spooky Buddies       | 1388.6 |
-| 161  | Zero Dark Thirty     | 1388.1 |
+| 154  | War Horse            | 1394.0 |
+| 155  | A Quiet Place: Day One | 1392.8 |
+| 156  | Stillwater           | 1391.0 |
+| 157  | Everything, everywhere, all at once | 1389.1 |
+| 158  | Spooky Buddies       | 1388.6 |
+| 159  | Zero Dark Thirty     | 1388.1 |
+| 160  | Arrow                | 1385.9 |
+| 161  | The Firm             | 1381.8 |
 | 162  | Jurassic World: Dominion | 1381.7 |
 | 163  | Selfless             | 1378.2 |
-| 164  | Black Hawk Down      | 1376.9 |
-| 165  | Gravity              | 1376.8 |
-| 166  | All Quiet on The Western Front | 1376.7 |
-| 167  | Darkest Hour         | 1376.2 |
-| 168  | Shadow               | 1370.2 |
+| 164  | Gravity              | 1376.8 |
+| 165  | All Quiet on The Western Front | 1376.7 |
+| 166  | Darkest Hour         | 1376.2 |
+| 167  | Shadow               | 1370.2 |
+| 168  | Black Hawk Down      | 1367.8 |
 | 169  | Spectral             | 1362.2 |
 | 170  | The Battle at Lake Changjin | 1351.6 |
