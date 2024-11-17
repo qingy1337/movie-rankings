@@ -53,13 +53,13 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.8}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1520.2}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1519.3}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1518.9}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1518.6}$ |
+| $\color{green}\text{46  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1522.5}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.8}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1520.2}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1519.3}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1518.4}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1517.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.0}$ |
@@ -67,12 +67,12 @@ python3 mvr.py
 | $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1515.6}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1515.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1514.3}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1513.9}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1513.1}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1511.0}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1510.8}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1510.4}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1513.9}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1513.1}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1511.0}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1510.8}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1510.4}$ |
+| $\color{red}\text{65  }$ | $\color{red}\text{Locke and Key}$ | $\color{red}\text{1510.2}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1510.2}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1510.1}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
@@ -103,7 +103,7 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1496.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1496.9}$ |
-| $\color{green}\text{96  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1496.5}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1496.5}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1495.8}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
@@ -167,7 +167,7 @@ python3 mvr.py
 | $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1455.1}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1454.9}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1452.8}$ |
-| $\color{red}\text{160 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1452.7}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1452.4}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1451.9}$ |
