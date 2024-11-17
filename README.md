@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1557.6}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1557.6}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1554.8}$ |
-| $\color{green}\text{5   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1554.5}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1554.5}$ |
 | $\color{green}\text{6   }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1553.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1551.1}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1550.9}$ |
@@ -81,13 +81,13 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1507.8}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1507.6}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1507.6}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.3}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1507.2}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1506.5}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1504.5}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1504.0}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1503.9}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1503.8}$ |
+| $\color{green}\text{74  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1507.5}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.3}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1507.2}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1506.5}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1504.5}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1504.0}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1503.9}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1503.6}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1502.8}$ |
@@ -147,11 +147,11 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.9}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1470.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1470.4}$ |
-| $\color{red}\text{141 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1470.2}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1470.0}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1469.5}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1467.0}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1470.2}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1470.0}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1469.5}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1467.0}$ |
+| $\color{red}\text{144 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1466.8}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1462.9}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1462.8}$ |
@@ -160,7 +160,7 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1460.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1459.5}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1458.6}$ |
-| $\color{red}\text{153 }$ | $\color{red}\text{65}$ | $\color{red}\text{1457.2}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{65}$ | $\color{black}\text{1457.2}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1456.1}$ |
 | $\color{red}\text{156 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1455.3}$ |
