@@ -22,78 +22,78 @@ python3 mvr.py
 | 12   | X-Men                | 1533.4 |
 | 13   | Squid Game           | 1532.8 |
 | 14   | Dune                 | 1532.0 |
-| 15   | Avengers: Endgame    | 1532.0 |
-| 16   | Inception            | 1532.0 |
-| 17   | Lost in Space        | 1531.3 |
-| 18   | Source Code          | 1531.3 |
-| 19   | Passengers           | 1531.3 |
-| 20   | The Prestige         | 1531.3 |
-| 21   | Shawshank Redemption | 1531.3 |
-| 22   | The Tomorrow War     | 1530.7 |
-| 23   | Thirteen Lives       | 1530.6 |
-| 24   | Black Panther        | 1530.5 |
-| 25   | Harry Potter         | 1530.5 |
-| 26   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
-| 27   | Maleficent           | 1530.5 |
-| 28   | Locke and Key        | 1529.8 |
-| 29   | Titanic              | 1529.8 |
-| 30   | Megan                | 1529.8 |
-| 31   | Mission Impossible: Ghost Protocol | 1529.3 |
-| 32   | Shang-Chi and the Legend of the Ten Rings | 1529.1 |
-| 33   | Lord of the Rings    | 1528.6 |
-| 34   | Replicas             | 1528.5 |
-| 35   | Train to Busan       | 1524.0 |
-| 36   | Scream VI            | 1518.8 |
-| 37   | Sneaky Pete          | 1517.4 |
-| 38   | Ip Man               | 1517.0 |
-| 39   | The Day After Tomorrow | 1516.7 |
-| 40   | Knight and Day       | 1516.7 |
-| 41   | World War Z          | 1516.7 |
-| 42   | Iron Man             | 1516.5 |
-| 43   | Scream V             | 1516.0 |
-| 44   | Zootopia             | 1516.0 |
-| 45   | Saving Private Ryan  | 1516.0 |
-| 46   | Glass Castle         | 1516.0 |
+| 15   | Rainman              | 1532.0 |
+| 16   | Avengers: Endgame    | 1532.0 |
+| 17   | Inception            | 1532.0 |
+| 18   | Lost in Space        | 1531.3 |
+| 19   | Source Code          | 1531.3 |
+| 20   | Passengers           | 1531.3 |
+| 21   | The Prestige         | 1531.3 |
+| 22   | Shawshank Redemption | 1531.3 |
+| 23   | The Tomorrow War     | 1530.7 |
+| 24   | Thirteen Lives       | 1530.6 |
+| 25   | Black Panther        | 1530.5 |
+| 26   | Harry Potter         | 1530.5 |
+| 27   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
+| 28   | Maleficent           | 1530.5 |
+| 29   | Locke and Key        | 1529.8 |
+| 30   | Titanic              | 1529.8 |
+| 31   | Megan                | 1529.8 |
+| 32   | Mission Impossible: Ghost Protocol | 1529.3 |
+| 33   | Shang-Chi and the Legend of the Ten Rings | 1529.1 |
+| 34   | Lord of the Rings    | 1528.6 |
+| 35   | Replicas             | 1528.5 |
+| 36   | Train to Busan       | 1524.0 |
+| 37   | Scream VI            | 1518.8 |
+| 38   | Sneaky Pete          | 1517.4 |
+| 39   | Ip Man               | 1517.0 |
+| 40   | The Day After Tomorrow | 1516.7 |
+| 41   | Knight and Day       | 1516.7 |
+| 42   | World War Z          | 1516.7 |
+| 43   | Iron Man             | 1516.5 |
+| 44   | Scream V             | 1516.0 |
+| 45   | Zootopia             | 1516.0 |
+| 46   | Saving Private Ryan  | 1516.0 |
 | 47   | Wednesday            | 1516.0 |
 | 48   | A Haunting in Venice | 1516.0 |
 | 49   | Dark Waters          | 1516.0 |
-| 50   | Doctor Strange       | 1516.0 |
-| 51   | Thor                 | 1516.0 |
-| 52   | Rainman              | 1516.0 |
-| 53   | Pirates of the Caribbean | 1516.0 |
-| 54   | Guy Ritchie’s The Covenant | 1516.0 |
-| 55   | The Mandalorian      | 1516.0 |
+| 50   | Thor                 | 1516.0 |
+| 51   | Pirates of the Caribbean | 1516.0 |
+| 52   | Guy Ritchie’s The Covenant | 1516.0 |
+| 53   | The Mandalorian      | 1516.0 |
+| 54   | Doctor Strange       | 1516.0 |
+| 55   | Mission Impossible: Fallout | 1515.3 |
 | 56   | The Ring             | 1515.3 |
 | 57   | Life of Pi           | 1515.3 |
 | 58   | Jack Ryan            | 1515.3 |
 | 59   | Interstellar         | 1515.3 |
-| 60   | Mission Impossible: Fallout | 1515.3 |
-| 61   | The Hobbit           | 1514.6 |
-| 62   | The Illusionist      | 1514.6 |
-| 63   | Bloodhounds          | 1514.6 |
-| 64   | The Maze Runner: The Scorch Trials | 1514.5 |
-| 65   | Jack Reacher         | 1514.1 |
-| 66   | Red Notice           | 1513.9 |
-| 67   | The Ninth Gate       | 1513.2 |
-| 68   | The Avengers         | 1511.8 |
-| 69   | The Last Samurai     | 1510.5 |
-| 70   | Top Gun              | 1503.4 |
-| 71   | School of Rock       | 1502.7 |
-| 72   | Iron Chef            | 1501.6 |
-| 73   | The Terminal List    | 1501.5 |
-| 74   | John Wick            | 1501.4 |
-| 75   | A Quiet Place        | 1500.8 |
-| 76   | Avatar 2             | 1500.7 |
-| 77   | Avatar               | 1500.7 |
-| 78   | Mission Impossible 3 | 1500.7 |
-| 79   | Ninja Turtles        | 1500.7 |
-| 80   | Unbreakable          | 1500.6 |
-| 81   | My Name              | 1500.1 |
-| 82   | Selfless             | 1500.0 |
-| 83   | Cars 2               | 1500.0 |
-| 84   | Wrath of Man         | 1500.0 |
-| 85   | The Hunger Games     | 1500.0 |
-| 86   | Jack Reacher: Never Go Back | 1500.0 |
+| 60   | The Hobbit           | 1514.6 |
+| 61   | The Illusionist      | 1514.6 |
+| 62   | Bloodhounds          | 1514.6 |
+| 63   | The Maze Runner: The Scorch Trials | 1514.5 |
+| 64   | Jack Reacher         | 1514.1 |
+| 65   | Red Notice           | 1513.9 |
+| 66   | The Ninth Gate       | 1513.2 |
+| 67   | The Avengers         | 1511.8 |
+| 68   | The Last Samurai     | 1510.5 |
+| 69   | Top Gun              | 1503.4 |
+| 70   | School of Rock       | 1502.7 |
+| 71   | Iron Chef            | 1501.6 |
+| 72   | The Terminal List    | 1501.5 |
+| 73   | John Wick            | 1501.4 |
+| 74   | A Quiet Place        | 1500.8 |
+| 75   | Avatar 2             | 1500.7 |
+| 76   | Avatar               | 1500.7 |
+| 77   | Mission Impossible 3 | 1500.7 |
+| 78   | Ninja Turtles        | 1500.7 |
+| 79   | Unbreakable          | 1500.6 |
+| 80   | My Name              | 1500.1 |
+| 81   | Selfless             | 1500.0 |
+| 82   | Cars 2               | 1500.0 |
+| 83   | Wrath of Man         | 1500.0 |
+| 84   | The Hunger Games     | 1500.0 |
+| 85   | Jack Reacher: Never Go Back | 1500.0 |
+| 86   | Glass Castle         | 1500.0 |
 | 87   | Life                 | 1500.0 |
 | 88   | The Wild Robot       | 1500.0 |
 | 89   | Captain America: The Winter Soldier | 1500.0 |
