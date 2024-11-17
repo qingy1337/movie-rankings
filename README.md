@@ -14,11 +14,11 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1588.1}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1585.9}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1581.3}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1579.1}$ |
+| $\color{green}\text{7   }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1583.2}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1581.3}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1579.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1578.1}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1577.7}$ |
@@ -104,7 +104,7 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1492.4}$ |
 | $\color{red}\text{96  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1490.4}$ |
-| $\color{green}\text{97  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1488.8}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1488.8}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
@@ -127,13 +127,13 @@ python3 mvr.py
 | $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1466.1}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1466.1}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{red}\text{126 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1464.0}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1462.1}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
@@ -175,7 +175,7 @@ python3 mvr.py
 | $\color{red}\text{165 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1416.0}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.9}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
-| $\color{red}\text{168 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1412.4}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1412.4}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1409.6}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
