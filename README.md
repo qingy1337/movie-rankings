@@ -47,40 +47,40 @@ python3 mvr.py
 | 37   | Rainman              | 1516.0 |
 | 38   | Pirates of the Caribbean | 1516.0 |
 | 39   | Guy Ritchie’s The Covenant | 1516.0 |
-| 40   | Maleficent           | 1516.0 |
-| 41   | Halo                 | 1515.3 |
-| 42   | Thirteen Lives       | 1515.3 |
-| 43   | My Name              | 1515.3 |
-| 44   | The Ring             | 1515.3 |
-| 45   | Jack Ryan            | 1515.3 |
-| 46   | No Country for Old Men | 1515.3 |
-| 47   | Interstellar         | 1515.3 |
-| 48   | Mission Impossible: Fallout | 1515.3 |
-| 49   | Mission Impossible: Dead Reckoning P1 | 1515.3 |
-| 50   | The Last Samurai     | 1515.3 |
-| 51   | The Hobbit           | 1514.6 |
-| 52   | Catch Me If You Can  | 1514.6 |
-| 53   | Pompeii              | 1514.6 |
-| 54   | The Avengers         | 1514.6 |
-| 55   | Shang-Chi and the Legend of the Ten Rings | 1514.6 |
-| 56   | Train to Busan       | 1512.6 |
-| 57   | World War Z          | 1501.5 |
-| 58   | The Terminal List    | 1501.5 |
-| 59   | John Wick            | 1501.4 |
-| 60   | Ip Man               | 1501.1 |
-| 61   | Avatar 2             | 1500.7 |
-| 62   | A.I. Artificial Intelligence | 1500.7 |
-| 63   | Mission Impossible 3 | 1500.7 |
-| 64   | Lost in Space        | 1500.7 |
-| 65   | Sneaky Pete          | 1500.0 |
-| 66   | 65                   | 1500.0 |
-| 67   | The Matrix           | 1500.0 |
-| 68   | Selfless             | 1500.0 |
-| 69   | Zootopia             | 1500.0 |
-| 70   | Stillwater           | 1500.0 |
-| 71   | Cars 2               | 1500.0 |
-| 72   | Locke and Key        | 1500.0 |
-| 73   | Rango                | 1500.0 |
+| 40   | The Mandalorian      | 1516.0 |
+| 41   | Maleficent           | 1516.0 |
+| 42   | Halo                 | 1515.3 |
+| 43   | Thirteen Lives       | 1515.3 |
+| 44   | My Name              | 1515.3 |
+| 45   | The Ring             | 1515.3 |
+| 46   | Jack Ryan            | 1515.3 |
+| 47   | No Country for Old Men | 1515.3 |
+| 48   | Interstellar         | 1515.3 |
+| 49   | Mission Impossible: Fallout | 1515.3 |
+| 50   | Mission Impossible: Dead Reckoning P1 | 1515.3 |
+| 51   | The Last Samurai     | 1515.3 |
+| 52   | Lost in Space        | 1515.2 |
+| 53   | The Hobbit           | 1514.6 |
+| 54   | Catch Me If You Can  | 1514.6 |
+| 55   | Pompeii              | 1514.6 |
+| 56   | The Avengers         | 1514.6 |
+| 57   | Shang-Chi and the Legend of the Ten Rings | 1514.6 |
+| 58   | Train to Busan       | 1512.6 |
+| 59   | World War Z          | 1501.5 |
+| 60   | The Terminal List    | 1501.5 |
+| 61   | John Wick            | 1501.4 |
+| 62   | Ip Man               | 1501.1 |
+| 63   | Avatar 2             | 1500.7 |
+| 64   | A.I. Artificial Intelligence | 1500.7 |
+| 65   | Mission Impossible 3 | 1500.7 |
+| 66   | Sneaky Pete          | 1500.0 |
+| 67   | 65                   | 1500.0 |
+| 68   | The Matrix           | 1500.0 |
+| 69   | Selfless             | 1500.0 |
+| 70   | Zootopia             | 1500.0 |
+| 71   | Stillwater           | 1500.0 |
+| 72   | Cars 2               | 1500.0 |
+| 73   | Locke and Key        | 1500.0 |
 | 74   | Loki                 | 1500.0 |
 | 75   | When a Stranger Calls | 1500.0 |
 | 76   | Wrath of Man         | 1500.0 |
@@ -119,23 +119,23 @@ python3 mvr.py
 | 109  | The Darkest Hour     | 1500.0 |
 | 110  | Top Gun: Maverick    | 1500.0 |
 | 111  | Soul                 | 1500.0 |
-| 112  | The Mandalorian      | 1500.0 |
-| 113  | Captain America: Civil War | 1499.3 |
-| 114  | American Made        | 1499.3 |
-| 115  | Exam                 | 1499.3 |
-| 116  | Zodiac               | 1499.3 |
-| 117  | Journey 2: The Mysterious Island | 1498.5 |
-| 118  | The Young and Prodigious T.S. Spivet | 1486.1 |
-| 119  | Top Gun              | 1486.0 |
-| 120  | The Matrix Revolutions | 1485.4 |
-| 121  | Scream VI            | 1484.7 |
-| 122  | Road House           | 1484.7 |
-| 123  | Zero Dark Thirty     | 1484.7 |
-| 124  | Drunken Master       | 1484.7 |
-| 125  | Ninja Turtles        | 1484.7 |
-| 126  | A Quiet Place        | 1484.0 |
-| 127  | Cars 3               | 1484.0 |
-| 128  | The Tomorrow War     | 1484.0 |
+| 112  | Captain America: Civil War | 1499.3 |
+| 113  | American Made        | 1499.3 |
+| 114  | Exam                 | 1499.3 |
+| 115  | Zodiac               | 1499.3 |
+| 116  | Journey 2: The Mysterious Island | 1498.5 |
+| 117  | The Young and Prodigious T.S. Spivet | 1486.1 |
+| 118  | Top Gun              | 1486.0 |
+| 119  | The Matrix Revolutions | 1485.4 |
+| 120  | Scream VI            | 1484.7 |
+| 121  | Road House           | 1484.7 |
+| 122  | Zero Dark Thirty     | 1484.7 |
+| 123  | Drunken Master       | 1484.7 |
+| 124  | Ninja Turtles        | 1484.7 |
+| 125  | A Quiet Place        | 1484.0 |
+| 126  | Cars 3               | 1484.0 |
+| 127  | The Tomorrow War     | 1484.0 |
+| 128  | Rango                | 1484.0 |
 | 129  | Vagabond             | 1484.0 |
 | 130  | Heidi                | 1484.0 |
 | 131  | Jurassic World: Dominion | 1484.0 |
@@ -169,12 +169,12 @@ python3 mvr.py
 | 159  | American Sniper      | 1468.8 |
 | 160  | Star Trek: Picard    | 1468.7 |
 | 161  | The Mask             | 1468.7 |
-| 162  | Rampage              | 1468.7 |
-| 163  | War Horse            | 1468.7 |
-| 164  | Mission Impossible: Rogue Nation | 1468.7 |
-| 165  | "Everything, everywhere, all at once" | 1468.1 |
-| 166  | Darkest Hour         | 1468.0 |
-| 167  | Spectral             | 1455.5 |
-| 168  | Gravity              | 1454.9 |
-| 169  | Mission Impossible 2 | 1454.9 |
-| 170  | AK-47 Kalashnikov    | 1454.8 |
+| 162  | War Horse            | 1468.7 |
+| 163  | Mission Impossible: Rogue Nation | 1468.7 |
+| 164  | "Everything, everywhere, all at once" | 1468.1 |
+| 165  | Darkest Hour         | 1468.0 |
+| 166  | Spectral             | 1455.5 |
+| 167  | Gravity              | 1454.9 |
+| 168  | Mission Impossible 2 | 1454.9 |
+| 169  | AK-47 Kalashnikov    | 1454.8 |
+| 170  | Rampage              | 1454.2 |
