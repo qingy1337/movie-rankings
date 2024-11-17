@@ -91,10 +91,10 @@ python3 mvr.py
 | $\color{black}\text{81  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1504.3}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.3}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1499.1}$ |
+| $\color{green}\text{84  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1503.4}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.3}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
@@ -133,7 +133,7 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{red}\text{126 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1460.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1459.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
@@ -146,7 +146,7 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1447.4}$ |
-| $\color{green}\text{139 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1445.9}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
@@ -178,5 +178,5 @@ python3 mvr.py
 | $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
 | $\color{red}\text{169 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1405.0}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1401.1}$ |
+| $\color{red}\text{171 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1396.7}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1394.7}$ |
