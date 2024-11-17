@@ -50,8 +50,8 @@ python3 mvr.py
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
-| $\color{red}\text{43  }$ | $\color{red}\text{Lord of the Rings}$ | $\color{red}\text{1545.7}$ |
-| $\color{green}\text{44  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1545.5}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1545.7}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
@@ -161,14 +161,14 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1420.5}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
+| $\color{green}\text{154 }$ | $\color{green}\text{Heidi}$ | $\color{green}\text{1419.1}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{red}\text{157 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1415.9}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1413.0}$ |
-| $\color{red}\text{161 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1412.9}$ |
+| $\color{red}\text{160 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1413.3}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1413.0}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
