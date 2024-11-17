@@ -39,9 +39,9 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1554.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
+| $\color{green}\text{32  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1553.8}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
@@ -117,7 +117,7 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1477.9}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
-| $\color{green}\text{110 }$ | $\color{green}\text{M3GAN}$ | $\color{green}\text{1476.7}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.7}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
 | $\color{red}\text{113 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1475.6}$ |
@@ -168,13 +168,13 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{65}$ | $\color{black}\text{1427.2}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
+| $\color{red}\text{163 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1421.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
-| $\color{red}\text{167 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1414.3}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1414.3}$ |
 | $\color{red}\text{168 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1412.9}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
