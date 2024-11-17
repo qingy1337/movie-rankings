@@ -17,13 +17,13 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1584.5}$ |
-| $\color{green}\text{16  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1583.8}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1590.1}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1583.3}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
@@ -46,9 +46,9 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1558.7}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
+| $\color{red}\text{41  }$ | $\color{red}\text{Scream V}$ | $\color{red}\text{1552.9}$ |
 | $\color{green}\text{42  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1552.3}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1549.7}$ |
@@ -177,6 +177,6 @@ python3 mvr.py
 | $\color{black}\text{167 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
-| $\color{red}\text{170 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1399.0}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1399.0}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
