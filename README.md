@@ -16,7 +16,7 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
-| $\color{green}\text{9   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1591.4}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1591.4}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
 | $\color{green}\text{11  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1591.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
@@ -48,10 +48,10 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{red}\text{40  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1554.5}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1552.3}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1549.7}$ |
+| $\color{green}\text{41  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1553.6}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1552.3}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1549.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
@@ -132,7 +132,7 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1456.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1456.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1421.5}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1417.7}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
 | $\color{green}\text{157 }$ | $\color{green}\text{War Horse}$ | $\color{green}\text{1414.9}$ |
