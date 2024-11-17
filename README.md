@@ -48,10 +48,10 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1560.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1554.9}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1551.7}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1549.3}$ |
+| $\color{green}\text{41  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1554.2}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1551.7}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1547.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
@@ -64,7 +64,7 @@ python3 mvr.py
 | $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1538.4}$ |
-| $\color{green}\text{57  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1536.4}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1533.7}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
@@ -103,9 +103,9 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1488.3}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
-| $\color{red}\text{98  }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1484.2}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
+| $\color{red}\text{97  }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1484.2}$ |
+| $\color{red}\text{98  }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1483.4}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
