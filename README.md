@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1627.4}$ |
+| $\color{red}\text{1   }$ | $\color{red}\text{Harry Potter}$ | $\color{red}\text{1626.7}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1616.5}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1604.9}$ |
@@ -25,9 +25,9 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1589.7}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{green}\text{18  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1587.2}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1586.6}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1587.3}$ |
+| $\color{green}\text{19  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1587.2}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1579.4}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.8}$ |
@@ -73,7 +73,7 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{green}\text{66  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1524.0}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1524.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{green}\text{69  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1515.8}$ |
@@ -124,7 +124,7 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1461.3}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1461.3}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1461.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1460.4}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
