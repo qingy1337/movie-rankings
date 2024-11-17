@@ -122,7 +122,7 @@ python3 mvr.py
 | $\color{black}\text{112 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
-| $\color{red}\text{115 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1468.3}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1468.3}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
@@ -153,7 +153,7 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.4}$ |
-| $\color{green}\text{146 }$ | $\color{green}\text{Saving Private Ryan}$ | $\color{green}\text{1437.1}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1433.9}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.7}$ |
@@ -163,18 +163,18 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1426.4}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1425.7}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.9}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1415.5}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
-| $\color{red}\text{163 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1412.2}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1411.1}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{65}$ | $\color{black}\text{1409.7}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.9}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
+| $\color{red}\text{160 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1419.5}$ |
+| $\color{green}\text{161 }$ | $\color{green}\text{65}$ | $\color{green}\text{1415.9}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1415.5}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
+| $\color{red}\text{164 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1412.2}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1411.1}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
