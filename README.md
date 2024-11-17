@@ -27,9 +27,9 @@ python3 mvr.py
 | $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1560.7}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1557.8}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1557.1}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1557.1}$ |
+| $\color{red}\text{22  }$ | $\color{red}\text{Maleficent}$ | $\color{red}\text{1557.1}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
 | $\color{green}\text{25  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1552.2}$ |
@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
-| $\color{green}\text{39  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1541.3}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1541.3}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
@@ -68,7 +68,7 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1516.4}$ |
+| $\color{green}\text{61  }$ | $\color{green}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{green}\text{1517.1}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1514.6}$ |
@@ -131,7 +131,7 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.1}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1470.3}$ |
-| $\color{red}\text{124 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1466.1}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
