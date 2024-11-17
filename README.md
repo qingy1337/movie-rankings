@@ -27,34 +27,34 @@ python3 mvr.py
 | 17   | Rainman              | 1532.0 |
 | 18   | Avengers: Endgame    | 1532.0 |
 | 19   | Inception            | 1531.9 |
-| 20   | Lost in Space        | 1531.3 |
-| 21   | Source Code          | 1531.3 |
-| 22   | Passengers           | 1531.3 |
-| 23   | Dark Waters          | 1531.3 |
-| 24   | Shawshank Redemption | 1531.3 |
-| 25   | World War Z          | 1531.3 |
-| 26   | Thirteen Lives       | 1530.6 |
-| 27   | Harry Potter         | 1530.5 |
-| 28   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
-| 29   | Maleficent           | 1530.5 |
-| 30   | Locke and Key        | 1529.8 |
-| 31   | Titanic              | 1529.8 |
-| 32   | Megan                | 1529.8 |
-| 33   | Mission Impossible: Ghost Protocol | 1529.3 |
-| 34   | The Illusionist      | 1529.2 |
-| 35   | Lord of the Rings    | 1528.6 |
-| 36   | Replicas             | 1528.5 |
-| 37   | Train to Busan       | 1524.0 |
-| 38   | Scream VI            | 1518.8 |
-| 39   | Tenet                | 1518.7 |
-| 40   | A Quiet Place        | 1517.4 |
-| 41   | John Wick            | 1517.4 |
-| 42   | Ip Man               | 1517.0 |
-| 43   | The Day After Tomorrow | 1516.7 |
-| 44   | Knight and Day       | 1516.7 |
-| 45   | Iron Man             | 1516.5 |
-| 46   | Scream V             | 1516.0 |
-| 47   | Zootopia             | 1516.0 |
+| 20   | A Quiet Place        | 1531.3 |
+| 21   | Lost in Space        | 1531.3 |
+| 22   | Source Code          | 1531.3 |
+| 23   | Passengers           | 1531.3 |
+| 24   | Dark Waters          | 1531.3 |
+| 25   | Shawshank Redemption | 1531.3 |
+| 26   | World War Z          | 1531.3 |
+| 27   | Thirteen Lives       | 1530.6 |
+| 28   | Harry Potter         | 1530.5 |
+| 29   | Mission Impossible: Dead Reckoning P1 | 1530.5 |
+| 30   | Maleficent           | 1530.5 |
+| 31   | Locke and Key        | 1529.8 |
+| 32   | Titanic              | 1529.8 |
+| 33   | Zootopia             | 1529.8 |
+| 34   | Megan                | 1529.8 |
+| 35   | Mission Impossible: Ghost Protocol | 1529.3 |
+| 36   | The Illusionist      | 1529.2 |
+| 37   | Lord of the Rings    | 1528.6 |
+| 38   | Replicas             | 1528.5 |
+| 39   | Train to Busan       | 1524.0 |
+| 40   | Scream VI            | 1518.8 |
+| 41   | Tenet                | 1518.7 |
+| 42   | John Wick            | 1517.4 |
+| 43   | Ip Man               | 1517.0 |
+| 44   | The Day After Tomorrow | 1516.7 |
+| 45   | Knight and Day       | 1516.7 |
+| 46   | Iron Man             | 1516.5 |
+| 47   | Scream V             | 1516.0 |
 | 48   | Saving Private Ryan  | 1516.0 |
 | 49   | A Haunting in Venice | 1516.0 |
 | 50   | Thor                 | 1516.0 |
@@ -141,38 +141,38 @@ python3 mvr.py
 | 131  | Total Recall         | 1474.1 |
 | 132  | Mission Impossible 2 | 1473.6 |
 | 133  | The Matrix Reloaded  | 1472.2 |
-| 134  | Zero Dark Thirty     | 1471.5 |
-| 135  | Road House           | 1470.9 |
-| 136  | A Boy Called Christmas | 1470.8 |
-| 137  | Journey 2: The Mysterious Island | 1470.0 |
-| 138  | Drunken Master       | 1469.5 |
-| 139  | Crouching Tiger Hidden Dragon | 1469.5 |
-| 140  | The Man Who Knew Infinity | 1469.5 |
-| 141  | Sweet Tooth          | 1469.4 |
-| 142  | Johnny English       | 1468.8 |
-| 143  | Peter the Rabbit     | 1468.8 |
-| 144  | When a Stranger Calls | 1468.8 |
-| 145  | Heidi                | 1468.7 |
-| 146  | The Mask             | 1468.7 |
-| 147  | Avatar: The Last Airbender | 1468.7 |
-| 148  | Horton hears a Who   | 1468.7 |
-| 149  | Rango                | 1468.7 |
-| 150  | Onward               | 1468.1 |
-| 151  | "Everything, everywhere, all at once" | 1468.1 |
-| 152  | The Man in the Iron Mask | 1468.0 |
-| 153  | Shadow               | 1468.0 |
-| 154  | Arrow                | 1468.0 |
-| 155  | Darkest Hour         | 1468.0 |
-| 156  | 65                   | 1467.4 |
-| 157  | The Silence          | 1467.4 |
-| 158  | Black Hawk Down      | 1456.9 |
-| 159  | Cars 3               | 1456.1 |
-| 160  | Awake                | 1455.6 |
-| 161  | American Sniper      | 1454.9 |
-| 162  | Jurassic World: Dominion | 1454.8 |
-| 163  | Exam                 | 1454.7 |
-| 164  | Spooky Buddies       | 1454.7 |
-| 165  | Rampage              | 1454.2 |
+| 134  | Road House           | 1470.9 |
+| 135  | A Boy Called Christmas | 1470.8 |
+| 136  | Journey 2: The Mysterious Island | 1470.0 |
+| 137  | Drunken Master       | 1469.5 |
+| 138  | Crouching Tiger Hidden Dragon | 1469.5 |
+| 139  | The Man Who Knew Infinity | 1469.5 |
+| 140  | Sweet Tooth          | 1469.4 |
+| 141  | Johnny English       | 1468.8 |
+| 142  | Peter the Rabbit     | 1468.8 |
+| 143  | When a Stranger Calls | 1468.8 |
+| 144  | Heidi                | 1468.7 |
+| 145  | The Mask             | 1468.7 |
+| 146  | Avatar: The Last Airbender | 1468.7 |
+| 147  | Horton hears a Who   | 1468.7 |
+| 148  | Rango                | 1468.7 |
+| 149  | Onward               | 1468.1 |
+| 150  | "Everything, everywhere, all at once" | 1468.1 |
+| 151  | The Man in the Iron Mask | 1468.0 |
+| 152  | Shadow               | 1468.0 |
+| 153  | Arrow                | 1468.0 |
+| 154  | 65                   | 1467.4 |
+| 155  | The Silence          | 1467.4 |
+| 156  | Zero Dark Thirty     | 1457.6 |
+| 157  | Black Hawk Down      | 1456.9 |
+| 158  | Cars 3               | 1456.1 |
+| 159  | Awake                | 1455.6 |
+| 160  | American Sniper      | 1454.9 |
+| 161  | Jurassic World: Dominion | 1454.8 |
+| 162  | Exam                 | 1454.7 |
+| 163  | Spooky Buddies       | 1454.7 |
+| 164  | Rampage              | 1454.2 |
+| 165  | Darkest Hour         | 1454.2 |
 | 166  | War Horse            | 1440.1 |
 | 167  | The Battle at Lake Changjin | 1429.2 |
 | 168  | Gravity              | 1428.3 |
