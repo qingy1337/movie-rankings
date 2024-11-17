@@ -26,7 +26,7 @@ python3 mvr.py
 | $\color{black}\text{16  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
-| $\color{green}\text{19  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1559.2}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1559.2}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1556.8}$ |
@@ -110,15 +110,15 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
+| $\color{red}\text{111 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1478.4}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
@@ -133,14 +133,14 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{red}\text{125 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1465.6}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1462.1}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
+| $\color{green}\text{126 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1465.3}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1462.1}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1454.4}$ |
@@ -163,7 +163,7 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1439.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1437.0}$ |
-| $\color{red}\text{156 }$ | $\color{red}\text{65}$ | $\color{red}\text{1435.2}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1434.4}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
