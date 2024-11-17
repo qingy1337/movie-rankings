@@ -20,15 +20,15 @@ python3 mvr.py
 | 10   | Inception            | 1615.2 |
 | 11   | Source Code          | 1612.4 |
 | 12   | Avengers: Age of Ultron | 1609.5 |
-| 13   | Squid Game           | 1605.4 |
-| 14   | Maleficent           | 1605.3 |
-| 15   | Thirteen Lives       | 1605.2 |
-| 16   | No Country for Old Men | 1601.7 |
-| 17   | Avengers: Endgame    | 1600.8 |
-| 18   | Sneaky Pete          | 1596.8 |
-| 19   | The Maze Runner      | 1596.2 |
-| 20   | Life                 | 1596.1 |
-| 21   | Vagabond             | 1592.2 |
+| 13   | Vagabond             | 1606.7 |
+| 14   | Squid Game           | 1605.4 |
+| 15   | Maleficent           | 1605.3 |
+| 16   | Thirteen Lives       | 1605.2 |
+| 17   | No Country for Old Men | 1601.7 |
+| 18   | Avengers: Endgame    | 1600.8 |
+| 19   | Sneaky Pete          | 1596.8 |
+| 20   | The Maze Runner      | 1596.2 |
+| 21   | Life                 | 1596.1 |
 | 22   | X-Men                | 1590.2 |
 | 23   | Doctor Strange       | 1589.2 |
 | 24   | The Hobbit           | 1588.8 |
@@ -47,19 +47,19 @@ python3 mvr.py
 | 37   | Scream VI            | 1565.8 |
 | 38   | Loki                 | 1563.0 |
 | 39   | Shang-Chi and the Legend of the Ten Rings | 1560.7 |
-| 40   | Mission Impossible: Fallout | 1560.6 |
-| 41   | The Wild Robot       | 1560.5 |
-| 42   | Mission Impossible: Ghost Protocol | 1560.4 |
-| 43   | Locke and Key        | 1560.2 |
-| 44   | Tenet                | 1554.6 |
-| 45   | The Matrix           | 1553.4 |
-| 46   | Halo                 | 1552.0 |
-| 47   | Replicas             | 1551.9 |
-| 48   | Interstellar         | 1550.8 |
-| 49   | Beut Mind            | 1550.6 |
-| 50   | Mission Impossible: Rogue Nation | 1548.5 |
-| 51   | The Tomorrow War     | 1548.5 |
-| 52   | The Prestige         | 1547.4 |
+| 40   | The Wild Robot       | 1560.5 |
+| 41   | Mission Impossible: Ghost Protocol | 1560.4 |
+| 42   | Locke and Key        | 1560.2 |
+| 43   | Tenet                | 1554.6 |
+| 44   | The Matrix           | 1553.4 |
+| 45   | Halo                 | 1552.0 |
+| 46   | Replicas             | 1551.9 |
+| 47   | Interstellar         | 1550.8 |
+| 48   | Beut Mind            | 1550.6 |
+| 49   | Mission Impossible: Rogue Nation | 1548.5 |
+| 50   | The Tomorrow War     | 1548.5 |
+| 51   | The Prestige         | 1547.4 |
+| 52   | Mission Impossible: Fallout | 1546.1 |
 | 53   | The Illusionist      | 1545.8 |
 | 54   | Soul                 | 1542.9 |
 | 55   | Captain America: The Winter Soldier | 1539.8 |
@@ -99,21 +99,21 @@ python3 mvr.py
 | 89   | Ip Man               | 1497.9 |
 | 90   | Skyfall              | 1494.9 |
 | 91   | Rainman              | 1494.3 |
-| 92   | Oppenheimer          | 1493.2 |
-| 93   | A Boy Called Christmas | 1493.1 |
-| 94   | Dune                 | 1490.9 |
-| 95   | Dark Waters          | 1488.7 |
-| 96   | Cars 2               | 1478.5 |
-| 97   | The Mask             | 1477.0 |
-| 98   | Jack Reacher: Never Go Back | 1476.6 |
-| 99   | Road House           | 1476.0 |
-| 100  | Wrath of Man         | 1475.8 |
-| 101  | The Curious Case of Benjamin Button | 1475.7 |
-| 102  | Black Widow          | 1473.8 |
-| 103  | The Darkest Hour     | 1473.5 |
-| 104  | Johnny English       | 1470.8 |
-| 105  | Knight and Day       | 1469.9 |
-| 106  | The Ring             | 1469.2 |
+| 92   | A Boy Called Christmas | 1493.1 |
+| 93   | Dune                 | 1490.9 |
+| 94   | Dark Waters          | 1488.7 |
+| 95   | Road House           | 1487.5 |
+| 96   | The Ring             | 1486.3 |
+| 97   | Cars 2               | 1478.5 |
+| 98   | The Mask             | 1477.0 |
+| 99   | Jack Reacher: Never Go Back | 1476.6 |
+| 100  | Oppenheimer          | 1476.1 |
+| 101  | Wrath of Man         | 1475.8 |
+| 102  | The Curious Case of Benjamin Button | 1475.7 |
+| 103  | Black Widow          | 1473.8 |
+| 104  | The Darkest Hour     | 1473.5 |
+| 105  | Johnny English       | 1470.8 |
+| 106  | Knight and Day       | 1469.9 |
 | 107  | The Matrix Revolutions | 1468.1 |
 | 108  | Rampage              | 1466.5 |
 | 109  | Exam                 | 1465.7 |
@@ -173,8 +173,8 @@ python3 mvr.py
 | 163  | Everything, everywhere, all at once | 1377.1 |
 | 164  | Gravity              | 1376.8 |
 | 165  | All Quiet on The Western Front | 1376.7 |
-| 166  | Darkest Hour         | 1376.2 |
-| 167  | Shadow               | 1370.2 |
-| 168  | Black Hawk Down      | 1367.8 |
+| 166  | Shadow               | 1370.2 |
+| 167  | Black Hawk Down      | 1367.8 |
+| 168  | Darkest Hour         | 1364.6 |
 | 169  | Spectral             | 1362.2 |
 | 170  | The Battle at Lake Changjin | 1351.6 |
