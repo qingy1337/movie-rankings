@@ -16,22 +16,22 @@ python3 mvr.py
 | 6    | Avengers: Infinity War | 1559.8 |
 | 7    | Thirteen Lives       | 1558.3 |
 | 8    | The Maze Runner: The Death Cure | 1558.3 |
-| 9    | Source Code          | 1555.5 |
-| 10   | Black Panther        | 1554.6 |
-| 11   | Harry Potter         | 1547.1 |
-| 12   | X-Men                | 1547.1 |
-| 13   | Maleficent           | 1545.7 |
-| 14   | Squid Game           | 1545.3 |
-| 15   | Halo                 | 1544.5 |
-| 16   | Wednesday            | 1544.4 |
-| 17   | The Prestige         | 1544.1 |
-| 18   | Mission Impossible: Ghost Protocol | 1543.3 |
-| 19   | Lord of the Rings    | 1543.2 |
-| 20   | The Hobbit           | 1543.1 |
-| 21   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
-| 22   | Mission Impossible: Fallout | 1543.0 |
-| 23   | The Tomorrow War     | 1542.9 |
-| 24   | Avengers: Age of Ultron | 1542.5 |
+| 9    | Avengers: Age of Ultron | 1556.6 |
+| 10   | Source Code          | 1555.5 |
+| 11   | Black Panther        | 1554.6 |
+| 12   | Harry Potter         | 1547.1 |
+| 13   | X-Men                | 1547.1 |
+| 14   | Maleficent           | 1545.7 |
+| 15   | Squid Game           | 1545.3 |
+| 16   | Halo                 | 1544.5 |
+| 17   | Wednesday            | 1544.4 |
+| 18   | The Prestige         | 1544.1 |
+| 19   | Mission Impossible: Ghost Protocol | 1543.3 |
+| 20   | Lord of the Rings    | 1543.2 |
+| 21   | The Hobbit           | 1543.1 |
+| 22   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 23   | Mission Impossible: Fallout | 1543.0 |
+| 24   | The Tomorrow War     | 1542.9 |
 | 25   | Rainman              | 1542.5 |
 | 26   | The Illusionist      | 1542.4 |
 | 27   | Catch Me If You Can  | 1541.9 |
@@ -95,18 +95,18 @@ python3 mvr.py
 | 85   | School of Rock       | 1502.7 |
 | 86   | The Matrix           | 1502.7 |
 | 87   | Tenet                | 1501.4 |
-| 88   | Gladiator            | 1501.3 |
-| 89   | Ninja Turtles        | 1500.7 |
-| 90   | Avatar               | 1500.5 |
-| 91   | Ip Man               | 1500.2 |
-| 92   | GoldenEye            | 1500.1 |
-| 93   | Jack Reacher: Never Go Back | 1500.0 |
-| 94   | Terminator           | 1499.3 |
-| 95   | Horton hears a Who   | 1499.1 |
-| 96   | The Curious Case of Benjamin Button | 1498.7 |
-| 97   | The Ring 2           | 1498.6 |
-| 98   | Land of Bad          | 1497.9 |
-| 99   | Pompeii              | 1497.4 |
+| 88   | Ninja Turtles        | 1500.7 |
+| 89   | Avatar               | 1500.5 |
+| 90   | Ip Man               | 1500.2 |
+| 91   | GoldenEye            | 1500.1 |
+| 92   | Jack Reacher: Never Go Back | 1500.0 |
+| 93   | Terminator           | 1499.3 |
+| 94   | Horton hears a Who   | 1499.1 |
+| 95   | The Curious Case of Benjamin Button | 1498.7 |
+| 96   | The Ring 2           | 1498.6 |
+| 97   | Land of Bad          | 1497.9 |
+| 98   | Pompeii              | 1497.4 |
+| 99   | Gladiator            | 1487.2 |
 | 100  | Star Trek: Picard    | 1486.9 |
 | 101  | A Boy Called Christmas | 1486.4 |
 | 102  | Black Widow          | 1485.5 |
