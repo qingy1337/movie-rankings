@@ -8,11 +8,11 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | The Martian          | 1572.4 |
-| 2    | Tenet                | 1557.1 |
-| 3    | Megan                | 1547.2 |
-| 4    | Avengers: Age of Ultron | 1546.5 |
-| 5    | The Maze Runner: The Death Cure | 1545.1 |
+| 1    | The Martian          | 1583.8 |
+| 2    | The Maze Runner: The Death Cure | 1558.3 |
+| 3    | Tenet                | 1557.1 |
+| 4    | Megan                | 1547.2 |
+| 5    | Avengers: Age of Ultron | 1546.5 |
 | 6    | Halo                 | 1544.5 |
 | 7    | X-Men                | 1533.4 |
 | 8    | Squid Game           | 1532.8 |
@@ -136,22 +136,22 @@ python3 mvr.py
 | 126  | Avatar: The Last Airbender | 1484.0 |
 | 127  | The BFG              | 1484.0 |
 | 128  | Avatar               | 1484.0 |
-| 129  | Total Recall         | 1484.0 |
-| 130  | Mission Impossible 1 | 1484.0 |
-| 131  | GoldenEye            | 1484.0 |
-| 132  | G.I.Joe movie        | 1484.0 |
-| 133  | Skyfall              | 1484.0 |
-| 134  | Land of Bad          | 1484.0 |
-| 135  | A Quiet Place: Day One | 1484.0 |
-| 136  | Frequency            | 1484.0 |
-| 137  | Johnny English       | 1483.3 |
-| 138  | Red Eye              | 1483.3 |
-| 139  | When a Stranger Calls | 1483.3 |
-| 140  | Independence Day     | 1483.3 |
-| 141  | All Quiet on The Western Front | 1482.6 |
-| 142  | Terminator           | 1482.6 |
-| 143  | Mission Impossible 2 | 1473.6 |
-| 144  | Black Hawk Down      | 1470.9 |
+| 129  | Mission Impossible 1 | 1484.0 |
+| 130  | GoldenEye            | 1484.0 |
+| 131  | G.I.Joe movie        | 1484.0 |
+| 132  | Skyfall              | 1484.0 |
+| 133  | Land of Bad          | 1484.0 |
+| 134  | A Quiet Place: Day One | 1484.0 |
+| 135  | Frequency            | 1484.0 |
+| 136  | Johnny English       | 1483.3 |
+| 137  | Red Eye              | 1483.3 |
+| 138  | When a Stranger Calls | 1483.3 |
+| 139  | Independence Day     | 1483.3 |
+| 140  | All Quiet on The Western Front | 1482.6 |
+| 141  | Terminator           | 1482.6 |
+| 142  | Mission Impossible 2 | 1473.6 |
+| 143  | Black Hawk Down      | 1470.9 |
+| 144  | Total Recall         | 1470.8 |
 | 145  | Cars                 | 1470.2 |
 | 146  | Loki                 | 1470.2 |
 | 147  | Exam                 | 1470.1 |
@@ -159,19 +159,19 @@ python3 mvr.py
 | 149  | The Man Who Knew Infinity | 1469.5 |
 | 150  | Awake                | 1469.5 |
 | 151  | A Boy Called Christmas | 1469.4 |
-| 152  | The Battle at Lake Changjin | 1469.4 |
-| 153  | Spooky Buddies       | 1469.3 |
-| 154  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 155  | American Sniper      | 1468.8 |
-| 156  | Peter the Rabbit     | 1468.8 |
-| 157  | The Mask             | 1468.7 |
-| 158  | Horton hears a Who   | 1468.7 |
-| 159  | Mission Impossible: Rogue Nation | 1468.7 |
-| 160  | Onward               | 1468.1 |
-| 161  | "Everything, everywhere, all at once" | 1468.1 |
-| 162  | Arrow                | 1468.0 |
-| 163  | Darkest Hour         | 1468.0 |
-| 164  | The Silence          | 1467.4 |
+| 152  | Spooky Buddies       | 1469.3 |
+| 153  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 154  | American Sniper      | 1468.8 |
+| 155  | Peter the Rabbit     | 1468.8 |
+| 156  | The Mask             | 1468.7 |
+| 157  | Horton hears a Who   | 1468.7 |
+| 158  | Mission Impossible: Rogue Nation | 1468.7 |
+| 159  | Onward               | 1468.1 |
+| 160  | "Everything, everywhere, all at once" | 1468.1 |
+| 161  | Arrow                | 1468.0 |
+| 162  | Darkest Hour         | 1468.0 |
+| 163  | The Silence          | 1467.4 |
+| 164  | The Battle at Lake Changjin | 1458.0 |
 | 165  | Gravity              | 1454.9 |
 | 166  | The Matrix Reloaded  | 1454.9 |
 | 167  | War Horse            | 1454.7 |
