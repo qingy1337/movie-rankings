@@ -21,8 +21,8 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1572.0}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1574.2}$ |
+| $\color{green}\text{15  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1572.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
@@ -109,12 +109,12 @@ python3 mvr.py
 | $\color{black}\text{99  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
-| $\color{red}\text{102 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1485.5}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
-| $\color{green}\text{107 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1479.7}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1479.7}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
 | $\color{red}\text{109 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1477.7}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
@@ -174,9 +174,9 @@ python3 mvr.py
 | $\color{black}\text{164 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1422.6}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
+| $\color{red}\text{169 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1418.1}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1415.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1405.6}$ |
