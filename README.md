@@ -104,17 +104,17 @@ python3 mvr.py
 | 94   | Top Gun: Maverick    | 1500.0 |
 | 95   | Oppenheimer          | 1499.4 |
 | 96   | Terminator           | 1499.3 |
-| 97   | American Made        | 1499.3 |
-| 98   | The Curious Case of Benjamin Button | 1498.7 |
-| 99   | Rebel Ridge          | 1498.6 |
-| 100  | The Ring 2           | 1498.6 |
-| 101  | Bloodhounds          | 1497.9 |
-| 102  | The Spy Next Door    | 1497.3 |
-| 103  | A.I. Artificial Intelligence | 1495.9 |
-| 104  | Pompeii              | 1495.9 |
-| 105  | Mission Impossible: Rogue Nation | 1491.2 |
-| 106  | The Young and Prodigious T.S. Spivet | 1488.8 |
-| 107  | Vagabond             | 1488.1 |
+| 97   | The Curious Case of Benjamin Button | 1498.7 |
+| 98   | Rebel Ridge          | 1498.6 |
+| 99   | The Ring 2           | 1498.6 |
+| 100  | Bloodhounds          | 1497.9 |
+| 101  | The Spy Next Door    | 1497.3 |
+| 102  | A.I. Artificial Intelligence | 1495.9 |
+| 103  | Pompeii              | 1495.9 |
+| 104  | Mission Impossible: Rogue Nation | 1491.2 |
+| 105  | The Young and Prodigious T.S. Spivet | 1488.8 |
+| 106  | Vagabond             | 1488.1 |
+| 107  | Loki                 | 1487.5 |
 | 108  | Gladiator            | 1487.4 |
 | 109  | Star Trek: Picard    | 1486.9 |
 | 110  | Cars                 | 1486.9 |
@@ -137,14 +137,14 @@ python3 mvr.py
 | 127  | Independence Day     | 1483.3 |
 | 128  | The Firm             | 1482.7 |
 | 129  | All Quiet on The Western Front | 1482.6 |
-| 130  | Stillwater           | 1481.3 |
-| 131  | Total Recall         | 1474.1 |
-| 132  | Mission Impossible 2 | 1473.6 |
-| 133  | The Matrix Reloaded  | 1472.2 |
-| 134  | Zero Dark Thirty     | 1471.5 |
-| 135  | Road House           | 1470.9 |
-| 136  | A Boy Called Christmas | 1470.8 |
-| 137  | Loki                 | 1470.2 |
+| 130  | American Made        | 1481.9 |
+| 131  | Stillwater           | 1481.3 |
+| 132  | Total Recall         | 1474.1 |
+| 133  | Mission Impossible 2 | 1473.6 |
+| 134  | The Matrix Reloaded  | 1472.2 |
+| 135  | Zero Dark Thirty     | 1471.5 |
+| 136  | Road House           | 1470.9 |
+| 137  | A Boy Called Christmas | 1470.8 |
 | 138  | Journey 2: The Mysterious Island | 1470.0 |
 | 139  | Drunken Master       | 1469.5 |
 | 140  | Crouching Tiger Hidden Dragon | 1469.5 |
