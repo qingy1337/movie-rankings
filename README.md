@@ -24,13 +24,13 @@ python3 mvr.py
 | 14   | The Mandalorian      | 1579.9 |
 | 15   | Beut Mind            | 1576.0 |
 | 16   | The Hobbit           | 1575.0 |
-| 17   | Thirteen Lives       | 1570.3 |
-| 18   | Locke and Key        | 1569.6 |
-| 19   | Halo                 | 1569.4 |
-| 20   | Source Code          | 1567.6 |
-| 21   | The Maze Runner: The Scorch Trials | 1567.0 |
-| 22   | Sneaky Pete          | 1564.5 |
-| 23   | Avatar 2             | 1561.4 |
+| 17   | Avatar 2             | 1571.6 |
+| 18   | Thirteen Lives       | 1570.3 |
+| 19   | Locke and Key        | 1569.6 |
+| 20   | Halo                 | 1569.4 |
+| 21   | Source Code          | 1567.6 |
+| 22   | The Maze Runner: The Scorch Trials | 1567.0 |
+| 23   | Sneaky Pete          | 1564.5 |
 | 24   | No Country for Old Men | 1561.1 |
 | 25   | Squid Game           | 1560.7 |
 | 26   | The Maze Runner: The Death Cure | 1559.8 |
@@ -46,19 +46,19 @@ python3 mvr.py
 | 36   | The Wild Robot       | 1547.0 |
 | 37   | Maleficent           | 1545.7 |
 | 38   | Tenet                | 1544.7 |
-| 39   | The Prestige         | 1544.1 |
-| 40   | Life                 | 1543.3 |
-| 41   | A Quiet Place        | 1543.3 |
-| 42   | The Ninth Gate       | 1542.5 |
-| 43   | The Illusionist      | 1542.4 |
-| 44   | Avengers: Infinity War | 1542.0 |
-| 45   | Catch Me If You Can  | 1541.9 |
-| 46   | Train to Busan       | 1535.6 |
-| 47   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 48   | Avengers: Endgame    | 1535.0 |
-| 49   | Mission Impossible: Fallout | 1534.9 |
-| 50   | The Day After Tomorrow | 1534.3 |
-| 51   | The Young and Prodigious T.S. Spivet | 1533.6 |
+| 39   | The Young and Prodigious T.S. Spivet | 1544.3 |
+| 40   | The Prestige         | 1544.1 |
+| 41   | Life                 | 1543.3 |
+| 42   | A Quiet Place        | 1543.3 |
+| 43   | The Ninth Gate       | 1542.5 |
+| 44   | The Illusionist      | 1542.4 |
+| 45   | Avengers: Infinity War | 1542.0 |
+| 46   | Catch Me If You Can  | 1541.9 |
+| 47   | Train to Busan       | 1535.6 |
+| 48   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 49   | Avengers: Endgame    | 1535.0 |
+| 50   | Mission Impossible: Fallout | 1534.9 |
+| 51   | The Day After Tomorrow | 1534.3 |
 | 52   | Jack Ryan            | 1531.6 |
 | 53   | The Man Who Knew Infinity | 1530.9 |
 | 54   | The Hunger Games     | 1530.3 |
@@ -161,19 +161,19 @@ python3 mvr.py
 | 151  | War Horse            | 1433.9 |
 | 152  | American Sniper      | 1432.0 |
 | 153  | 65                   | 1431.0 |
-| 154  | Zero Dark Thirty     | 1429.0 |
-| 155  | The Darkest Hour     | 1425.0 |
-| 156  | The Last Samurai     | 1425.0 |
-| 157  | Awake                | 1421.0 |
-| 158  | Darkest Hour         | 1419.9 |
+| 154  | The Darkest Hour     | 1425.0 |
+| 155  | The Last Samurai     | 1425.0 |
+| 156  | Awake                | 1421.0 |
+| 157  | Darkest Hour         | 1419.9 |
+| 158  | Zero Dark Thirty     | 1418.9 |
 | 159  | Arrow                | 1415.3 |
-| 160  | Jurassic World: Dominion | 1413.7 |
-| 161  | All Quiet on The Western Front | 1413.1 |
-| 162  | AK-47 Kalashnikov    | 1409.5 |
-| 163  | Spooky Buddies       | 1406.8 |
-| 164  | Gravity              | 1405.9 |
-| 165  | Everything, everywhere, all at once | 1405.5 |
-| 166  | The Battle at Lake Changjin | 1405.4 |
+| 160  | All Quiet on The Western Front | 1413.1 |
+| 161  | AK-47 Kalashnikov    | 1409.5 |
+| 162  | Spooky Buddies       | 1406.8 |
+| 163  | Gravity              | 1405.9 |
+| 164  | Everything, everywhere, all at once | 1405.5 |
+| 165  | The Battle at Lake Changjin | 1405.4 |
+| 166  | Jurassic World: Dominion | 1403.0 |
 | 167  | A Quiet Place: Day One | 1400.6 |
 | 168  | Black Hawk Down      | 1398.1 |
 | 169  | Spectral             | 1390.9 |
