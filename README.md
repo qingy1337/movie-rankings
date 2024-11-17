@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | 1    | Wednesday            | 1656.3 |
-| 2    | Harry Potter         | 1643.9 |
+| 2    | Harry Potter         | 1652.0 |
 | 3    | Iron Man             | 1634.9 |
 | 4    | Pirates of the Caribbean | 1625.8 |
 | 5    | Ant-Man              | 1624.4 |
@@ -22,19 +22,19 @@ python3 mvr.py
 | 12   | Maleficent           | 1605.3 |
 | 13   | Thirteen Lives       | 1605.2 |
 | 14   | Inception            | 1604.5 |
-| 15   | No Country for Old Men | 1601.7 |
-| 16   | Sneaky Pete          | 1596.8 |
-| 17   | The Maze Runner      | 1596.2 |
-| 18   | Life                 | 1596.1 |
-| 19   | Avengers: Endgame    | 1591.8 |
-| 20   | X-Men                | 1590.2 |
-| 21   | The Hobbit           | 1588.8 |
-| 22   | Avengers: Age of Ultron | 1588.6 |
-| 23   | The Maze Runner: The Death Cure | 1584.4 |
-| 24   | Doctor Strange       | 1580.7 |
-| 25   | Passengers           | 1580.5 |
-| 26   | A Quiet Place        | 1580.2 |
-| 27   | Vagabond             | 1579.3 |
+| 15   | Avengers: Age of Ultron | 1601.9 |
+| 16   | No Country for Old Men | 1601.7 |
+| 17   | Sneaky Pete          | 1596.8 |
+| 18   | The Maze Runner      | 1596.2 |
+| 19   | Life                 | 1596.1 |
+| 20   | Vagabond             | 1592.2 |
+| 21   | Avengers: Endgame    | 1591.8 |
+| 22   | X-Men                | 1590.2 |
+| 23   | The Hobbit           | 1588.8 |
+| 24   | The Maze Runner: The Death Cure | 1584.4 |
+| 25   | Doctor Strange       | 1580.7 |
+| 26   | Passengers           | 1580.5 |
+| 27   | A Quiet Place        | 1580.2 |
 | 28   | Star Wars            | 1579.2 |
 | 29   | The Young and Prodigious T.S. Spivet | 1577.2 |
 | 30   | Scream V             | 1576.1 |
@@ -69,34 +69,34 @@ python3 mvr.py
 | 59   | Jack Ryan            | 1534.5 |
 | 60   | The Day After Tomorrow | 1533.6 |
 | 61   | The Maze Runner: The Scorch Trials | 1531.6 |
-| 62   | Titanic              | 1530.0 |
-| 63   | Avengers: Infinity War | 1527.6 |
-| 64   | Avatar               | 1526.0 |
-| 65   | Mission Impossible 3 | 1523.9 |
-| 66   | Top Gun              | 1523.2 |
-| 67   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
-| 68   | Zodiac               | 1521.3 |
-| 69   | Star Trek: Picard    | 1521.3 |
-| 70   | Iron Chef            | 1520.2 |
-| 71   | A Haunting in Venice | 1520.0 |
-| 72   | Jack Reacher         | 1519.6 |
-| 73   | Guy Ritchie’s The Covenant | 1519.2 |
-| 74   | Rebel Ridge          | 1519.0 |
-| 75   | Thor                 | 1517.3 |
-| 76   | The Spy Next Door    | 1517.0 |
+| 62   | Avengers: Infinity War | 1527.6 |
+| 63   | Avatar               | 1526.0 |
+| 64   | Mission Impossible 3 | 1523.9 |
+| 65   | Top Gun              | 1523.2 |
+| 66   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
+| 67   | Zodiac               | 1521.3 |
+| 68   | Star Trek: Picard    | 1521.3 |
+| 69   | Iron Chef            | 1520.2 |
+| 70   | A Haunting in Venice | 1520.0 |
+| 71   | Jack Reacher         | 1519.6 |
+| 72   | Guy Ritchie’s The Covenant | 1519.2 |
+| 73   | Rebel Ridge          | 1519.0 |
+| 74   | Thor                 | 1517.3 |
+| 75   | The Spy Next Door    | 1517.0 |
+| 76   | Titanic              | 1516.7 |
 | 77   | Top Gun: Maverick    | 1515.4 |
-| 78   | Sweet Tooth          | 1514.1 |
-| 79   | The Terminal List    | 1513.0 |
-| 80   | Bloodhounds          | 1512.1 |
-| 81   | Onward               | 1512.0 |
-| 82   | Ip Man               | 1510.8 |
+| 78   | Gladiator            | 1514.8 |
+| 79   | Sweet Tooth          | 1514.1 |
+| 80   | The Terminal List    | 1513.0 |
+| 81   | Bloodhounds          | 1512.1 |
+| 82   | Onward               | 1512.0 |
 | 83   | My Name              | 1509.4 |
 | 84   | Shawshank Redemption | 1506.9 |
 | 85   | Captain America: Civil War | 1504.8 |
 | 86   | Total Recall         | 1504.7 |
-| 87   | Gladiator            | 1501.6 |
-| 88   | Cars                 | 1500.4 |
-| 89   | Lord of the Rings    | 1497.9 |
+| 87   | Cars                 | 1500.4 |
+| 88   | Lord of the Rings    | 1497.9 |
+| 89   | Ip Man               | 1497.9 |
 | 90   | A Boy Called Christmas | 1495.6 |
 | 91   | Skyfall              | 1494.9 |
 | 92   | Rainman              | 1494.3 |
@@ -130,28 +130,28 @@ python3 mvr.py
 | 120  | Frequency            | 1455.9 |
 | 121  | Pompeii              | 1455.7 |
 | 122  | Terminator           | 1455.5 |
-| 123  | Unbreakable          | 1454.8 |
-| 124  | When a Stranger Calls | 1454.2 |
-| 125  | The Man in the Iron Mask | 1452.8 |
-| 126  | Zootopia             | 1450.8 |
-| 127  | Rango                | 1450.5 |
-| 128  | Ninja Turtles        | 1449.8 |
-| 129  | School of Rock       | 1448.4 |
-| 130  | Mission Impossible 2 | 1448.3 |
+| 123  | When a Stranger Calls | 1454.2 |
+| 124  | The Man in the Iron Mask | 1452.8 |
+| 125  | Zootopia             | 1450.8 |
+| 126  | Rango                | 1450.5 |
+| 127  | Ninja Turtles        | 1449.8 |
+| 128  | School of Rock       | 1448.4 |
+| 129  | Mission Impossible 2 | 1448.3 |
+| 130  | Unbreakable          | 1446.7 |
 | 131  | John Wick            | 1443.7 |
 | 132  | American Made        | 1443.3 |
 | 133  | The BFG              | 1442.7 |
 | 134  | Avatar: The Last Airbender | 1442.7 |
-| 135  | Red Eye              | 1441.8 |
-| 136  | Red Notice           | 1441.0 |
-| 137  | Peter the Rabbit     | 1440.2 |
-| 138  | American Sniper      | 1435.2 |
-| 139  | A.I. Artificial Intelligence | 1432.2 |
-| 140  | The Mask of Zorro    | 1430.5 |
-| 141  | G.I.Joe movie        | 1430.3 |
-| 142  | Journey 2: The Mysterious Island | 1429.8 |
-| 143  | Heidi                | 1429.3 |
-| 144  | Independence Day     | 1429.3 |
+| 135  | Red Notice           | 1441.0 |
+| 136  | Peter the Rabbit     | 1440.2 |
+| 137  | American Sniper      | 1435.2 |
+| 138  | A.I. Artificial Intelligence | 1432.2 |
+| 139  | The Mask of Zorro    | 1430.5 |
+| 140  | G.I.Joe movie        | 1430.3 |
+| 141  | Journey 2: The Mysterious Island | 1429.8 |
+| 142  | Heidi                | 1429.3 |
+| 143  | Independence Day     | 1429.3 |
+| 144  | Red Eye              | 1428.5 |
 | 145  | Horton hears a Who   | 1425.6 |
 | 146  | Crouching Tiger Hidden Dragon | 1411.0 |
 | 147  | The Matrix Reloaded  | 1404.2 |
