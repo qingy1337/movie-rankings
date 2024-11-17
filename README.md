@@ -69,11 +69,11 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
 | $\color{green}\text{61  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1520.2}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1515.5}$ |
+| $\color{green}\text{62  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1520.0}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
@@ -118,7 +118,7 @@ python3 mvr.py
 | $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
-| $\color{red}\text{111 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1478.4}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
@@ -133,7 +133,7 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1465.6}$ |
-| $\color{green}\text{126 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1465.3}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1465.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1463.4}$ |
@@ -175,8 +175,8 @@ python3 mvr.py
 | $\color{black}\text{165 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1426.4}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1425.2}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
+| $\color{red}\text{169 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1420.7}$ |
 | $\color{red}\text{170 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1418.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1404.5}$ |
