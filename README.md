@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1586.3}$ |
-| $\color{green}\text{13  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1584.4}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1584.4}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1584.2}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1581.3}$ |
@@ -40,11 +40,11 @@ python3 mvr.py
 | $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
-| $\color{green}\text{35  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1557.3}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1554.9}$ |
+| $\color{green}\text{33  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1558.9}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
+| $\color{green}\text{36  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1557.3}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
@@ -155,9 +155,9 @@ python3 mvr.py
 | $\color{black}\text{145 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
 | $\color{red}\text{146 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1434.8}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1433.9}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
+| $\color{red}\text{150 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1429.9}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
@@ -176,7 +176,7 @@ python3 mvr.py
 | $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
-| $\color{red}\text{169 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1405.0}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1405.0}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{red}\text{171 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1396.7}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1394.7}$ |
