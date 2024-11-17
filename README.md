@@ -13,10 +13,10 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1554.5}$ |
 | $\color{green}\text{4   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1554.1}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1550.9}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1547.7}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1547.7}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1547.1}$ |
+| $\color{green}\text{6   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1550.8}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
+| $\color{green}\text{8   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1547.7}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1547.7}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1547.1}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
@@ -49,15 +49,15 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1527.2}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1525.6}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
-| $\color{green}\text{42  }$ | $\color{green}\text{Guy Ritchie’s The Covenant}$ | $\color{green}\text{1524.3}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1524.1}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1523.0}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1522.2}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.8}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1521.4}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1522.2}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.8}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1521.4}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
+| $\color{red}\text{50  }$ | $\color{red}\text{Avengers: Infinity War}$ | $\color{red}\text{1519.3}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1518.6}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1517.3}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1448.4}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1445.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1441.3}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1440.7}$ |
+| $\color{black}\text{172 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1440.7}$ |
