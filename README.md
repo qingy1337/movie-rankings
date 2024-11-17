@@ -32,7 +32,7 @@ python3 mvr.py
 | $\color{black}\text{22  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1557.1}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1555.1}$ |
-| $\color{green}\text{25  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1554.8}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1552.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
@@ -43,13 +43,13 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.3}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.2}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1541.4}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1541.3}$ |
-| $\color{green}\text{41  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1540.7}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1541.4}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1541.3}$ |
+| $\color{green}\text{40  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1540.7}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
+| $\color{red}\text{42  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1538.4}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1537.9}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
@@ -87,15 +87,15 @@ python3 mvr.py
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1505.9}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1501.0}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.8}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1500.1}$ |
+| $\color{green}\text{80  }$ | $\color{green}\text{The Spy Next Door}$ | $\color{green}\text{1506.9}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1505.9}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1505.8}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1501.0}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.8}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1498.3}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
@@ -119,7 +119,7 @@ python3 mvr.py
 | $\color{black}\text{109 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
-| $\color{red}\text{112 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1478.3}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
