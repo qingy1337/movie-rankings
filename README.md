@@ -112,15 +112,15 @@ python3 mvr.py
 | $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1479.3}$ |
-| $\color{green}\text{105 }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1477.6}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1477.6}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1474.5}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
-| $\color{red}\text{111 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1472.8}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
+| $\color{red}\text{110 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1472.8}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
+| $\color{red}\text{113 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1468.2}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
@@ -128,18 +128,18 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1455.1}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
-| $\color{red}\text{131 }$ | $\color{red}\text{A.I. Artificial Intelligence}$ | $\color{red}\text{1454.1}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
+| $\color{green}\text{121 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1460.0}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1455.1}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
+| $\color{red}\text{132 }$ | $\color{red}\text{A.I. Artificial Intelligence}$ | $\color{red}\text{1454.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1452.8}$ |
 | $\color{green}\text{135 }$ | $\color{green}\text{Pompeii}$ | $\color{green}\text{1451.0}$ |
@@ -147,7 +147,7 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.2}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1443.4}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
 | $\color{red}\text{141 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1438.8}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
