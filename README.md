@@ -48,7 +48,7 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{green}\text{41  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1545.2}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
-| $\color{red}\text{62  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1522.1}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1521.7}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
@@ -98,13 +98,13 @@ python3 mvr.py
 | $\color{black}\text{88  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1496.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1492.4}$ |
-| $\color{red}\text{95  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1490.4}$ |
-| $\color{green}\text{96  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1488.8}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1488.8}$ |
+| $\color{green}\text{91  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1494.2}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1493.8}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1492.4}$ |
+| $\color{red}\text{96  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1490.4}$ |
+| $\color{green}\text{97  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1488.8}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
@@ -141,13 +141,13 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{green}\text{132 }$ | $\color{green}\text{The Matrix Reloaded}$ | $\color{green}\text{1455.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1453.4}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.9}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
-| $\color{red}\text{137 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1451.7}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.9}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
+| $\color{red}\text{136 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1451.7}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1448.0}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1444.2}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
