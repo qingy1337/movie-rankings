@@ -13,7 +13,7 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1591.0}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1590.3}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1588.1}$ |
+| $\color{red}\text{6   }$ | $\color{red}\text{Thirteen Lives}$ | $\color{red}\text{1587.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1587.0}$ |
 | $\color{green}\text{8   }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1585.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
@@ -39,7 +39,7 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1553.2}$ |
+| $\color{green}\text{32  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1553.8}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1552.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
@@ -142,7 +142,7 @@ python3 mvr.py
 | $\color{black}\text{132 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1454.0}$ |
-| $\color{green}\text{135 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1453.8}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1453.8}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
@@ -169,7 +169,7 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1422.7}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{red}\text{162 }$ | $\color{red}\text{65}$ | $\color{red}\text{1417.2}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.2}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1415.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
