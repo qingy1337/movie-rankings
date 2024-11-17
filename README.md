@@ -37,7 +37,7 @@ python3 mvr.py
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
-| $\color{green}\text{30  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1563.7}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
@@ -98,9 +98,9 @@ python3 mvr.py
 | $\color{black}\text{88  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1492.0}$ |
+| $\color{green}\text{91  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1497.1}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.7}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
@@ -115,7 +115,7 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1476.1}$ |
 | $\color{red}\text{107 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1475.7}$ |
-| $\color{red}\text{108 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1475.4}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
@@ -148,12 +148,12 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1447.4}$ |
 | $\color{green}\text{139 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1445.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1439.9}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.4}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.4}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
+| $\color{red}\text{146 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1434.8}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1433.9}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
