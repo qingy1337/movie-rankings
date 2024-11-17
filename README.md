@@ -48,7 +48,7 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1554.5}$ |
-| $\color{green}\text{41  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1553.6}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1552.3}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
@@ -56,11 +56,11 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1537.6}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{Lost in Space}$ | $\color{green}\text{1541.6}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
@@ -161,13 +161,13 @@ python3 mvr.py
 | $\color{green}\text{151 }$ | $\color{green}\text{Crouching Tiger Hidden Dragon}$ | $\color{green}\text{1424.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1417.7}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1414.9}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
-| $\color{green}\text{159 }$ | $\color{green}\text{Awake}$ | $\color{green}\text{1412.8}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
+| $\color{green}\text{158 }$ | $\color{green}\text{Awake}$ | $\color{green}\text{1412.8}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
+| $\color{red}\text{160 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1409.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1408.7}$ |
 | $\color{red}\text{162 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1408.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
