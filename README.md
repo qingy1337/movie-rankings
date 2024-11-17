@@ -42,9 +42,9 @@ python3 mvr.py
 | 32   | Train to Busan       | 1576.6 |
 | 33   | Scream V             | 1576.1 |
 | 34   | The Wild Robot       | 1575.7 |
-| 35   | Avatar 2             | 1574.0 |
-| 36   | X-Men                | 1573.6 |
-| 37   | The Hunger Games     | 1572.3 |
+| 35   | X-Men                | 1573.6 |
+| 36   | The Hunger Games     | 1572.3 |
+| 37   | Avatar 2             | 1571.8 |
 | 38   | Lost in Space        | 1570.6 |
 | 39   | The Prestige         | 1567.5 |
 | 40   | Loki                 | 1563.0 |
@@ -69,8 +69,8 @@ python3 mvr.py
 | 59   | Gladiator            | 1533.2 |
 | 60   | Mission Impossible: Fallout | 1533.1 |
 | 61   | Locke and Key        | 1529.8 |
-| 62   | Avengers: Infinity War | 1527.6 |
-| 63   | Soul                 | 1526.4 |
+| 62   | Soul                 | 1528.6 |
+| 63   | Avengers: Infinity War | 1527.6 |
 | 64   | A Haunting in Venice | 1526.1 |
 | 65   | Mission Impossible: Dead Reckoning P1 | 1526.1 |
 | 66   | The Terminal List    | 1526.0 |
