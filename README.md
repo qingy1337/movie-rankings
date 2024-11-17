@@ -20,50 +20,50 @@ python3 mvr.py
 | 10   | Harry Potter         | 1594.1 |
 | 11   | Life of Pi           | 1593.7 |
 | 12   | Thirteen Lives       | 1592.7 |
-| 13   | Passengers           | 1589.2 |
-| 14   | Beut Mind            | 1586.7 |
-| 15   | Sneaky Pete          | 1585.6 |
-| 16   | The Maze Runner      | 1585.2 |
-| 17   | X-Men                | 1584.2 |
-| 18   | Maleficent           | 1583.3 |
-| 19   | Iron Man             | 1580.6 |
+| 13   | Iron Man             | 1591.3 |
+| 14   | Passengers           | 1589.2 |
+| 15   | Beut Mind            | 1586.7 |
+| 16   | Sneaky Pete          | 1585.6 |
+| 17   | The Maze Runner      | 1585.2 |
+| 18   | X-Men                | 1584.2 |
+| 19   | Maleficent           | 1583.3 |
 | 20   | Avengers: Age of Ultron | 1577.2 |
 | 21   | The Hobbit           | 1575.0 |
-| 22   | Avatar 2             | 1571.6 |
-| 23   | Locke and Key        | 1569.6 |
-| 24   | Doctor Strange       | 1568.2 |
-| 25   | Source Code          | 1568.2 |
-| 26   | The Ninth Gate       | 1567.9 |
-| 27   | Titanic              | 1567.2 |
+| 22   | Avengers: Endgame    | 1573.7 |
+| 23   | Avatar 2             | 1571.6 |
+| 24   | Locke and Key        | 1569.6 |
+| 25   | Doctor Strange       | 1568.2 |
+| 26   | Source Code          | 1568.2 |
+| 27   | The Ninth Gate       | 1567.9 |
 | 28   | Inception            | 1566.5 |
 | 29   | X-Files              | 1565.9 |
 | 30   | Halo                 | 1563.1 |
 | 31   | The Wild Robot       | 1562.8 |
 | 32   | Squid Game           | 1560.7 |
 | 33   | The Illusionist      | 1559.2 |
-| 34   | Avengers: Endgame    | 1557.2 |
-| 35   | The Maze Runner: The Death Cure | 1557.0 |
-| 36   | Scream VI            | 1554.1 |
-| 37   | The Avengers         | 1553.0 |
-| 38   | Rebel Ridge          | 1551.9 |
-| 39   | Jack Ryan            | 1546.5 |
-| 40   | The Hunger Games     | 1545.4 |
-| 41   | The Young and Prodigious T.S. Spivet | 1544.3 |
-| 42   | Life                 | 1543.3 |
-| 43   | A Quiet Place        | 1543.3 |
-| 44   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
-| 45   | Avengers: Infinity War | 1542.0 |
-| 46   | Catch Me If You Can  | 1541.9 |
-| 47   | Tenet                | 1541.6 |
-| 48   | Vagabond             | 1540.1 |
-| 49   | The Maze Runner: The Scorch Trials | 1538.1 |
-| 50   | The Tomorrow War     | 1536.2 |
-| 51   | Loki                 | 1536.1 |
-| 52   | Train to Busan       | 1535.6 |
-| 53   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 54   | Mission Impossible: Fallout | 1534.9 |
-| 55   | The Day After Tomorrow | 1534.8 |
-| 56   | The Man Who Knew Infinity | 1530.9 |
+| 34   | The Maze Runner: The Death Cure | 1557.0 |
+| 35   | Scream VI            | 1554.1 |
+| 36   | The Avengers         | 1553.0 |
+| 37   | Rebel Ridge          | 1551.9 |
+| 38   | Jack Ryan            | 1546.5 |
+| 39   | The Hunger Games     | 1545.4 |
+| 40   | The Young and Prodigious T.S. Spivet | 1544.3 |
+| 41   | Life                 | 1543.3 |
+| 42   | A Quiet Place        | 1543.3 |
+| 43   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
+| 44   | Avengers: Infinity War | 1542.0 |
+| 45   | Catch Me If You Can  | 1541.9 |
+| 46   | Tenet                | 1541.6 |
+| 47   | Vagabond             | 1540.1 |
+| 48   | The Maze Runner: The Scorch Trials | 1538.1 |
+| 49   | The Tomorrow War     | 1536.2 |
+| 50   | Loki                 | 1536.1 |
+| 51   | Train to Busan       | 1535.6 |
+| 52   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 53   | Mission Impossible: Fallout | 1534.9 |
+| 54   | The Day After Tomorrow | 1534.8 |
+| 55   | The Man Who Knew Infinity | 1530.9 |
+| 56   | Titanic              | 1530.0 |
 | 57   | Mission Impossible 3 | 1528.7 |
 | 58   | The Prestige         | 1528.2 |
 | 59   | My Name              | 1528.0 |
@@ -124,29 +124,29 @@ python3 mvr.py
 | 114  | Heidi                | 1468.7 |
 | 115  | Black Widow          | 1466.7 |
 | 116  | Iron Chef            | 1465.8 |
-| 117  | The Spy Next Door    | 1465.6 |
-| 118  | Ninja Turtles        | 1465.0 |
-| 119  | Red Notice           | 1463.7 |
-| 120  | GoldenEye            | 1463.3 |
-| 121  | Exam                 | 1460.9 |
+| 117  | Skyfall              | 1465.8 |
+| 118  | The Spy Next Door    | 1465.6 |
+| 119  | Ninja Turtles        | 1465.0 |
+| 120  | Red Notice           | 1463.7 |
+| 121  | GoldenEye            | 1463.3 |
 | 122  | The Mask of Zorro    | 1459.8 |
 | 123  | Drunken Master       | 1459.7 |
 | 124  | John Wick            | 1459.6 |
-| 125  | Road House           | 1457.7 |
-| 126  | Wrath of Man         | 1456.9 |
-| 127  | The Ring 2           | 1456.2 |
-| 128  | Peter the Rabbit     | 1455.9 |
-| 129  | G.I.Joe movie        | 1455.9 |
-| 130  | Terminator           | 1455.5 |
-| 131  | Unbreakable          | 1455.0 |
-| 132  | Horton hears a Who   | 1454.6 |
-| 133  | Frequency            | 1451.0 |
-| 134  | American Sniper      | 1450.3 |
-| 135  | School of Rock       | 1447.9 |
-| 136  | Sweet Tooth          | 1446.2 |
-| 137  | The Silence          | 1445.4 |
-| 138  | Skyfall              | 1445.1 |
-| 139  | Mission Impossible 1 | 1444.5 |
+| 125  | Mission Impossible 1 | 1459.4 |
+| 126  | Road House           | 1457.7 |
+| 127  | Wrath of Man         | 1456.9 |
+| 128  | The Ring 2           | 1456.2 |
+| 129  | Peter the Rabbit     | 1455.9 |
+| 130  | G.I.Joe movie        | 1455.9 |
+| 131  | Terminator           | 1455.5 |
+| 132  | Unbreakable          | 1455.0 |
+| 133  | Horton hears a Who   | 1454.6 |
+| 134  | Frequency            | 1451.0 |
+| 135  | American Sniper      | 1450.3 |
+| 136  | Exam                 | 1450.2 |
+| 137  | School of Rock       | 1447.9 |
+| 138  | Sweet Tooth          | 1446.2 |
+| 139  | The Silence          | 1445.4 |
 | 140  | Journey 2: The Mysterious Island | 1444.1 |
 | 141  | Cars 3               | 1442.7 |
 | 142  | Avatar: The Last Airbender | 1442.7 |
@@ -160,14 +160,14 @@ python3 mvr.py
 | 150  | The BFG              | 1431.0 |
 | 151  | The Darkest Hour     | 1425.0 |
 | 152  | Stillwater           | 1424.4 |
-| 153  | War Horse            | 1419.9 |
-| 154  | American Made        | 1418.9 |
-| 155  | A.I. Artificial Intelligence | 1412.5 |
-| 156  | Darkest Hour         | 1410.6 |
-| 157  | Awake                | 1409.8 |
-| 158  | AK-47 Kalashnikov    | 1409.5 |
-| 159  | Arrow                | 1406.6 |
-| 160  | Gravity              | 1405.9 |
+| 153  | American Made        | 1418.9 |
+| 154  | A.I. Artificial Intelligence | 1412.5 |
+| 155  | Darkest Hour         | 1410.6 |
+| 156  | Awake                | 1409.8 |
+| 157  | AK-47 Kalashnikov    | 1409.5 |
+| 158  | Arrow                | 1406.6 |
+| 159  | Gravity              | 1405.9 |
+| 160  | War Horse            | 1405.0 |
 | 161  | Jurassic World: Dominion | 1403.0 |
 | 162  | Everything, everywhere, all at once | 1401.1 |
 | 163  | Spooky Buddies       | 1398.3 |
