@@ -49,9 +49,9 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
-| $\color{green}\text{42  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1550.1}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1546.2}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
+| $\color{green}\text{43  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1549.7}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
@@ -110,7 +110,7 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.5}$ |
 | $\color{red}\text{101 }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1480.8}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
-| $\color{red}\text{103 }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1479.3}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1402.1}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
-| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1390.5}$ |
+| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1387.0}$ |
