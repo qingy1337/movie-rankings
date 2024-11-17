@@ -14,13 +14,13 @@ python3 mvr.py
 | $\color{green}\text{4   }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1602.9}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1600.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1595.7}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1594.2}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1591.4}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1591.0}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
-| $\color{red}\text{13  }$ | $\color{red}\text{The Maze Runner: The Death Cure}$ | $\color{red}\text{1589.5}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1594.2}$ |
+| $\color{red}\text{8   }$ | $\color{red}\text{The Maze Runner: The Death Cure}$ | $\color{red}\text{1592.7}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1591.4}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1591.0}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1589.1}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
@@ -89,7 +89,7 @@ python3 mvr.py
 | $\color{black}\text{79  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1504.4}$ |
-| $\color{red}\text{82  }$ | $\color{red}\text{Mission Impossible 3}$ | $\color{red}\text{1503.8}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1503.0}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
@@ -163,9 +163,9 @@ python3 mvr.py
 | $\color{red}\text{153 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1420.6}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1417.7}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1414.9}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1414.9}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
+| $\color{red}\text{158 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1412.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{red}\text{160 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1408.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1408.7}$ |
