@@ -50,7 +50,7 @@ python3 mvr.py
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{red}\text{43  }$ | $\color{red}\text{Avengers: Infinity War}$ | $\color{red}\text{1544.3}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.3}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
@@ -96,11 +96,11 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
-| $\color{green}\text{89  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1497.1}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1493.1}$ |
+| $\color{green}\text{89  }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1498.7}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1492.5}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
@@ -123,12 +123,12 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1469.9}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1466.5}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1466.5}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
+| $\color{red}\text{121 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1464.3}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1460.1}$ |
