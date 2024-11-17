@@ -36,7 +36,7 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1573.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{green}\text{29  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1569.9}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1566.8}$ |
@@ -59,7 +59,7 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
-| $\color{red}\text{52  }$ | $\color{red}\text{Avatar}$ | $\color{red}\text{1539.8}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
@@ -101,14 +101,14 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1487.5}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1484.3}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1484.2}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1483.9}$ |
-| $\color{green}\text{99  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1483.2}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1484.3}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1484.2}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1483.9}$ |
+| $\color{green}\text{98  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1483.2}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
+| $\color{red}\text{101 }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1480.9}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
 | $\color{red}\text{103 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1479.6}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1479.4}$ |
@@ -130,19 +130,19 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1455.1}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1452.8}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
-| $\color{red}\text{135 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1450.5}$ |
+| $\color{green}\text{123 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1457.1}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1455.1}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1452.8}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
