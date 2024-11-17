@@ -14,7 +14,7 @@ python3 mvr.py
 | $\color{green}\text{4   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1590.3}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1588.1}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1583.2}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1581.3}$ |
@@ -31,11 +31,11 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1556.5}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
-| $\color{green}\text{28  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1555.6}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1561.2}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1556.5}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
@@ -62,11 +62,11 @@ python3 mvr.py
 | $\color{green}\text{52  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1530.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.8}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
-| $\color{green}\text{58  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1525.9}$ |
-| $\color{red}\text{59  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1525.2}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
+| $\color{green}\text{57  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1525.9}$ |
+| $\color{red}\text{58  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1525.2}$ |
+| $\color{red}\text{59  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1524.1}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
@@ -133,7 +133,7 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
-| $\color{red}\text{126 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1464.0}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1464.0}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1462.1}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
