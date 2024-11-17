@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1575.6}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{green}\text{13  }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1570.6}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{red}\text{15  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1568.2}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
@@ -39,7 +39,7 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1549.2}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.3}$ |
+| $\color{red}\text{32  }$ | $\color{red}\text{The Avengers}$ | $\color{red}\text{1548.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
 | $\color{green}\text{34  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1546.3}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
@@ -56,7 +56,7 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1531.1}$ |
-| $\color{green}\text{49  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1529.9}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1530.3}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1525.1}$ |
 | $\color{red}\text{52  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1524.9}$ |
@@ -116,7 +116,7 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
 | $\color{green}\text{108 }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1479.4}$ |
-| $\color{red}\text{109 }$ | $\color{red}\text{Rainman}$ | $\color{red}\text{1478.8}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
