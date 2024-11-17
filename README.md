@@ -52,8 +52,8 @@ python3 mvr.py
 | $\color{black}\text{42  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1536.9}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
+| $\color{red}\text{46  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1533.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1531.1}$ |
 | $\color{green}\text{49  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1530.0}$ |
@@ -112,11 +112,11 @@ python3 mvr.py
 | $\color{black}\text{102 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
-| $\color{green}\text{105 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1482.3}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
+| $\color{green}\text{107 }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1480.3}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
@@ -141,7 +141,7 @@ python3 mvr.py
 | $\color{red}\text{131 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1460.2}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1457.9}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1456.3}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1454.4}$ |
