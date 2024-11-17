@@ -35,12 +35,12 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
+| $\color{green}\text{28  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1568.7}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1559.5}$ |
@@ -73,9 +73,9 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.6}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
+| $\color{red}\text{68  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1519.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
@@ -142,7 +142,7 @@ python3 mvr.py
 | $\color{red}\text{132 }$ | $\color{red}\text{A.I. Artificial Intelligence}$ | $\color{red}\text{1454.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1452.8}$ |
-| $\color{green}\text{135 }$ | $\color{green}\text{Pompeii}$ | $\color{green}\text{1451.0}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
@@ -172,7 +172,7 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1408.1}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1406.8}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1404.5}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
