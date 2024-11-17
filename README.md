@@ -26,7 +26,7 @@ python3 mvr.py
 | $\color{green}\text{16  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1583.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1583.3}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.4}$ |
-| $\color{green}\text{19  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1582.1}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
@@ -49,10 +49,10 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1549.7}$ |
-| $\color{green}\text{44  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1549.4}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
+| $\color{green}\text{42  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1552.3}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1549.7}$ |
+| $\color{green}\text{45  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1549.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
@@ -134,14 +134,14 @@ python3 mvr.py
 | $\color{black}\text{124 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.8}$ |
-| $\color{red}\text{128 }$ | $\color{red}\text{The Man in the Iron Mask}$ | $\color{red}\text{1456.3}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.7}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1452.3}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
