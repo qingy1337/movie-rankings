@@ -18,10 +18,10 @@ python3 mvr.py
 | 8    | Inception            | 1627.0 |
 | 9    | Pirates of the Caribbean | 1625.8 |
 | 10   | Source Code          | 1619.5 |
-| 11   | The Martian          | 1617.4 |
-| 12   | Life of Pi           | 1616.6 |
-| 13   | Maleficent           | 1611.9 |
-| 14   | No Country for Old Men | 1610.9 |
+| 11   | No Country for Old Men | 1617.9 |
+| 12   | The Martian          | 1617.4 |
+| 13   | Life of Pi           | 1616.6 |
+| 14   | Maleficent           | 1611.9 |
 | 15   | Squid Game           | 1605.4 |
 | 16   | Thirteen Lives       | 1605.2 |
 | 17   | Avengers: Endgame    | 1600.8 |
@@ -30,30 +30,30 @@ python3 mvr.py
 | 20   | The Maze Runner      | 1596.2 |
 | 21   | Life                 | 1596.1 |
 | 22   | Star Wars            | 1594.3 |
-| 23   | The Young and Prodigious T.S. Spivet | 1590.0 |
-| 24   | Doctor Strange       | 1589.2 |
-| 25   | Avengers: Age of Ultron | 1588.3 |
-| 26   | The Maze Runner: The Death Cure | 1584.4 |
-| 27   | The Avengers         | 1581.9 |
-| 28   | Passengers           | 1580.5 |
-| 29   | A Quiet Place        | 1580.2 |
-| 30   | The Matrix           | 1579.2 |
-| 31   | Scream V             | 1576.1 |
-| 32   | The Wild Robot       | 1575.7 |
-| 33   | X-Files              | 1574.3 |
+| 23   | Passengers           | 1590.7 |
+| 24   | The Young and Prodigious T.S. Spivet | 1590.0 |
+| 25   | Doctor Strange       | 1589.2 |
+| 26   | Avengers: Age of Ultron | 1588.3 |
+| 27   | X-Files              | 1587.8 |
+| 28   | The Maze Runner: The Death Cure | 1584.4 |
+| 29   | The Avengers         | 1581.9 |
+| 30   | A Quiet Place        | 1580.2 |
+| 31   | The Matrix           | 1579.2 |
+| 32   | Scream V             | 1576.1 |
+| 33   | The Wild Robot       | 1575.7 |
 | 34   | Avatar 2             | 1574.0 |
 | 35   | X-Men                | 1573.6 |
 | 36   | The Hunger Games     | 1572.3 |
 | 37   | Lost in Space        | 1570.6 |
-| 38   | Loki                 | 1563.0 |
-| 39   | Train to Busan       | 1562.8 |
-| 40   | Shang-Chi and the Legend of the Ten Rings | 1560.7 |
+| 38   | The Prestige         | 1567.5 |
+| 39   | Loki                 | 1563.0 |
+| 40   | Train to Busan       | 1562.8 |
 | 41   | Mission Impossible: Ghost Protocol | 1560.4 |
-| 42   | The Prestige         | 1557.0 |
-| 43   | Mission Impossible: Rogue Nation | 1556.9 |
-| 44   | Catch Me If You Can  | 1556.5 |
-| 45   | The Day After Tomorrow | 1555.0 |
-| 46   | Tenet                | 1554.6 |
+| 42   | Mission Impossible: Rogue Nation | 1556.9 |
+| 43   | Catch Me If You Can  | 1556.5 |
+| 44   | The Day After Tomorrow | 1555.0 |
+| 45   | Tenet                | 1554.6 |
+| 46   | Shang-Chi and the Legend of the Ten Rings | 1553.3 |
 | 47   | Interstellar         | 1550.8 |
 | 48   | Beut Mind            | 1550.6 |
 | 49   | A Haunting in Venice | 1548.4 |
@@ -79,18 +79,18 @@ python3 mvr.py
 | 69   | Star Trek: Picard    | 1521.3 |
 | 70   | Captain America: Civil War | 1521.0 |
 | 71   | Iron Chef            | 1520.2 |
-| 72   | Rebel Ridge          | 1519.0 |
-| 73   | Jack Reacher         | 1518.9 |
-| 74   | Thor                 | 1517.3 |
-| 75   | The Spy Next Door    | 1517.0 |
-| 76   | Titanic              | 1516.7 |
-| 77   | Top Gun: Maverick    | 1515.4 |
-| 78   | A Boy Called Christmas | 1514.3 |
-| 79   | Mission Impossible 3 | 1512.4 |
-| 80   | Dune                 | 1512.0 |
-| 81   | Top Gun              | 1510.3 |
-| 82   | My Name              | 1509.4 |
-| 83   | Shawshank Redemption | 1506.9 |
+| 72   | Jack Reacher         | 1518.9 |
+| 73   | Thor                 | 1517.3 |
+| 74   | The Spy Next Door    | 1517.0 |
+| 75   | Titanic              | 1516.7 |
+| 76   | Top Gun: Maverick    | 1515.4 |
+| 77   | A Boy Called Christmas | 1514.3 |
+| 78   | Mission Impossible 3 | 1512.4 |
+| 79   | Dune                 | 1512.0 |
+| 80   | Top Gun              | 1510.3 |
+| 81   | My Name              | 1509.4 |
+| 82   | Shawshank Redemption | 1506.9 |
+| 83   | Rebel Ridge          | 1505.6 |
 | 84   | Total Recall         | 1504.7 |
 | 85   | Dark Waters          | 1502.9 |
 | 86   | Onward               | 1502.2 |
@@ -134,19 +134,19 @@ python3 mvr.py
 | 124  | Rango                | 1450.5 |
 | 125  | Unbreakable          | 1449.2 |
 | 126  | Glass Castle         | 1449.0 |
-| 127  | School of Rock       | 1448.4 |
-| 128  | Mission Impossible 2 | 1448.3 |
-| 129  | John Wick            | 1443.7 |
-| 130  | American Made        | 1443.3 |
-| 131  | Avatar: The Last Airbender | 1442.7 |
-| 132  | Red Notice           | 1441.0 |
+| 127  | Mission Impossible 2 | 1448.3 |
+| 128  | John Wick            | 1443.7 |
+| 129  | American Made        | 1443.3 |
+| 130  | Avatar: The Last Airbender | 1442.7 |
+| 131  | Red Notice           | 1441.0 |
+| 132  | School of Rock       | 1438.2 |
 | 133  | The Man in the Iron Mask | 1437.1 |
 | 134  | Ninja Turtles        | 1435.6 |
 | 135  | American Sniper      | 1435.2 |
 | 136  | The BFG              | 1433.6 |
 | 137  | Saving Private Ryan  | 1432.7 |
-| 138  | A.I. Artificial Intelligence | 1432.2 |
-| 139  | The Mask of Zorro    | 1430.5 |
+| 138  | The Mask of Zorro    | 1430.5 |
+| 139  | A.I. Artificial Intelligence | 1421.7 |
 | 140  | Red Eye              | 1419.5 |
 | 141  | Horton hears a Who   | 1418.1 |
 | 142  | Journey 2: The Mysterious Island | 1417.9 |
@@ -157,13 +157,13 @@ python3 mvr.py
 | 147  | Crouching Tiger Hidden Dragon | 1411.0 |
 | 148  | Cars 3               | 1403.4 |
 | 149  | The Last Samurai     | 1402.3 |
-| 150  | Stillwater           | 1391.0 |
-| 151  | AK-47 Kalashnikov    | 1389.8 |
-| 152  | The Silence          | 1389.5 |
+| 150  | Zero Dark Thirty     | 1395.5 |
+| 151  | Stillwater           | 1391.0 |
+| 152  | AK-47 Kalashnikov    | 1389.8 |
 | 153  | 65                   | 1389.0 |
 | 154  | Spooky Buddies       | 1388.6 |
 | 155  | Awake                | 1388.2 |
-| 156  | Zero Dark Thirty     | 1388.1 |
+| 156  | The Silence          | 1382.5 |
 | 157  | A Quiet Place: Day One | 1380.5 |
 | 158  | Selfless             | 1378.2 |
 | 159  | Arrow                | 1377.5 |
