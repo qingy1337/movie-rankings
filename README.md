@@ -26,11 +26,11 @@ python3 mvr.py
 | $\color{black}\text{16  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1556.8}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1555.1}$ |
+| $\color{green}\text{19  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1559.2}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1556.8}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1552.2}$ |
@@ -116,7 +116,7 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
-| $\color{red}\text{109 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1480.3}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
@@ -159,11 +159,11 @@ python3 mvr.py
 | $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1439.3}$ |
-| $\color{green}\text{153 }$ | $\color{green}\text{All Quiet on The Western Front}$ | $\color{green}\text{1439.3}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1437.0}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1435.2}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1439.3}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1437.0}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1435.2}$ |
+| $\color{red}\text{156 }$ | $\color{red}\text{65}$ | $\color{red}\text{1435.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1434.4}$ |
 | $\color{green}\text{159 }$ | $\color{green}\text{Heidi}$ | $\color{green}\text{1434.2}$ |
