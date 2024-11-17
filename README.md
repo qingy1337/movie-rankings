@@ -46,20 +46,20 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1553.0}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1552.7}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1547.0}$ |
-| $\color{red}\text{39  }$ | $\color{red}\text{The Young and Prodigious T.S. Spivet}$ | $\color{red}\text{1546.5}$ |
-| $\color{green}\text{40  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1546.4}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1546.3}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1544.7}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.2}$ |
-| $\color{green}\text{44  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1541.2}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.7}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1536.7}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1536.1}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1535.8}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1533.0}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1532.0}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1530.3}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1529.8}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1546.4}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1546.3}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1544.7}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.2}$ |
+| $\color{green}\text{43  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1541.2}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.7}$ |
+| $\color{green}\text{45  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1538.2}$ |
+| $\color{red}\text{46  }$ | $\color{red}\text{The Young and Prodigious T.S. Spivet}$ | $\color{red}\text{1538.1}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1536.7}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1536.1}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1535.8}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1533.0}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1532.0}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1530.3}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1527.8}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.8}$ |
@@ -153,7 +153,7 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1441.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1439.5}$ |
-| $\color{red}\text{146 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1436.9}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1436.9}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1435.7}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1432.9}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1431.9}$ |
