@@ -37,7 +37,7 @@ python3 mvr.py
 | $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1535.3}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1533.7}$ |
-| $\color{green}\text{30  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1533.4}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1533.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1532.7}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1532.3}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1531.8}$ |
@@ -106,12 +106,12 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1493.2}$ |
-| $\color{red}\text{99  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1493.0}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1491.6}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1489.4}$ |
+| $\color{green}\text{99  }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1493.0}$ |
+| $\color{red}\text{100 }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1493.0}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1491.6}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1489.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
@@ -159,11 +159,11 @@ python3 mvr.py
 | $\color{black}\text{149 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1460.0}$ |
 | $\color{red}\text{151 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1459.5}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1459.0}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1458.6}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{65}$ | $\color{red}\text{1457.2}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1456.1}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1458.6}$ |
+| $\color{red}\text{153 }$ | $\color{red}\text{65}$ | $\color{red}\text{1457.2}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1456.1}$ |
+| $\color{red}\text{156 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1455.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1455.1}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1454.9}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1452.8}$ |
@@ -173,7 +173,7 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1451.8}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1451.8}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1450.4}$ |
-| $\color{red}\text{166 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1449.3}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1449.3}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1448.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1448.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1445.8}$ |
