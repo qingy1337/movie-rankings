@@ -9,9 +9,9 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | 1    | The Martian          | 1592.5 |
-| 2    | Locke and Key        | 1569.6 |
-| 3    | Passengers           | 1569.5 |
-| 4    | Ant-Man              | 1560.5 |
+| 2    | Ant-Man              | 1572.4 |
+| 3    | Locke and Key        | 1569.6 |
+| 4    | Passengers           | 1569.5 |
 | 5    | Captain America: Civil War | 1560.2 |
 | 6    | Avengers: Infinity War | 1559.8 |
 | 7    | Thirteen Lives       | 1558.3 |
@@ -136,21 +136,21 @@ python3 mvr.py
 | 126  | Drunken Master       | 1472.1 |
 | 127  | American Made        | 1470.8 |
 | 128  | The Man in the Iron Mask | 1470.2 |
-| 129  | The Matrix Revolutions | 1469.7 |
-| 130  | Top Gun: Maverick    | 1469.5 |
-| 131  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 132  | Heidi                | 1468.7 |
-| 133  | Avatar: The Last Airbender | 1468.7 |
-| 134  | Rango                | 1468.7 |
-| 135  | Unbreakable          | 1468.5 |
-| 136  | Top Gun              | 1468.2 |
-| 137  | The Mist             | 1468.1 |
-| 138  | Mission Impossible 1 | 1468.0 |
-| 139  | John Wick            | 1467.8 |
-| 140  | 65                   | 1467.6 |
-| 141  | The Firm             | 1467.6 |
-| 142  | Total Recall         | 1461.3 |
-| 143  | American Sniper      | 1459.0 |
+| 129  | Top Gun: Maverick    | 1469.5 |
+| 130  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 131  | Heidi                | 1468.7 |
+| 132  | Avatar: The Last Airbender | 1468.7 |
+| 133  | Rango                | 1468.7 |
+| 134  | Unbreakable          | 1468.5 |
+| 135  | Top Gun              | 1468.2 |
+| 136  | The Mist             | 1468.1 |
+| 137  | Mission Impossible 1 | 1468.0 |
+| 138  | John Wick            | 1467.8 |
+| 139  | 65                   | 1467.6 |
+| 140  | The Firm             | 1467.6 |
+| 141  | Total Recall         | 1461.3 |
+| 142  | American Sniper      | 1459.0 |
+| 143  | The Matrix Revolutions | 1457.8 |
 | 144  | Zero Dark Thirty     | 1457.6 |
 | 145  | Johnny English       | 1457.5 |
 | 146  | Frequency            | 1456.9 |
