@@ -79,39 +79,39 @@ python3 mvr.py
 | 69   | Captain America: The Winter Soldier | 1514.6 |
 | 70   | Avatar               | 1514.4 |
 | 71   | The Matrix           | 1513.9 |
-| 72   | A Haunting in Venice | 1511.5 |
-| 73   | Ip Man               | 1510.8 |
-| 74   | Top Gun              | 1510.2 |
-| 75   | Mission Impossible: Dead Reckoning P1 | 1509.9 |
-| 76   | Jack Reacher         | 1508.0 |
-| 77   | Dark Waters          | 1507.1 |
-| 78   | Captain America: Civil War | 1504.8 |
-| 79   | Top Gun: Maverick    | 1503.4 |
-| 80   | Zodiac               | 1501.8 |
-| 81   | Gladiator            | 1501.6 |
-| 82   | Cars                 | 1501.0 |
-| 83   | Soul                 | 1500.7 |
-| 84   | Lord of the Rings    | 1498.9 |
-| 85   | Pompeii              | 1498.8 |
-| 86   | Rango                | 1498.4 |
-| 87   | The Terminal List    | 1497.1 |
-| 88   | Skyfall              | 1496.6 |
-| 89   | A Boy Called Christmas | 1495.6 |
-| 90   | Zootopia             | 1495.5 |
-| 91   | Oppenheimer          | 1493.8 |
-| 92   | Cars 2               | 1492.2 |
-| 93   | Dune                 | 1490.9 |
-| 94   | Total Recall         | 1489.5 |
-| 95   | Megan                | 1486.9 |
+| 72   | The Terminal List    | 1513.0 |
+| 73   | A Haunting in Venice | 1511.5 |
+| 74   | Ip Man               | 1510.8 |
+| 75   | Top Gun              | 1510.2 |
+| 76   | Mission Impossible: Dead Reckoning P1 | 1509.9 |
+| 77   | Jack Reacher         | 1508.0 |
+| 78   | Dark Waters          | 1507.1 |
+| 79   | Captain America: Civil War | 1504.8 |
+| 80   | Top Gun: Maverick    | 1503.4 |
+| 81   | Zodiac               | 1501.8 |
+| 82   | Gladiator            | 1501.6 |
+| 83   | Cars                 | 1501.0 |
+| 84   | Soul                 | 1500.7 |
+| 85   | Lord of the Rings    | 1498.9 |
+| 86   | Pompeii              | 1498.8 |
+| 87   | Rango                | 1498.4 |
+| 88   | A Boy Called Christmas | 1495.6 |
+| 89   | Zootopia             | 1495.5 |
+| 90   | Oppenheimer          | 1493.8 |
+| 91   | Cars 2               | 1492.2 |
+| 92   | Dune                 | 1490.9 |
+| 93   | Total Recall         | 1489.5 |
+| 94   | Megan                | 1486.9 |
+| 95   | Onward               | 1486.6 |
 | 96   | Bloodhounds          | 1483.5 |
 | 97   | The Curious Case of Benjamin Button | 1481.1 |
-| 98   | Mission Impossible 2 | 1479.6 |
-| 99   | Ninja Turtles        | 1478.3 |
-| 100  | Rampage              | 1478.0 |
-| 101  | The Matrix Revolutions | 1475.4 |
-| 102  | The Man in the Iron Mask | 1472.8 |
-| 103  | Saving Private Ryan  | 1472.5 |
-| 104  | Onward               | 1472.1 |
+| 98   | Skyfall              | 1480.6 |
+| 99   | Mission Impossible 2 | 1479.6 |
+| 100  | Ninja Turtles        | 1478.3 |
+| 101  | Rampage              | 1478.0 |
+| 102  | The Matrix Revolutions | 1475.4 |
+| 103  | The Man in the Iron Mask | 1472.8 |
+| 104  | Saving Private Ryan  | 1472.5 |
 | 105  | American Sniper      | 1472.1 |
 | 106  | Knight and Day       | 1471.6 |
 | 107  | Red Eye              | 1471.5 |
@@ -152,8 +152,8 @@ python3 mvr.py
 | 142  | Avatar: The Last Airbender | 1442.7 |
 | 143  | Independence Day     | 1442.2 |
 | 144  | Frequency            | 1441.7 |
-| 145  | Crouching Tiger Hidden Dragon | 1438.6 |
-| 146  | The Matrix Reloaded  | 1438.3 |
+| 145  | The Matrix Reloaded  | 1438.3 |
+| 146  | Crouching Tiger Hidden Dragon | 1424.2 |
 | 147  | The Last Samurai     | 1423.0 |
 | 148  | Zero Dark Thirty     | 1422.6 |
 | 149  | 65                   | 1422.2 |
