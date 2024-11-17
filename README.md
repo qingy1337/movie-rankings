@@ -114,36 +114,36 @@ python3 mvr.py
 | 104  | Saving Private Ryan  | 1472.5 |
 | 105  | American Sniper      | 1472.1 |
 | 106  | Knight and Day       | 1471.6 |
-| 107  | Red Eye              | 1471.5 |
-| 108  | Glass Castle         | 1471.0 |
-| 109  | Johnny English       | 1470.8 |
-| 110  | The Spy Next Door    | 1469.9 |
-| 111  | Land of Bad          | 1469.5 |
-| 112  | The Ring             | 1469.2 |
-| 113  | When a Stranger Calls | 1468.8 |
-| 114  | The Curious Case of Benjamin Button | 1468.4 |
-| 115  | Mission Impossible 2 | 1468.3 |
-| 116  | School of Rock       | 1468.0 |
-| 117  | Mission Impossible 1 | 1467.9 |
-| 118  | Iron Chef            | 1465.8 |
-| 119  | World War Z          | 1464.8 |
-| 120  | GoldenEye            | 1463.3 |
-| 121  | The Matrix Revolutions | 1463.3 |
-| 122  | Road House           | 1461.8 |
-| 123  | The Man in the Iron Mask | 1461.7 |
-| 124  | The Mask             | 1461.3 |
-| 125  | Exam                 | 1460.3 |
-| 126  | The Mask of Zorro    | 1459.8 |
-| 127  | Drunken Master       | 1459.7 |
-| 128  | John Wick            | 1459.6 |
-| 129  | Jack Reacher: Never Go Back | 1457.2 |
-| 130  | Peter the Rabbit     | 1455.9 |
-| 131  | G.I.Joe movie        | 1455.9 |
-| 132  | Terminator           | 1455.5 |
-| 133  | The Darkest Hour     | 1455.1 |
-| 134  | Unbreakable          | 1455.0 |
-| 135  | Heidi                | 1454.8 |
-| 136  | Red Notice           | 1453.2 |
+| 107  | Glass Castle         | 1471.0 |
+| 108  | Johnny English       | 1470.8 |
+| 109  | The Spy Next Door    | 1469.9 |
+| 110  | Land of Bad          | 1469.5 |
+| 111  | The Ring             | 1469.2 |
+| 112  | When a Stranger Calls | 1468.8 |
+| 113  | The Curious Case of Benjamin Button | 1468.4 |
+| 114  | Mission Impossible 2 | 1468.3 |
+| 115  | School of Rock       | 1468.0 |
+| 116  | Mission Impossible 1 | 1467.9 |
+| 117  | Iron Chef            | 1465.8 |
+| 118  | World War Z          | 1464.8 |
+| 119  | GoldenEye            | 1463.3 |
+| 120  | The Matrix Revolutions | 1463.3 |
+| 121  | Road House           | 1461.8 |
+| 122  | The Man in the Iron Mask | 1461.7 |
+| 123  | The Mask             | 1461.3 |
+| 124  | Exam                 | 1460.3 |
+| 125  | The Mask of Zorro    | 1459.8 |
+| 126  | Drunken Master       | 1459.7 |
+| 127  | John Wick            | 1459.6 |
+| 128  | Jack Reacher: Never Go Back | 1457.2 |
+| 129  | Peter the Rabbit     | 1455.9 |
+| 130  | G.I.Joe movie        | 1455.9 |
+| 131  | Terminator           | 1455.5 |
+| 132  | The Darkest Hour     | 1455.1 |
+| 133  | Unbreakable          | 1455.0 |
+| 134  | Heidi                | 1454.8 |
+| 135  | Red Notice           | 1453.2 |
+| 136  | Red Eye              | 1450.5 |
 | 137  | Avatar: The Last Airbender | 1442.7 |
 | 138  | Frequency            | 1441.7 |
 | 139  | The Ring 2           | 1441.6 |
@@ -173,8 +173,8 @@ python3 mvr.py
 | 163  | All Quiet on The Western Front | 1387.9 |
 | 164  | Selfless             | 1387.5 |
 | 165  | Gravity              | 1383.4 |
-| 166  | Black Hawk Down      | 1376.9 |
-| 167  | Darkest Hour         | 1376.2 |
-| 168  | Shadow               | 1370.2 |
-| 169  | The Battle at Lake Changjin | 1362.3 |
-| 170  | Spectral             | 1359.0 |
+| 166  | Spectral             | 1380.0 |
+| 167  | Black Hawk Down      | 1376.9 |
+| 168  | Darkest Hour         | 1376.2 |
+| 169  | Shadow               | 1370.2 |
+| 170  | The Battle at Lake Changjin | 1362.3 |
