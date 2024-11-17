@@ -74,22 +74,22 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1521.7}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{green}\text{66  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1520.0}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1519.4}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1513.7}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.0}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
+| $\color{green}\text{67  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1519.8}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1519.4}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.0}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
+| $\color{red}\text{79  }$ | $\color{red}\text{Locke and Key}$ | $\color{red}\text{1508.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.0}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1507.0}$ |
-| $\color{green}\text{82  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1506.0}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
@@ -109,7 +109,7 @@ python3 mvr.py
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1487.5}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
-| $\color{red}\text{102 }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1482.7}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
