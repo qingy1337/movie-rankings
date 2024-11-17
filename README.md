@@ -56,14 +56,14 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1544.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1537.3}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1541.9}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
@@ -133,10 +133,10 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1456.1}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
+| $\color{red}\text{129 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1451.4}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
@@ -145,7 +145,7 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
-| $\color{green}\text{138 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1445.7}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1445.7}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1438.7}$ |
@@ -160,7 +160,7 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
-| $\color{red}\text{153 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1414.5}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{red}\text{156 }$ | $\color{red}\text{Ninja Turtles}$ | $\color{red}\text{1408.3}$ |
