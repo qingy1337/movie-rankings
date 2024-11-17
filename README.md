@@ -8,173 +8,173 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | Harry Potter         | 1661.8 |
-| 2    | Wednesday            | 1656.3 |
-| 3    | The Mandalorian      | 1652.1 |
-| 4    | Ant-Man              | 1644.4 |
-| 5    | Iron Man             | 1634.9 |
-| 6    | Vagabond             | 1633.0 |
-| 7    | No Country for Old Men | 1629.7 |
-| 8    | Black Panther        | 1628.9 |
-| 9    | Life of Pi           | 1627.2 |
-| 10   | Inception            | 1627.0 |
-| 11   | Pirates of the Caribbean | 1625.8 |
-| 12   | Maleficent           | 1624.9 |
-| 13   | Source Code          | 1619.5 |
-| 14   | The Martian          | 1617.4 |
-| 15   | Sneaky Pete          | 1610.1 |
-| 16   | Squid Game           | 1605.4 |
-| 17   | Thirteen Lives       | 1605.2 |
-| 18   | Life                 | 1604.8 |
-| 19   | Avengers: Endgame    | 1600.8 |
-| 20   | The Hobbit           | 1599.0 |
-| 21   | X-Files              | 1597.5 |
-| 22   | The Maze Runner      | 1596.2 |
-| 23   | Star Wars            | 1594.3 |
-| 24   | The Wild Robot       | 1591.5 |
-| 25   | Passengers           | 1590.7 |
-| 26   | The Young and Prodigious T.S. Spivet | 1590.0 |
-| 27   | Doctor Strange       | 1589.2 |
-| 28   | Avengers: Age of Ultron | 1588.3 |
-| 29   | The Maze Runner: The Death Cure | 1584.4 |
-| 30   | The Avengers         | 1581.9 |
-| 31   | X-Men                | 1580.6 |
-| 32   | A Quiet Place        | 1580.2 |
-| 33   | The Matrix           | 1579.2 |
-| 34   | Train to Busan       | 1576.6 |
-| 35   | Scream V             | 1576.1 |
-| 36   | The Hunger Games     | 1572.3 |
-| 37   | Avatar 2             | 1571.8 |
-| 38   | The Prestige         | 1567.5 |
-| 39   | Interstellar         | 1564.2 |
-| 40   | Loki                 | 1563.0 |
-| 41   | Beut Mind            | 1562.8 |
-| 42   | Mission Impossible: Ghost Protocol | 1560.4 |
-| 43   | Mission Impossible: Rogue Nation | 1556.9 |
-| 44   | Catch Me If You Can  | 1556.5 |
-| 45   | The Day After Tomorrow | 1555.0 |
-| 46   | Avengers: Infinity War | 1555.0 |
-| 47   | Lost in Space        | 1554.8 |
-| 48   | Tenet                | 1554.6 |
-| 49   | Shang-Chi and the Legend of the Ten Rings | 1553.3 |
-| 50   | Scream VI            | 1547.5 |
-| 51   | The Illusionist      | 1545.8 |
-| 52   | Avatar               | 1541.9 |
-| 53   | Captain America: The Winter Soldier | 1539.8 |
-| 54   | Halo                 | 1538.5 |
-| 55   | The Man Who Knew Infinity | 1535.9 |
-| 56   | The Tomorrow War     | 1535.7 |
-| 57   | Replicas             | 1535.3 |
-| 58   | Mission Impossible: Fallout | 1533.1 |
-| 59   | Locke and Key        | 1529.8 |
-| 60   | Soul                 | 1528.6 |
-| 61   | Jack Ryan            | 1528.2 |
-| 62   | Mission Impossible: Dead Reckoning P1 | 1526.1 |
-| 63   | The Terminal List    | 1526.0 |
-| 64   | The Ninth Gate       | 1523.9 |
-| 65   | Gladiator            | 1522.0 |
-| 66   | Guy Ritchie’s The Covenant | 1521.8 |
-| 67   | Zodiac               | 1521.3 |
-| 68   | Star Trek: Picard    | 1521.3 |
-| 69   | Captain America: Civil War | 1521.0 |
-| 70   | Iron Chef            | 1520.2 |
-| 71   | Jack Reacher         | 1518.9 |
-| 72   | Thor                 | 1517.3 |
-| 73   | The Spy Next Door    | 1517.0 |
-| 74   | Top Gun: Maverick    | 1515.4 |
-| 75   | A Boy Called Christmas | 1514.3 |
-| 76   | A Haunting in Venice | 1514.3 |
-| 77   | The Maze Runner: The Scorch Trials | 1513.3 |
-| 78   | Dune                 | 1512.0 |
-| 79   | Top Gun              | 1510.3 |
-| 80   | My Name              | 1509.4 |
-| 81   | Shawshank Redemption | 1506.9 |
-| 82   | Rebel Ridge          | 1505.6 |
-| 83   | Total Recall         | 1504.7 |
-| 84   | Road House           | 1504.6 |
-| 85   | Dark Waters          | 1502.9 |
-| 86   | Titanic              | 1502.8 |
-| 87   | Onward               | 1502.2 |
-| 88   | Cars                 | 1501.4 |
-| 89   | Bloodhounds          | 1498.0 |
-| 90   | Lord of the Rings    | 1497.9 |
-| 91   | Ip Man               | 1497.9 |
-| 92   | Mission Impossible 3 | 1495.3 |
-| 93   | Cars 2               | 1490.1 |
-| 94   | Wrath of Man         | 1488.1 |
-| 95   | The Ring             | 1486.3 |
-| 96   | Skyfall              | 1484.3 |
-| 97   | Rainman              | 1480.8 |
-| 98   | Sweet Tooth          | 1479.4 |
-| 99   | Exam                 | 1477.7 |
-| 100  | The Mask             | 1477.0 |
-| 101  | Jack Reacher: Never Go Back | 1476.6 |
-| 102  | Oppenheimer          | 1476.1 |
-| 103  | The Curious Case of Benjamin Button | 1475.7 |
-| 104  | Black Widow          | 1473.8 |
-| 105  | The Darkest Hour     | 1473.5 |
-| 106  | Pompeii              | 1470.4 |
-| 107  | The Matrix Revolutions | 1468.1 |
-| 108  | Mission Impossible 1 | 1465.2 |
-| 109  | World War Z          | 1464.8 |
-| 110  | Drunken Master       | 1463.5 |
-| 111  | GoldenEye            | 1463.3 |
-| 112  | The Mist             | 1463.0 |
-| 113  | Zootopia             | 1462.9 |
-| 114  | Megan                | 1459.6 |
-| 115  | Johnny English       | 1459.1 |
-| 116  | Peter the Rabbit     | 1458.7 |
-| 117  | The Ring 2           | 1457.9 |
-| 118  | Land of Bad          | 1456.6 |
-| 119  | Frequency            | 1455.9 |
-| 120  | Terminator           | 1455.5 |
-| 121  | Rampage              | 1454.3 |
-| 122  | When a Stranger Calls | 1454.2 |
-| 123  | Rango                | 1450.5 |
-| 124  | Unbreakable          | 1449.2 |
-| 125  | Glass Castle         | 1449.0 |
-| 126  | Mission Impossible 2 | 1448.3 |
-| 127  | Knight and Day       | 1446.3 |
-| 128  | John Wick            | 1443.7 |
-| 129  | Avatar: The Last Airbender | 1442.7 |
-| 130  | Red Notice           | 1441.0 |
-| 131  | School of Rock       | 1438.2 |
-| 132  | The Man in the Iron Mask | 1437.1 |
-| 133  | Ninja Turtles        | 1435.6 |
-| 134  | American Sniper      | 1435.2 |
-| 135  | American Made        | 1433.6 |
-| 136  | The BFG              | 1433.6 |
-| 137  | Saving Private Ryan  | 1432.7 |
-| 138  | The Mask of Zorro    | 1430.5 |
-| 139  | A.I. Artificial Intelligence | 1421.7 |
-| 140  | Red Eye              | 1419.5 |
-| 141  | Journey 2: The Mysterious Island | 1417.9 |
-| 142  | Cars 3               | 1417.0 |
-| 143  | G.I.Joe movie        | 1415.0 |
-| 144  | Heidi                | 1414.5 |
-| 145  | The Matrix Reloaded  | 1413.2 |
-| 146  | Independence Day     | 1411.7 |
-| 147  | Crouching Tiger Hidden Dragon | 1411.0 |
-| 148  | Horton hears a Who   | 1407.0 |
-| 149  | The Last Samurai     | 1402.3 |
-| 150  | Zero Dark Thirty     | 1395.5 |
-| 151  | Stillwater           | 1391.0 |
-| 152  | AK-47 Kalashnikov    | 1389.8 |
-| 153  | 65                   | 1389.0 |
-| 154  | Spooky Buddies       | 1388.6 |
-| 155  | Awake                | 1388.2 |
-| 156  | The Silence          | 1382.5 |
-| 157  | A Quiet Place: Day One | 1380.5 |
-| 158  | Arrow                | 1377.5 |
-| 159  | Everything, everywhere, all at once | 1377.1 |
-| 160  | Gravity              | 1376.8 |
-| 161  | All Quiet on The Western Front | 1376.7 |
-| 162  | Jurassic World: Dominion | 1373.1 |
-| 163  | Black Hawk Down      | 1367.8 |
-| 164  | Selfless             | 1366.2 |
-| 165  | War Horse            | 1365.1 |
-| 166  | The Firm             | 1363.6 |
-| 167  | Spectral             | 1362.2 |
-| 168  | Shadow               | 1361.8 |
-| 169  | The Battle at Lake Changjin | 1351.6 |
-| 170  | Darkest Hour         | 1345.5 |
+| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1760.2}$ |
+| $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1750.0}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1737.6}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1725.7}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1708.5}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1708.5}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1704.3}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1700.6}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1699.5}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1697.2}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1693.1}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1688.4}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1687.6}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1687.1}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1680.9}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1680.5}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1679.4}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1672.5}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1672.3}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1667.2}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1666.5}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1658.1}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1654.1}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1653.3}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1649.5}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1646.0}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1645.6}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1638.6}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1636.2}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1632.6}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1630.4}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1629.2}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1628.1}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1624.0}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1617.1}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.6}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1610.8}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1609.2}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1602.2}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1596.5}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1596.5}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1595.9}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1591.1}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1588.5}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1587.1}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1586.4}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1582.6}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1582.3}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1580.2}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1577.2}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1575.5}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1575.4}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.2}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1559.4}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1559.1}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1558.5}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1556.6}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1552.1}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1550.0}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1546.1}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1545.7}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1544.7}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1540.0}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1539.5}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1537.3}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1536.1}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1534.5}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.1}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1532.1}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1531.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1531.7}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1525.6}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1523.9}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1521.6}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1519.8}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.7}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1517.6}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1517.0}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.1}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1514.5}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1513.3}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1508.6}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.0}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1503.9}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1503.0}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1502.2}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1501.4}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1498.8}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1498.7}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.3}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1493.9}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1489.8}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1477.8}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.9}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1475.7}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1468.6}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.4}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.3}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1466.9}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1466.5}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1466.4}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1461.6}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.2}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1455.7}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.9}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1449.1}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1446.7}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1446.7}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Megan}$ | $\color{black}\text{1445.1}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1443.4}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1441.4}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1441.3}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1437.4}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1436.1}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1435.8}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1435.0}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1433.0}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1429.5}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1429.5}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1424.5}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1422.3}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1421.6}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1419.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1418.7}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1413.0}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1412.4}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1412.1}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1411.7}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1411.6}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1408.3}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1400.5}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1396.0}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1394.9}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1390.9}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1383.1}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1383.0}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1383.0}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1383.0}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1372.0}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1367.3}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1361.4}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1360.8}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1359.5}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1356.8}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1354.8}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1350.1}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1349.6}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1346.6}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1340.7}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1327.9}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1325.2}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1321.3}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1321.2}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1310.0}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1309.9}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1309.1}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1309.0}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1305.4}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1304.6}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1304.4}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1296.0}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1295.1}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1294.3}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1289.1}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1288.8}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1283.2}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1268.8}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1267.0}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1261.9}$ |
