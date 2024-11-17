@@ -54,7 +54,7 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
 | $\color{green}\text{46  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1522.5}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.8}$ |
+| $\color{red}\text{47  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1521.5}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1520.2}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
@@ -100,8 +100,8 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1496.9}$ |
+| $\color{green}\text{93  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1497.2}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1496.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1496.5}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1495.8}$ |
@@ -116,7 +116,7 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.8}$ |
-| $\color{red}\text{109 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1487.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1487.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1486.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1486.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1485.7}$ |
@@ -131,7 +131,7 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1481.6}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1480.9}$ |
-| $\color{green}\text{124 }$ | $\color{green}\text{School of Rock}$ | $\color{green}\text{1479.0}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1478.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1477.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1476.2}$ |
