@@ -10,7 +10,7 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1615.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1600.2}$ |
-| $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1599.3}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1599.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.8}$ |
 | $\color{green}\text{6   }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1594.0}$ |
@@ -42,11 +42,11 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1554.9}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1552.5}$ |
+| $\color{green}\text{35  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1557.3}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1554.9}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
@@ -78,7 +78,7 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1515.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1513.7}$ |
-| $\color{red}\text{71  }$ | $\color{red}\text{The Tomorrow War}$ | $\color{red}\text{1512.7}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
 | $\color{red}\text{73  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1511.0}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
@@ -108,13 +108,13 @@ python3 mvr.py
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1486.0}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1483.2}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
-| $\color{red}\text{104 }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1476.8}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1476.1}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1476.8}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1476.1}$ |
+| $\color{red}\text{107 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1475.7}$ |
 | $\color{red}\text{108 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1475.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
