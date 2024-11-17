@@ -84,7 +84,7 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1517.0}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1515.4}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1514.3}$ |
-| $\color{green}\text{77  }$ | $\color{green}\text{A Haunting in Venice}$ | $\color{green}\text{1514.0}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1514.0}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.3}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1509.4}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1506.9}$ |
@@ -110,21 +110,21 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1470.4}$ |
-| $\color{red}\text{103 }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1469.0}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1465.2}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1465.1}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.8}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1463.3}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1463.0}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1462.9}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Megan}$ | $\color{black}\text{1459.6}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1459.1}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1457.9}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1456.7}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1456.6}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1455.9}$ |
+| $\color{green}\text{103 }$ | $\color{green}\text{Frequency}$ | $\color{green}\text{1469.9}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1469.0}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1465.2}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1465.1}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.8}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1463.3}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1463.0}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1462.9}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Megan}$ | $\color{black}\text{1459.6}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1459.1}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1458.7}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1457.9}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1456.7}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1456.6}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1455.5}$ |
 | $\color{red}\text{119 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1455.4}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1454.3}$ |
@@ -153,10 +153,10 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1416.9}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1413.2}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1411.7}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1411.0}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1407.0}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1402.3}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1411.0}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1407.0}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1402.3}$ |
+| $\color{red}\text{149 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1397.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1395.5}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{65}$ | $\color{black}\text{1389.0}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1388.6}$ |
