@@ -33,8 +33,8 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1581.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1578.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1572.2}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1576.0}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1560.9}$ |
-| $\color{green}\text{39  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1557.4}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1554.2}$ |
@@ -133,7 +133,7 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
-| $\color{red}\text{126 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1456.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1456.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1454.1}$ |
@@ -148,8 +148,8 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1440.1}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1439.4}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1435.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.7}$ |
