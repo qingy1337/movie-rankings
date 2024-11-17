@@ -58,15 +58,15 @@ python3 mvr.py
 | 48   | Catch Me If You Can  | 1541.9 |
 | 49   | Mission Impossible 3 | 1541.8 |
 | 50   | Tenet                | 1541.6 |
-| 51   | The Maze Runner: The Scorch Trials | 1538.1 |
-| 52   | The Tomorrow War     | 1536.2 |
-| 53   | Train to Busan       | 1535.6 |
-| 54   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 55   | Mission Impossible: Fallout | 1534.9 |
-| 56   | Interstellar         | 1531.7 |
-| 57   | The Man Who Knew Infinity | 1530.9 |
-| 58   | Titanic              | 1530.0 |
-| 59   | The Prestige         | 1528.2 |
+| 51   | The Prestige         | 1538.4 |
+| 52   | The Maze Runner: The Scorch Trials | 1538.1 |
+| 53   | The Tomorrow War     | 1536.2 |
+| 54   | Train to Busan       | 1535.6 |
+| 55   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 56   | Mission Impossible: Fallout | 1534.9 |
+| 57   | Interstellar         | 1531.7 |
+| 58   | The Man Who Knew Infinity | 1530.9 |
+| 59   | Titanic              | 1530.0 |
 | 60   | My Name              | 1528.0 |
 | 61   | Guy Ritchie’s The Covenant | 1527.5 |
 | 62   | Rainman              | 1526.3 |
@@ -170,11 +170,11 @@ python3 mvr.py
 | 160  | Gravity              | 1405.9 |
 | 161  | Jurassic World: Dominion | 1403.0 |
 | 162  | Everything, everywhere, all at once | 1401.1 |
-| 163  | All Quiet on The Western Front | 1395.4 |
-| 164  | War Horse            | 1394.0 |
-| 165  | A Quiet Place: Day One | 1392.8 |
-| 166  | Spooky Buddies       | 1388.6 |
-| 167  | Black Hawk Down      | 1385.4 |
+| 163  | War Horse            | 1394.0 |
+| 164  | A Quiet Place: Day One | 1392.8 |
+| 165  | Spooky Buddies       | 1388.6 |
+| 166  | Black Hawk Down      | 1385.4 |
+| 167  | All Quiet on The Western Front | 1385.3 |
 | 168  | Shadow               | 1382.8 |
 | 169  | The Battle at Lake Changjin | 1370.0 |
 | 170  | Spectral             | 1369.2 |
