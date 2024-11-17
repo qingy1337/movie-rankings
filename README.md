@@ -92,7 +92,7 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1506.7}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
-| $\color{green}\text{85  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1504.7}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1504.7}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{red}\text{88  }$ | $\color{red}\text{Gladiator}$ | $\color{red}\text{1500.2}$ |
@@ -103,16 +103,16 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1490.6}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1488.9}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.3}$ |
+| $\color{green}\text{96  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1489.4}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1488.9}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.5}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1485.5}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.2}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
@@ -163,10 +163,10 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1433.1}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1431.7}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1428.3}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1431.7}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1428.3}$ |
+| $\color{red}\text{159 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1428.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
