@@ -17,9 +17,9 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1550.8}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1550.1}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
-| $\color{green}\text{11  }$ | $\color{green}\text{No Country for Old Men}$ | $\color{green}\text{1546.1}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1545.0}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1548.3}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
+| $\color{green}\text{12  }$ | $\color{green}\text{No Country for Old Men}$ | $\color{green}\text{1546.1}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1543.5}$ |
@@ -129,10 +129,10 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1481.9}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1481.6}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1479.0}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1478.1}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1479.0}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1478.1}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1478.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1477.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1475.1}$ |
@@ -157,7 +157,7 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1462.9}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1462.8}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1461.7}$ |
-| $\color{green}\text{150 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1461.7}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{65}$ | $\color{black}\text{1460.2}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1460.0}$ |
 | $\color{red}\text{153 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1459.0}$ |
@@ -171,7 +171,7 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1452.4}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1451.9}$ |
-| $\color{red}\text{164 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1451.8}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1451.8}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1451.8}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1450.4}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1448.9}$ |
