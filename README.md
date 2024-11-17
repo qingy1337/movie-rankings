@@ -87,21 +87,21 @@ python3 mvr.py
 | 77   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
 | 78   | Captain America: Civil War | 1508.2 |
 | 79   | Vagabond             | 1507.6 |
-| 80   | Megan                | 1507.0 |
-| 81   | The Man in the Iron Mask | 1506.8 |
-| 82   | Glass Castle         | 1504.7 |
-| 83   | Total Recall         | 1503.7 |
-| 84   | Thor                 | 1502.4 |
-| 85   | Soul                 | 1502.0 |
-| 86   | A Haunting in Venice | 1501.3 |
-| 87   | The Ring             | 1500.7 |
-| 88   | Jack Reacher: Never Go Back | 1500.1 |
-| 89   | Cars 2               | 1499.8 |
-| 90   | Ip Man               | 1495.6 |
-| 91   | G.I.Joe movie        | 1495.0 |
-| 92   | Dune                 | 1490.9 |
-| 93   | World War Z          | 1490.6 |
-| 94   | Oppenheimer          | 1489.4 |
+| 80   | The Man in the Iron Mask | 1506.8 |
+| 81   | Glass Castle         | 1504.7 |
+| 82   | Total Recall         | 1503.7 |
+| 83   | Thor                 | 1502.4 |
+| 84   | Soul                 | 1502.0 |
+| 85   | A Haunting in Venice | 1501.3 |
+| 86   | The Ring             | 1500.7 |
+| 87   | Jack Reacher: Never Go Back | 1500.1 |
+| 88   | Cars 2               | 1499.8 |
+| 89   | Ip Man               | 1495.6 |
+| 90   | G.I.Joe movie        | 1495.0 |
+| 91   | Dune                 | 1490.9 |
+| 92   | World War Z          | 1490.6 |
+| 93   | Oppenheimer          | 1489.4 |
+| 94   | Megan                | 1487.9 |
 | 95   | Gladiator            | 1487.2 |
 | 96   | Jack Reacher         | 1486.3 |
 | 97   | Land of Bad          | 1485.0 |
@@ -142,23 +142,23 @@ python3 mvr.py
 | 132  | Road House           | 1461.3 |
 | 133  | Drunken Master       | 1459.7 |
 | 134  | The Mask             | 1458.4 |
-| 135  | Zero Dark Thirty     | 1457.6 |
-| 136  | Top Gun: Maverick    | 1457.5 |
-| 137  | The Silence          | 1456.9 |
-| 138  | Cars 3               | 1456.1 |
-| 139  | Mission Impossible 1 | 1455.4 |
-| 140  | John Wick            | 1454.8 |
-| 141  | Journey 2: The Mysterious Island | 1454.8 |
-| 142  | The Mist             | 1453.7 |
-| 143  | The Firm             | 1453.0 |
-| 144  | A.I. Artificial Intelligence | 1450.8 |
-| 145  | Black Widow          | 1448.4 |
-| 146  | Exam                 | 1444.1 |
-| 147  | Johnny English       | 1443.3 |
-| 148  | American Made        | 1442.2 |
-| 149  | Independence Day     | 1442.2 |
-| 150  | Stillwater           | 1441.3 |
-| 151  | Onward               | 1438.8 |
+| 135  | Onward               | 1457.9 |
+| 136  | Zero Dark Thirty     | 1457.6 |
+| 137  | Top Gun: Maverick    | 1457.5 |
+| 138  | The Silence          | 1456.9 |
+| 139  | Cars 3               | 1456.1 |
+| 140  | Mission Impossible 1 | 1455.4 |
+| 141  | John Wick            | 1454.8 |
+| 142  | Journey 2: The Mysterious Island | 1454.8 |
+| 143  | The Mist             | 1453.7 |
+| 144  | The Firm             | 1453.0 |
+| 145  | A.I. Artificial Intelligence | 1450.8 |
+| 146  | Black Widow          | 1448.4 |
+| 147  | Exam                 | 1444.1 |
+| 148  | Johnny English       | 1443.3 |
+| 149  | American Made        | 1442.2 |
+| 150  | Independence Day     | 1442.2 |
+| 151  | Stillwater           | 1441.3 |
 | 152  | The Last Samurai     | 1433.9 |
 | 153  | War Horse            | 1433.9 |
 | 154  | American Sniper      | 1432.0 |
