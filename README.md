@@ -102,22 +102,22 @@ python3 mvr.py
 | 92   | Horton hears a Who   | 1499.1 |
 | 93   | Land of Bad          | 1498.2 |
 | 94   | Pompeii              | 1497.4 |
-| 95   | A.I. Artificial Intelligence | 1497.0 |
-| 96   | Star Trek: Picard    | 1489.1 |
-| 97   | The Man in the Iron Mask | 1489.1 |
-| 98   | Sweet Tooth          | 1489.1 |
-| 99   | Gladiator            | 1487.2 |
-| 100  | A Boy Called Christmas | 1486.9 |
-| 101  | Total Recall         | 1486.7 |
-| 102  | Ninja Turtles        | 1485.5 |
-| 103  | Mission Impossible 3 | 1485.3 |
-| 104  | Cars 2               | 1484.0 |
-| 105  | The Mask of Zorro    | 1484.0 |
-| 106  | Skyfall              | 1484.0 |
-| 107  | The Ring 2           | 1483.7 |
-| 108  | Bloodhounds          | 1483.5 |
-| 109  | Independence Day     | 1483.3 |
-| 110  | G.I.Joe movie        | 1483.3 |
+| 95   | Star Trek: Picard    | 1489.1 |
+| 96   | The Man in the Iron Mask | 1489.1 |
+| 97   | Sweet Tooth          | 1489.1 |
+| 98   | Gladiator            | 1487.2 |
+| 99   | A Boy Called Christmas | 1486.9 |
+| 100  | Total Recall         | 1486.7 |
+| 101  | Ninja Turtles        | 1485.5 |
+| 102  | Mission Impossible 3 | 1485.3 |
+| 103  | Cars 2               | 1484.0 |
+| 104  | The Mask of Zorro    | 1484.0 |
+| 105  | Skyfall              | 1484.0 |
+| 106  | The Ring 2           | 1483.7 |
+| 107  | Bloodhounds          | 1483.5 |
+| 108  | Independence Day     | 1483.3 |
+| 109  | G.I.Joe movie        | 1483.3 |
+| 110  | A.I. Artificial Intelligence | 1479.1 |
 | 111  | The Spy Next Door    | 1478.6 |
 | 112  | Mission Impossible: Rogue Nation | 1478.1 |
 | 113  | When a Stranger Calls | 1476.1 |
@@ -127,32 +127,32 @@ python3 mvr.py
 | 117  | Vagabond             | 1474.8 |
 | 118  | Mission Impossible 2 | 1473.6 |
 | 119  | Rampage              | 1473.6 |
-| 120  | The Mask             | 1472.9 |
-| 121  | The Matrix Reloaded  | 1472.2 |
-| 122  | Drunken Master       | 1472.1 |
-| 123  | Oppenheimer          | 1471.5 |
-| 124  | Red Eye              | 1471.2 |
-| 125  | The BFG              | 1469.7 |
-| 126  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 127  | Heidi                | 1468.7 |
-| 128  | Avatar: The Last Airbender | 1468.7 |
-| 129  | Rango                | 1468.7 |
-| 130  | Iron Chef            | 1468.7 |
-| 131  | Selfless             | 1468.6 |
-| 132  | Unbreakable          | 1468.5 |
-| 133  | Top Gun              | 1468.2 |
-| 134  | The Mist             | 1468.1 |
-| 135  | Mission Impossible 1 | 1468.0 |
-| 136  | John Wick            | 1467.8 |
-| 137  | 65                   | 1467.6 |
-| 138  | The Darkest Hour     | 1465.7 |
-| 139  | Black Widow          | 1458.5 |
-| 140  | Zero Dark Thirty     | 1457.6 |
-| 141  | Johnny English       | 1457.5 |
-| 142  | Top Gun: Maverick    | 1457.5 |
-| 143  | Exam                 | 1457.0 |
-| 144  | Cars 3               | 1456.1 |
-| 145  | Red Notice           | 1455.6 |
+| 120  | Red Notice           | 1473.5 |
+| 121  | The Mask             | 1472.9 |
+| 122  | The Matrix Reloaded  | 1472.2 |
+| 123  | Drunken Master       | 1472.1 |
+| 124  | Oppenheimer          | 1471.5 |
+| 125  | Red Eye              | 1471.2 |
+| 126  | The BFG              | 1469.7 |
+| 127  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 128  | Heidi                | 1468.7 |
+| 129  | Avatar: The Last Airbender | 1468.7 |
+| 130  | Rango                | 1468.7 |
+| 131  | Iron Chef            | 1468.7 |
+| 132  | Selfless             | 1468.6 |
+| 133  | Unbreakable          | 1468.5 |
+| 134  | Top Gun              | 1468.2 |
+| 135  | The Mist             | 1468.1 |
+| 136  | Mission Impossible 1 | 1468.0 |
+| 137  | John Wick            | 1467.8 |
+| 138  | 65                   | 1467.6 |
+| 139  | The Darkest Hour     | 1465.7 |
+| 140  | Black Widow          | 1458.5 |
+| 141  | Zero Dark Thirty     | 1457.6 |
+| 142  | Johnny English       | 1457.5 |
+| 143  | Top Gun: Maverick    | 1457.5 |
+| 144  | Exam                 | 1457.0 |
+| 145  | Cars 3               | 1456.1 |
 | 146  | Peter the Rabbit     | 1455.0 |
 | 147  | The Silence          | 1454.9 |
 | 148  | Shadow               | 1454.8 |
