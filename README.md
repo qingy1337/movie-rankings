@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1622.3}$ |
+| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1627.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1609.6}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
@@ -16,7 +16,7 @@ python3 mvr.py
 | $\color{green}\text{6   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1596.8}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1594.2}$ |
 | $\color{red}\text{8   }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1593.4}$ |
-| $\color{green}\text{9   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1592.7}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1592.7}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1591.4}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1591.0}$ |
@@ -36,12 +36,12 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
-| $\color{red}\text{30  }$ | $\color{red}\text{Vagabond}$ | $\color{red}\text{1567.6}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1566.8}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.7}$ |
+| $\color{red}\text{29  }$ | $\color{red}\text{Vagabond}$ | $\color{red}\text{1567.6}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1566.8}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.7}$ |
+| $\color{red}\text{34  }$ | $\color{red}\text{Passengers}$ | $\color{red}\text{1562.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
@@ -165,7 +165,7 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1414.9}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
-| $\color{red}\text{158 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1412.1}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1408.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1408.7}$ |
