@@ -11,8 +11,8 @@ python3 mvr.py
 | 1    | The Martian          | 1624.7 |
 | 2    | Lost in Space        | 1614.0 |
 | 3    | Star Wars            | 1608.9 |
-| 4    | No Country for Old Men | 1604.2 |
-| 5    | Pirates of the Caribbean | 1599.6 |
+| 4    | Pirates of the Caribbean | 1606.6 |
+| 5    | No Country for Old Men | 1604.2 |
 | 6    | Wednesday            | 1599.3 |
 | 7    | The Mandalorian      | 1597.1 |
 | 8    | Harry Potter         | 1594.1 |
@@ -45,24 +45,24 @@ python3 mvr.py
 | 35   | Scream VI            | 1554.1 |
 | 36   | The Avengers         | 1553.0 |
 | 37   | Rebel Ridge          | 1551.9 |
-| 38   | The Wild Robot       | 1547.0 |
-| 39   | Jack Ryan            | 1546.5 |
-| 40   | The Hunger Games     | 1545.4 |
-| 41   | The Young and Prodigious T.S. Spivet | 1544.3 |
-| 42   | The Prestige         | 1544.1 |
-| 43   | Life                 | 1543.3 |
-| 44   | A Quiet Place        | 1543.3 |
-| 45   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
-| 46   | Avengers: Infinity War | 1542.0 |
-| 47   | Catch Me If You Can  | 1541.9 |
-| 48   | Tenet                | 1541.6 |
-| 49   | Vagabond             | 1540.1 |
-| 50   | The Maze Runner: The Scorch Trials | 1538.1 |
-| 51   | Loki                 | 1536.1 |
-| 52   | Train to Busan       | 1535.6 |
-| 53   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 54   | Mission Impossible: Fallout | 1534.9 |
-| 55   | The Day After Tomorrow | 1534.3 |
+| 38   | The Day After Tomorrow | 1548.8 |
+| 39   | The Wild Robot       | 1547.0 |
+| 40   | Jack Ryan            | 1546.5 |
+| 41   | The Hunger Games     | 1545.4 |
+| 42   | The Young and Prodigious T.S. Spivet | 1544.3 |
+| 43   | The Prestige         | 1544.1 |
+| 44   | Life                 | 1543.3 |
+| 45   | A Quiet Place        | 1543.3 |
+| 46   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
+| 47   | Avengers: Infinity War | 1542.0 |
+| 48   | Catch Me If You Can  | 1541.9 |
+| 49   | Tenet                | 1541.6 |
+| 50   | Vagabond             | 1540.1 |
+| 51   | The Maze Runner: The Scorch Trials | 1538.1 |
+| 52   | Loki                 | 1536.1 |
+| 53   | Train to Busan       | 1535.6 |
+| 54   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 55   | Mission Impossible: Fallout | 1534.9 |
 | 56   | The Man Who Knew Infinity | 1530.9 |
 | 57   | Scream V             | 1530.4 |
 | 58   | Mission Impossible 3 | 1528.7 |
@@ -96,14 +96,14 @@ python3 mvr.py
 | 86   | Rango                | 1502.5 |
 | 87   | Megan                | 1501.3 |
 | 88   | A Haunting in Venice | 1501.3 |
-| 89   | Glass Castle         | 1501.2 |
-| 90   | Soul                 | 1500.7 |
-| 91   | Lord of the Rings    | 1498.9 |
-| 92   | Pompeii              | 1498.8 |
-| 93   | The Terminal List    | 1497.1 |
-| 94   | Zootopia             | 1495.5 |
-| 95   | Dune                 | 1490.9 |
-| 96   | Gladiator            | 1487.2 |
+| 89   | Soul                 | 1500.7 |
+| 90   | Lord of the Rings    | 1498.9 |
+| 91   | Pompeii              | 1498.8 |
+| 92   | The Terminal List    | 1497.1 |
+| 93   | Zootopia             | 1495.5 |
+| 94   | Dune                 | 1490.9 |
+| 95   | Gladiator            | 1487.2 |
+| 96   | Glass Castle         | 1486.7 |
 | 97   | Bloodhounds          | 1483.5 |
 | 98   | The Curious Case of Benjamin Button | 1481.1 |
 | 99   | Mission Impossible 2 | 1479.6 |
@@ -176,5 +176,5 @@ python3 mvr.py
 | 166  | A Quiet Place: Day One | 1392.8 |
 | 167  | Black Hawk Down      | 1385.4 |
 | 168  | Shadow               | 1382.8 |
-| 169  | The Battle at Lake Changjin | 1376.9 |
+| 169  | The Battle at Lake Changjin | 1370.0 |
 | 170  | Spectral             | 1369.2 |
