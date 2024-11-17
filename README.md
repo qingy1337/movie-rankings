@@ -48,11 +48,11 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1538.1}$ |
+| $\color{green}\text{41  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1542.6}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.7}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1535.1}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1533.2}$ |
@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1520.4}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1520.4}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1517.1}$ |
@@ -147,12 +147,12 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1452.4}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1444.2}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1442.9}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
