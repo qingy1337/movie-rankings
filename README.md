@@ -13,7 +13,7 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1611.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1600.3}$ |
-| $\color{green}\text{6   }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1598.9}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1598.9}$ |
 | $\color{green}\text{7   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1597.5}$ |
 | $\color{green}\text{8   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1596.9}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1596.8}$ |
@@ -28,9 +28,9 @@ python3 mvr.py
 | $\color{black}\text{18  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1586.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
-| $\color{green}\text{21  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1578.8}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1577.3}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1576.6}$ |
+| $\color{green}\text{21  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1581.4}$ |
+| $\color{green}\text{22  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1578.8}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1577.3}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1574.1}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
@@ -82,7 +82,7 @@ python3 mvr.py
 | $\color{red}\text{72  }$ | $\color{red}\text{Bloodhounds}$ | $\color{red}\text{1512.5}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1511.7}$ |
-| $\color{red}\text{75  }$ | $\color{red}\text{Gladiator}$ | $\color{red}\text{1511.4}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1511.4}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1508.6}$ |
@@ -92,10 +92,10 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1503.0}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1500.3}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1500.3}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{red}\text{88  }$ | $\color{red}\text{Beut Mind}$ | $\color{red}\text{1497.2}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
