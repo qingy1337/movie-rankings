@@ -17,12 +17,12 @@ python3 mvr.py
 | 7    | Life of Pi           | 1606.7 |
 | 8    | Pirates of the Caribbean | 1606.6 |
 | 9    | Thirteen Lives       | 1605.2 |
-| 10   | Iron Man             | 1603.5 |
-| 11   | No Country for Old Men | 1601.7 |
-| 12   | Passengers           | 1599.6 |
-| 13   | The Mandalorian      | 1597.1 |
-| 14   | Inception            | 1595.9 |
-| 15   | Black Panther        | 1591.5 |
+| 10   | Inception            | 1604.5 |
+| 11   | Iron Man             | 1603.5 |
+| 12   | No Country for Old Men | 1601.7 |
+| 13   | Black Panther        | 1599.9 |
+| 14   | Passengers           | 1599.6 |
+| 15   | The Mandalorian      | 1597.1 |
 | 16   | Avengers: Age of Ultron | 1588.6 |
 | 17   | The Maze Runner      | 1586.0 |
 | 18   | Sneaky Pete          | 1585.6 |
@@ -52,7 +52,7 @@ python3 mvr.py
 | 42   | Scream VI            | 1554.1 |
 | 43   | The Young and Prodigious T.S. Spivet | 1553.9 |
 | 44   | The Avengers         | 1553.0 |
-| 45   | Beut Mind            | 1552.4 |
+| 45   | Beut Mind            | 1550.6 |
 | 46   | Loki                 | 1547.8 |
 | 47   | Train to Busan       | 1542.2 |
 | 48   | Avengers: Infinity War | 1542.0 |
@@ -78,8 +78,8 @@ python3 mvr.py
 | 68   | Thor                 | 1516.7 |
 | 69   | Captain America: The Winter Soldier | 1514.6 |
 | 70   | Avatar               | 1514.4 |
-| 71   | The Terminal List    | 1513.0 |
-| 72   | A Haunting in Venice | 1511.5 |
+| 71   | A Haunting in Venice | 1513.4 |
+| 72   | The Terminal List    | 1513.0 |
 | 73   | Ip Man               | 1510.8 |
 | 74   | Top Gun              | 1510.2 |
 | 75   | Mission Impossible: Dead Reckoning P1 | 1509.9 |
@@ -153,21 +153,21 @@ python3 mvr.py
 | 143  | Horton hears a Who   | 1439.3 |
 | 144  | The Matrix Reloaded  | 1438.3 |
 | 145  | The Silence          | 1434.9 |
-| 146  | Crouching Tiger Hidden Dragon | 1424.2 |
-| 147  | The Last Samurai     | 1423.0 |
+| 146  | American Made        | 1426.9 |
+| 147  | Crouching Tiger Hidden Dragon | 1424.2 |
 | 148  | Zero Dark Thirty     | 1422.6 |
 | 149  | The BFG              | 1419.9 |
 | 150  | The Firm             | 1418.1 |
 | 151  | A.I. Artificial Intelligence | 1416.5 |
-| 152  | 65                   | 1412.6 |
-| 153  | Selfless             | 1412.1 |
-| 154  | American Made        | 1410.9 |
-| 155  | Arrow                | 1410.6 |
-| 156  | Stillwater           | 1410.3 |
-| 157  | Awake                | 1409.8 |
-| 158  | AK-47 Kalashnikov    | 1409.5 |
-| 159  | Jurassic World: Dominion | 1403.0 |
-| 160  | Everything, everywhere, all at once | 1401.1 |
+| 152  | The Last Samurai     | 1414.3 |
+| 153  | 65                   | 1412.6 |
+| 154  | Arrow                | 1410.6 |
+| 155  | Awake                | 1409.8 |
+| 156  | AK-47 Kalashnikov    | 1409.5 |
+| 157  | Jurassic World: Dominion | 1403.0 |
+| 158  | Stillwater           | 1402.0 |
+| 159  | Everything, everywhere, all at once | 1401.1 |
+| 160  | Selfless             | 1396.0 |
 | 161  | War Horse            | 1394.0 |
 | 162  | A Quiet Place: Day One | 1392.8 |
 | 163  | Gravity              | 1391.8 |
