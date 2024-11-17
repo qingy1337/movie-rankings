@@ -14,9 +14,9 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
-| $\color{green}\text{8   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1577.5}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1577.2}$ |
+| $\color{green}\text{7   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1580.9}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1577.5}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
@@ -104,7 +104,7 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{red}\text{95  }$ | $\color{red}\text{Star Trek: Picard}$ | $\color{red}\text{1494.0}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
-| $\color{red}\text{97  }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1488.9}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1488.9}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
@@ -136,7 +136,7 @@ python3 mvr.py
 | $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{green}\text{129 }$ | $\color{green}\text{Journey 2: The Mysterious Island}$ | $\color{green}\text{1461.1}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1461.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1458.9}$ |
@@ -160,8 +160,8 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1440.9}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1437.1}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1437.1}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
