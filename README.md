@@ -64,11 +64,11 @@ python3 mvr.py
 | $\color{black}\text{54  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
-| $\color{green}\text{58  }$ | $\color{green}\text{Mission Impossible: Rogue Nation}$ | $\color{green}\text{1523.6}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
+| $\color{green}\text{57  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1523.9}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
+| $\color{green}\text{59  }$ | $\color{green}\text{Mission Impossible: Rogue Nation}$ | $\color{green}\text{1523.6}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.0}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
@@ -172,11 +172,11 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1422.6}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
+| $\color{red}\text{167 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1418.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
-| $\color{red}\text{170 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1414.0}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1414.0}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1400.8}$ |
