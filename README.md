@@ -88,15 +88,15 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1509.3}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1506.7}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1506.0}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.1}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1506.0}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.1}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
+| $\color{red}\text{89  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1499.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1498.1}$ |
@@ -133,12 +133,12 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1466.0}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1458.9}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1457.9}$ |
+| $\color{green}\text{126 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1464.7}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1456.9}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
@@ -156,7 +156,7 @@ python3 mvr.py
 | $\color{red}\text{146 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1446.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1442.3}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1440.9}$ |
