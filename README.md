@@ -67,12 +67,12 @@ python3 mvr.py
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.3}$ |
-| $\color{green}\text{60  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1527.7}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
-| $\color{red}\text{64  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1524.6}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1524.1}$ |
+| $\color{green}\text{60  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1528.2}$ |
+| $\color{green}\text{61  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1527.7}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
+| $\color{red}\text{65  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1524.6}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1523.4}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1521.6}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
@@ -105,7 +105,7 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1486.3}$ |
-| $\color{red}\text{98  }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1482.6}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
@@ -169,10 +169,10 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1413.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1413.0}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1412.5}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1412.2}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1408.1}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.5}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
