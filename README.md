@@ -95,23 +95,23 @@ python3 mvr.py
 | 85   | The Ring             | 1500.7 |
 | 86   | Cars                 | 1500.5 |
 | 87   | Saving Private Ryan  | 1500.2 |
-| 88   | Terminator           | 1499.3 |
-| 89   | Horton hears a Who   | 1499.1 |
-| 90   | Jack Reacher         | 1499.0 |
-| 91   | Knight and Day       | 1498.7 |
-| 92   | G.I.Joe movie        | 1496.5 |
-| 93   | Ip Man               | 1495.6 |
-| 94   | The Terminal List    | 1495.4 |
-| 95   | Replicas             | 1493.3 |
-| 96   | Oppenheimer          | 1489.4 |
-| 97   | Gladiator            | 1487.2 |
-| 98   | A Boy Called Christmas | 1486.9 |
-| 99   | Total Recall         | 1486.7 |
-| 100  | Ninja Turtles        | 1485.5 |
-| 101  | Mission Impossible 3 | 1485.3 |
-| 102  | Land of Bad          | 1485.0 |
-| 103  | Selfless             | 1484.6 |
-| 104  | Cars 2               | 1484.0 |
+| 88   | Cars 2               | 1499.8 |
+| 89   | Terminator           | 1499.3 |
+| 90   | Horton hears a Who   | 1499.1 |
+| 91   | Jack Reacher         | 1499.0 |
+| 92   | Knight and Day       | 1498.7 |
+| 93   | G.I.Joe movie        | 1496.5 |
+| 94   | Ip Man               | 1495.6 |
+| 95   | The Terminal List    | 1495.4 |
+| 96   | Replicas             | 1493.3 |
+| 97   | Oppenheimer          | 1489.4 |
+| 98   | Gladiator            | 1487.2 |
+| 99   | A Boy Called Christmas | 1486.9 |
+| 100  | Total Recall         | 1486.7 |
+| 101  | Ninja Turtles        | 1485.5 |
+| 102  | Mission Impossible 3 | 1485.3 |
+| 103  | Land of Bad          | 1485.0 |
+| 104  | Selfless             | 1484.6 |
 | 105  | The Mask of Zorro    | 1484.0 |
 | 106  | Skyfall              | 1484.0 |
 | 107  | The Ring 2           | 1483.7 |
@@ -119,28 +119,28 @@ python3 mvr.py
 | 109  | Pompeii              | 1483.4 |
 | 110  | The Curious Case of Benjamin Button | 1483.0 |
 | 111  | Mission Impossible: Rogue Nation | 1479.4 |
-| 112  | A.I. Artificial Intelligence | 1479.1 |
-| 113  | The Spy Next Door    | 1478.6 |
-| 114  | When a Stranger Calls | 1476.1 |
-| 115  | The Matrix Revolutions | 1475.2 |
-| 116  | Sweet Tooth          | 1474.9 |
-| 117  | School of Rock       | 1474.9 |
-| 118  | Mission Impossible 2 | 1473.6 |
-| 119  | Rampage              | 1473.6 |
-| 120  | Red Notice           | 1473.5 |
-| 121  | The Mask             | 1472.9 |
-| 122  | The Matrix Reloaded  | 1472.2 |
-| 123  | Drunken Master       | 1472.1 |
-| 124  | Red Eye              | 1471.2 |
-| 125  | Peter the Rabbit     | 1469.8 |
-| 126  | The BFG              | 1469.7 |
-| 127  | Crouching Tiger Hidden Dragon | 1468.8 |
-| 128  | Heidi                | 1468.7 |
-| 129  | Avatar: The Last Airbender | 1468.7 |
-| 130  | Iron Chef            | 1468.7 |
-| 131  | Unbreakable          | 1468.5 |
-| 132  | Top Gun              | 1468.2 |
-| 133  | Mission Impossible 1 | 1468.0 |
+| 112  | The Spy Next Door    | 1478.6 |
+| 113  | When a Stranger Calls | 1476.1 |
+| 114  | The Matrix Revolutions | 1475.2 |
+| 115  | Sweet Tooth          | 1474.9 |
+| 116  | School of Rock       | 1474.9 |
+| 117  | Mission Impossible 2 | 1473.6 |
+| 118  | Rampage              | 1473.6 |
+| 119  | Red Notice           | 1473.5 |
+| 120  | The Mask             | 1472.9 |
+| 121  | The Matrix Reloaded  | 1472.2 |
+| 122  | Drunken Master       | 1472.1 |
+| 123  | Red Eye              | 1471.2 |
+| 124  | Peter the Rabbit     | 1469.8 |
+| 125  | The BFG              | 1469.7 |
+| 126  | Crouching Tiger Hidden Dragon | 1468.8 |
+| 127  | Heidi                | 1468.7 |
+| 128  | Avatar: The Last Airbender | 1468.7 |
+| 129  | Iron Chef            | 1468.7 |
+| 130  | Unbreakable          | 1468.5 |
+| 131  | Top Gun              | 1468.2 |
+| 132  | Mission Impossible 1 | 1468.0 |
+| 133  | A.I. Artificial Intelligence | 1463.3 |
 | 134  | Road House           | 1461.3 |
 | 135  | Black Widow          | 1458.5 |
 | 136  | Zero Dark Thirty     | 1457.6 |
