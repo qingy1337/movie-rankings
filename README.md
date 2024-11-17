@@ -24,10 +24,10 @@ python3 mvr.py
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1574.2}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1573.2}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1572.0}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1566.5}$ |
+| $\color{green}\text{17  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1570.9}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
 | $\color{green}\text{23  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1559.5}$ |
@@ -65,7 +65,7 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
-| $\color{green}\text{58  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1521.2}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.5}$ |
@@ -125,10 +125,10 @@ python3 mvr.py
 | $\color{black}\text{115 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1474.0}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1473.3}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1472.4}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1470.8}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1472.4}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1470.8}$ |
+| $\color{red}\text{121 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1468.9}$ |
 | $\color{red}\text{122 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1468.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1467.4}$ |
@@ -163,7 +163,7 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1431.7}$ |
-| $\color{red}\text{156 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1430.2}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1428.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
