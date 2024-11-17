@@ -25,9 +25,9 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1584.5}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1583.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.4}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1578.1}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1582.1}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
@@ -108,7 +108,7 @@ python3 mvr.py
 | $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.5}$ |
-| $\color{red}\text{101 }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1480.8}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
@@ -119,7 +119,7 @@ python3 mvr.py
 | $\color{black}\text{109 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1474.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1472.0}$ |
-| $\color{green}\text{112 }$ | $\color{green}\text{The Mask}$ | $\color{green}\text{1471.3}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1464.8}$ |
@@ -130,12 +130,12 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1460.3}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.8}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.8}$ |
+| $\color{red}\text{128 }$ | $\color{red}\text{The Man in the Iron Mask}$ | $\color{red}\text{1456.3}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
