@@ -12,22 +12,22 @@ python3 mvr.py
 | 2    | Lost in Space        | 1614.0 |
 | 3    | Star Wars            | 1608.9 |
 | 4    | Pirates of the Caribbean | 1606.6 |
-| 5    | Black Panther        | 1605.6 |
-| 6    | No Country for Old Men | 1604.2 |
-| 7    | Wednesday            | 1599.3 |
-| 8    | The Mandalorian      | 1597.1 |
-| 9    | Harry Potter         | 1594.1 |
-| 10   | Life of Pi           | 1593.7 |
-| 11   | Thirteen Lives       | 1592.7 |
-| 12   | Ant-Man              | 1592.2 |
+| 5    | Ant-Man              | 1606.2 |
+| 6    | Black Panther        | 1605.6 |
+| 7    | No Country for Old Men | 1604.2 |
+| 8    | Wednesday            | 1599.3 |
+| 9    | The Mandalorian      | 1597.1 |
+| 10   | Harry Potter         | 1594.1 |
+| 11   | Life of Pi           | 1593.7 |
+| 12   | Thirteen Lives       | 1592.7 |
 | 13   | Passengers           | 1589.2 |
-| 14   | Sneaky Pete          | 1585.6 |
-| 15   | The Maze Runner      | 1585.2 |
-| 16   | X-Men                | 1584.2 |
-| 17   | Maleficent           | 1583.3 |
-| 18   | Iron Man             | 1580.6 |
-| 19   | Avengers: Age of Ultron | 1577.2 |
-| 20   | Beut Mind            | 1576.0 |
+| 14   | Beut Mind            | 1586.7 |
+| 15   | Sneaky Pete          | 1585.6 |
+| 16   | The Maze Runner      | 1585.2 |
+| 17   | X-Men                | 1584.2 |
+| 18   | Maleficent           | 1583.3 |
+| 19   | Iron Man             | 1580.6 |
+| 20   | Avengers: Age of Ultron | 1577.2 |
 | 21   | The Hobbit           | 1575.0 |
 | 22   | Avatar 2             | 1571.6 |
 | 23   | Locke and Key        | 1569.6 |
@@ -46,23 +46,23 @@ python3 mvr.py
 | 36   | Scream VI            | 1554.1 |
 | 37   | The Avengers         | 1553.0 |
 | 38   | Rebel Ridge          | 1551.9 |
-| 39   | The Day After Tomorrow | 1548.8 |
-| 40   | Jack Ryan            | 1546.5 |
-| 41   | The Hunger Games     | 1545.4 |
-| 42   | The Young and Prodigious T.S. Spivet | 1544.3 |
-| 43   | Life                 | 1543.3 |
-| 44   | A Quiet Place        | 1543.3 |
-| 45   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
-| 46   | Avengers: Infinity War | 1542.0 |
-| 47   | Catch Me If You Can  | 1541.9 |
-| 48   | Tenet                | 1541.6 |
-| 49   | Vagabond             | 1540.1 |
-| 50   | The Maze Runner: The Scorch Trials | 1538.1 |
-| 51   | The Tomorrow War     | 1536.2 |
-| 52   | Loki                 | 1536.1 |
-| 53   | Train to Busan       | 1535.6 |
-| 54   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 55   | Mission Impossible: Fallout | 1534.9 |
+| 39   | Jack Ryan            | 1546.5 |
+| 40   | The Hunger Games     | 1545.4 |
+| 41   | The Young and Prodigious T.S. Spivet | 1544.3 |
+| 42   | Life                 | 1543.3 |
+| 43   | A Quiet Place        | 1543.3 |
+| 44   | Shang-Chi and the Legend of the Ten Rings | 1543.0 |
+| 45   | Avengers: Infinity War | 1542.0 |
+| 46   | Catch Me If You Can  | 1541.9 |
+| 47   | Tenet                | 1541.6 |
+| 48   | Vagabond             | 1540.1 |
+| 49   | The Maze Runner: The Scorch Trials | 1538.1 |
+| 50   | The Tomorrow War     | 1536.2 |
+| 51   | Loki                 | 1536.1 |
+| 52   | Train to Busan       | 1535.6 |
+| 53   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 54   | Mission Impossible: Fallout | 1534.9 |
+| 55   | The Day After Tomorrow | 1534.8 |
 | 56   | The Man Who Knew Infinity | 1530.9 |
 | 57   | Mission Impossible 3 | 1528.7 |
 | 58   | The Prestige         | 1528.2 |
@@ -139,15 +139,15 @@ python3 mvr.py
 | 129  | G.I.Joe movie        | 1455.9 |
 | 130  | Terminator           | 1455.5 |
 | 131  | Unbreakable          | 1455.0 |
-| 132  | Journey 2: The Mysterious Island | 1454.8 |
-| 133  | Horton hears a Who   | 1454.6 |
-| 134  | Frequency            | 1451.0 |
-| 135  | American Sniper      | 1450.3 |
-| 136  | School of Rock       | 1447.9 |
-| 137  | Sweet Tooth          | 1446.2 |
-| 138  | The Silence          | 1445.4 |
-| 139  | Skyfall              | 1445.1 |
-| 140  | Mission Impossible 1 | 1444.5 |
+| 132  | Horton hears a Who   | 1454.6 |
+| 133  | Frequency            | 1451.0 |
+| 134  | American Sniper      | 1450.3 |
+| 135  | School of Rock       | 1447.9 |
+| 136  | Sweet Tooth          | 1446.2 |
+| 137  | The Silence          | 1445.4 |
+| 138  | Skyfall              | 1445.1 |
+| 139  | Mission Impossible 1 | 1444.5 |
+| 140  | Journey 2: The Mysterious Island | 1444.1 |
 | 141  | Cars 3               | 1442.7 |
 | 142  | Avatar: The Last Airbender | 1442.7 |
 | 143  | Johnny English       | 1442.4 |
