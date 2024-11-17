@@ -19,10 +19,10 @@ python3 mvr.py
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1579.1}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1578.1}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1574.2}$ |
+| $\color{green}\text{12  }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1577.7}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1572.0}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1570.2}$ |
@@ -126,7 +126,7 @@ python3 mvr.py
 | $\color{red}\text{116 }$ | $\color{red}\text{Rainman}$ | $\color{red}\text{1473.5}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1471.9}$ |
-| $\color{green}\text{119 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1471.7}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1471.7}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
@@ -160,7 +160,7 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
-| $\color{red}\text{153 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1436.7}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
 | $\color{green}\text{154 }$ | $\color{green}\text{The Silence}$ | $\color{green}\text{1435.8}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1431.7}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
@@ -171,9 +171,9 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1425.5}$ |
-| $\color{red}\text{164 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1423.0}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1420.7}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1419.4}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1418.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
