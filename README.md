@@ -71,7 +71,7 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
-| $\color{green}\text{64  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1524.1}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1524.1}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1524.1}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1521.6}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
@@ -81,13 +81,13 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1516.0}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
-| $\color{green}\text{74  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1511.2}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1507.4}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1507.4}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
+| $\color{green}\text{74  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1511.7}$ |
+| $\color{green}\text{75  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1511.2}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1507.4}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1507.4}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
@@ -145,9 +145,9 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1449.0}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1443.3}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1434.7}$ |
@@ -173,7 +173,7 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
-| $\color{red}\text{166 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1406.5}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.5}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1405.0}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
