@@ -10,24 +10,24 @@ python3 mvr.py
 |------|------------------------|--------|
 | 1    | The Martian          | 1559.1 |
 | 2    | Tenet                | 1557.1 |
-| 3    | X-Men                | 1533.4 |
-| 4    | Iron Man             | 1533.3 |
-| 5    | Dune                 | 1532.0 |
-| 6    | Source Code          | 1531.3 |
-| 7    | Passengers           | 1531.3 |
-| 8    | The Prestige         | 1531.3 |
-| 9    | Avengers: Age of Ultron | 1531.3 |
-| 10   | Ant-Man              | 1531.3 |
-| 11   | Shawshank Redemption | 1531.3 |
-| 12   | Megan                | 1531.3 |
+| 3    | Megan                | 1547.2 |
+| 4    | X-Men                | 1533.4 |
+| 5    | Iron Man             | 1533.3 |
+| 6    | Dune                 | 1532.0 |
+| 7    | Source Code          | 1531.3 |
+| 8    | Passengers           | 1531.3 |
+| 9    | The Prestige         | 1531.3 |
+| 10   | Avengers: Age of Ultron | 1531.3 |
+| 11   | Ant-Man              | 1531.3 |
+| 12   | Shawshank Redemption | 1531.3 |
 | 13   | The Maze Runner: The Death Cure | 1531.2 |
 | 14   | Halo                 | 1530.6 |
-| 15   | The Illusionist      | 1530.6 |
-| 16   | Black Panther        | 1530.5 |
-| 17   | Harry Potter         | 1530.5 |
-| 18   | Beut Mind            | 1529.8 |
-| 19   | Titanic              | 1529.8 |
-| 20   | Mission Impossible: Ghost Protocol | 1529.3 |
+| 15   | Black Panther        | 1530.5 |
+| 16   | Harry Potter         | 1530.5 |
+| 17   | Beut Mind            | 1529.8 |
+| 18   | Titanic              | 1529.8 |
+| 19   | Mission Impossible: Ghost Protocol | 1529.3 |
+| 20   | Shang-Chi and the Legend of the Ten Rings | 1529.1 |
 | 21   | Iron Chef            | 1516.8 |
 | 22   | Avengers: Endgame    | 1516.8 |
 | 23   | Inception            | 1516.7 |
@@ -61,9 +61,9 @@ python3 mvr.py
 | 51   | Lost in Space        | 1515.2 |
 | 52   | The Hobbit           | 1514.6 |
 | 53   | Catch Me If You Can  | 1514.6 |
-| 54   | Pompeii              | 1514.6 |
-| 55   | The Avengers         | 1514.6 |
-| 56   | Shang-Chi and the Legend of the Ten Rings | 1514.6 |
+| 54   | The Illusionist      | 1514.6 |
+| 55   | Pompeii              | 1514.6 |
+| 56   | The Avengers         | 1514.6 |
 | 57   | The Spy Next Door    | 1513.9 |
 | 58   | Train to Busan       | 1512.6 |
 | 59   | Scream VI            | 1502.2 |
@@ -155,20 +155,20 @@ python3 mvr.py
 | 145  | When a Stranger Calls | 1483.3 |
 | 146  | Independence Day     | 1483.3 |
 | 147  | Arrow                | 1483.3 |
-| 148  | Horton hears a Who   | 1483.3 |
-| 149  | All Quiet on The Western Front | 1482.6 |
-| 150  | Black Hawk Down      | 1470.9 |
-| 151  | Cars                 | 1470.2 |
-| 152  | The Man Who Knew Infinity | 1469.5 |
-| 153  | Awake                | 1469.5 |
-| 154  | The Matrix Reloaded  | 1469.4 |
-| 155  | A Boy Called Christmas | 1469.4 |
-| 156  | The Battle at Lake Changjin | 1469.4 |
-| 157  | Spooky Buddies       | 1469.3 |
-| 158  | American Sniper      | 1468.8 |
-| 159  | Star Trek: Picard    | 1468.7 |
-| 160  | The Mask             | 1468.7 |
-| 161  | War Horse            | 1468.7 |
+| 148  | All Quiet on The Western Front | 1482.6 |
+| 149  | Black Hawk Down      | 1470.9 |
+| 150  | Cars                 | 1470.2 |
+| 151  | The Man Who Knew Infinity | 1469.5 |
+| 152  | Awake                | 1469.5 |
+| 153  | The Matrix Reloaded  | 1469.4 |
+| 154  | A Boy Called Christmas | 1469.4 |
+| 155  | The Battle at Lake Changjin | 1469.4 |
+| 156  | Spooky Buddies       | 1469.3 |
+| 157  | American Sniper      | 1468.8 |
+| 158  | Star Trek: Picard    | 1468.7 |
+| 159  | The Mask             | 1468.7 |
+| 160  | War Horse            | 1468.7 |
+| 161  | Horton hears a Who   | 1468.7 |
 | 162  | Mission Impossible: Rogue Nation | 1468.7 |
 | 163  | "Everything, everywhere, all at once" | 1468.1 |
 | 164  | Darkest Hour         | 1468.0 |
