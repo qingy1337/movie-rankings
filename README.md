@@ -40,13 +40,13 @@ python3 mvr.py
 | $\color{black}\text{30  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{green}\text{32  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1556.5}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
-| $\color{green}\text{34  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1554.4}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1552.5}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1551.1}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1549.9}$ |
+| $\color{green}\text{33  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1554.9}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
+| $\color{green}\text{35  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1554.4}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1552.5}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1551.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
@@ -84,7 +84,7 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
 | $\color{red}\text{75  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1510.3}$ |
 | $\color{green}\text{76  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1510.3}$ |
-| $\color{green}\text{77  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1510.3}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.0}$ |
@@ -101,12 +101,12 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1492.5}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1491.1}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1488.5}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
+| $\color{red}\text{99  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1487.5}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
