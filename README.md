@@ -65,16 +65,16 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1530.7}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.3}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.3}$ |
+| $\color{green}\text{60  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1527.7}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1525.4}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1524.1}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1523.4}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1521.6}$ |
-| $\color{green}\text{67  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1521.5}$ |
+| $\color{red}\text{64  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1524.6}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1524.1}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1523.4}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1521.6}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{green}\text{70  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1517.9}$ |
@@ -102,7 +102,7 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{green}\text{95  }$ | $\color{green}\text{Frequency}$ | $\color{green}\text{1487.9}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1486.3}$ |
 | $\color{red}\text{98  }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1482.6}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1438.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1432.7}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1432.7}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1429.0}$ |
