@@ -32,10 +32,10 @@ python3 mvr.py
 | $\color{black}\text{22  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1566.3}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1561.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1559.6}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1559.0}$ |
+| $\color{green}\text{25  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1563.4}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1561.2}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1559.6}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
@@ -129,17 +129,17 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1466.5}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1464.0}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1464.0}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1460.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
-| $\color{green}\text{132 }$ | $\color{green}\text{Unbreakable}$ | $\color{green}\text{1457.1}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1454.0}$ |
 | $\color{green}\text{135 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1453.8}$ |
@@ -178,5 +178,5 @@ python3 mvr.py
 | $\color{black}\text{168 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1409.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
-| $\color{red}\text{171 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1406.5}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1406.5}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1397.2}$ |
