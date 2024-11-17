@@ -34,7 +34,7 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1578.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
-| $\color{green}\text{27  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1572.2}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1572.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -71,7 +71,7 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1532.3}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1528.0}$ |
+| $\color{red}\text{64  }$ | $\color{red}\text{Top Gun: Maverick}$ | $\color{red}\text{1527.7}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1525.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1523.3}$ |
@@ -79,7 +79,7 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1517.6}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.1}$ |
+| $\color{green}\text{72  }$ | $\color{green}\text{Guy Ritchie’s The Covenant}$ | $\color{green}\text{1514.4}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1514.1}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
@@ -103,7 +103,7 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
-| $\color{red}\text{96  }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1486.8}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1483.4}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
