@@ -68,40 +68,40 @@ python3 mvr.py
 | 58   | The Matrix           | 1519.4 |
 | 59   | Glass Castle         | 1519.3 |
 | 60   | Lord of the Rings    | 1519.1 |
-| 61   | Thor                 | 1517.1 |
-| 62   | The Hunger Games     | 1516.2 |
-| 63   | Scream V             | 1516.0 |
-| 64   | Cars                 | 1515.8 |
-| 65   | Interstellar         | 1515.2 |
-| 66   | Captain America: The Winter Soldier | 1514.6 |
-| 67   | Avatar               | 1514.4 |
-| 68   | Guy Ritchie’s The Covenant | 1514.2 |
-| 69   | Soul                 | 1514.0 |
-| 70   | Zodiac               | 1513.9 |
-| 71   | Jack Reacher: Never Go Back | 1513.5 |
-| 72   | Rebel Ridge          | 1511.2 |
-| 73   | The Tomorrow War     | 1510.6 |
-| 74   | Zootopia             | 1510.5 |
-| 75   | The Terminal List    | 1509.7 |
-| 76   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
-| 77   | Captain America: Civil War | 1508.2 |
-| 78   | Dune                 | 1507.9 |
-| 79   | Vagabond             | 1507.6 |
-| 80   | Megan                | 1507.0 |
-| 81   | World War Z          | 1506.9 |
+| 61   | Inception            | 1517.3 |
+| 62   | Thor                 | 1517.1 |
+| 63   | The Hunger Games     | 1516.2 |
+| 64   | Scream V             | 1516.0 |
+| 65   | Cars                 | 1515.8 |
+| 66   | Interstellar         | 1515.2 |
+| 67   | Captain America: The Winter Soldier | 1514.6 |
+| 68   | Avatar               | 1514.4 |
+| 69   | Guy Ritchie’s The Covenant | 1514.2 |
+| 70   | Soul                 | 1514.0 |
+| 71   | Zodiac               | 1513.9 |
+| 72   | Jack Reacher: Never Go Back | 1513.5 |
+| 73   | Rebel Ridge          | 1511.2 |
+| 74   | The Tomorrow War     | 1510.6 |
+| 75   | Zootopia             | 1510.5 |
+| 76   | The Terminal List    | 1509.7 |
+| 77   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
+| 78   | Captain America: Civil War | 1508.2 |
+| 79   | Dune                 | 1507.9 |
+| 80   | Vagabond             | 1507.6 |
+| 81   | Megan                | 1507.0 |
 | 82   | Star Trek: Picard    | 1506.8 |
 | 83   | The Man in the Iron Mask | 1506.8 |
 | 84   | The Young and Prodigious T.S. Spivet | 1506.1 |
 | 85   | A Haunting in Venice | 1501.3 |
-| 86   | Inception            | 1501.0 |
-| 87   | The Ring             | 1500.7 |
-| 88   | Saving Private Ryan  | 1500.2 |
-| 89   | Cars 2               | 1499.8 |
-| 90   | Terminator           | 1499.3 |
-| 91   | Jack Reacher         | 1499.0 |
-| 92   | Knight and Day       | 1498.7 |
-| 93   | Ip Man               | 1495.6 |
-| 94   | Replicas             | 1493.3 |
+| 86   | The Ring             | 1500.7 |
+| 87   | Saving Private Ryan  | 1500.2 |
+| 88   | Cars 2               | 1499.8 |
+| 89   | Terminator           | 1499.3 |
+| 90   | Jack Reacher         | 1499.0 |
+| 91   | Knight and Day       | 1498.7 |
+| 92   | Ip Man               | 1495.6 |
+| 93   | Replicas             | 1493.3 |
+| 94   | World War Z          | 1490.6 |
 | 95   | Oppenheimer          | 1489.4 |
 | 96   | Gladiator            | 1487.2 |
 | 97   | A Boy Called Christmas | 1486.9 |
@@ -111,27 +111,27 @@ python3 mvr.py
 | 101  | Land of Bad          | 1485.0 |
 | 102  | The Mask of Zorro    | 1484.0 |
 | 103  | Skyfall              | 1484.0 |
-| 104  | The Ring 2           | 1483.7 |
-| 105  | Bloodhounds          | 1483.5 |
-| 106  | Pompeii              | 1483.4 |
-| 107  | The Curious Case of Benjamin Button | 1483.0 |
-| 108  | G.I.Joe movie        | 1482.0 |
-| 109  | Horton hears a Who   | 1480.1 |
-| 110  | Mission Impossible: Rogue Nation | 1479.4 |
-| 111  | The Spy Next Door    | 1478.6 |
-| 112  | When a Stranger Calls | 1476.1 |
-| 113  | The Matrix Revolutions | 1475.2 |
-| 114  | Sweet Tooth          | 1474.9 |
-| 115  | School of Rock       | 1474.9 |
-| 116  | Mission Impossible 2 | 1473.6 |
-| 117  | Rampage              | 1473.6 |
-| 118  | Red Notice           | 1473.5 |
-| 119  | The Mask             | 1472.9 |
-| 120  | The Matrix Reloaded  | 1472.2 |
-| 121  | Drunken Master       | 1472.1 |
-| 122  | Rango                | 1471.8 |
-| 123  | Red Eye              | 1471.2 |
-| 124  | Peter the Rabbit     | 1469.8 |
+| 104  | Peter the Rabbit     | 1483.7 |
+| 105  | The Ring 2           | 1483.7 |
+| 106  | Bloodhounds          | 1483.5 |
+| 107  | Pompeii              | 1483.4 |
+| 108  | The Curious Case of Benjamin Button | 1483.0 |
+| 109  | G.I.Joe movie        | 1482.0 |
+| 110  | Horton hears a Who   | 1480.1 |
+| 111  | Mission Impossible: Rogue Nation | 1479.4 |
+| 112  | The Spy Next Door    | 1478.6 |
+| 113  | When a Stranger Calls | 1476.1 |
+| 114  | The Matrix Revolutions | 1475.2 |
+| 115  | Sweet Tooth          | 1474.9 |
+| 116  | School of Rock       | 1474.9 |
+| 117  | Mission Impossible 2 | 1473.6 |
+| 118  | Rampage              | 1473.6 |
+| 119  | Red Notice           | 1473.5 |
+| 120  | The Mask             | 1472.9 |
+| 121  | The Matrix Reloaded  | 1472.2 |
+| 122  | Drunken Master       | 1472.1 |
+| 123  | Rango                | 1471.8 |
+| 124  | Red Eye              | 1471.2 |
 | 125  | The BFG              | 1469.7 |
 | 126  | Selfless             | 1469.3 |
 | 127  | Crouching Tiger Hidden Dragon | 1468.8 |
@@ -170,11 +170,11 @@ python3 mvr.py
 | 160  | Jurassic World: Dominion | 1427.5 |
 | 161  | Arrow                | 1427.0 |
 | 162  | The Darkest Hour     | 1425.0 |
-| 163  | Spectral             | 1424.3 |
-| 164  | A Quiet Place: Day One | 1423.4 |
-| 165  | Everything, everywhere, all at once | 1416.7 |
-| 166  | Shadow               | 1415.5 |
-| 167  | The Battle at Lake Changjin | 1415.1 |
+| 163  | A Quiet Place: Day One | 1423.4 |
+| 164  | Everything, everywhere, all at once | 1416.7 |
+| 165  | Shadow               | 1415.5 |
+| 166  | The Battle at Lake Changjin | 1415.1 |
+| 167  | Spectral             | 1410.4 |
 | 168  | Black Hawk Down      | 1407.8 |
 | 169  | AK-47 Kalashnikov    | 1406.4 |
 | 170  | Gravity              | 1405.9 |
