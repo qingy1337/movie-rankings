@@ -50,47 +50,47 @@ python3 mvr.py
 | 40   | The Wild Robot       | 1560.5 |
 | 41   | Mission Impossible: Ghost Protocol | 1560.4 |
 | 42   | Locke and Key        | 1560.2 |
-| 43   | Tenet                | 1554.6 |
-| 44   | The Matrix           | 1553.4 |
-| 45   | Halo                 | 1552.0 |
-| 46   | Replicas             | 1551.9 |
-| 47   | Interstellar         | 1550.8 |
-| 48   | Beut Mind            | 1550.6 |
-| 49   | Mission Impossible: Rogue Nation | 1548.5 |
+| 43   | Mission Impossible: Rogue Nation | 1556.9 |
+| 44   | Tenet                | 1554.6 |
+| 45   | The Matrix           | 1553.4 |
+| 46   | Halo                 | 1552.0 |
+| 47   | Replicas             | 1551.9 |
+| 48   | Interstellar         | 1550.8 |
+| 49   | Beut Mind            | 1550.6 |
 | 50   | The Tomorrow War     | 1548.5 |
 | 51   | The Prestige         | 1547.4 |
 | 52   | Mission Impossible: Fallout | 1546.1 |
 | 53   | The Illusionist      | 1545.8 |
 | 54   | Soul                 | 1542.9 |
-| 55   | Captain America: The Winter Soldier | 1539.8 |
-| 56   | Train to Busan       | 1537.4 |
-| 57   | The Ninth Gate       | 1537.2 |
-| 58   | The Man Who Knew Infinity | 1535.9 |
-| 59   | Jack Ryan            | 1534.5 |
-| 60   | The Day After Tomorrow | 1533.6 |
-| 61   | A Haunting in Venice | 1531.9 |
-| 62   | Avengers: Infinity War | 1527.6 |
-| 63   | Avatar               | 1526.0 |
+| 55   | Avatar               | 1541.9 |
+| 56   | Captain America: The Winter Soldier | 1539.8 |
+| 57   | Train to Busan       | 1537.4 |
+| 58   | The Ninth Gate       | 1537.2 |
+| 59   | The Man Who Knew Infinity | 1535.9 |
+| 60   | Jack Ryan            | 1534.5 |
+| 61   | The Day After Tomorrow | 1533.6 |
+| 62   | A Haunting in Venice | 1531.9 |
+| 63   | Avengers: Infinity War | 1527.6 |
 | 64   | The Terminal List    | 1526.0 |
 | 65   | Top Gun              | 1523.2 |
-| 66   | Mission Impossible: Dead Reckoning P1 | 1522.9 |
-| 67   | Zodiac               | 1521.3 |
-| 68   | Star Trek: Picard    | 1521.3 |
-| 69   | Iron Chef            | 1520.2 |
-| 70   | Jack Reacher         | 1519.6 |
-| 71   | Guy Ritchie’s The Covenant | 1519.2 |
-| 72   | Rebel Ridge          | 1519.0 |
-| 73   | Thor                 | 1517.3 |
-| 74   | The Spy Next Door    | 1517.0 |
-| 75   | Titanic              | 1516.7 |
-| 76   | The Maze Runner: The Scorch Trials | 1516.2 |
-| 77   | Top Gun: Maverick    | 1515.4 |
-| 78   | Gladiator            | 1514.8 |
-| 79   | Sweet Tooth          | 1514.1 |
-| 80   | Mission Impossible 3 | 1512.4 |
-| 81   | Bloodhounds          | 1512.1 |
-| 82   | Onward               | 1512.0 |
-| 83   | My Name              | 1509.4 |
+| 66   | Zodiac               | 1521.3 |
+| 67   | Star Trek: Picard    | 1521.3 |
+| 68   | Iron Chef            | 1520.2 |
+| 69   | Jack Reacher         | 1519.6 |
+| 70   | Guy Ritchie’s The Covenant | 1519.2 |
+| 71   | Rebel Ridge          | 1519.0 |
+| 72   | Thor                 | 1517.3 |
+| 73   | The Spy Next Door    | 1517.0 |
+| 74   | Titanic              | 1516.7 |
+| 75   | The Maze Runner: The Scorch Trials | 1516.2 |
+| 76   | Top Gun: Maverick    | 1515.4 |
+| 77   | Gladiator            | 1514.8 |
+| 78   | Sweet Tooth          | 1514.1 |
+| 79   | Mission Impossible 3 | 1512.4 |
+| 80   | Bloodhounds          | 1512.1 |
+| 81   | Onward               | 1512.0 |
+| 82   | My Name              | 1509.4 |
+| 83   | Mission Impossible: Dead Reckoning P1 | 1507.0 |
 | 84   | Shawshank Redemption | 1506.9 |
 | 85   | Captain America: Civil War | 1504.8 |
 | 86   | Total Recall         | 1504.7 |
@@ -173,8 +173,8 @@ python3 mvr.py
 | 163  | Everything, everywhere, all at once | 1377.1 |
 | 164  | Gravity              | 1376.8 |
 | 165  | All Quiet on The Western Front | 1376.7 |
-| 166  | Shadow               | 1370.2 |
-| 167  | Black Hawk Down      | 1367.8 |
-| 168  | Spectral             | 1362.2 |
+| 166  | Black Hawk Down      | 1367.8 |
+| 167  | Spectral             | 1362.2 |
+| 168  | Shadow               | 1361.8 |
 | 169  | Darkest Hour         | 1352.5 |
 | 170  | The Battle at Lake Changjin | 1351.6 |
