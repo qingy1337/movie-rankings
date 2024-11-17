@@ -74,7 +74,7 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1514.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1514.1}$ |
-| $\color{green}\text{67  }$ | $\color{green}\text{Zootopia}$ | $\color{green}\text{1513.9}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1513.4}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
 | $\color{green}\text{70  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1512.4}$ |
@@ -124,13 +124,13 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1474.3}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.1}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1470.3}$ |
+| $\color{green}\text{117 }$ | $\color{green}\text{Cars 3}$ | $\color{green}\text{1475.6}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1474.3}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.1}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
@@ -152,7 +152,7 @@ python3 mvr.py
 | $\color{black}\text{142 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
 | $\color{green}\text{143 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1452.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
-| $\color{red}\text{145 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1451.6}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
@@ -169,13 +169,13 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1432.2}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1432.1}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1430.5}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
+| $\color{red}\text{168 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1425.2}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1422.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
