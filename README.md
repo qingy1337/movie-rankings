@@ -11,13 +11,13 @@ python3 mvr.py
 | $\color{red}\text{1   }$ | $\color{red}\text{Harry Potter}$ | $\color{red}\text{1561.3}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1554.5}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1551.1}$ |
+| $\color{green}\text{4   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1554.1}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1550.9}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1547.9}$ |
 | $\color{green}\text{7   }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1547.7}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1547.7}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1547.1}$ |
-| $\color{green}\text{10  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1547.1}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1547.1}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1544.4}$ |
@@ -132,7 +132,7 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1478.9}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1477.7}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1477.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1477.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1475.1}$ |
@@ -155,13 +155,13 @@ python3 mvr.py
 | $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1466.4}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1464.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1463.2}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1463.0}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1462.9}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1462.9}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1462.8}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1460.2}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1462.9}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1462.9}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1462.8}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1461.7}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1461.7}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{65}$ | $\color{black}\text{1460.2}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1460.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1459.0}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
