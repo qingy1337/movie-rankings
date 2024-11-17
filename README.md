@@ -41,10 +41,10 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1563.3}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1557.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1556.0}$ |
@@ -66,7 +66,7 @@ python3 mvr.py
 | $\color{black}\text{56  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.1}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{green}\text{59  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1532.3}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1532.3}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1530.4}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
@@ -105,13 +105,13 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{green}\text{96  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1487.9}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1483.9}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1479.6}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1479.4}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1482.6}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1479.6}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1479.4}$ |
+| $\color{red}\text{104 }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1479.1}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1475.8}$ |
