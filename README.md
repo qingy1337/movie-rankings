@@ -10,11 +10,11 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1627.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1609.6}$ |
-| $\color{green}\text{3   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1607.5}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1600.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1596.8}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1595.2}$ |
+| $\color{green}\text{7   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1595.2}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1594.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1592.7}$ |
@@ -22,7 +22,7 @@ python3 mvr.py
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1591.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1589.7}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1589.1}$ |
+| $\color{red}\text{15  }$ | $\color{red}\text{Ant-Man}$ | $\color{red}\text{1589.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
@@ -142,7 +142,7 @@ python3 mvr.py
 | $\color{black}\text{132 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1451.0}$ |
 | $\color{red}\text{134 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1450.6}$ |
-| $\color{red}\text{135 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1449.2}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1449.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1445.3}$ |
