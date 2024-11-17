@@ -14,31 +14,31 @@ python3 mvr.py
 | 4    | Passengers           | 1569.5 |
 | 5    | Avengers: Age of Ultron | 1568.7 |
 | 6    | Pirates of the Caribbean | 1563.6 |
-| 7    | Harry Potter         | 1562.9 |
-| 8    | Avengers: Infinity War | 1559.8 |
-| 9    | Thirteen Lives       | 1558.3 |
-| 10   | The Maze Runner: The Death Cure | 1558.3 |
-| 11   | Mission Impossible: Fallout | 1557.1 |
+| 7    | X-Men                | 1563.5 |
+| 8    | Harry Potter         | 1562.9 |
+| 9    | Avengers: Infinity War | 1559.8 |
+| 10   | Thirteen Lives       | 1558.3 |
+| 11   | The Maze Runner: The Death Cure | 1558.3 |
 | 12   | Source Code          | 1555.5 |
 | 13   | Black Panther        | 1553.7 |
 | 14   | Sneaky Pete          | 1549.0 |
 | 15   | Shawshank Redemption | 1547.2 |
-| 16   | X-Men                | 1547.1 |
-| 17   | Dark Waters          | 1546.9 |
-| 18   | Maleficent           | 1545.7 |
-| 19   | Squid Game           | 1545.3 |
-| 20   | Halo                 | 1544.5 |
-| 21   | Wednesday            | 1544.4 |
-| 22   | The Prestige         | 1544.1 |
-| 23   | World War Z          | 1543.9 |
-| 24   | Iron Man             | 1543.7 |
-| 25   | Mission Impossible: Ghost Protocol | 1543.3 |
-| 26   | Lord of the Rings    | 1543.2 |
-| 27   | The Hobbit           | 1543.1 |
-| 28   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
-| 29   | Rainman              | 1542.5 |
-| 30   | The Illusionist      | 1542.4 |
-| 31   | Catch Me If You Can  | 1541.9 |
+| 16   | Dark Waters          | 1546.9 |
+| 17   | Maleficent           | 1545.7 |
+| 18   | Squid Game           | 1545.3 |
+| 19   | Halo                 | 1544.5 |
+| 20   | Wednesday            | 1544.4 |
+| 21   | The Prestige         | 1544.1 |
+| 22   | World War Z          | 1543.9 |
+| 23   | Iron Man             | 1543.7 |
+| 24   | Mission Impossible: Ghost Protocol | 1543.3 |
+| 25   | Lord of the Rings    | 1543.2 |
+| 26   | The Hobbit           | 1543.1 |
+| 27   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 28   | Rainman              | 1542.5 |
+| 29   | The Illusionist      | 1542.4 |
+| 30   | Catch Me If You Can  | 1541.9 |
+| 31   | Mission Impossible: Fallout | 1540.7 |
 | 32   | The Maze Runner      | 1535.0 |
 | 33   | The Day After Tomorrow | 1534.0 |
 | 34   | Avatar 2             | 1533.8 |
