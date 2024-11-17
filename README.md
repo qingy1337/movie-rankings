@@ -20,7 +20,7 @@ python3 mvr.py
 | 10   | Harry Potter         | 1583.2 |
 | 11   | Passengers           | 1583.0 |
 | 12   | Black Panther        | 1582.9 |
-| 13   | Iron Man             | 1581.3 |
+| 13   | Iron Man             | 1580.6 |
 | 14   | The Mandalorian      | 1579.9 |
 | 15   | Beut Mind            | 1576.0 |
 | 16   | The Hobbit           | 1575.0 |
@@ -28,7 +28,7 @@ python3 mvr.py
 | 18   | Thirteen Lives       | 1570.3 |
 | 19   | Locke and Key        | 1569.6 |
 | 20   | Halo                 | 1569.4 |
-| 21   | Source Code          | 1567.6 |
+| 21   | Source Code          | 1568.2 |
 | 22   | The Maze Runner: The Scorch Trials | 1567.0 |
 | 23   | Sneaky Pete          | 1564.5 |
 | 24   | No Country for Old Men | 1561.1 |
@@ -65,47 +65,47 @@ python3 mvr.py
 | 55   | Mission Impossible 3 | 1528.8 |
 | 56   | Zodiac               | 1527.3 |
 | 57   | Rainman              | 1526.3 |
-| 58   | The Tomorrow War     | 1526.2 |
-| 59   | Replicas             | 1525.3 |
-| 60   | Rebel Ridge          | 1524.1 |
-| 61   | Loki                 | 1522.5 |
-| 62   | The Avengers         | 1522.0 |
-| 63   | Star Trek: Picard    | 1521.3 |
-| 64   | Captain America: Civil War | 1519.7 |
-| 65   | Scream V             | 1516.0 |
-| 66   | Cars                 | 1515.8 |
-| 67   | Interstellar         | 1515.2 |
-| 68   | The Matrix           | 1515.0 |
-| 69   | Wrath of Man         | 1514.7 |
-| 70   | Captain America: The Winter Soldier | 1514.6 |
-| 71   | Avatar               | 1514.4 |
-| 72   | Guy Ritchie’s The Covenant | 1514.2 |
-| 73   | Dark Waters          | 1511.2 |
-| 74   | Zootopia             | 1510.5 |
-| 75   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
+| 58   | Replicas             | 1525.3 |
+| 59   | Rebel Ridge          | 1524.1 |
+| 60   | Loki                 | 1522.5 |
+| 61   | The Avengers         | 1522.0 |
+| 62   | Star Trek: Picard    | 1521.3 |
+| 63   | Captain America: Civil War | 1519.7 |
+| 64   | Scream V             | 1516.0 |
+| 65   | Cars                 | 1515.8 |
+| 66   | Interstellar         | 1515.2 |
+| 67   | The Matrix           | 1515.0 |
+| 68   | Wrath of Man         | 1514.7 |
+| 69   | Captain America: The Winter Soldier | 1514.6 |
+| 70   | Avatar               | 1514.4 |
+| 71   | Guy Ritchie’s The Covenant | 1514.2 |
+| 72   | Dark Waters          | 1511.2 |
+| 73   | Zootopia             | 1510.5 |
+| 74   | Mission Impossible: Dead Reckoning P1 | 1508.7 |
+| 75   | The Tomorrow War     | 1508.3 |
 | 76   | The Man in the Iron Mask | 1506.8 |
 | 77   | Glass Castle         | 1504.7 |
-| 78   | Total Recall         | 1503.7 |
-| 79   | Thor                 | 1502.4 |
-| 80   | Soul                 | 1502.0 |
-| 81   | A Haunting in Venice | 1501.3 |
-| 82   | Jack Reacher: Never Go Back | 1500.1 |
-| 83   | Cars 2               | 1499.8 |
-| 84   | Lord of the Rings    | 1498.9 |
-| 85   | GoldenEye            | 1497.3 |
-| 86   | The Terminal List    | 1497.1 |
-| 87   | Ip Man               | 1495.6 |
-| 88   | Vagabond             | 1493.3 |
-| 89   | A Boy Called Christmas | 1491.7 |
-| 90   | Dune                 | 1490.9 |
-| 91   | When a Stranger Calls | 1490.6 |
-| 92   | Oppenheimer          | 1489.4 |
-| 93   | Peter the Rabbit     | 1488.2 |
-| 94   | Top Gun: Maverick    | 1488.1 |
-| 95   | Rango                | 1488.0 |
-| 96   | Megan                | 1487.9 |
-| 97   | Gladiator            | 1487.2 |
-| 98   | Jack Reacher         | 1486.3 |
+| 78   | Jack Reacher         | 1504.2 |
+| 79   | Total Recall         | 1503.7 |
+| 80   | Thor                 | 1502.4 |
+| 81   | Soul                 | 1502.0 |
+| 82   | A Haunting in Venice | 1501.3 |
+| 83   | Jack Reacher: Never Go Back | 1500.1 |
+| 84   | Cars 2               | 1499.8 |
+| 85   | Lord of the Rings    | 1498.9 |
+| 86   | GoldenEye            | 1497.3 |
+| 87   | The Terminal List    | 1497.1 |
+| 88   | Ip Man               | 1495.6 |
+| 89   | Vagabond             | 1493.3 |
+| 90   | A Boy Called Christmas | 1491.7 |
+| 91   | Dune                 | 1490.9 |
+| 92   | When a Stranger Calls | 1490.6 |
+| 93   | Oppenheimer          | 1489.4 |
+| 94   | Peter the Rabbit     | 1488.2 |
+| 95   | Top Gun: Maverick    | 1488.1 |
+| 96   | Rango                | 1488.0 |
+| 97   | Megan                | 1487.9 |
+| 98   | Gladiator            | 1487.2 |
 | 99   | Top Gun              | 1485.3 |
 | 100  | The Ring             | 1485.1 |
 | 101  | Land of Bad          | 1485.0 |
