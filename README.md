@@ -86,7 +86,7 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1514.0}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.3}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1509.4}$ |
-| $\color{green}\text{79  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1508.6}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.6}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1506.9}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1505.6}$ |
@@ -100,26 +100,26 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1495.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1490.8}$ |
-| $\color{red}\text{93  }$ | $\color{red}\text{Ip Man}$ | $\color{red}\text{1484.2}$ |
-| $\color{red}\text{94  }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1478.1}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1477.0}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1476.1}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1475.7}$ |
+| $\color{green}\text{93  }$ | $\color{green}\text{Rainman}$ | $\color{green}\text{1486.2}$ |
+| $\color{red}\text{94  }$ | $\color{red}\text{Ip Man}$ | $\color{red}\text{1484.2}$ |
+| $\color{red}\text{95  }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1478.1}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1477.0}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1476.1}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.8}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1470.4}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1469.9}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1469.9}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1469.0}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1465.2}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1465.1}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.8}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1463.3}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1463.0}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1462.9}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Megan}$ | $\color{black}\text{1459.6}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1469.9}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1469.0}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1465.2}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1465.1}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.8}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1463.3}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1463.0}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1462.9}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Megan}$ | $\color{black}\text{1459.6}$ |
+| $\color{red}\text{112 }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1459.4}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1459.1}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1457.9}$ |
@@ -170,7 +170,7 @@ python3 mvr.py
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1376.1}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1373.1}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1366.2}$ |
-| $\color{red}\text{163 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1366.2}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1366.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1365.1}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1363.6}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1362.2}$ |
