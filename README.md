@@ -21,10 +21,10 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1575.8}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1580.6}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1577.8}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1576.6}$ |
 | $\color{green}\text{18  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1575.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
@@ -67,7 +67,7 @@ python3 mvr.py
 | $\color{black}\text{57  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1529.1}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1526.8}$ |
-| $\color{green}\text{60  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1526.2}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1526.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1522.3}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1522.1}$ |
@@ -85,12 +85,12 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
-| $\color{red}\text{79  }$ | $\color{red}\text{Locke and Key}$ | $\color{red}\text{1508.2}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.0}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1507.0}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{red}\text{78  }$ | $\color{red}\text{Locke and Key}$ | $\color{red}\text{1508.2}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.0}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1507.0}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{red}\text{83  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1504.6}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.3}$ |
@@ -157,7 +157,7 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1433.6}$ |
-| $\color{red}\text{150 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1432.8}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1432.8}$ |
 | $\color{green}\text{151 }$ | $\color{green}\text{Arrow}$ | $\color{green}\text{1432.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
