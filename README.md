@@ -21,8 +21,8 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.4}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1566.0}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1570.6}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
@@ -75,7 +75,7 @@ python3 mvr.py
 | $\color{black}\text{65  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
-| $\color{green}\text{68  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1516.8}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
@@ -111,11 +111,11 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.3}$ |
-| $\color{green}\text{106 }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1480.3}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.3}$ |
+| $\color{green}\text{105 }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1480.3}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
+| $\color{red}\text{108 }$ | $\color{red}\text{Rainman}$ | $\color{red}\text{1478.8}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
@@ -123,7 +123,7 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
 | $\color{red}\text{115 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1476.5}$ |
-| $\color{red}\text{116 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1476.2}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
