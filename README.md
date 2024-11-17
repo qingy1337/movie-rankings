@@ -13,19 +13,19 @@ python3 mvr.py
 | 3    | Ant-Man              | 1560.5 |
 | 4    | Source Code          | 1558.3 |
 | 5    | The Maze Runner: The Death Cure | 1558.3 |
-| 6    | Avengers: Age of Ultron | 1546.5 |
-| 7    | Dune                 | 1545.8 |
-| 8    | Locke and Key        | 1545.2 |
-| 9    | World War Z          | 1545.0 |
-| 10   | Black Panther        | 1544.6 |
-| 11   | Halo                 | 1544.5 |
-| 12   | Beut Mind            | 1544.4 |
-| 13   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
-| 14   | Catch Me If You Can  | 1541.9 |
-| 15   | Thirteen Lives       | 1541.5 |
-| 16   | Megan                | 1541.3 |
-| 17   | Sneaky Pete          | 1534.0 |
-| 18   | Avengers: Infinity War | 1533.4 |
+| 6    | Locke and Key        | 1557.6 |
+| 7    | Avengers: Age of Ultron | 1546.5 |
+| 8    | Avengers: Infinity War | 1546.5 |
+| 9    | Dune                 | 1545.8 |
+| 10   | World War Z          | 1545.0 |
+| 11   | Black Panther        | 1544.6 |
+| 12   | Halo                 | 1544.5 |
+| 13   | Beut Mind            | 1544.4 |
+| 14   | Shang-Chi and the Legend of the Ten Rings | 1543.1 |
+| 15   | Catch Me If You Can  | 1541.9 |
+| 16   | Thirteen Lives       | 1541.5 |
+| 17   | Megan                | 1541.3 |
+| 18   | Sneaky Pete          | 1534.0 |
 | 19   | X-Men                | 1533.4 |
 | 20   | Squid Game           | 1532.8 |
 | 21   | Avengers: Endgame    | 1532.0 |
@@ -157,17 +157,17 @@ python3 mvr.py
 | 147  | "Everything, everywhere, all at once" | 1468.1 |
 | 148  | The Man in the Iron Mask | 1468.0 |
 | 149  | Shadow               | 1468.0 |
-| 150  | Arrow                | 1468.0 |
-| 151  | 65                   | 1467.6 |
-| 152  | Stillwater           | 1467.5 |
-| 153  | The Silence          | 1467.4 |
-| 154  | Zero Dark Thirty     | 1457.6 |
-| 155  | Total Recall         | 1457.3 |
-| 156  | Black Hawk Down      | 1456.9 |
-| 157  | The Mask             | 1456.2 |
-| 158  | Cars 3               | 1456.1 |
-| 159  | Awake                | 1455.6 |
-| 160  | Jurassic World: Dominion | 1455.5 |
+| 150  | 65                   | 1467.6 |
+| 151  | Stillwater           | 1467.5 |
+| 152  | Zero Dark Thirty     | 1457.6 |
+| 153  | Total Recall         | 1457.3 |
+| 154  | Black Hawk Down      | 1456.9 |
+| 155  | The Mask             | 1456.2 |
+| 156  | Cars 3               | 1456.1 |
+| 157  | Awake                | 1455.6 |
+| 158  | Jurassic World: Dominion | 1455.5 |
+| 159  | Arrow                | 1455.0 |
+| 160  | The Silence          | 1454.9 |
 | 161  | Exam                 | 1454.7 |
 | 162  | Spooky Buddies       | 1454.7 |
 | 163  | Rampage              | 1454.2 |
