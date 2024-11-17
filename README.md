@@ -39,7 +39,7 @@ python3 mvr.py
 | $\color{red}\text{29  }$ | $\color{red}\text{X-Files}$ | $\color{red}\text{1568.1}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{green}\text{32  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1567.5}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
@@ -66,10 +66,10 @@ python3 mvr.py
 | $\color{black}\text{56  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.1}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
-| $\color{green}\text{60  }$ | $\color{green}\text{Titanic}$ | $\color{green}\text{1530.4}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1528.3}$ |
+| $\color{green}\text{59  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1532.3}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
+| $\color{green}\text{61  }$ | $\color{green}\text{Titanic}$ | $\color{green}\text{1530.4}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
@@ -156,7 +156,7 @@ python3 mvr.py
 | $\color{black}\text{146 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
-| $\color{red}\text{149 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1423.5}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1423.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1422.0}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1420.6}$ |
@@ -167,8 +167,8 @@ python3 mvr.py
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1409.5}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1408.9}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
+| $\color{red}\text{161 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1404.9}$ |
 | $\color{red}\text{162 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1404.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
