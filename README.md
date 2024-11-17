@@ -49,7 +49,7 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1527.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1526.2}$ |
-| $\color{green}\text{42  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1526.0}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1526.0}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1525.6}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
 | $\color{red}\text{45  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1525.3}$ |
@@ -95,14 +95,14 @@ python3 mvr.py
 | $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.4}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1500.3}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1498.7}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1497.2}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1496.5}$ |
+| $\color{green}\text{88  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1500.1}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1498.7}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1497.2}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1495.8}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1494.4}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
@@ -138,7 +138,7 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1475.0}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1474.6}$ |
-| $\color{red}\text{131 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1474.6}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1474.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1474.6}$ |
 | $\color{green}\text{133 }$ | $\color{green}\text{Land of Bad}$ | $\color{green}\text{1474.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1474.5}$ |
@@ -153,13 +153,13 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1467.0}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1463.2}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1463.2}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1462.9}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1462.8}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{65}$ | $\color{black}\text{1460.2}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1460.0}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1462.9}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1462.8}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1461.7}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1461.7}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{65}$ | $\color{black}\text{1460.2}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1460.0}$ |
+| $\color{red}\text{152 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1459.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1459.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1458.6}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1456.6}$ |
