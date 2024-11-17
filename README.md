@@ -36,11 +36,11 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1573.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{red}\text{31  }$ | $\color{red}\text{No Country for Old Men}$ | $\color{red}\text{1566.8}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{green}\text{33  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1564.3}$ |
+| $\color{green}\text{29  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1569.9}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
+| $\color{red}\text{32  }$ | $\color{red}\text{No Country for Old Men}$ | $\color{red}\text{1566.8}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.7}$ |
 | $\color{green}\text{35  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1562.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
@@ -54,12 +54,12 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
-| $\color{red}\text{48  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1542.8}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1541.6}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.8}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1541.6}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1540.0}$ |
+| $\color{red}\text{52  }$ | $\color{red}\text{Avatar}$ | $\color{red}\text{1539.8}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1539.7}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
@@ -77,7 +77,7 @@ python3 mvr.py
 | $\color{black}\text{67  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1521.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.2}$ |
-| $\color{green}\text{70  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1518.3}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1518.3}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
