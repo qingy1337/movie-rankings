@@ -119,33 +119,33 @@ python3 mvr.py
 | 109  | Star Trek: Picard    | 1486.2 |
 | 110  | Zero Dark Thirty     | 1486.1 |
 | 111  | The Matrix Revolutions | 1485.4 |
-| 112  | 65                   | 1484.8 |
-| 113  | The Matrix           | 1484.7 |
-| 114  | Road House           | 1484.7 |
-| 115  | Drunken Master       | 1484.7 |
-| 116  | School of Rock       | 1484.7 |
-| 117  | The Man in the Iron Mask | 1484.7 |
-| 118  | The Mist             | 1484.7 |
-| 119  | Rango                | 1484.0 |
-| 120  | The Mask of Zorro    | 1484.0 |
-| 121  | Avatar: The Last Airbender | 1484.0 |
-| 122  | The BFG              | 1484.0 |
-| 123  | Black Widow          | 1484.0 |
-| 124  | Mission Impossible 1 | 1484.0 |
-| 125  | GoldenEye            | 1484.0 |
-| 126  | G.I.Joe movie        | 1484.0 |
-| 127  | Skyfall              | 1484.0 |
-| 128  | Land of Bad          | 1484.0 |
-| 129  | A Quiet Place: Day One | 1484.0 |
-| 130  | Frequency            | 1484.0 |
-| 131  | The Curious Case of Benjamin Button | 1483.4 |
-| 132  | Red Eye              | 1483.3 |
-| 133  | The Maze Runner      | 1483.3 |
-| 134  | Independence Day     | 1483.3 |
-| 135  | All Quiet on The Western Front | 1482.6 |
-| 136  | Terminator           | 1482.6 |
-| 137  | A.I. Artificial Intelligence | 1482.3 |
-| 138  | Mission Impossible 2 | 1473.6 |
+| 112  | The Matrix           | 1484.7 |
+| 113  | Road House           | 1484.7 |
+| 114  | Drunken Master       | 1484.7 |
+| 115  | School of Rock       | 1484.7 |
+| 116  | The Man in the Iron Mask | 1484.7 |
+| 117  | The Mist             | 1484.7 |
+| 118  | Rango                | 1484.0 |
+| 119  | The Mask of Zorro    | 1484.0 |
+| 120  | Avatar: The Last Airbender | 1484.0 |
+| 121  | The BFG              | 1484.0 |
+| 122  | Black Widow          | 1484.0 |
+| 123  | Mission Impossible 1 | 1484.0 |
+| 124  | GoldenEye            | 1484.0 |
+| 125  | G.I.Joe movie        | 1484.0 |
+| 126  | Skyfall              | 1484.0 |
+| 127  | Land of Bad          | 1484.0 |
+| 128  | A Quiet Place: Day One | 1484.0 |
+| 129  | Frequency            | 1484.0 |
+| 130  | The Curious Case of Benjamin Button | 1483.4 |
+| 131  | Red Eye              | 1483.3 |
+| 132  | The Maze Runner      | 1483.3 |
+| 133  | Independence Day     | 1483.3 |
+| 134  | All Quiet on The Western Front | 1482.6 |
+| 135  | Terminator           | 1482.6 |
+| 136  | A.I. Artificial Intelligence | 1482.3 |
+| 137  | Mission Impossible 2 | 1473.6 |
+| 138  | The Matrix Reloaded  | 1472.2 |
 | 139  | Black Hawk Down      | 1470.9 |
 | 140  | A Boy Called Christmas | 1470.8 |
 | 141  | Total Recall         | 1470.8 |
@@ -168,10 +168,10 @@ python3 mvr.py
 | 158  | "Everything, everywhere, all at once" | 1468.1 |
 | 159  | Arrow                | 1468.0 |
 | 160  | Darkest Hour         | 1468.0 |
-| 161  | The Silence          | 1467.4 |
-| 162  | Awake                | 1455.6 |
-| 163  | American Sniper      | 1454.9 |
-| 164  | The Matrix Reloaded  | 1454.9 |
+| 161  | 65                   | 1467.4 |
+| 162  | The Silence          | 1467.4 |
+| 163  | Awake                | 1455.6 |
+| 164  | American Sniper      | 1454.9 |
 | 165  | War Horse            | 1454.7 |
 | 166  | Rampage              | 1454.2 |
 | 167  | The Battle at Lake Changjin | 1443.9 |
