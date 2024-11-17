@@ -128,7 +128,7 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.0}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
-| $\color{green}\text{121 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1473.4}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
 | $\color{green}\text{122 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1472.8}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{red}\text{124 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1468.1}$ |
@@ -140,12 +140,12 @@ python3 mvr.py
 | $\color{black}\text{130 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1462.1}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1460.7}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1459.3}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1459.3}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
+| $\color{red}\text{138 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1454.4}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
 | $\color{red}\text{140 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1452.7}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
@@ -153,8 +153,8 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1451.1}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.8}$ |
+| $\color{green}\text{146 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1450.1}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
@@ -166,7 +166,7 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1434.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.3}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1431.5}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1431.5}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
