@@ -38,12 +38,12 @@ python3 mvr.py
 | $\color{black}\text{28  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1534.1}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1532.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1531.8}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1530.5}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1530.3}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1529.6}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1529.3}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1528.9}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1528.1}$ |
+| $\color{green}\text{31  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1531.7}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1530.5}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1530.3}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1529.6}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1529.3}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1528.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1527.5}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1527.2}$ |
@@ -80,7 +80,7 @@ python3 mvr.py
 | $\color{black}\text{70  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1508.1}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1507.6}$ |
-| $\color{green}\text{73  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1507.3}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.3}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1506.5}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1506.1}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1504.5}$ |
@@ -104,15 +104,15 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1496.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1496.1}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1492.9}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1492.8}$ |
-| $\color{red}\text{100 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1492.5}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1491.7}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
-| $\color{red}\text{104 }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1490.6}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1492.9}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1492.8}$ |
+| $\color{red}\text{99  }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1492.5}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1491.7}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1490.6}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
+| $\color{red}\text{105 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1489.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1488.2}$ |
@@ -172,7 +172,7 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1452.8}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1452.4}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1451.9}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1451.9}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1450.4}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1448.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1448.5}$ |
