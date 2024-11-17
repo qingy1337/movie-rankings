@@ -28,18 +28,18 @@ python3 mvr.py
 | $\color{black}\text{18  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{green}\text{21  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1585.7}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1584.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
 | $\color{red}\text{24  }$ | $\color{red}\text{Source Code}$ | $\color{red}\text{1578.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1575.2}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1570.0}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
+| $\color{green}\text{28  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1571.6}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1570.0}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1567.2}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1565.8}$ |
@@ -110,7 +110,7 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{red}\text{103 }$ | $\color{red}\text{M3GAN}$ | $\color{red}\text{1479.0}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1477.2}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1475.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
@@ -137,11 +137,11 @@ python3 mvr.py
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1451.0}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1451.0}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1447.0}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1445.7}$ |
