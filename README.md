@@ -28,11 +28,11 @@ python3 mvr.py
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
+| $\color{green}\text{21  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1575.8}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
@@ -77,7 +77,7 @@ python3 mvr.py
 | $\color{black}\text{67  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1521.6}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
-| $\color{green}\text{70  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1517.9}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
@@ -129,12 +129,12 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
-| $\color{red}\text{122 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1459.6}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
+| $\color{red}\text{127 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1455.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1455.0}$ |
