@@ -8,8 +8,8 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| 1    | Wednesday            | 1656.3 |
-| 2    | Harry Potter         | 1652.0 |
+| 1    | Harry Potter         | 1661.8 |
+| 2    | Wednesday            | 1656.3 |
 | 3    | The Mandalorian      | 1641.0 |
 | 4    | Ant-Man              | 1635.9 |
 | 5    | Iron Man             | 1634.9 |
@@ -38,10 +38,10 @@ python3 mvr.py
 | 28   | Passengers           | 1580.5 |
 | 29   | A Quiet Place        | 1580.2 |
 | 30   | Scream V             | 1576.1 |
-| 31   | The Hunger Games     | 1574.9 |
-| 32   | X-Files              | 1574.3 |
-| 33   | Avatar 2             | 1574.0 |
-| 34   | X-Men                | 1573.6 |
+| 31   | X-Files              | 1574.3 |
+| 32   | Avatar 2             | 1574.0 |
+| 33   | X-Men                | 1573.6 |
+| 34   | The Hunger Games     | 1572.3 |
 | 35   | Lost in Space        | 1570.6 |
 | 36   | Catch Me If You Can  | 1567.5 |
 | 37   | Scream VI            | 1565.8 |
@@ -73,11 +73,11 @@ python3 mvr.py
 | 63   | Soul                 | 1526.4 |
 | 64   | The Terminal List    | 1526.0 |
 | 65   | Top Gun              | 1522.1 |
-| 66   | Zodiac               | 1521.3 |
-| 67   | Star Trek: Picard    | 1521.3 |
-| 68   | Iron Chef            | 1520.2 |
-| 69   | Jack Reacher         | 1519.6 |
-| 70   | Guy Ritchie’s The Covenant | 1519.2 |
+| 66   | Guy Ritchie’s The Covenant | 1521.8 |
+| 67   | Zodiac               | 1521.3 |
+| 68   | Star Trek: Picard    | 1521.3 |
+| 69   | Iron Chef            | 1520.2 |
+| 70   | Jack Reacher         | 1519.6 |
 | 71   | Rebel Ridge          | 1519.0 |
 | 72   | Thor                 | 1517.3 |
 | 73   | The Spy Next Door    | 1517.0 |
@@ -89,13 +89,13 @@ python3 mvr.py
 | 79   | Sweet Tooth          | 1514.1 |
 | 80   | Mission Impossible 3 | 1512.4 |
 | 81   | Bloodhounds          | 1512.1 |
-| 82   | Onward               | 1512.0 |
-| 83   | My Name              | 1509.4 |
-| 84   | Mission Impossible: Dead Reckoning P1 | 1507.0 |
-| 85   | Shawshank Redemption | 1506.9 |
-| 86   | Captain America: Civil War | 1504.8 |
-| 87   | Total Recall         | 1504.7 |
-| 88   | Dark Waters          | 1502.9 |
+| 82   | My Name              | 1509.4 |
+| 83   | Mission Impossible: Dead Reckoning P1 | 1507.0 |
+| 84   | Shawshank Redemption | 1506.9 |
+| 85   | Captain America: Civil War | 1504.8 |
+| 86   | Total Recall         | 1504.7 |
+| 87   | Dark Waters          | 1502.9 |
+| 88   | Onward               | 1502.2 |
 | 89   | Cars                 | 1501.4 |
 | 90   | Lord of the Rings    | 1497.9 |
 | 91   | Ip Man               | 1497.9 |
@@ -113,22 +113,22 @@ python3 mvr.py
 | 103  | Black Widow          | 1473.8 |
 | 104  | The Darkest Hour     | 1473.5 |
 | 105  | Johnny English       | 1470.8 |
-| 106  | The Matrix Revolutions | 1468.1 |
-| 107  | Rampage              | 1466.5 |
-| 108  | Exam                 | 1465.7 |
-| 109  | World War Z          | 1464.8 |
-| 110  | Drunken Master       | 1463.5 |
-| 111  | GoldenEye            | 1463.3 |
-| 112  | The Mist             | 1463.0 |
-| 113  | Zootopia             | 1462.9 |
-| 114  | Knight and Day       | 1460.5 |
-| 115  | Megan                | 1459.6 |
-| 116  | Peter the Rabbit     | 1458.7 |
-| 117  | The Ring 2           | 1457.9 |
-| 118  | Glass Castle         | 1457.4 |
-| 119  | Land of Bad          | 1456.6 |
-| 120  | Frequency            | 1455.9 |
-| 121  | Pompeii              | 1455.7 |
+| 106  | Pompeii              | 1470.4 |
+| 107  | The Matrix Revolutions | 1468.1 |
+| 108  | Rampage              | 1466.5 |
+| 109  | Exam                 | 1465.7 |
+| 110  | World War Z          | 1464.8 |
+| 111  | Drunken Master       | 1463.5 |
+| 112  | GoldenEye            | 1463.3 |
+| 113  | The Mist             | 1463.0 |
+| 114  | Zootopia             | 1462.9 |
+| 115  | Knight and Day       | 1460.5 |
+| 116  | Megan                | 1459.6 |
+| 117  | Peter the Rabbit     | 1458.7 |
+| 118  | The Ring 2           | 1457.9 |
+| 119  | Glass Castle         | 1457.4 |
+| 120  | Land of Bad          | 1456.6 |
+| 121  | Frequency            | 1455.9 |
 | 122  | Terminator           | 1455.5 |
 | 123  | When a Stranger Calls | 1454.2 |
 | 124  | Rango                | 1450.5 |
@@ -147,11 +147,11 @@ python3 mvr.py
 | 137  | Saving Private Ryan  | 1432.7 |
 | 138  | A.I. Artificial Intelligence | 1432.2 |
 | 139  | The Mask of Zorro    | 1430.5 |
-| 140  | Heidi                | 1429.3 |
-| 141  | Red Eye              | 1419.5 |
-| 142  | Horton hears a Who   | 1418.1 |
-| 143  | Journey 2: The Mysterious Island | 1417.9 |
-| 144  | G.I.Joe movie        | 1415.0 |
+| 140  | Red Eye              | 1419.5 |
+| 141  | Horton hears a Who   | 1418.1 |
+| 142  | Journey 2: The Mysterious Island | 1417.9 |
+| 143  | G.I.Joe movie        | 1415.0 |
+| 144  | Heidi                | 1414.5 |
 | 145  | The Matrix Reloaded  | 1413.2 |
 | 146  | Independence Day     | 1411.7 |
 | 147  | Crouching Tiger Hidden Dragon | 1411.0 |
