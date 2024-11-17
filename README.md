@@ -76,7 +76,7 @@ python3 mvr.py
 | $\color{black}\text{66  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1521.1}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1520.4}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
-| $\color{green}\text{69  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1517.2}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.2}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
@@ -141,13 +141,13 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{Red Eye}$ | $\color{red}\text{1447.5}$ |
+| $\color{green}\text{134 }$ | $\color{green}\text{Red Eye}$ | $\color{green}\text{1452.9}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1447.3}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
@@ -174,9 +174,9 @@ python3 mvr.py
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
 | $\color{red}\text{166 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1416.5}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1414.3}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.9}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1409.6}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.9}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1409.6}$ |
+| $\color{red}\text{171 }$ | $\color{red}\text{Shadow}$ | $\color{red}\text{1408.9}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1400.8}$ |
