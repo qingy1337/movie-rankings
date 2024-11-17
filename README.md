@@ -25,9 +25,9 @@ python3 mvr.py
 | $\color{green}\text{15  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1570.6}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.9}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1566.5}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1563.5}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1568.1}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1566.9}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1560.1}$ |
@@ -114,10 +114,10 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1484.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.3}$ |
-| $\color{green}\text{108 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1479.7}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
+| $\color{green}\text{107 }$ | $\color{green}\text{Drunken Master}$ | $\color{green}\text{1479.7}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
+| $\color{red}\text{110 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1477.7}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
@@ -163,7 +163,7 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1438.0}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
-| $\color{red}\text{156 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1433.2}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1433.2}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1433.1}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{65}$ | $\color{black}\text{1431.7}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
