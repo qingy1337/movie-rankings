@@ -92,14 +92,14 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1500.3}$ |
-| $\color{green}\text{85  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1498.3}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1498.3}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
+| $\color{green}\text{91  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1494.8}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
@@ -119,10 +119,10 @@ python3 mvr.py
 | $\color{red}\text{109 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1467.9}$ |
 | $\color{red}\text{110 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1467.6}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1465.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
-| $\color{red}\text{114 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1460.9}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
+| $\color{red}\text{113 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1460.9}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
+| $\color{red}\text{115 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1460.1}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1459.8}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1458.3}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{65}$ | $\color{red}\text{1412.6}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1406.7}$ |
