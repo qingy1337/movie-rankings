@@ -88,7 +88,7 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
-| $\color{green}\text{81  }$ | $\color{green}\text{Mission Impossible 3}$ | $\color{green}\text{1506.0}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1506.0}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
@@ -103,11 +103,11 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
 | $\color{green}\text{95  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1494.8}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1489.0}$ |
+| $\color{green}\text{96  }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1494.7}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
@@ -129,10 +129,10 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1473.5}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.8}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1471.3}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1465.6}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1463.6}$ |
@@ -152,7 +152,7 @@ python3 mvr.py
 | $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1451.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1450.1}$ |
-| $\color{red}\text{145 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1446.9}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{red}\text{147 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1446.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1442.5}$ |
