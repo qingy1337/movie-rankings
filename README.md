@@ -80,27 +80,27 @@ python3 mvr.py
 | 70   | Interstellar         | 1515.2 |
 | 71   | My Name              | 1514.8 |
 | 72   | Guy Ritchie’s The Covenant | 1514.2 |
-| 73   | Soul                 | 1514.2 |
-| 74   | Jack Reacher         | 1514.1 |
-| 75   | Zodiac               | 1513.9 |
-| 76   | The Ninth Gate       | 1513.2 |
-| 77   | Rebel Ridge          | 1512.6 |
-| 78   | Zootopia             | 1510.5 |
-| 79   | Titanic              | 1510.5 |
-| 80   | Replicas             | 1509.1 |
-| 81   | The Young and Prodigious T.S. Spivet | 1506.1 |
-| 82   | Red Eye              | 1502.8 |
-| 83   | Sweet Tooth          | 1502.7 |
-| 84   | School of Rock       | 1502.7 |
-| 85   | The Matrix           | 1502.7 |
-| 86   | Tenet                | 1501.4 |
-| 87   | Gladiator            | 1501.3 |
-| 88   | Ninja Turtles        | 1500.7 |
-| 89   | Avatar               | 1500.5 |
-| 90   | Ip Man               | 1500.2 |
-| 91   | GoldenEye            | 1500.1 |
-| 92   | Jack Reacher: Never Go Back | 1500.0 |
-| 93   | Star Wars            | 1500.0 |
+| 73   | Star Wars            | 1514.2 |
+| 74   | Soul                 | 1514.2 |
+| 75   | Jack Reacher         | 1514.1 |
+| 76   | Zodiac               | 1513.9 |
+| 77   | The Ninth Gate       | 1513.2 |
+| 78   | Rebel Ridge          | 1512.6 |
+| 79   | Zootopia             | 1510.5 |
+| 80   | Titanic              | 1510.5 |
+| 81   | Replicas             | 1509.1 |
+| 82   | The Young and Prodigious T.S. Spivet | 1506.1 |
+| 83   | Red Eye              | 1502.8 |
+| 84   | Sweet Tooth          | 1502.7 |
+| 85   | School of Rock       | 1502.7 |
+| 86   | The Matrix           | 1502.7 |
+| 87   | Tenet                | 1501.4 |
+| 88   | Gladiator            | 1501.3 |
+| 89   | Ninja Turtles        | 1500.7 |
+| 90   | Avatar               | 1500.5 |
+| 91   | Ip Man               | 1500.2 |
+| 92   | GoldenEye            | 1500.1 |
+| 93   | Jack Reacher: Never Go Back | 1500.0 |
 | 94   | Terminator           | 1499.3 |
 | 95   | Horton hears a Who   | 1499.1 |
 | 96   | The Curious Case of Benjamin Button | 1498.7 |
@@ -148,23 +148,23 @@ python3 mvr.py
 | 138  | John Wick            | 1467.8 |
 | 139  | 65                   | 1467.6 |
 | 140  | The Firm             | 1467.6 |
-| 141  | Total Recall         | 1461.3 |
-| 142  | American Sniper      | 1459.0 |
-| 143  | The Matrix Revolutions | 1457.8 |
-| 144  | Zero Dark Thirty     | 1457.6 |
-| 145  | Johnny English       | 1457.5 |
-| 146  | Frequency            | 1456.9 |
-| 147  | A Quiet Place: Day One | 1456.8 |
-| 148  | Cars 3               | 1456.1 |
-| 149  | Awake                | 1455.6 |
-| 150  | Peter the Rabbit     | 1455.0 |
-| 151  | The Silence          | 1454.9 |
-| 152  | All Quiet on The Western Front | 1454.9 |
-| 153  | Shadow               | 1454.8 |
-| 154  | Journey 2: The Mysterious Island | 1454.8 |
-| 155  | Spooky Buddies       | 1454.7 |
-| 156  | Stillwater           | 1454.4 |
-| 157  | Iron Chef            | 1453.1 |
+| 141  | American Sniper      | 1459.0 |
+| 142  | The Matrix Revolutions | 1457.8 |
+| 143  | Zero Dark Thirty     | 1457.6 |
+| 144  | Johnny English       | 1457.5 |
+| 145  | Frequency            | 1456.9 |
+| 146  | A Quiet Place: Day One | 1456.8 |
+| 147  | Cars 3               | 1456.1 |
+| 148  | Awake                | 1455.6 |
+| 149  | Peter the Rabbit     | 1455.0 |
+| 150  | The Silence          | 1454.9 |
+| 151  | All Quiet on The Western Front | 1454.9 |
+| 152  | Shadow               | 1454.8 |
+| 153  | Journey 2: The Mysterious Island | 1454.8 |
+| 154  | Spooky Buddies       | 1454.7 |
+| 155  | Stillwater           | 1454.4 |
+| 156  | Iron Chef            | 1453.1 |
+| 157  | Total Recall         | 1447.0 |
 | 158  | War Horse            | 1446.0 |
 | 159  | Black Hawk Down      | 1443.6 |
 | 160  | Arrow                | 1442.5 |
