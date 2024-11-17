@@ -29,11 +29,11 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1579.9}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1573.6}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1569.7}$ |
+| $\color{green}\text{22  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1573.4}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
@@ -42,7 +42,7 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
-| $\color{green}\text{35  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1557.3}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1557.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{green}\text{38  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1553.5}$ |
@@ -114,7 +114,7 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1476.1}$ |
-| $\color{red}\text{107 }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1475.7}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1475.7}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1428.2}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1426.9}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1423.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
