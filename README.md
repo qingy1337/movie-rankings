@@ -36,11 +36,11 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1562.5}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1559.5}$ |
+| $\color{green}\text{29  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1564.5}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1562.5}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{green}\text{34  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1558.7}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
@@ -92,12 +92,12 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1504.3}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1503.4}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1502.3}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.9}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.9}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
+| $\color{red}\text{90  }$ | $\color{red}\text{Locke and Key}$ | $\color{red}\text{1497.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.0}$ |
@@ -123,9 +123,9 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
-| $\color{green}\text{116 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1464.8}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1464.8}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
-| $\color{red}\text{118 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1464.3}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
