@@ -23,8 +23,8 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1578.1}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1577.7}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1572.0}$ |
+| $\color{green}\text{16  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1576.4}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
@@ -65,7 +65,7 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1527.2}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
-| $\color{green}\text{58  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1525.4}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1525.4}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1522.7}$ |
@@ -113,17 +113,17 @@ python3 mvr.py
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
 | $\color{red}\text{105 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1480.1}$ |
-| $\color{red}\text{106 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1480.0}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1477.9}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.7}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.6}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1480.0}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1477.4}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.7}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.6}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1475.6}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1475.6}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
+| $\color{red}\text{116 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1473.5}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1469.1}$ |
