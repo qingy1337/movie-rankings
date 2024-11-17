@@ -45,7 +45,7 @@ python3 mvr.py
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
-| $\color{green}\text{38  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1542.4}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1542.4}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1541.4}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1540.2}$ |
@@ -86,16 +86,16 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.4}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
-| $\color{red}\text{83  }$ | $\color{red}\text{A Haunting in Venice}$ | $\color{red}\text{1505.3}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.8}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1498.3}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
+| $\color{red}\text{82  }$ | $\color{red}\text{A Haunting in Venice}$ | $\color{red}\text{1505.3}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
+| $\color{green}\text{84  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1504.5}$ |
+| $\color{red}\text{85  }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1504.1}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.8}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
@@ -155,7 +155,7 @@ python3 mvr.py
 | $\color{black}\text{145 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1451.1}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.8}$ |
-| $\color{red}\text{148 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1442.5}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
