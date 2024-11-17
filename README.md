@@ -68,12 +68,12 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1521.2}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1515.5}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1514.6}$ |
+| $\color{green}\text{61  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1520.2}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
@@ -102,14 +102,14 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
-| $\color{green}\text{95  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1494.8}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1494.8}$ |
 | $\color{green}\text{96  }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1494.7}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{red}\text{102 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1484.6}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
@@ -154,7 +154,7 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1450.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
-| $\color{red}\text{147 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1446.3}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1442.5}$ |
 | $\color{green}\text{149 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1442.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
