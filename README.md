@@ -51,7 +51,7 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
 | $\color{green}\text{42  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1550.1}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
-| $\color{green}\text{44  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1546.2}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1546.2}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1545.0}$ |
@@ -108,7 +108,7 @@ python3 mvr.py
 | $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.5}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1481.0}$ |
+| $\color{red}\text{101 }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1480.8}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
 | $\color{red}\text{103 }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1479.3}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
@@ -119,7 +119,7 @@ python3 mvr.py
 | $\color{red}\text{109 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1474.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1472.0}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1471.2}$ |
+| $\color{green}\text{112 }$ | $\color{green}\text{The Mask}$ | $\color{green}\text{1471.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1468.8}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1464.8}$ |
