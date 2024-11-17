@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1569.1}$ |
-| $\color{green}\text{13  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1568.5}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.5}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1565.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
@@ -57,24 +57,24 @@ python3 mvr.py
 | $\color{black}\text{47  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1530.4}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1529.0}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1526.5}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
-| $\color{red}\text{55  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1521.8}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1526.5}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1524.3}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1523.6}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
+| $\color{red}\text{54  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1522.8}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
 | $\color{red}\text{56  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1521.7}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.3}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1515.5}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1514.6}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1514.1}$ |
+| $\color{green}\text{58  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1520.3}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.3}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1515.8}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1515.5}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1514.6}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1513.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1513.4}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1513.1}$ |
