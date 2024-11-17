@@ -43,7 +43,7 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1553.0}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1552.1}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1546.6}$ |
-| $\color{green}\text{36  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1545.2}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1545.2}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1544.7}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1543.7}$ |
@@ -119,16 +119,16 @@ python3 mvr.py
 | $\color{black}\text{109 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1479.4}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1478.6}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1477.3}$ |
-| $\color{red}\text{113 }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1476.5}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1475.5}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1475.3}$ |
-| $\color{green}\text{116 }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1475.1}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1474.4}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1474.2}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1470.7}$ |
+| $\color{green}\text{112 }$ | $\color{green}\text{Mission Impossible 1}$ | $\color{green}\text{1477.8}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1477.3}$ |
+| $\color{red}\text{114 }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1476.5}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1475.5}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1475.3}$ |
+| $\color{green}\text{117 }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1475.1}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1474.4}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1474.2}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1469.9}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1469.4}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1466.0}$ |
@@ -141,7 +141,7 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1458.2}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1457.8}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1457.7}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1457.7}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1455.5}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1455.2}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.3}$ |
@@ -162,13 +162,13 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1431.9}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1431.0}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1430.1}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1427.7}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1427.6}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1426.0}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1425.0}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1424.2}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1423.3}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{65}$ | $\color{black}\text{1427.7}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1427.6}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1426.0}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1425.0}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1424.2}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1423.3}$ |
+| $\color{red}\text{161 }$ | $\color{red}\text{Selfless}$ | $\color{red}\text{1423.0}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1422.8}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1421.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1417.2}$ |
