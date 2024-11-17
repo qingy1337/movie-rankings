@@ -16,7 +16,7 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1587.4}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{green}\text{9   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1586.3}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1586.3}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1584.4}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1584.2}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
@@ -33,7 +33,7 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1564.6}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1568.5}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1564.6}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
@@ -85,7 +85,7 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
-| $\color{red}\text{78  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1508.2}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1508.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1508.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1507.8}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
@@ -149,12 +149,12 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.6}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1439.9}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1438.3}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
-| $\color{red}\text{146 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1437.4}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1437.4}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
+| $\color{red}\text{147 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1434.4}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1433.9}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
