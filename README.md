@@ -34,7 +34,7 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1564.6}$ |
-| $\color{green}\text{27  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1564.6}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1564.6}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
@@ -121,9 +121,9 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.1}$ |
+| $\color{green}\text{114 }$ | $\color{green}\text{Rainman}$ | $\color{green}\text{1473.1}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
@@ -148,7 +148,7 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.6}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
-| $\color{red}\text{141 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1439.9}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1439.9}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1438.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
@@ -175,8 +175,8 @@ python3 mvr.py
 | $\color{black}\text{165 }$ | $\color{black}\text{65}$ | $\color{black}\text{1413.2}$ |
 | $\color{red}\text{166 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1410.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1409.5}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1408.3}$ |
+| $\color{red}\text{170 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1404.5}$ |
 | $\color{red}\text{171 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1401.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1397.2}$ |
