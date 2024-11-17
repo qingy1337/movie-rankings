@@ -26,11 +26,11 @@ python3 mvr.py
 | 16   | The Maze Runner      | 1585.2 |
 | 17   | X-Men                | 1584.2 |
 | 18   | Maleficent           | 1583.3 |
-| 19   | Inception            | 1582.6 |
-| 20   | Avengers: Age of Ultron | 1577.2 |
-| 21   | The Hobbit           | 1575.0 |
-| 22   | Avengers: Endgame    | 1573.7 |
-| 23   | Avatar 2             | 1571.6 |
+| 19   | Avatar 2             | 1583.1 |
+| 20   | Inception            | 1582.6 |
+| 21   | Avengers: Age of Ultron | 1577.2 |
+| 22   | The Hobbit           | 1575.0 |
+| 23   | Avengers: Endgame    | 1573.7 |
 | 24   | Locke and Key        | 1569.6 |
 | 25   | Doctor Strange       | 1568.2 |
 | 26   | Source Code          | 1568.2 |
@@ -88,22 +88,22 @@ python3 mvr.py
 | 78   | Jack Reacher         | 1508.0 |
 | 79   | The Man in the Iron Mask | 1506.5 |
 | 80   | Captain America: Civil War | 1504.8 |
-| 81   | The Ring             | 1504.3 |
-| 82   | Total Recall         | 1503.7 |
-| 83   | Top Gun: Maverick    | 1503.4 |
-| 84   | Rango                | 1502.5 |
-| 85   | A Haunting in Venice | 1501.3 |
-| 86   | Cars                 | 1501.0 |
-| 87   | Soul                 | 1500.7 |
-| 88   | Lord of the Rings    | 1498.9 |
-| 89   | Pompeii              | 1498.8 |
-| 90   | The Terminal List    | 1497.1 |
-| 91   | Zootopia             | 1495.5 |
-| 92   | Oppenheimer          | 1493.8 |
-| 93   | Dune                 | 1490.9 |
-| 94   | Gladiator            | 1487.2 |
-| 95   | Megan                | 1486.9 |
-| 96   | Glass Castle         | 1486.7 |
+| 81   | Total Recall         | 1503.7 |
+| 82   | Top Gun: Maverick    | 1503.4 |
+| 83   | Rango                | 1502.5 |
+| 84   | A Haunting in Venice | 1501.3 |
+| 85   | Cars                 | 1501.0 |
+| 86   | Soul                 | 1500.7 |
+| 87   | Lord of the Rings    | 1498.9 |
+| 88   | Pompeii              | 1498.8 |
+| 89   | The Terminal List    | 1497.1 |
+| 90   | Zootopia             | 1495.5 |
+| 91   | Oppenheimer          | 1493.8 |
+| 92   | Dune                 | 1490.9 |
+| 93   | Gladiator            | 1487.2 |
+| 94   | Megan                | 1486.9 |
+| 95   | Glass Castle         | 1486.7 |
+| 96   | The Ring             | 1485.5 |
 | 97   | Bloodhounds          | 1483.5 |
 | 98   | The Curious Case of Benjamin Button | 1481.1 |
 | 99   | Mission Impossible 2 | 1479.6 |
@@ -113,44 +113,44 @@ python3 mvr.py
 | 103  | The Mist             | 1475.6 |
 | 104  | The Matrix Revolutions | 1475.4 |
 | 105  | Exam                 | 1472.9 |
-| 106  | World War Z          | 1472.5 |
-| 107  | Saving Private Ryan  | 1472.5 |
-| 108  | Onward               | 1472.1 |
-| 109  | Knight and Day       | 1471.6 |
-| 110  | Red Eye              | 1471.5 |
-| 111  | The Mask             | 1471.5 |
-| 112  | Jack Reacher: Never Go Back | 1470.7 |
-| 113  | Land of Bad          | 1469.5 |
-| 114  | Heidi                | 1468.7 |
-| 115  | Black Widow          | 1466.7 |
-| 116  | Iron Chef            | 1465.8 |
-| 117  | Skyfall              | 1465.8 |
-| 118  | Ninja Turtles        | 1465.0 |
-| 119  | Red Notice           | 1463.7 |
-| 120  | GoldenEye            | 1463.3 |
-| 121  | The Mask of Zorro    | 1459.8 |
-| 122  | Drunken Master       | 1459.7 |
-| 123  | John Wick            | 1459.6 |
-| 124  | Road House           | 1457.7 |
-| 125  | Wrath of Man         | 1456.9 |
-| 126  | The Ring 2           | 1456.2 |
-| 127  | Peter the Rabbit     | 1455.9 |
-| 128  | G.I.Joe movie        | 1455.9 |
-| 129  | Terminator           | 1455.5 |
-| 130  | Unbreakable          | 1455.0 |
-| 131  | Horton hears a Who   | 1454.6 |
-| 132  | The Matrix Reloaded  | 1452.7 |
-| 133  | The Spy Next Door    | 1452.4 |
-| 134  | Frequency            | 1451.0 |
-| 135  | American Sniper      | 1450.3 |
-| 136  | Mission Impossible 1 | 1448.8 |
-| 137  | School of Rock       | 1447.9 |
-| 138  | Sweet Tooth          | 1446.2 |
-| 139  | The Silence          | 1445.4 |
-| 140  | Journey 2: The Mysterious Island | 1444.1 |
-| 141  | Cars 3               | 1442.7 |
-| 142  | Avatar: The Last Airbender | 1442.7 |
-| 143  | Johnny English       | 1442.4 |
+| 106  | Saving Private Ryan  | 1472.5 |
+| 107  | Onward               | 1472.1 |
+| 108  | Knight and Day       | 1471.6 |
+| 109  | Red Eye              | 1471.5 |
+| 110  | The Mask             | 1471.5 |
+| 111  | Jack Reacher: Never Go Back | 1470.7 |
+| 112  | Land of Bad          | 1469.5 |
+| 113  | Heidi                | 1468.7 |
+| 114  | Black Widow          | 1466.7 |
+| 115  | Iron Chef            | 1465.8 |
+| 116  | Skyfall              | 1465.8 |
+| 117  | Ninja Turtles        | 1465.0 |
+| 118  | Red Notice           | 1463.7 |
+| 119  | GoldenEye            | 1463.3 |
+| 120  | Johnny English       | 1461.2 |
+| 121  | World War Z          | 1461.0 |
+| 122  | The Mask of Zorro    | 1459.8 |
+| 123  | Drunken Master       | 1459.7 |
+| 124  | John Wick            | 1459.6 |
+| 125  | Road House           | 1457.7 |
+| 126  | Wrath of Man         | 1456.9 |
+| 127  | The Ring 2           | 1456.2 |
+| 128  | Peter the Rabbit     | 1455.9 |
+| 129  | G.I.Joe movie        | 1455.9 |
+| 130  | Terminator           | 1455.5 |
+| 131  | Unbreakable          | 1455.0 |
+| 132  | Horton hears a Who   | 1454.6 |
+| 133  | The Matrix Reloaded  | 1452.7 |
+| 134  | The Spy Next Door    | 1452.4 |
+| 135  | Frequency            | 1451.0 |
+| 136  | American Sniper      | 1450.3 |
+| 137  | Mission Impossible 1 | 1448.8 |
+| 138  | School of Rock       | 1447.9 |
+| 139  | Sweet Tooth          | 1446.2 |
+| 140  | The Silence          | 1445.4 |
+| 141  | Journey 2: The Mysterious Island | 1444.1 |
+| 142  | Cars 3               | 1442.7 |
+| 143  | Avatar: The Last Airbender | 1442.7 |
 | 144  | Independence Day     | 1442.2 |
 | 145  | Crouching Tiger Hidden Dragon | 1438.6 |
 | 146  | The Firm             | 1432.5 |
