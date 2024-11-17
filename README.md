@@ -26,9 +26,9 @@ python3 mvr.py
 | $\color{black}\text{16  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1572.0}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1570.2}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.0}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.0}$ |
+| $\color{red}\text{21  }$ | $\color{red}\text{No Country for Old Men}$ | $\color{red}\text{1562.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1559.5}$ |
 | $\color{green}\text{24  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1558.4}$ |
@@ -42,13 +42,13 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{green}\text{34  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1549.9}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
-| $\color{green}\text{41  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1542.6}$ |
+| $\color{green}\text{35  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1549.1}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
@@ -61,7 +61,7 @@ python3 mvr.py
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
-| $\color{green}\text{54  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1529.3}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1527.9}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.9}$ |
