@@ -21,7 +21,7 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1570.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1569.8}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{No Country for Old Men}$ | $\color{green}\text{1569.1}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1562.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1562.3}$ |
@@ -84,20 +84,20 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1510.9}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
-| $\color{green}\text{78  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1509.3}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1506.0}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1504.1}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
+| $\color{green}\text{77  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1509.6}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1509.4}$ |
+| $\color{green}\text{79  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1509.3}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1506.0}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
+| $\color{red}\text{90  }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1498.1}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
@@ -172,7 +172,7 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1428.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1426.4}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1426.4}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1425.8}$ |
 | $\color{red}\text{167 }$ | $\color{red}\text{AK-47 Kalashnikov}$ | $\color{red}\text{1425.5}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1425.2}$ |
