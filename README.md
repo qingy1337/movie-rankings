@@ -12,9 +12,9 @@ python3 mvr.py
 | $\color{green}\text{2   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1606.4}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1598.8}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.7}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1592.3}$ |
+| $\color{green}\text{5   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1595.7}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{green}\text{9   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1591.1}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
@@ -50,7 +50,7 @@ python3 mvr.py
 | $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1550.1}$ |
-| $\color{green}\text{43  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1549.7}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1549.7}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1547.9}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1545.5}$ |
@@ -150,9 +150,9 @@ python3 mvr.py
 | $\color{red}\text{140 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1438.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{green}\text{142 }$ | $\color{green}\text{G.I.Joe movie}$ | $\color{green}\text{1437.6}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.6}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
-| $\color{red}\text{145 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1431.4}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
+| $\color{red}\text{144 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1431.4}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1431.2}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1429.0}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1427.3}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1402.1}$ |
 | $\color{red}\text{170 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1399.5}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1387.0}$ |
+| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1387.0}$ |
