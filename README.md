@@ -33,10 +33,10 @@ python3 mvr.py
 | 23   | Locke and Key        | 1579.2 |
 | 24   | Life                 | 1578.9 |
 | 25   | The Ninth Gate       | 1578.5 |
-| 26   | X-Men                | 1575.3 |
-| 27   | The Maze Runner: The Death Cure | 1572.6 |
-| 28   | Vagabond             | 1570.7 |
-| 29   | Squid Game           | 1569.2 |
+| 26   | Squid Game           | 1576.9 |
+| 27   | X-Men                | 1575.3 |
+| 28   | The Maze Runner: The Death Cure | 1572.6 |
+| 29   | Vagabond             | 1570.7 |
 | 30   | Source Code          | 1568.2 |
 | 31   | A Quiet Place        | 1567.6 |
 | 32   | X-Files              | 1565.9 |
@@ -176,5 +176,5 @@ python3 mvr.py
 | 166  | Black Hawk Down      | 1376.9 |
 | 167  | Darkest Hour         | 1376.2 |
 | 168  | Shadow               | 1370.2 |
-| 169  | The Battle at Lake Changjin | 1370.0 |
+| 169  | The Battle at Lake Changjin | 1362.3 |
 | 170  | Spectral             | 1359.0 |
