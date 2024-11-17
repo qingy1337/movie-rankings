@@ -26,25 +26,25 @@ python3 mvr.py
 | 16   | X-Men                | 1584.2 |
 | 17   | Maleficent           | 1583.3 |
 | 18   | Black Panther        | 1582.9 |
-| 19   | Avengers: Age of Ultron | 1577.2 |
-| 20   | The Hobbit           | 1575.0 |
-| 21   | Avengers: Endgame    | 1573.7 |
-| 22   | Avatar 2             | 1571.6 |
-| 23   | Locke and Key        | 1569.6 |
-| 24   | Beut Mind            | 1568.5 |
+| 19   | Inception            | 1582.6 |
+| 20   | Avengers: Age of Ultron | 1577.2 |
+| 21   | The Hobbit           | 1575.0 |
+| 22   | Avengers: Endgame    | 1573.7 |
+| 23   | Avatar 2             | 1571.6 |
+| 24   | Locke and Key        | 1569.6 |
 | 25   | Doctor Strange       | 1568.2 |
 | 26   | Source Code          | 1568.2 |
 | 27   | The Ninth Gate       | 1567.9 |
-| 28   | Inception            | 1566.5 |
-| 29   | X-Files              | 1565.9 |
-| 30   | Halo                 | 1563.1 |
-| 31   | The Wild Robot       | 1562.8 |
-| 32   | Squid Game           | 1560.7 |
-| 33   | The Illusionist      | 1559.2 |
-| 34   | Vagabond             | 1558.2 |
-| 35   | The Maze Runner: The Death Cure | 1557.0 |
-| 36   | Scream VI            | 1554.1 |
-| 37   | The Avengers         | 1553.0 |
+| 28   | X-Files              | 1565.9 |
+| 29   | Halo                 | 1563.1 |
+| 30   | The Wild Robot       | 1562.8 |
+| 31   | Squid Game           | 1560.7 |
+| 32   | The Illusionist      | 1559.2 |
+| 33   | Vagabond             | 1558.2 |
+| 34   | The Maze Runner: The Death Cure | 1557.0 |
+| 35   | Scream VI            | 1554.1 |
+| 36   | The Avengers         | 1553.0 |
+| 37   | Beut Mind            | 1552.4 |
 | 38   | Rebel Ridge          | 1551.9 |
 | 39   | The Day After Tomorrow | 1549.3 |
 | 40   | Loki                 | 1547.8 |
@@ -155,14 +155,14 @@ python3 mvr.py
 | 145  | Crouching Tiger Hidden Dragon | 1438.6 |
 | 146  | The Firm             | 1432.5 |
 | 147  | The Last Samurai     | 1431.2 |
-| 148  | The BFG              | 1431.0 |
-| 149  | Selfless             | 1428.8 |
+| 148  | Zero Dark Thirty     | 1431.0 |
+| 149  | The BFG              | 1431.0 |
 | 150  | The Darkest Hour     | 1425.0 |
 | 151  | Stillwater           | 1424.4 |
 | 152  | 65                   | 1422.2 |
 | 153  | American Made        | 1418.9 |
-| 154  | Zero Dark Thirty     | 1414.4 |
-| 155  | A.I. Artificial Intelligence | 1412.5 |
+| 154  | A.I. Artificial Intelligence | 1412.5 |
+| 155  | Selfless             | 1412.1 |
 | 156  | Darkest Hour         | 1410.6 |
 | 157  | Awake                | 1409.8 |
 | 158  | AK-47 Kalashnikov    | 1409.5 |
