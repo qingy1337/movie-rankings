@@ -10,10 +10,10 @@ python3 mvr.py
 |------|------------------------|--------|
 | 1    | The Martian          | 1624.7 |
 | 2    | Lost in Space        | 1606.5 |
-| 3    | Pirates of the Caribbean | 1599.6 |
-| 4    | Wednesday            | 1599.3 |
-| 5    | The Mandalorian      | 1597.1 |
-| 6    | No Country for Old Men | 1596.3 |
+| 3    | No Country for Old Men | 1604.2 |
+| 4    | Pirates of the Caribbean | 1599.6 |
+| 5    | Wednesday            | 1599.3 |
+| 6    | The Mandalorian      | 1597.1 |
 | 7    | Star Wars            | 1594.9 |
 | 8    | Life of Pi           | 1593.8 |
 | 9    | Thirteen Lives       | 1592.7 |
@@ -171,9 +171,9 @@ python3 mvr.py
 | 161  | Zero Dark Thirty     | 1404.6 |
 | 162  | All Quiet on The Western Front | 1403.0 |
 | 163  | Jurassic World: Dominion | 1403.0 |
-| 164  | A Quiet Place: Day One | 1400.6 |
-| 165  | Spooky Buddies       | 1398.3 |
-| 166  | The Battle at Lake Changjin | 1393.3 |
+| 164  | Spooky Buddies       | 1398.3 |
+| 165  | The Battle at Lake Changjin | 1393.3 |
+| 166  | A Quiet Place: Day One | 1392.8 |
 | 167  | Black Hawk Down      | 1385.4 |
 | 168  | Everything, everywhere, all at once | 1384.7 |
 | 169  | Shadow               | 1380.7 |
