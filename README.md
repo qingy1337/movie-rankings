@@ -36,40 +36,40 @@ python3 mvr.py
 | 26   | X-Files              | 1565.9 |
 | 27   | Avengers: Age of Ultron | 1564.9 |
 | 28   | Squid Game           | 1560.7 |
-| 29   | The Maze Runner: The Death Cure | 1559.8 |
-| 30   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
-| 31   | Scream VI            | 1558.1 |
-| 32   | The Ninth Gate       | 1555.6 |
-| 33   | Doctor Strange       | 1555.5 |
-| 34   | Titanic              | 1549.3 |
-| 35   | Inception            | 1548.9 |
-| 36   | My Name              | 1548.0 |
-| 37   | The Wild Robot       | 1547.0 |
-| 38   | Tenet                | 1544.7 |
-| 39   | The Young and Prodigious T.S. Spivet | 1544.3 |
-| 40   | The Prestige         | 1544.1 |
-| 41   | Life                 | 1543.3 |
-| 42   | A Quiet Place        | 1543.3 |
-| 43   | The Illusionist      | 1542.4 |
+| 29   | Shang-Chi and the Legend of the Ten Rings | 1559.8 |
+| 30   | Scream VI            | 1558.1 |
+| 31   | The Ninth Gate       | 1555.6 |
+| 32   | Doctor Strange       | 1555.5 |
+| 33   | Titanic              | 1549.3 |
+| 34   | Inception            | 1548.9 |
+| 35   | My Name              | 1548.0 |
+| 36   | The Wild Robot       | 1547.0 |
+| 37   | Tenet                | 1544.7 |
+| 38   | The Young and Prodigious T.S. Spivet | 1544.3 |
+| 39   | The Prestige         | 1544.1 |
+| 40   | Life                 | 1543.3 |
+| 41   | A Quiet Place        | 1543.3 |
+| 42   | The Illusionist      | 1542.4 |
+| 43   | The Maze Runner: The Death Cure | 1542.0 |
 | 44   | Avengers: Infinity War | 1542.0 |
 | 45   | Catch Me If You Can  | 1541.9 |
-| 46   | Loki                 | 1536.1 |
-| 47   | Train to Busan       | 1535.6 |
-| 48   | Mission Impossible: Ghost Protocol | 1535.3 |
-| 49   | Avengers: Endgame    | 1535.0 |
-| 50   | Mission Impossible: Fallout | 1534.9 |
-| 51   | The Day After Tomorrow | 1534.3 |
-| 52   | Jack Ryan            | 1531.6 |
-| 53   | The Man Who Knew Infinity | 1530.9 |
-| 54   | The Hunger Games     | 1530.3 |
-| 55   | Mission Impossible 3 | 1528.8 |
-| 56   | Shawshank Redemption | 1528.4 |
-| 57   | Zodiac               | 1527.3 |
-| 58   | Rainman              | 1526.3 |
-| 59   | Replicas             | 1525.3 |
-| 60   | Rebel Ridge          | 1524.1 |
-| 61   | Vagabond             | 1523.2 |
-| 62   | The Avengers         | 1522.0 |
+| 46   | The Avengers         | 1539.7 |
+| 47   | Loki                 | 1536.1 |
+| 48   | Train to Busan       | 1535.6 |
+| 49   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 50   | Avengers: Endgame    | 1535.0 |
+| 51   | Mission Impossible: Fallout | 1534.9 |
+| 52   | The Day After Tomorrow | 1534.3 |
+| 53   | Jack Ryan            | 1531.6 |
+| 54   | The Man Who Knew Infinity | 1530.9 |
+| 55   | The Hunger Games     | 1530.3 |
+| 56   | Mission Impossible 3 | 1528.8 |
+| 57   | Shawshank Redemption | 1528.4 |
+| 58   | Zodiac               | 1527.3 |
+| 59   | Rainman              | 1526.3 |
+| 60   | Replicas             | 1525.3 |
+| 61   | Rebel Ridge          | 1524.1 |
+| 62   | Vagabond             | 1523.2 |
 | 63   | Star Trek: Picard    | 1521.3 |
 | 64   | The Tomorrow War     | 1519.7 |
 | 65   | Captain America: Civil War | 1519.7 |
