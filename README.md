@@ -13,7 +13,7 @@ python3 mvr.py
 | 3    | Passengers           | 1606.4 |
 | 4    | Star Wars            | 1594.9 |
 | 5    | Life of Pi           | 1593.8 |
-| 6    | Thirteen Lives       | 1592.6 |
+| 6    | Thirteen Lives       | 1592.7 |
 | 7    | Ant-Man              | 1592.2 |
 | 8    | Wednesday            | 1590.2 |
 | 9    | Sneaky Pete          | 1585.6 |
