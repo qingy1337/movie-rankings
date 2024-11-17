@@ -35,10 +35,10 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
-| $\color{green}\text{30  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1549.6}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1549.2}$ |
+| $\color{green}\text{28  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1550.6}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
+| $\color{green}\text{31  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1549.6}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1546.8}$ |
@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1544.7}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1544.5}$ |
+| $\color{red}\text{39  }$ | $\color{red}\text{Avengers: Age of Ultron}$ | $\color{red}\text{1543.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1538.4}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
@@ -167,7 +167,7 @@ python3 mvr.py
 | $\color{black}\text{157 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1434.9}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1434.2}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1431.5}$ |
-| $\color{red}\text{160 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1431.4}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1431.4}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1429.7}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1427.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1426.7}$ |
