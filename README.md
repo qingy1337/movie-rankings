@@ -36,7 +36,7 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1561.2}$ |
-| $\color{green}\text{29  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1561.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1560.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{green}\text{32  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1556.5}$ |
@@ -82,8 +82,8 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.0}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
+| $\color{red}\text{75  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1510.3}$ |
+| $\color{green}\text{76  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1510.3}$ |
 | $\color{green}\text{77  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1510.3}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
