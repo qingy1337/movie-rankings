@@ -84,13 +84,13 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1513.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.9}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.3}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
+| $\color{green}\text{77  }$ | $\color{green}\text{Mission Impossible: Rogue Nation}$ | $\color{green}\text{1507.9}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.3}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
@@ -131,7 +131,7 @@ python3 mvr.py
 | $\color{red}\text{121 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1457.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
-| $\color{green}\text{124 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1456.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
 | $\color{red}\text{126 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1456.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
@@ -163,10 +163,10 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{65}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1411.7}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1409.7}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
-| $\color{red}\text{158 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1406.7}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
+| $\color{red}\text{157 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1406.7}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
+| $\color{red}\text{159 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1405.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
 | $\color{red}\text{162 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1402.3}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1391.1}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1382.1}$ |
+| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1382.1}$ |
