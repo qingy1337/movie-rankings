@@ -17,15 +17,15 @@ python3 mvr.py
 | 7    | Black Panther        | 1608.4 |
 | 8    | Life of Pi           | 1606.7 |
 | 9    | Pirates of the Caribbean | 1606.6 |
-| 10   | Thirteen Lives       | 1605.2 |
-| 11   | Lost in Space        | 1605.2 |
-| 12   | Inception            | 1604.5 |
-| 13   | No Country for Old Men | 1601.7 |
-| 14   | Sneaky Pete          | 1596.8 |
-| 15   | The Maze Runner      | 1596.2 |
-| 16   | Maleficent           | 1594.4 |
-| 17   | Avengers: Endgame    | 1591.8 |
-| 18   | Squid Game           | 1591.3 |
+| 10   | Squid Game           | 1605.4 |
+| 11   | Thirteen Lives       | 1605.2 |
+| 12   | Lost in Space        | 1605.2 |
+| 13   | Inception            | 1604.5 |
+| 14   | No Country for Old Men | 1601.7 |
+| 15   | Sneaky Pete          | 1596.8 |
+| 16   | The Maze Runner      | 1596.2 |
+| 17   | Maleficent           | 1594.4 |
+| 18   | Avengers: Endgame    | 1591.8 |
 | 19   | Source Code          | 1589.2 |
 | 20   | The Hobbit           | 1588.8 |
 | 21   | Avengers: Age of Ultron | 1588.6 |
@@ -55,12 +55,12 @@ python3 mvr.py
 | 45   | Train to Busan       | 1552.4 |
 | 46   | Interstellar         | 1550.8 |
 | 47   | Beut Mind            | 1550.6 |
-| 48   | The Wild Robot       | 1549.6 |
-| 49   | The Tomorrow War     | 1548.5 |
+| 48   | The Tomorrow War     | 1548.5 |
+| 49   | Mission Impossible: Ghost Protocol | 1547.9 |
 | 50   | Replicas             | 1539.1 |
 | 51   | Scream V             | 1538.4 |
 | 52   | The Prestige         | 1538.4 |
-| 53   | Mission Impossible: Ghost Protocol | 1535.3 |
+| 53   | The Wild Robot       | 1535.6 |
 | 54   | Mission Impossible: Fallout | 1534.9 |
 | 55   | The Day After Tomorrow | 1533.6 |
 | 56   | A Haunting in Venice | 1532.4 |
@@ -115,33 +115,33 @@ python3 mvr.py
 | 105  | Knight and Day       | 1471.6 |
 | 106  | Glass Castle         | 1471.0 |
 | 107  | Johnny English       | 1470.8 |
-| 108  | Land of Bad          | 1469.5 |
-| 109  | The Ring             | 1469.2 |
-| 110  | When a Stranger Calls | 1468.8 |
-| 111  | The Curious Case of Benjamin Button | 1468.4 |
-| 112  | Mission Impossible 2 | 1468.3 |
-| 113  | School of Rock       | 1468.0 |
-| 114  | Mission Impossible 1 | 1467.9 |
-| 115  | Rampage              | 1466.5 |
-| 116  | World War Z          | 1464.8 |
-| 117  | Zootopia             | 1464.3 |
-| 118  | Rango                | 1464.0 |
-| 119  | GoldenEye            | 1463.3 |
-| 120  | The Matrix Revolutions | 1463.3 |
-| 121  | Road House           | 1461.8 |
-| 122  | The Man in the Iron Mask | 1461.7 |
-| 123  | The Mask             | 1461.3 |
-| 124  | The Mask of Zorro    | 1459.8 |
-| 125  | American Sniper      | 1459.8 |
+| 108  | Jack Reacher: Never Go Back | 1470.7 |
+| 109  | Land of Bad          | 1469.5 |
+| 110  | The Ring             | 1469.2 |
+| 111  | When a Stranger Calls | 1468.8 |
+| 112  | The Curious Case of Benjamin Button | 1468.4 |
+| 113  | Mission Impossible 2 | 1468.3 |
+| 114  | School of Rock       | 1468.0 |
+| 115  | Mission Impossible 1 | 1467.9 |
+| 116  | Rampage              | 1466.5 |
+| 117  | World War Z          | 1464.8 |
+| 118  | Zootopia             | 1464.3 |
+| 119  | Rango                | 1464.0 |
+| 120  | GoldenEye            | 1463.3 |
+| 121  | The Matrix Revolutions | 1463.3 |
+| 122  | Road House           | 1461.8 |
+| 123  | The Man in the Iron Mask | 1461.7 |
+| 124  | The Mask             | 1461.3 |
+| 125  | The Mask of Zorro    | 1459.8 |
 | 126  | Drunken Master       | 1459.7 |
 | 127  | John Wick            | 1459.6 |
-| 128  | Jack Reacher: Never Go Back | 1457.2 |
-| 129  | Peter the Rabbit     | 1455.9 |
-| 130  | G.I.Joe movie        | 1455.9 |
-| 131  | Terminator           | 1455.5 |
-| 132  | The Darkest Hour     | 1455.1 |
-| 133  | Unbreakable          | 1455.0 |
-| 134  | Red Eye              | 1450.5 |
+| 128  | Peter the Rabbit     | 1455.9 |
+| 129  | G.I.Joe movie        | 1455.9 |
+| 130  | Terminator           | 1455.5 |
+| 131  | The Darkest Hour     | 1455.1 |
+| 132  | Unbreakable          | 1455.0 |
+| 133  | Red Eye              | 1450.5 |
+| 134  | American Sniper      | 1447.2 |
 | 135  | Avatar: The Last Airbender | 1442.7 |
 | 136  | Frequency            | 1441.7 |
 | 137  | The Ring 2           | 1441.6 |
@@ -161,14 +161,14 @@ python3 mvr.py
 | 151  | Arrow                | 1410.6 |
 | 152  | Awake                | 1409.8 |
 | 153  | 65                   | 1403.9 |
-| 154  | Zero Dark Thirty     | 1403.3 |
-| 155  | Jurassic World: Dominion | 1403.0 |
-| 156  | Stillwater           | 1402.0 |
-| 157  | Everything, everywhere, all at once | 1401.1 |
-| 158  | AK-47 Kalashnikov    | 1399.4 |
-| 159  | War Horse            | 1394.0 |
-| 160  | The Firm             | 1392.9 |
-| 161  | A Quiet Place: Day One | 1392.8 |
+| 154  | Jurassic World: Dominion | 1403.0 |
+| 155  | Stillwater           | 1402.0 |
+| 156  | Everything, everywhere, all at once | 1401.1 |
+| 157  | AK-47 Kalashnikov    | 1399.4 |
+| 158  | War Horse            | 1394.0 |
+| 159  | The Firm             | 1392.9 |
+| 160  | A Quiet Place: Day One | 1392.8 |
+| 161  | Zero Dark Thirty     | 1389.7 |
 | 162  | Spooky Buddies       | 1388.6 |
 | 163  | Gravity              | 1383.4 |
 | 164  | Spectral             | 1380.0 |
