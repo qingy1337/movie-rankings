@@ -54,7 +54,7 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1537.7}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1534.2}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1534.1}$ |
-| $\color{green}\text{47  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1532.5}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1532.5}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1530.4}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
@@ -63,15 +63,15 @@ python3 mvr.py
 | $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1523.1}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1522.8}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1521.8}$ |
-| $\color{red}\text{56  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1521.2}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1519.8}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.3}$ |
+| $\color{green}\text{56  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1521.4}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1521.2}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1520.4}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1520.3}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1519.8}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1514.6}$ |
@@ -142,11 +142,11 @@ python3 mvr.py
 | $\color{black}\text{132 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1459.3}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
-| $\color{red}\text{138 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1454.4}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
+| $\color{red}\text{137 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1454.4}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
+| $\color{red}\text{139 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1453.5}$ |
 | $\color{red}\text{140 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1452.7}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
