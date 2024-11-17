@@ -25,10 +25,10 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1576.4}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.0}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1570.7}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1570.6}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
@@ -143,7 +143,7 @@ python3 mvr.py
 | $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.9}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
-| $\color{red}\text{136 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1451.7}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1448.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1448.3}$ |
@@ -156,7 +156,7 @@ python3 mvr.py
 | $\color{black}\text{146 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1442.7}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
-| $\color{green}\text{149 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1441.4}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.4}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1436.6}$ |
@@ -165,8 +165,8 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1427.3}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1426.9}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.7}$ |
+| $\color{red}\text{159 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1423.2}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{65}$ | $\color{black}\text{1422.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
