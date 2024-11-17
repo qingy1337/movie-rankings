@@ -78,7 +78,7 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1516.3}$ |
-| $\color{green}\text{71  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1516.1}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1516.0}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.7}$ |
@@ -103,9 +103,9 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1488.1}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1486.3}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
+| $\color{green}\text{96  }$ | $\color{green}\text{Frequency}$ | $\color{green}\text{1487.9}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
@@ -147,9 +147,9 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{red}\text{138 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1445.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{Avatar: The Last Airbender}$ | $\color{red}\text{1438.5}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1438.5}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.6}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1432.7}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1431.4}$ |
 | $\color{red}\text{145 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1431.2}$ |
