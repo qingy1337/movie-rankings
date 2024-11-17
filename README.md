@@ -22,7 +22,7 @@ python3 mvr.py
 | $\color{black}\text{12  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1546.1}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1545.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1544.0}$ |
-| $\color{green}\text{15  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1543.8}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1543.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1543.5}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1543.3}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1542.8}$ |
@@ -51,8 +51,8 @@ python3 mvr.py
 | $\color{green}\text{41  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1526.2}$ |
 | $\color{green}\text{42  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1526.0}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1525.6}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1525.5}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1525.5}$ |
+| $\color{red}\text{45  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1525.3}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1524.3}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.5}$ |
@@ -78,8 +78,8 @@ python3 mvr.py
 | $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1509.9}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1507.8}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1507.6}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1507.4}$ |
+| $\color{green}\text{71  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1507.6}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1507.6}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.3}$ |
 | $\color{green}\text{74  }$ | $\color{green}\text{Cars 2}$ | $\color{green}\text{1507.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1506.5}$ |
@@ -111,7 +111,7 @@ python3 mvr.py
 | $\color{green}\text{101 }$ | $\color{green}\text{World War Z}$ | $\color{green}\text{1491.6}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
-| $\color{red}\text{104 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1489.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1489.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1489.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
