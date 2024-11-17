@@ -18,9 +18,9 @@ python3 mvr.py
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{green}\text{9   }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1591.4}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1591.1}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
+| $\color{green}\text{11  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1591.0}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1590.1}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
@@ -35,7 +35,7 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1572.2}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
-| $\color{green}\text{28  }$ | $\color{green}\text{Vagabond}$ | $\color{green}\text{1568.7}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1567.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
@@ -76,7 +76,7 @@ python3 mvr.py
 | $\color{black}\text{66  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1524.0}$ |
 | $\color{green}\text{67  }$ | $\color{green}\text{A Haunting in Venice}$ | $\color{green}\text{1521.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.6}$ |
-| $\color{red}\text{69  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1519.2}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.2}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1517.3}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1516.1}$ |
@@ -122,11 +122,11 @@ python3 mvr.py
 | $\color{red}\text{112 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1468.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
-| $\color{red}\text{115 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1464.2}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1463.9}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
+| $\color{red}\text{119 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1460.3}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1459.5}$ |
