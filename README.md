@@ -39,7 +39,7 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1553.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1551.3}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
-| $\color{green}\text{32  }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1549.9}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{red}\text{35  }$ | $\color{red}\text{The Prestige}$ | $\color{red}\text{1548.6}$ |
@@ -65,10 +65,10 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1526.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.5}$ |
+| $\color{green}\text{58  }$ | $\color{green}\text{Mission Impossible: Rogue Nation}$ | $\color{green}\text{1523.6}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.0}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
@@ -101,7 +101,7 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
 | $\color{red}\text{93  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1494.9}$ |
-| $\color{red}\text{94  }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1492.9}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1490.6}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1489.4}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
@@ -129,13 +129,13 @@ python3 mvr.py
 | $\color{red}\text{119 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1471.4}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1470.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1468.5}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
-| $\color{red}\text{128 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1463.4}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1466.1}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1464.7}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.6}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.1}$ |
+| $\color{red}\text{127 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1463.4}$ |
+| $\color{red}\text{128 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1463.3}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
