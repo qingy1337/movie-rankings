@@ -33,9 +33,9 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.7}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
-| $\color{green}\text{28  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1564.7}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1569.7}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1568.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1563.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
@@ -86,12 +86,12 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1510.1}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1508.2}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1507.0}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{green}\text{82  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1505.2}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1504.3}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1504.3}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
+| $\color{red}\text{84  }$ | $\color{red}\text{Beut Mind}$ | $\color{red}\text{1502.0}$ |
 | $\color{green}\text{85  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1500.3}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1499.1}$ |
@@ -166,7 +166,7 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
 | $\color{red}\text{157 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1419.4}$ |
 | $\color{red}\text{158 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1418.8}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1416.9}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1416.9}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{red}\text{161 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1415.3}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
