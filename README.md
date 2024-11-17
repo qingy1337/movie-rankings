@@ -96,7 +96,7 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1500.0}$ |
-| $\color{red}\text{89  }$ | $\color{red}\text{Star Trek: Picard}$ | $\color{red}\text{1499.9}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
@@ -106,7 +106,7 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1494.7}$ |
 | $\color{green}\text{97  }$ | $\color{green}\text{Sweet Tooth}$ | $\color{green}\text{1493.3}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1492.4}$ |
+| $\color{red}\text{99  }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1485.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
 | $\color{red}\text{101 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1484.6}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
@@ -141,22 +141,22 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1462.1}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1454.4}$ |
-| $\color{red}\text{137 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1454.3}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.7}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1451.1}$ |
+| $\color{green}\text{134 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1457.9}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1454.4}$ |
+| $\color{red}\text{138 }$ | $\color{red}\text{American Sniper}$ | $\color{red}\text{1454.3}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.7}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1450.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1442.5}$ |
-| $\color{green}\text{149 }$ | $\color{green}\text{Avatar: The Last Airbender}$ | $\color{green}\text{1442.5}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1442.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1441.8}$ |
