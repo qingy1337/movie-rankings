@@ -29,13 +29,13 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1557.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1557.1}$ |
-| $\color{red}\text{22  }$ | $\color{red}\text{Maleficent}$ | $\color{red}\text{1557.1}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1557.1}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1555.8}$ |
 | $\color{green}\text{24  }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1555.1}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1552.2}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1550.0}$ |
+| $\color{green}\text{25  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1554.8}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1553.8}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1552.2}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1549.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1549.6}$ |
@@ -68,7 +68,7 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1517.2}$ |
-| $\color{green}\text{61  }$ | $\color{green}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{green}\text{1517.1}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1515.8}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1515.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1514.6}$ |
@@ -114,13 +114,13 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1484.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1483.4}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1483.1}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.0}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.0}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1481.7}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1481.3}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.7}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.4}$ |
+| $\color{red}\text{113 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1478.3}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
