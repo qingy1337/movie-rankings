@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1618.9}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1606.4}$ |
+| $\color{red}\text{2   }$ | $\color{red}\text{Wednesday}$ | $\color{red}\text{1605.6}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1598.8}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1595.7}$ |
@@ -28,7 +28,7 @@ python3 mvr.py
 | $\color{black}\text{18  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1583.3}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
-| $\color{green}\text{21  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1575.8}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1575.8}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1573.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1572.4}$ |
@@ -43,8 +43,8 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1558.7}$ |
+| $\color{green}\text{36  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1559.5}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1555.7}$ |
@@ -134,7 +134,7 @@ python3 mvr.py
 | $\color{black}\text{124 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1455.8}$ |
-| $\color{red}\text{127 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1455.5}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1455.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1455.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
 | $\color{green}\text{130 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1455.1}$ |
