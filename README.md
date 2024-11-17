@@ -88,13 +88,13 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1507.1}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.9}$ |
 | $\color{red}\text{80  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1506.7}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.5}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1504.1}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1500.8}$ |
+| $\color{green}\text{81  }$ | $\color{green}\text{Mission Impossible 3}$ | $\color{green}\text{1506.0}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1505.8}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.2}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1505.0}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.5}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1504.1}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1503.5}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1498.1}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
@@ -144,16 +144,16 @@ python3 mvr.py
 | $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
-| $\color{red}\text{137 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1454.4}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1454.4}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
 | $\color{red}\text{139 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1453.5}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1451.1}$ |
-| $\color{green}\text{146 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1450.1}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1451.1}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1450.1}$ |
+| $\color{red}\text{146 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1446.9}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
