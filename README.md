@@ -11,7 +11,7 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1610.9}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
-| $\color{green}\text{4   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1594.6}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1594.6}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1590.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1587.4}$ |
@@ -47,10 +47,10 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1552.5}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1551.1}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1544.3}$ |
+| $\color{green}\text{40  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1549.9}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{green}\text{44  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1542.6}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{green}\text{46  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1539.4}$ |
@@ -74,11 +74,11 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1521.7}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1519.4}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.6}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1513.7}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1513.7}$ |
+| $\color{red}\text{71  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1513.1}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.0}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
@@ -154,7 +154,7 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1438.6}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1438.3}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
-| $\color{red}\text{147 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1437.9}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1437.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.3}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1433.6}$ |
