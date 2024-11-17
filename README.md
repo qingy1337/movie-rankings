@@ -23,9 +23,9 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1597.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
-| $\color{green}\text{16  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1594.7}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
+| $\color{green}\text{16  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1594.8}$ |
+| $\color{green}\text{17  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1594.7}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1583.6}$ |
@@ -36,13 +36,13 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{red}\text{31  }$ | $\color{red}\text{The Menu}$ | $\color{red}\text{1570.0}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
-| $\color{green}\text{35  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1567.2}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{red}\text{30  }$ | $\color{red}\text{The Menu}$ | $\color{red}\text{1570.0}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1567.6}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1567.2}$ |
+| $\color{red}\text{35  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1565.8}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
@@ -91,7 +91,7 @@ python3 mvr.py
 | $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
-| $\color{green}\text{84  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1500.3}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1500.3}$ |
 | $\color{green}\text{85  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1498.3}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
@@ -132,7 +132,7 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1454.8}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1454.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
