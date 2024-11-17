@@ -41,7 +41,7 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{red}\text{34  }$ | $\color{red}\text{Scream V}$ | $\color{red}\text{1558.5}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
@@ -114,7 +114,7 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
-| $\color{green}\text{107 }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1476.1}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1476.1}$ |
 | $\color{red}\text{108 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1475.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
@@ -132,8 +132,8 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1462.0}$ |
 | $\color{green}\text{124 }$ | $\color{green}\text{Cars 3}$ | $\color{green}\text{1461.8}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.3}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{red}\text{126 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1460.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1459.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
@@ -146,7 +146,7 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1447.4}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.6}$ |
+| $\color{green}\text{139 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1445.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1444.1}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1439.9}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
