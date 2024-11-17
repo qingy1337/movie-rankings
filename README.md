@@ -14,7 +14,7 @@ python3 mvr.py
 | $\color{green}\text{4   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1651.2}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1644.2}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1641.4}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1641.0}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1641.0}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Life}$ | $\color{black}\text{1636.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1633.7}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1630.0}$ |
@@ -48,14 +48,14 @@ python3 mvr.py
 | $\color{black}\text{38  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1579.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1575.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1572.2}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1565.5}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1563.0}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1559.3}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1557.9}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1557.4}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1556.9}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1556.5}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1556.4}$ |
+| $\color{green}\text{41  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1569.1}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1565.5}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1563.0}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1559.3}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1557.9}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1557.4}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1556.9}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1556.5}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1554.8}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1554.6}$ |
@@ -104,13 +104,13 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1489.4}$ |
 | $\color{green}\text{95  }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1488.7}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1484.8}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1482.7}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1480.8}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1479.0}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1478.9}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1478.1}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1482.7}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1480.8}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1479.0}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1478.9}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1478.1}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1472.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1470.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1469.0}$ |
@@ -164,7 +164,7 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1379.5}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1378.6}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{65}$ | $\color{black}\text{1378.5}$ |
-| $\color{red}\text{157 }$ | $\color{red}\text{Selfless}$ | $\color{red}\text{1377.1}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1377.1}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1372.4}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1369.6}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1368.4}$ |
