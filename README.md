@@ -41,7 +41,7 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1563.7}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
-| $\color{green}\text{34  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1558.7}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
@@ -109,11 +109,11 @@ python3 mvr.py
 | $\color{black}\text{99  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.5}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1476.1}$ |
+| $\color{green}\text{102 }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1481.0}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.5}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
@@ -164,7 +164,7 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{red}\text{157 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1418.0}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1418.0}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1417.4}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1416.9}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
@@ -172,9 +172,9 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1412.1}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1411.1}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
+| $\color{red}\text{167 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1406.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1405.0}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
