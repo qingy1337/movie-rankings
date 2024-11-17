@@ -14,12 +14,12 @@ python3 mvr.py
 | 4    | Ant-Man              | 1635.9 |
 | 5    | Iron Man             | 1634.9 |
 | 6    | Black Panther        | 1628.9 |
-| 7    | Pirates of the Caribbean | 1625.8 |
-| 8    | Source Code          | 1619.5 |
-| 9    | The Martian          | 1617.4 |
-| 10   | Life of Pi           | 1616.6 |
-| 11   | Inception            | 1615.2 |
-| 12   | Vagabond             | 1606.7 |
+| 7    | Inception            | 1627.0 |
+| 8    | Pirates of the Caribbean | 1625.8 |
+| 9    | Vagabond             | 1620.2 |
+| 10   | Source Code          | 1619.5 |
+| 11   | The Martian          | 1617.4 |
+| 12   | Life of Pi           | 1616.6 |
 | 13   | Squid Game           | 1605.4 |
 | 14   | Maleficent           | 1605.3 |
 | 15   | Thirteen Lives       | 1605.2 |
@@ -55,16 +55,16 @@ python3 mvr.py
 | 45   | Catch Me If You Can  | 1556.5 |
 | 46   | The Day After Tomorrow | 1555.0 |
 | 47   | Tenet                | 1554.6 |
-| 48   | Halo                 | 1552.0 |
-| 49   | Interstellar         | 1550.8 |
-| 50   | Beut Mind            | 1550.6 |
-| 51   | The Tomorrow War     | 1548.5 |
-| 52   | A Haunting in Venice | 1548.4 |
-| 53   | Mission Impossible: Fallout | 1546.1 |
-| 54   | The Illusionist      | 1545.8 |
-| 55   | Jack Ryan            | 1544.5 |
-| 56   | Avatar               | 1541.9 |
-| 57   | Captain America: The Winter Soldier | 1539.8 |
+| 48   | Interstellar         | 1550.8 |
+| 49   | Beut Mind            | 1550.6 |
+| 50   | The Tomorrow War     | 1548.5 |
+| 51   | A Haunting in Venice | 1548.4 |
+| 52   | Mission Impossible: Fallout | 1546.1 |
+| 53   | The Illusionist      | 1545.8 |
+| 54   | Jack Ryan            | 1544.5 |
+| 55   | Avatar               | 1541.9 |
+| 56   | Captain America: The Winter Soldier | 1539.8 |
+| 57   | Halo                 | 1538.5 |
 | 58   | The Ninth Gate       | 1537.2 |
 | 59   | The Man Who Knew Infinity | 1535.9 |
 | 60   | Replicas             | 1535.3 |
@@ -73,20 +73,20 @@ python3 mvr.py
 | 63   | Soul                 | 1526.4 |
 | 64   | Mission Impossible: Dead Reckoning P1 | 1526.1 |
 | 65   | The Terminal List    | 1526.0 |
-| 66   | Top Gun              | 1522.1 |
-| 67   | Guy Ritchie’s The Covenant | 1521.8 |
-| 68   | Zodiac               | 1521.3 |
-| 69   | Star Trek: Picard    | 1521.3 |
-| 70   | Iron Chef            | 1520.2 |
-| 71   | Rebel Ridge          | 1519.0 |
-| 72   | Jack Reacher         | 1518.9 |
-| 73   | Thor                 | 1517.3 |
-| 74   | The Spy Next Door    | 1517.0 |
-| 75   | Titanic              | 1516.7 |
-| 76   | Top Gun: Maverick    | 1515.4 |
-| 77   | Gladiator            | 1514.8 |
-| 78   | A Boy Called Christmas | 1514.3 |
-| 79   | Mission Impossible 3 | 1512.4 |
+| 66   | Guy Ritchie’s The Covenant | 1521.8 |
+| 67   | Zodiac               | 1521.3 |
+| 68   | Star Trek: Picard    | 1521.3 |
+| 69   | Iron Chef            | 1520.2 |
+| 70   | Rebel Ridge          | 1519.0 |
+| 71   | Jack Reacher         | 1518.9 |
+| 72   | Thor                 | 1517.3 |
+| 73   | The Spy Next Door    | 1517.0 |
+| 74   | Titanic              | 1516.7 |
+| 75   | Top Gun: Maverick    | 1515.4 |
+| 76   | Gladiator            | 1514.8 |
+| 77   | A Boy Called Christmas | 1514.3 |
+| 78   | Mission Impossible 3 | 1512.4 |
+| 79   | Top Gun              | 1510.3 |
 | 80   | My Name              | 1509.4 |
 | 81   | Dune                 | 1508.1 |
 | 82   | Shawshank Redemption | 1506.9 |
