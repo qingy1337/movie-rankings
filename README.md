@@ -30,7 +30,7 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1567.0}$ |
 | $\color{red}\text{21  }$ | $\color{red}\text{No Country for Old Men}$ | $\color{red}\text{1562.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1562.6}$ |
-| $\color{green}\text{23  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1558.4}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
@@ -74,14 +74,14 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1515.3}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.2}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1512.0}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1511.2}$ |
+| $\color{green}\text{67  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1516.2}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1515.3}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1515.2}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1514.2}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.2}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1512.0}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1511.0}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1510.2}$ |
@@ -140,11 +140,11 @@ python3 mvr.py
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1457.5}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.5}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1452.4}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.5}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1452.4}$ |
+| $\color{red}\text{137 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1452.4}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1451.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1448.6}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1436.7}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1435.8}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1433.9}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1433.9}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1430.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1428.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1428.1}$ |
