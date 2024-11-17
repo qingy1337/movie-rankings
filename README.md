@@ -15,13 +15,13 @@ python3 mvr.py
 | $\color{black}\text{5   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1580.0}$ |
-| $\color{red}\text{8   }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1577.2}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1577.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1577.0}$ |
 | $\color{green}\text{10  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1576.5}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
-| $\color{red}\text{14  }$ | $\color{red}\text{Thirteen Lives}$ | $\color{red}\text{1569.6}$ |
+| $\color{red}\text{13  }$ | $\color{red}\text{Thirteen Lives}$ | $\color{red}\text{1573.6}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1562.8}$ |
@@ -71,7 +71,7 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1519.5}$ |
 | $\color{red}\text{63  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1518.5}$ |
-| $\color{green}\text{64  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1518.3}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1518.3}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1517.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1517.7}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.1}$ |
@@ -151,9 +151,9 @@ python3 mvr.py
 | $\color{black}\text{141 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1450.1}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
+| $\color{red}\text{146 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1446.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
 | $\color{red}\text{149 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1442.3}$ |
