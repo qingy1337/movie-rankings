@@ -10,7 +10,7 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1610.9}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1595.8}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1591.0}$ |
+| $\color{green}\text{3   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1595.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1590.3}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1588.1}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1587.4}$ |
@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.2}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1547.1}$ |
-| $\color{green}\text{39  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1546.5}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1546.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
 | $\color{green}\text{42  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1545.8}$ |
@@ -85,11 +85,11 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1512.8}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
-| $\color{red}\text{78  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1509.5}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1506.1}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{red}\text{81  }$ | $\color{red}\text{Soul}$ | $\color{red}\text{1505.3}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{red}\text{80  }$ | $\color{red}\text{Soul}$ | $\color{red}\text{1505.3}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1504.2}$ |
+| $\color{red}\text{82  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1501.6}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
