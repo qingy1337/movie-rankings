@@ -22,11 +22,11 @@ python3 mvr.py
 | 12   | Harry Potter         | 1530.5 |
 | 13   | Beut Mind            | 1529.8 |
 | 14   | Train to Busan       | 1529.2 |
-| 15   | X-Men                | 1516.7 |
-| 16   | The Maze Runner: The Death Cure | 1516.7 |
-| 17   | Iron Man             | 1516.7 |
-| 18   | Inception            | 1516.7 |
-| 19   | Top Gun              | 1516.7 |
+| 15   | Avengers: Endgame    | 1516.8 |
+| 16   | X-Men                | 1516.7 |
+| 17   | The Maze Runner: The Death Cure | 1516.7 |
+| 18   | Iron Man             | 1516.7 |
+| 19   | Inception            | 1516.7 |
 | 20   | Scream V             | 1516.0 |
 | 21   | Squid Game           | 1516.0 |
 | 22   | Unbreakable          | 1516.0 |
@@ -100,38 +100,38 @@ python3 mvr.py
 | 90   | Terminator           | 1500.0 |
 | 91   | The Man in the Iron Mask | 1500.0 |
 | 92   | Avengers: Infinity War | 1500.0 |
-| 93   | Avengers: Endgame    | 1500.0 |
-| 94   | Black Widow          | 1500.0 |
-| 95   | Captain America: Civil War | 1500.0 |
-| 96   | Captain America: The Winter Soldier | 1500.0 |
-| 97   | The Spy Next Door    | 1500.0 |
-| 98   | Star Wars            | 1500.0 |
-| 99   | Horton hears a Who   | 1500.0 |
-| 100  | The Firm             | 1500.0 |
-| 101  | The Mist             | 1500.0 |
-| 102  | Oppenheimer          | 1500.0 |
-| 103  | Avatar               | 1500.0 |
-| 104  | Thor                 | 1500.0 |
-| 105  | The Curious Case of Benjamin Button | 1500.0 |
-| 106  | Mission Impossible: Fallout | 1500.0 |
-| 107  | My Name              | 1500.0 |
-| 108  | Shadow               | 1500.0 |
-| 109  | GoldenEye            | 1500.0 |
-| 110  | Sweet Tooth          | 1500.0 |
-| 111  | X-Files              | 1500.0 |
-| 112  | The Darkest Hour     | 1500.0 |
-| 113  | Top Gun: Maverick    | 1500.0 |
-| 114  | A Quiet Place        | 1500.0 |
-| 115  | The Young and Prodigious T.S. Spivet | 1500.0 |
-| 116  | Soul                 | 1500.0 |
-| 117  | The Mandalorian      | 1500.0 |
+| 93   | Black Widow          | 1500.0 |
+| 94   | Captain America: The Winter Soldier | 1500.0 |
+| 95   | The Spy Next Door    | 1500.0 |
+| 96   | Star Wars            | 1500.0 |
+| 97   | Horton hears a Who   | 1500.0 |
+| 98   | The Firm             | 1500.0 |
+| 99   | The Mist             | 1500.0 |
+| 100  | Oppenheimer          | 1500.0 |
+| 101  | Avatar               | 1500.0 |
+| 102  | Thor                 | 1500.0 |
+| 103  | The Curious Case of Benjamin Button | 1500.0 |
+| 104  | Mission Impossible: Fallout | 1500.0 |
+| 105  | My Name              | 1500.0 |
+| 106  | Shadow               | 1500.0 |
+| 107  | GoldenEye            | 1500.0 |
+| 108  | Sweet Tooth          | 1500.0 |
+| 109  | X-Files              | 1500.0 |
+| 110  | The Darkest Hour     | 1500.0 |
+| 111  | Top Gun: Maverick    | 1500.0 |
+| 112  | A Quiet Place        | 1500.0 |
+| 113  | The Young and Prodigious T.S. Spivet | 1500.0 |
+| 114  | Soul                 | 1500.0 |
+| 115  | The Mandalorian      | 1500.0 |
+| 116  | Top Gun              | 1500.0 |
+| 117  | Captain America: Civil War | 1499.3 |
 | 118  | American Made        | 1499.3 |
 | 119  | Exam                 | 1499.3 |
 | 120  | Zodiac               | 1499.3 |
 | 121  | Onward               | 1499.3 |
-| 122  | Scream VI            | 1484.7 |
-| 123  | The Matrix Reloaded  | 1484.7 |
-| 124  | The Matrix Revolutions | 1484.7 |
+| 122  | The Matrix Revolutions | 1485.4 |
+| 123  | Scream VI            | 1484.7 |
+| 124  | The Matrix Reloaded  | 1484.7 |
 | 125  | Road House           | 1484.7 |
 | 126  | Black Hawk Down      | 1484.7 |
 | 127  | Zero Dark Thirty     | 1484.7 |
