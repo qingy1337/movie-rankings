@@ -12,13 +12,13 @@ python3 mvr.py
 | 2    | Lost in Space        | 1597.2 |
 | 3    | Ant-Man              | 1595.2 |
 | 4    | Star Wars            | 1594.9 |
-| 5    | Thirteen Lives       | 1592.6 |
-| 6    | Wednesday            | 1590.2 |
-| 7    | No Country for Old Men | 1585.5 |
-| 8    | Pirates of the Caribbean | 1585.5 |
-| 9    | The Maze Runner      | 1585.2 |
-| 10   | X-Men                | 1584.2 |
-| 11   | Life of Pi           | 1583.7 |
+| 5    | Life of Pi           | 1593.8 |
+| 6    | Thirteen Lives       | 1592.6 |
+| 7    | Wednesday            | 1590.2 |
+| 8    | No Country for Old Men | 1585.5 |
+| 9    | Pirates of the Caribbean | 1585.5 |
+| 10   | The Maze Runner      | 1585.2 |
+| 11   | X-Men                | 1584.2 |
 | 12   | Harry Potter         | 1583.2 |
 | 13   | Passengers           | 1583.0 |
 | 14   | Black Panther        | 1582.9 |
@@ -107,29 +107,29 @@ python3 mvr.py
 | 97   | Top Gun              | 1485.3 |
 | 98   | Land of Bad          | 1485.0 |
 | 99   | Bloodhounds          | 1483.5 |
-| 100  | Pompeii              | 1483.4 |
-| 101  | The Curious Case of Benjamin Button | 1483.0 |
-| 102  | Frequency            | 1482.2 |
-| 103  | G.I.Joe movie        | 1481.9 |
-| 104  | Iron Chef            | 1481.6 |
-| 105  | A Boy Called Christmas | 1479.3 |
-| 106  | When a Stranger Calls | 1477.8 |
-| 107  | School of Rock       | 1474.9 |
-| 108  | The Mist             | 1474.3 |
-| 109  | Peter the Rabbit     | 1472.7 |
-| 110  | World War Z          | 1472.5 |
-| 111  | Saving Private Ryan  | 1472.5 |
-| 112  | The Matrix Reloaded  | 1472.2 |
-| 113  | Onward               | 1472.1 |
-| 114  | Knight and Day       | 1471.6 |
-| 115  | The Mask             | 1471.5 |
-| 116  | Red Eye              | 1471.2 |
-| 117  | The BFG              | 1471.1 |
-| 118  | The Ring 2           | 1470.9 |
-| 119  | Horton hears a Who   | 1470.0 |
-| 120  | Heidi                | 1468.7 |
-| 121  | Avatar: The Last Airbender | 1468.7 |
-| 122  | Jack Reacher: Never Go Back | 1468.7 |
+| 100  | Jack Reacher: Never Go Back | 1483.5 |
+| 101  | Pompeii              | 1483.4 |
+| 102  | The Curious Case of Benjamin Button | 1483.0 |
+| 103  | Frequency            | 1482.2 |
+| 104  | G.I.Joe movie        | 1481.9 |
+| 105  | Iron Chef            | 1481.6 |
+| 106  | A Boy Called Christmas | 1479.3 |
+| 107  | When a Stranger Calls | 1477.8 |
+| 108  | School of Rock       | 1474.9 |
+| 109  | The Mist             | 1474.3 |
+| 110  | Peter the Rabbit     | 1472.7 |
+| 111  | World War Z          | 1472.5 |
+| 112  | Saving Private Ryan  | 1472.5 |
+| 113  | The Matrix Reloaded  | 1472.2 |
+| 114  | Onward               | 1472.1 |
+| 115  | Knight and Day       | 1471.6 |
+| 116  | The Mask             | 1471.5 |
+| 117  | Red Eye              | 1471.2 |
+| 118  | The BFG              | 1471.1 |
+| 119  | The Ring 2           | 1470.9 |
+| 120  | Horton hears a Who   | 1470.0 |
+| 121  | Heidi                | 1468.7 |
+| 122  | Avatar: The Last Airbender | 1468.7 |
 | 123  | Skyfall              | 1468.7 |
 | 124  | The Spy Next Door    | 1465.6 |
 | 125  | Ninja Turtles        | 1465.0 |
@@ -148,18 +148,18 @@ python3 mvr.py
 | 138  | Unbreakable          | 1455.0 |
 | 139  | John Wick            | 1454.8 |
 | 140  | Journey 2: The Mysterious Island | 1454.8 |
-| 141  | A.I. Artificial Intelligence | 1450.8 |
-| 142  | The Silence          | 1445.4 |
-| 143  | Cars 3               | 1442.7 |
-| 144  | Johnny English       | 1442.4 |
-| 145  | Independence Day     | 1442.2 |
-| 146  | The Firm             | 1441.8 |
-| 147  | Stillwater           | 1441.3 |
-| 148  | Selfless             | 1440.5 |
-| 149  | Crouching Tiger Hidden Dragon | 1438.6 |
-| 150  | American Made        | 1432.4 |
-| 151  | American Sniper      | 1432.0 |
-| 152  | 65                   | 1431.0 |
+| 141  | The Silence          | 1445.4 |
+| 142  | Cars 3               | 1442.7 |
+| 143  | Johnny English       | 1442.4 |
+| 144  | Independence Day     | 1442.2 |
+| 145  | The Firm             | 1441.8 |
+| 146  | A.I. Artificial Intelligence | 1440.7 |
+| 147  | Selfless             | 1440.5 |
+| 148  | Crouching Tiger Hidden Dragon | 1438.6 |
+| 149  | American Made        | 1432.4 |
+| 150  | American Sniper      | 1432.0 |
+| 151  | 65                   | 1431.0 |
+| 152  | Stillwater           | 1426.5 |
 | 153  | The Darkest Hour     | 1425.0 |
 | 154  | The Last Samurai     | 1425.0 |
 | 155  | Awake                | 1421.0 |
