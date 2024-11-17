@@ -44,9 +44,9 @@ python3 mvr.py
 | $\color{black}\text{34  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1557.1}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1556.0}$ |
+| $\color{green}\text{37  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1560.9}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1557.1}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1552.9}$ |
@@ -96,10 +96,10 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1495.9}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1494.4}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.6}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1494.4}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.6}$ |
+| $\color{red}\text{92  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1490.9}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.8}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1488.8}$ |
@@ -166,13 +166,13 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1412.1}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1411.7}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
-| $\color{green}\text{159 }$ | $\color{green}\text{The Mask of Zorro}$ | $\color{green}\text{1406.3}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1405.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1399.4}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1399.4}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1394.5}$ |
