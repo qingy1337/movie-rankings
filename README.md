@@ -14,7 +14,7 @@ python3 mvr.py
 | $\color{green}\text{4   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1591.0}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1590.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1588.1}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1587.0}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1587.0}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1583.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1582.4}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1582.2}$ |
@@ -36,7 +36,7 @@ python3 mvr.py
 | $\color{green}\text{26  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1559.6}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1559.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{red}\text{29  }$ | $\color{red}\text{Source Code}$ | $\color{red}\text{1557.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1556.5}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1556.1}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1555.4}$ |
@@ -54,10 +54,10 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1538.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{red}\text{47  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1537.1}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
+| $\color{green}\text{47  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1538.1}$ |
+| $\color{red}\text{48  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1537.1}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1536.0}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1535.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
@@ -169,9 +169,9 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1423.1}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{65}$ | $\color{black}\text{1422.8}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1421.5}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
-| $\color{red}\text{163 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1419.4}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
+| $\color{red}\text{162 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1419.4}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
+| $\color{red}\text{164 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1415.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1411.8}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
