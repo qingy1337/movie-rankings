@@ -73,22 +73,22 @@ python3 mvr.py
 | 63   | The Illusionist      | 1514.6 |
 | 64   | The Maze Runner: The Scorch Trials | 1514.5 |
 | 65   | Jack Reacher         | 1514.1 |
-| 66   | The Avengers         | 1511.8 |
-| 67   | Iron Chef            | 1501.6 |
-| 68   | The Terminal List    | 1501.5 |
-| 69   | Knight and Day       | 1501.4 |
-| 70   | John Wick            | 1501.4 |
-| 71   | A Quiet Place        | 1500.8 |
-| 72   | Avatar 2             | 1500.7 |
-| 73   | Gladiator            | 1500.7 |
-| 74   | Mission Impossible 3 | 1500.7 |
-| 75   | Ninja Turtles        | 1500.7 |
-| 76   | Unbreakable          | 1500.6 |
-| 77   | My Name              | 1500.1 |
-| 78   | Selfless             | 1500.0 |
-| 79   | Cars 2               | 1500.0 |
-| 80   | Wrath of Man         | 1500.0 |
-| 81   | The Maze Runner      | 1500.0 |
+| 66   | Gladiator            | 1514.0 |
+| 67   | The Avengers         | 1511.8 |
+| 68   | Iron Chef            | 1501.6 |
+| 69   | The Terminal List    | 1501.5 |
+| 70   | Knight and Day       | 1501.4 |
+| 71   | John Wick            | 1501.4 |
+| 72   | A Quiet Place        | 1500.8 |
+| 73   | Avatar 2             | 1500.7 |
+| 74   | Avatar               | 1500.7 |
+| 75   | Mission Impossible 3 | 1500.7 |
+| 76   | Ninja Turtles        | 1500.7 |
+| 77   | Unbreakable          | 1500.6 |
+| 78   | My Name              | 1500.1 |
+| 79   | Selfless             | 1500.0 |
+| 80   | Cars 2               | 1500.0 |
+| 81   | Wrath of Man         | 1500.0 |
 | 82   | The Hunger Games     | 1500.0 |
 | 83   | Jack Reacher: Never Go Back | 1500.0 |
 | 84   | Life                 | 1500.0 |
@@ -131,16 +131,16 @@ python3 mvr.py
 | 121  | Avatar: The Last Airbender | 1484.0 |
 | 122  | The BFG              | 1484.0 |
 | 123  | Black Widow          | 1484.0 |
-| 124  | Avatar               | 1484.0 |
-| 125  | Mission Impossible 1 | 1484.0 |
-| 126  | GoldenEye            | 1484.0 |
-| 127  | G.I.Joe movie        | 1484.0 |
-| 128  | Skyfall              | 1484.0 |
-| 129  | Land of Bad          | 1484.0 |
-| 130  | A Quiet Place: Day One | 1484.0 |
-| 131  | Frequency            | 1484.0 |
-| 132  | The Curious Case of Benjamin Button | 1483.4 |
-| 133  | Red Eye              | 1483.3 |
+| 124  | Mission Impossible 1 | 1484.0 |
+| 125  | GoldenEye            | 1484.0 |
+| 126  | G.I.Joe movie        | 1484.0 |
+| 127  | Skyfall              | 1484.0 |
+| 128  | Land of Bad          | 1484.0 |
+| 129  | A Quiet Place: Day One | 1484.0 |
+| 130  | Frequency            | 1484.0 |
+| 131  | The Curious Case of Benjamin Button | 1483.4 |
+| 132  | Red Eye              | 1483.3 |
+| 133  | The Maze Runner      | 1483.3 |
 | 134  | Independence Day     | 1483.3 |
 | 135  | All Quiet on The Western Front | 1482.6 |
 | 136  | Terminator           | 1482.6 |
@@ -175,6 +175,6 @@ python3 mvr.py
 | 165  | War Horse            | 1454.7 |
 | 166  | Rampage              | 1454.2 |
 | 167  | The Battle at Lake Changjin | 1443.9 |
-| 168  | Gravity              | 1441.7 |
-| 169  | Spectral             | 1430.1 |
+| 168  | Spectral             | 1430.1 |
+| 169  | Gravity              | 1428.3 |
 | 170  | AK-47 Kalashnikov    | 1428.3 |
