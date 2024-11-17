@@ -23,10 +23,10 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1591.3}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1587.3}$ |
+| $\color{green}\text{16  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1591.7}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1591.3}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1589.1}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1583.6}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
@@ -63,7 +63,7 @@ python3 mvr.py
 | $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1539.4}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{green}\text{56  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1537.3}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1537.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.4}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
@@ -99,11 +99,11 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1494.9}$ |
 | $\color{green}\text{90  }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1494.2}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1490.9}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
+| $\color{red}\text{96  }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1486.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1483.4}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1482.3}$ |
@@ -115,7 +115,7 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1475.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.4}$ |
-| $\color{red}\text{108 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1472.2}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1472.2}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{red}\text{111 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1465.7}$ |
