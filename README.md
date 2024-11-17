@@ -19,13 +19,13 @@ python3 mvr.py
 | 9    | Thirteen Lives       | 1592.7 |
 | 10   | Ant-Man              | 1592.2 |
 | 11   | Passengers           | 1589.2 |
-| 12   | Sneaky Pete          | 1585.6 |
-| 13   | The Maze Runner      | 1585.2 |
-| 14   | X-Men                | 1584.2 |
-| 15   | Maleficent           | 1583.3 |
-| 16   | Harry Potter         | 1583.2 |
-| 17   | Iron Man             | 1580.6 |
-| 18   | Black Panther        | 1576.9 |
+| 12   | Black Panther        | 1586.2 |
+| 13   | Sneaky Pete          | 1585.6 |
+| 14   | The Maze Runner      | 1585.2 |
+| 15   | X-Men                | 1584.2 |
+| 16   | Maleficent           | 1583.3 |
+| 17   | Harry Potter         | 1583.2 |
+| 18   | Iron Man             | 1580.6 |
 | 19   | Beut Mind            | 1576.0 |
 | 20   | The Hobbit           | 1575.0 |
 | 21   | Avatar 2             | 1571.6 |
@@ -160,11 +160,11 @@ python3 mvr.py
 | 150  | The BFG              | 1431.0 |
 | 151  | Stillwater           | 1426.5 |
 | 152  | The Darkest Hour     | 1425.0 |
-| 153  | A.I. Artificial Intelligence | 1421.8 |
-| 154  | Awake                | 1421.0 |
-| 155  | War Horse            | 1419.9 |
-| 156  | American Made        | 1418.9 |
-| 157  | Arrow                | 1415.3 |
+| 153  | Awake                | 1421.0 |
+| 154  | War Horse            | 1419.9 |
+| 155  | American Made        | 1418.9 |
+| 156  | Arrow                | 1415.3 |
+| 157  | A.I. Artificial Intelligence | 1412.5 |
 | 158  | Darkest Hour         | 1410.6 |
 | 159  | AK-47 Kalashnikov    | 1409.5 |
 | 160  | Gravity              | 1405.9 |
