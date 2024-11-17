@@ -41,7 +41,7 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{green}\text{34  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1561.6}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1558.7}$ |
@@ -90,10 +90,10 @@ python3 mvr.py
 | $\color{black}\text{80  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1507.4}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1505.2}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1500.3}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1500.0}$ |
+| $\color{green}\text{83  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1504.4}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1503.5}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1502.0}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1500.3}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1497.9}$ |
@@ -155,7 +155,7 @@ python3 mvr.py
 | $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1429.0}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1428.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1427.3}$ |
-| $\color{red}\text{148 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1427.3}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1425.1}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
@@ -173,9 +173,9 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
 | $\color{red}\text{165 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1408.1}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.5}$ |
-| $\color{black}\text{167 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
+| $\color{red}\text{168 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1402.1}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1399.0}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
