@@ -41,11 +41,11 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1562.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1559.5}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1554.9}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1558.7}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1558.6}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1558.5}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1557.7}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1554.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1552.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.9}$ |
@@ -56,7 +56,7 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{green}\text{49  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1538.7}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1538.7}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{green}\text{51  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1536.3}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1535.3}$ |
@@ -162,10 +162,10 @@ python3 mvr.py
 | $\color{red}\text{152 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1424.9}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1423.2}$ |
 | $\color{red}\text{154 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1423.0}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1421.8}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{red}\text{158 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1417.4}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1419.4}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
+| $\color{red}\text{157 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1418.0}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1417.4}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1416.9}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{65}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1415.3}$ |
