@@ -9,7 +9,7 @@ python3 mvr.py
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
 | $\color{red}\text{1   }$ | $\color{red}\text{Harry Potter}$ | $\color{red}\text{1626.7}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1616.5}$ |
+| $\color{green}\text{2   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1620.5}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1604.9}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
@@ -42,7 +42,7 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1567.5}$ |
 | $\color{green}\text{33  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1567.1}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{green}\text{35  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1563.3}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1561.6}$ |
 | $\color{red}\text{37  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1560.4}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
@@ -94,9 +94,9 @@ python3 mvr.py
 | $\color{black}\text{84  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1503.0}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1501.6}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1500.3}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1498.4}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
+| $\color{red}\text{89  }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1494.4}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1493.6}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.8}$ |
@@ -111,7 +111,7 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1479.6}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1479.4}$ |
-| $\color{red}\text{104 }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1479.1}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1476.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1475.8}$ |
