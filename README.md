@@ -67,10 +67,10 @@ python3 mvr.py
 | $\color{green}\text{57  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1523.9}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1523.8}$ |
 | $\color{green}\text{59  }$ | $\color{green}\text{Mission Impossible: Rogue Nation}$ | $\color{green}\text{1523.6}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1517.0}$ |
+| $\color{green}\text{60  }$ | $\color{green}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{green}\text{1522.7}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1521.2}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1520.0}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.9}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1516.8}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1515.9}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.8}$ |
@@ -96,11 +96,11 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1499.6}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.5}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.9}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1497.4}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.3}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.3}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.9}$ |
+| $\color{red}\text{93  }$ | $\color{red}\text{Mission Impossible 3}$ | $\color{red}\text{1493.8}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1492.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1489.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.7}$ |
@@ -126,7 +126,7 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1472.4}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1472.0}$ |
-| $\color{red}\text{119 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1471.4}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1471.4}$ |
 | $\color{red}\text{120 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1469.1}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
