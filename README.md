@@ -107,7 +107,7 @@ python3 mvr.py
 | $\color{black}\text{97  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1490.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1490.0}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1489.5}$ |
-| $\color{green}\text{100 }$ | $\color{green}\text{The Ring}$ | $\color{green}\text{1489.0}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1489.0}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1487.2}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1485.4}$ |
@@ -140,19 +140,19 @@ python3 mvr.py
 | $\color{black}\text{130 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1462.7}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1462.1}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1461.7}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1459.3}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1455.3}$ |
+| $\color{green}\text{133 }$ | $\color{green}\text{Journey 2: The Mysterious Island}$ | $\color{green}\text{1460.7}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1459.3}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1458.9}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.5}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1457.3}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1453.6}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1452.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1452.0}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1451.6}$ |
-| $\color{red}\text{145 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1451.1}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1451.1}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.8}$ |
 | $\color{red}\text{148 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1442.5}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1422.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1421.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1416.7}$ |
-| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1415.5}$ |
+| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1410.2}$ |
