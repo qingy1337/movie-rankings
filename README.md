@@ -11,7 +11,7 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1626.7}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1624.2}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1613.1}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1604.9}$ |
+| $\color{green}\text{4   }$ | $\color{green}\text{The Mandalorian}$ | $\color{green}\text{1608.5}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1600.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1598.9}$ |
@@ -68,7 +68,7 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1533.7}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1532.3}$ |
-| $\color{green}\text{61  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1531.0}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1531.0}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1528.2}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
@@ -117,18 +117,18 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1470.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1469.5}$ |
-| $\color{red}\text{110 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1468.4}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1468.4}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1464.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1464.4}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1463.3}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.2}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1461.8}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1461.3}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1461.3}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1460.9}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.3}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1460.0}$ |
+| $\color{red}\text{121 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1458.2}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1457.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
