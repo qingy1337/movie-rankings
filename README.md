@@ -103,20 +103,20 @@ python3 mvr.py
 | 93   | Pompeii              | 1497.4 |
 | 94   | The Curious Case of Benjamin Button | 1496.9 |
 | 95   | Soul                 | 1496.5 |
-| 96   | The Man in the Iron Mask | 1489.1 |
-| 97   | Sweet Tooth          | 1489.1 |
-| 98   | Gladiator            | 1487.2 |
-| 99   | A Boy Called Christmas | 1486.9 |
-| 100  | Total Recall         | 1486.7 |
-| 101  | Ninja Turtles        | 1485.5 |
-| 102  | Mission Impossible 3 | 1485.3 |
-| 103  | Selfless             | 1484.6 |
-| 104  | Cars 2               | 1484.0 |
-| 105  | The Mask of Zorro    | 1484.0 |
-| 106  | Skyfall              | 1484.0 |
-| 107  | The Ring 2           | 1483.7 |
-| 108  | Bloodhounds          | 1483.5 |
-| 109  | G.I.Joe movie        | 1483.3 |
+| 96   | G.I.Joe movie        | 1496.5 |
+| 97   | The Man in the Iron Mask | 1489.1 |
+| 98   | Sweet Tooth          | 1489.1 |
+| 99   | Gladiator            | 1487.2 |
+| 100  | A Boy Called Christmas | 1486.9 |
+| 101  | Total Recall         | 1486.7 |
+| 102  | Ninja Turtles        | 1485.5 |
+| 103  | Mission Impossible 3 | 1485.3 |
+| 104  | Selfless             | 1484.6 |
+| 105  | Cars 2               | 1484.0 |
+| 106  | The Mask of Zorro    | 1484.0 |
+| 107  | Skyfall              | 1484.0 |
+| 108  | The Ring 2           | 1483.7 |
+| 109  | Bloodhounds          | 1483.5 |
 | 110  | A.I. Artificial Intelligence | 1479.1 |
 | 111  | The Spy Next Door    | 1478.6 |
 | 112  | Mission Impossible: Rogue Nation | 1478.1 |
@@ -174,7 +174,7 @@ python3 mvr.py
 | 164  | Jurassic World: Dominion | 1427.5 |
 | 165  | Arrow                | 1427.0 |
 | 166  | A Quiet Place: Day One | 1423.4 |
-| 167  | Black Hawk Down      | 1421.0 |
-| 168  | The Battle at Lake Changjin | 1415.1 |
+| 167  | The Battle at Lake Changjin | 1415.1 |
+| 168  | Black Hawk Down      | 1407.8 |
 | 169  | AK-47 Kalashnikov    | 1406.4 |
 | 170  | Gravity              | 1405.9 |
