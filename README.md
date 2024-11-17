@@ -36,11 +36,11 @@ python3 mvr.py
 | $\color{black}\text{26  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1571.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1568.7}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1562.8}$ |
+| $\color{green}\text{29  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1567.7}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.5}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1563.4}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1561.0}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1558.7}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1558.7}$ |
@@ -67,7 +67,7 @@ python3 mvr.py
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1530.7}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
-| $\color{green}\text{60  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1529.3}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1528.4}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
@@ -99,7 +99,7 @@ python3 mvr.py
 | $\color{red}\text{89  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1497.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.0}$ |
+| $\color{red}\text{92  }$ | $\color{red}\text{Shawshank Redemption}$ | $\color{red}\text{1489.2}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1488.7}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1488.1}$ |
@@ -116,7 +116,7 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
-| $\color{red}\text{109 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1474.5}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1474.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1472.0}$ |
 | $\color{green}\text{112 }$ | $\color{green}\text{The Mask}$ | $\color{green}\text{1471.3}$ |
