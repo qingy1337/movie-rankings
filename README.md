@@ -25,9 +25,9 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1586.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1586.3}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1582.1}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1586.6}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1586.3}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1583.8}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1576.6}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1575.5}$ |
 | $\color{green}\text{23  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1574.8}$ |
@@ -41,7 +41,7 @@ python3 mvr.py
 | $\color{red}\text{31  }$ | $\color{red}\text{No Country for Old Men}$ | $\color{red}\text{1566.8}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1564.5}$ |
 | $\color{green}\text{33  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1564.3}$ |
-| $\color{green}\text{34  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1563.7}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.7}$ |
 | $\color{green}\text{35  }$ | $\color{green}\text{Train to Busan}$ | $\color{green}\text{1562.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1561.6}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1560.8}$ |
@@ -98,10 +98,10 @@ python3 mvr.py
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1495.0}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1492.0}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1491.3}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1489.2}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
+| $\color{red}\text{94  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1487.5}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1485.0}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1484.3}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1484.2}$ |
@@ -174,7 +174,7 @@ python3 mvr.py
 | $\color{black}\text{164 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1399.5}$ |
-| $\color{red}\text{167 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1398.7}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1398.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1397.8}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1396.7}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1395.9}$ |
