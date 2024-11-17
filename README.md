@@ -43,21 +43,21 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1550.9}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1549.9}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1549.0}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1543.1}$ |
+| $\color{green}\text{36  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1548.9}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1548.6}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1548.0}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1546.3}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1546.0}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1543.8}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1541.0}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1540.4}$ |
 | $\color{green}\text{45  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1538.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1536.7}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1535.1}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1535.1}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1534.0}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.8}$ |
+| $\color{red}\text{50  }$ | $\color{red}\text{Scream VI}$ | $\color{red}\text{1530.8}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1530.5}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1529.7}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
@@ -138,7 +138,7 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1463.1}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1462.1}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1460.8}$ |
-| $\color{green}\text{131 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1458.9}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
@@ -175,7 +175,7 @@ python3 mvr.py
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1419.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1417.2}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1414.3}$ |
-| $\color{red}\text{168 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1412.9}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.9}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1409.6}$ |
