@@ -14,7 +14,7 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1598.8}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1596.1}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.8}$ |
+| $\color{red}\text{7   }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1594.7}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
@@ -22,7 +22,7 @@ python3 mvr.py
 | $\color{black}\text{12  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1586.5}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1586.1}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1584.4}$ |
+| $\color{green}\text{15  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1584.5}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1580.9}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1580.6}$ |
@@ -56,7 +56,7 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
-| $\color{green}\text{49  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1539.2}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1539.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1536.1}$ |
@@ -173,7 +173,7 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.2}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1410.7}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
-| $\color{red}\text{166 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1408.2}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1408.2}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1405.0}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1404.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1404.0}$ |
