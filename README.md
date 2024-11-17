@@ -62,7 +62,7 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.6}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
-| $\color{green}\text{55  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1531.2}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1527.1}$ |
@@ -108,8 +108,8 @@ python3 mvr.py
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1486.0}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1483.2}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
+| $\color{green}\text{101 }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1482.5}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1476.8}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
@@ -151,11 +151,11 @@ python3 mvr.py
 | $\color{black}\text{141 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1438.1}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1437.9}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.4}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1437.1}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1434.8}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
+| $\color{red}\text{148 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1432.1}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.1}$ |
 | $\color{red}\text{150 }$ | $\color{red}\text{Everything, everywhere, all at once}$ | $\color{red}\text{1429.9}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1429.1}$ |
