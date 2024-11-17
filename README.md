@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1610.9}$ |
+| $\color{green}\text{1   }$ | $\color{green}\text{Harry Potter}$ | $\color{green}\text{1615.4}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1594.8}$ |
@@ -71,13 +71,13 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1526.2}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1525.7}$ |
-| $\color{green}\text{64  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1524.6}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1524.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1523.6}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1522.3}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.8}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.4}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.4}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
+| $\color{red}\text{70  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1515.3}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1514.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1513.7}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1511.9}$ |
@@ -93,14 +93,14 @@ python3 mvr.py
 | $\color{red}\text{83  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1503.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.2}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
-| $\color{green}\text{87  }$ | $\color{green}\text{Glass Castle}$ | $\color{green}\text{1498.5}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
-| $\color{red}\text{89  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1495.0}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.1}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1493.1}$ |
+| $\color{green}\text{86  }$ | $\color{green}\text{The Ring 2}$ | $\color{green}\text{1498.9}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1498.7}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.5}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
+| $\color{red}\text{90  }$ | $\color{red}\text{The Day After Tomorrow}$ | $\color{red}\text{1495.0}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1494.6}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1494.2}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.1}$ |
 | $\color{green}\text{94  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1492.0}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1491.4}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1490.4}$ |
@@ -109,22 +109,22 @@ python3 mvr.py
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1486.0}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1483.2}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1480.4}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1478.8}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1477.2}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{108 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1475.4}$ |
+| $\color{red}\text{110 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1475.1}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1474.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1473.4}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.3}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1471.2}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1468.9}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1467.7}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{Rainman}$ | $\color{red}\text{1467.4}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1467.4}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1465.9}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1464.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1464.3}$ |
@@ -155,7 +155,7 @@ python3 mvr.py
 | $\color{black}\text{145 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1437.4}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1434.4}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1433.9}$ |
-| $\color{red}\text{148 }$ | $\color{red}\text{All Quiet on The Western Front}$ | $\color{red}\text{1432.7}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1432.7}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1432.1}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1431.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1430.3}$ |
