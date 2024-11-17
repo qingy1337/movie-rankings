@@ -17,15 +17,15 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1599.7}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1599.2}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1597.0}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1596.0}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1599.4}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1599.2}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1597.5}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1597.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1594.7}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1593.4}$ |
+| $\color{red}\text{18  }$ | $\color{red}\text{Life}$ | $\color{red}\text{1590.0}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.1}$ |
-| $\color{green}\text{39  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1557.8}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1557.8}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1556.5}$ |
@@ -171,7 +171,7 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
-| $\color{red}\text{164 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1400.9}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1400.9}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
