@@ -16,7 +16,7 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1633.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1629.7}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1628.9}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1627.2}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1627.2}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1627.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1625.8}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1624.9}$ |
@@ -65,18 +65,18 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1538.5}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1535.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1535.7}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1535.3}$ |
-| $\color{green}\text{59  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1534.0}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1533.1}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1529.8}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1528.6}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1528.2}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1526.1}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1526.0}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1522.0}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1521.8}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1521.3}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1521.3}$ |
+| $\color{green}\text{58  }$ | $\color{green}\text{Star Trek: Picard}$ | $\color{green}\text{1535.7}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1535.3}$ |
+| $\color{green}\text{60  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1534.0}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1533.1}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1529.8}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1528.6}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1528.2}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1526.1}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1526.0}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1522.0}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1521.8}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1521.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1520.2}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1517.3}$ |
@@ -102,17 +102,17 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1495.3}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1490.1}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1488.1}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.3}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1484.3}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1480.8}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1479.4}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1477.0}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1476.6}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1476.1}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1475.7}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.8}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1473.5}$ |
+| $\color{red}\text{95  }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1484.3}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1480.8}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1479.4}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1477.7}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1477.0}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1476.6}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1476.1}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1475.7}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1473.8}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1473.5}$ |
+| $\color{red}\text{105 }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1471.9}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1470.4}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1465.2}$ |
