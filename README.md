@@ -62,7 +62,7 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1531.1}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1530.1}$ |
-| $\color{green}\text{55  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1530.0}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1529.8}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1529.3}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1529.1}$ |
@@ -86,10 +86,10 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1509.5}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1507.0}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1505.3}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1502.7}$ |
+| $\color{green}\text{79  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1508.0}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1507.0}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.5}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1505.3}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.5}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1499.9}$ |
@@ -134,15 +134,15 @@ python3 mvr.py
 | $\color{black}\text{124 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1463.5}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1459.2}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1458.9}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1454.0}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1453.8}$ |
-| $\color{red}\text{135 }$ | $\color{red}\text{When a Stranger Calls}$ | $\color{red}\text{1453.8}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1458.5}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1454.0}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1453.8}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1453.8}$ |
+| $\color{red}\text{135 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1453.7}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.7}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1449.7}$ |
