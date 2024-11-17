@@ -70,16 +70,16 @@ python3 mvr.py
 | $\color{black}\text{60  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1526.5}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1526.2}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1525.9}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1522.3}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1520.9}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1520.0}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.8}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1519.4}$ |
+| $\color{green}\text{63  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1523.6}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1522.3}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1521.4}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1520.9}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1520.0}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.8}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1517.4}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1514.9}$ |
-| $\color{green}\text{72  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1513.7}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1513.7}$ |
 | $\color{green}\text{73  }$ | $\color{green}\text{The Spy Next Door}$ | $\color{green}\text{1511.9}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1511.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
@@ -107,7 +107,7 @@ python3 mvr.py
 | $\color{black}\text{97  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1487.8}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1487.5}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1486.2}$ |
-| $\color{red}\text{100 }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1486.0}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1486.0}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1484.0}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1482.7}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1480.9}$ |
@@ -171,9 +171,9 @@ python3 mvr.py
 | $\color{black}\text{161 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1416.5}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1415.9}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1415.5}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1414.9}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{65}$ | $\color{black}\text{1413.2}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1414.3}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{65}$ | $\color{black}\text{1413.2}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1410.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1409.9}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1409.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1408.9}$ |
