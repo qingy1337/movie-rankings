@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.5}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1574.9}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1574.4}$ |
-| $\color{green}\text{13  }$ | $\color{green}\text{Thirteen Lives}$ | $\color{green}\text{1573.6}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1573.6}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1570.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1569.1}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1568.2}$ |
@@ -106,28 +106,28 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1495.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1493.1}$ |
 | $\color{red}\text{98  }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1487.7}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.3}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1480.3}$ |
+| $\color{green}\text{99  }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1486.3}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1485.7}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1485.4}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1484.6}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1484.4}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1484.0}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1482.3}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1480.3}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1478.8}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1478.4}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1474.7}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1473.3}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1478.3}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1478.3}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1477.8}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1476.7}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1476.5}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1476.2}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1475.7}$ |
+| $\color{red}\text{116 }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1474.7}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.4}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1473.3}$ |
+| $\color{red}\text{120 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1472.4}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1470.5}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.9}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1468.1}$ |
@@ -153,7 +153,7 @@ python3 mvr.py
 | $\color{red}\text{143 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1450.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1446.9}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1446.3}$ |
-| $\color{red}\text{146 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1446.1}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1446.1}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1442.5}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1442.3}$ |
