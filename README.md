@@ -25,7 +25,7 @@ python3 mvr.py
 | $\color{green}\text{15  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1572.4}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1571.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1570.2}$ |
-| $\color{green}\text{18  }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1569.9}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1569.9}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1568.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1568.4}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1567.7}$ |
@@ -75,17 +75,17 @@ python3 mvr.py
 | $\color{black}\text{65  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1519.9}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.2}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1519.1}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1519.0}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1517.8}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1517.7}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.1}$ |
-| $\color{green}\text{73  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1515.7}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.9}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1512.5}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1511.8}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1510.6}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1510.4}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1519.0}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1517.8}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1517.7}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1517.1}$ |
+| $\color{green}\text{72  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1515.7}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1512.9}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1512.5}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1511.8}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1510.6}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1510.4}$ |
+| $\color{red}\text{78  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1509.9}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1508.7}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1507.8}$ |
 | $\color{red}\text{81  }$ | $\color{red}\text{Top Gun: Maverick}$ | $\color{red}\text{1507.7}$ |
@@ -109,7 +109,7 @@ python3 mvr.py
 | $\color{black}\text{99  }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1485.1}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1484.6}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1484.4}$ |
-| $\color{red}\text{102 }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1483.6}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1483.6}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1483.5}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1483.5}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1482.7}$ |
@@ -123,15 +123,15 @@ python3 mvr.py
 | $\color{red}\text{113 }$ | $\color{red}\text{Dark Waters}$ | $\color{red}\text{1476.5}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1475.5}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1475.3}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1474.7}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1474.4}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1474.2}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1470.7}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1469.9}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1469.4}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1466.0}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1465.9}$ |
+| $\color{green}\text{116 }$ | $\color{green}\text{Red Notice}$ | $\color{green}\text{1475.1}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1474.7}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1474.4}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1474.2}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1472.9}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1470.7}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1469.9}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1469.4}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1465.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1464.2}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1462.7}$ |
