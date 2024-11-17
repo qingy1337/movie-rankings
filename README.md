@@ -55,7 +55,7 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1522.7}$ |
 | $\color{green}\text{46  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1522.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1522.5}$ |
-| $\color{red}\text{48  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1521.5}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1521.5}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1520.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1519.9}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1519.6}$ |
@@ -100,7 +100,7 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1498.8}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1497.9}$ |
-| $\color{green}\text{93  }$ | $\color{green}\text{Oppenheimer}$ | $\color{green}\text{1497.2}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1497.2}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1496.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1495.8}$ |
@@ -108,14 +108,14 @@ python3 mvr.py
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1494.1}$ |
 | $\color{red}\text{99  }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1493.2}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1492.4}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
-| $\color{red}\text{103 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1489.4}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1489.3}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
-| $\color{red}\text{107 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1488.5}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1487.8}$ |
+| $\color{green}\text{101 }$ | $\color{green}\text{World War Z}$ | $\color{green}\text{1491.6}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1491.6}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1489.9}$ |
+| $\color{red}\text{104 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1489.4}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1489.3}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1489.1}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1488.6}$ |
+| $\color{red}\text{108 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1488.5}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1487.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1486.8}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1486.7}$ |
@@ -141,14 +141,14 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1474.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1474.6}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1474.5}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1474.2}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1474.1}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1474.1}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.9}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1473.7}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1473.5}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1470.9}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1470.5}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1474.1}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1474.1}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1473.9}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1473.7}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1473.5}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1470.9}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1470.5}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1470.4}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1470.0}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1469.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1467.0}$ |
