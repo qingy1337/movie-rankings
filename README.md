@@ -12,10 +12,10 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1603.1}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1598.8}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1596.1}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
-| $\color{red}\text{7   }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1594.7}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1595.5}$ |
+| $\color{red}\text{6   }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1594.7}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1591.7}$ |
+| $\color{red}\text{8   }$ | $\color{red}\text{The Hunger Games}$ | $\color{red}\text{1589.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1587.5}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1587.0}$ |
@@ -58,11 +58,11 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1540.9}$ |
 | $\color{green}\text{50  }$ | $\color{green}\text{Mission Impossible: Fallout}$ | $\color{green}\text{1540.9}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1532.9}$ |
+| $\color{green}\text{51  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1540.0}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1538.2}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1535.0}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1533.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1531.2}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1530.7}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1530.0}$ |
@@ -84,7 +84,7 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1510.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1508.4}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1508.4}$ |
-| $\color{green}\text{77  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1507.4}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1507.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1507.4}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1506.7}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1506.0}$ |
@@ -136,7 +136,7 @@ python3 mvr.py
 | $\color{black}\text{126 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1458.7}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1457.1}$ |
-| $\color{red}\text{129 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1456.8}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.8}$ |
 | $\color{red}\text{130 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1455.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1455.2}$ |
 | $\color{green}\text{132 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1455.0}$ |
