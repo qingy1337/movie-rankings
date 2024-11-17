@@ -112,39 +112,39 @@ python3 mvr.py
 | 102  | Frequency            | 1482.2 |
 | 103  | GoldenEye            | 1481.6 |
 | 104  | A Boy Called Christmas | 1479.3 |
-| 105  | When a Stranger Calls | 1477.8 |
-| 106  | The Mist             | 1475.6 |
-| 107  | Red Notice           | 1474.4 |
-| 108  | World War Z          | 1472.5 |
-| 109  | Saving Private Ryan  | 1472.5 |
-| 110  | The Matrix Reloaded  | 1472.2 |
-| 111  | Onward               | 1472.1 |
-| 112  | Knight and Day       | 1471.6 |
-| 113  | The Mask             | 1471.5 |
-| 114  | Land of Bad          | 1469.5 |
-| 115  | Heidi                | 1468.7 |
-| 116  | Iron Chef            | 1465.8 |
-| 117  | The Spy Next Door    | 1465.6 |
-| 118  | Ninja Turtles        | 1465.0 |
-| 119  | Black Widow          | 1463.1 |
-| 120  | School of Rock       | 1462.5 |
-| 121  | Sweet Tooth          | 1462.2 |
-| 122  | Rampage              | 1462.0 |
-| 123  | Exam                 | 1460.9 |
-| 124  | The Mask of Zorro    | 1459.8 |
-| 125  | Drunken Master       | 1459.7 |
-| 126  | Mission Impossible 2 | 1459.6 |
-| 127  | The Matrix Revolutions | 1459.0 |
-| 128  | Skyfall              | 1457.9 |
-| 129  | Road House           | 1457.7 |
-| 130  | Mission Impossible 1 | 1457.0 |
-| 131  | The Ring 2           | 1456.2 |
-| 132  | Peter the Rabbit     | 1455.9 |
-| 133  | G.I.Joe movie        | 1455.9 |
-| 134  | Terminator           | 1455.5 |
-| 135  | Unbreakable          | 1455.0 |
-| 136  | Journey 2: The Mysterious Island | 1454.8 |
-| 137  | Horton hears a Who   | 1454.6 |
+| 105  | Rampage              | 1478.0 |
+| 106  | When a Stranger Calls | 1477.8 |
+| 107  | The Mist             | 1475.6 |
+| 108  | Red Notice           | 1474.4 |
+| 109  | World War Z          | 1472.5 |
+| 110  | Saving Private Ryan  | 1472.5 |
+| 111  | The Matrix Reloaded  | 1472.2 |
+| 112  | Onward               | 1472.1 |
+| 113  | Knight and Day       | 1471.6 |
+| 114  | The Mask             | 1471.5 |
+| 115  | Land of Bad          | 1469.5 |
+| 116  | Heidi                | 1468.7 |
+| 117  | Iron Chef            | 1465.8 |
+| 118  | The Spy Next Door    | 1465.6 |
+| 119  | Ninja Turtles        | 1465.0 |
+| 120  | Black Widow          | 1463.1 |
+| 121  | School of Rock       | 1462.5 |
+| 122  | Exam                 | 1460.9 |
+| 123  | The Mask of Zorro    | 1459.8 |
+| 124  | Drunken Master       | 1459.7 |
+| 125  | Mission Impossible 2 | 1459.6 |
+| 126  | The Matrix Revolutions | 1459.0 |
+| 127  | Skyfall              | 1457.9 |
+| 128  | Road House           | 1457.7 |
+| 129  | Mission Impossible 1 | 1457.0 |
+| 130  | The Ring 2           | 1456.2 |
+| 131  | Peter the Rabbit     | 1455.9 |
+| 132  | G.I.Joe movie        | 1455.9 |
+| 133  | Terminator           | 1455.5 |
+| 134  | Unbreakable          | 1455.0 |
+| 135  | Journey 2: The Mysterious Island | 1454.8 |
+| 136  | Horton hears a Who   | 1454.6 |
+| 137  | Sweet Tooth          | 1446.2 |
 | 138  | The Silence          | 1445.4 |
 | 139  | Cars 3               | 1442.7 |
 | 140  | Johnny English       | 1442.4 |
