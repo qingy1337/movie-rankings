@@ -59,7 +59,7 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1547.6}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
-| $\color{red}\text{52  }$ | $\color{red}\text{The Terminal List}$ | $\color{red}\text{1546.2}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1545.4}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1543.1}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.5}$ |
@@ -72,8 +72,8 @@ python3 mvr.py
 | $\color{black}\text{62  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1528.7}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1527.3}$ |
+| $\color{green}\text{65  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1531.8}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1528.7}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1520.3}$ |
@@ -82,7 +82,7 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.4}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.9}$ |
-| $\color{green}\text{75  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1514.8}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1514.8}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1511.2}$ |
@@ -143,10 +143,10 @@ python3 mvr.py
 | $\color{black}\text{133 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1443.7}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1440.7}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.8}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1438.8}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
+| $\color{red}\text{139 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1434.3}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1430.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1429.6}$ |
 | $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1427.0}$ |
