@@ -83,7 +83,7 @@ python3 mvr.py
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.3}$ |
-| $\color{red}\text{76  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1512.9}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1512.9}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1511.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
@@ -112,7 +112,7 @@ python3 mvr.py
 | $\color{black}\text{102 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.2}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1476.8}$ |
-| $\color{green}\text{105 }$ | $\color{green}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{green}\text{1476.7}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1476.7}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.2}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
@@ -139,9 +139,9 @@ python3 mvr.py
 | $\color{black}\text{129 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1446.0}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
-| $\color{red}\text{132 }$ | $\color{red}\text{A.I. Artificial Intelligence}$ | $\color{red}\text{1442.3}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.9}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1440.7}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.9}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1440.7}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{A.I. Artificial Intelligence}$ | $\color{red}\text{1440.5}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{red}\text{137 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1435.6}$ |
@@ -159,8 +159,8 @@ python3 mvr.py
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1411.4}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1410.8}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1406.5}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
+| $\color{green}\text{152 }$ | $\color{green}\text{Ninja Turtles}$ | $\color{green}\text{1407.6}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1406.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.7}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1404.3}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
