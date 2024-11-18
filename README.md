@@ -21,10 +21,10 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1597.7}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
 | $\color{green}\text{18  }$ | $\color{green}\text{Inception}$ | $\color{green}\text{1590.5}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1590.4}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1590.0}$ |
@@ -99,17 +99,17 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
-| $\color{green}\text{92  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1486.5}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.5}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
 | $\color{red}\text{97  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1482.5}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1482.2}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
+| $\color{red}\text{102 }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1479.3}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
@@ -132,7 +132,7 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
-| $\color{red}\text{125 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1451.7}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1451.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{green}\text{127 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1451.1}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
