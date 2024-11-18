@@ -30,7 +30,7 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1585.3}$ |
-| $\color{green}\text{23  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1580.8}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1578.9}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1578.6}$ |
@@ -100,7 +100,7 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1487.1}$ |
-| $\color{red}\text{93  }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1486.5}$ |
+| $\color{green}\text{93  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1486.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
@@ -115,10 +115,10 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
+| $\color{green}\text{108 }$ | $\color{green}\text{Peter the Rabbit}$ | $\color{green}\text{1472.4}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1463.6}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1462.9}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
@@ -141,11 +141,11 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1445.8}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.0}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.0}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
+| $\color{red}\text{138 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1440.1}$ |
 | $\color{red}\text{139 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1438.4}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
