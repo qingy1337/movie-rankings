@@ -30,12 +30,12 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.3}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
+| $\color{green}\text{23  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1581.9}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1574.3}$ |
@@ -55,7 +55,7 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
-| $\color{green}\text{48  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1549.1}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1549.1}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1548.5}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1547.4}$ |
@@ -68,7 +68,7 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
 | $\color{green}\text{59  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1538.7}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{red}\text{61  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1536.5}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1536.5}$ |
 | $\color{green}\text{62  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1535.7}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1534.5}$ |
@@ -158,7 +158,7 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1419.2}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1415.7}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
+| $\color{red}\text{151 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1410.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1410.2}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
 | $\color{green}\text{154 }$ | $\color{green}\text{65}$ | $\color{green}\text{1405.3}$ |
