@@ -47,8 +47,8 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1561.8}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
+| $\color{red}\text{41  }$ | $\color{red}\text{Scream V}$ | $\color{red}\text{1559.5}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1556.6}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1554.9}$ |
@@ -91,9 +91,9 @@ python3 mvr.py
 | $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{green}\text{83  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1499.8}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1497.5}$ |
+| $\color{green}\text{84  }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1499.8}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.1}$ |
 | $\color{red}\text{88  }$ | $\color{red}\text{Star Trek: Picard}$ | $\color{red}\text{1494.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
@@ -143,11 +143,11 @@ python3 mvr.py
 | $\color{black}\text{133 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1438.8}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
-| $\color{green}\text{136 }$ | $\color{green}\text{All Quiet on The Western Front}$ | $\color{green}\text{1437.2}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1435.0}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1433.9}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1433.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1433.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
