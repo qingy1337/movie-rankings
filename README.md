@@ -133,7 +133,7 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
-| $\color{red}\text{126 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1448.9}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1446.8}$ |
@@ -141,17 +141,17 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1444.0}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1440.1}$ |
-| $\color{red}\text{135 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1438.8}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1438.8}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
+| $\color{green}\text{136 }$ | $\color{green}\text{All Quiet on The Western Front}$ | $\color{green}\text{1437.2}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1435.0}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1433.2}$ |
-| $\color{red}\text{141 }$ | $\color{red}\text{All Quiet on The Western Front}$ | $\color{red}\text{1431.0}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1433.9}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1433.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
-| $\color{green}\text{144 }$ | $\color{green}\text{Everything, everywhere, all at once}$ | $\color{green}\text{1426.4}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1424.8}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1420.4}$ |
