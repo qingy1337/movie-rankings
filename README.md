@@ -70,14 +70,14 @@ python3 mvr.py
 | $\color{black}\text{60  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1532.9}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{red}\text{63  }$ | $\color{red}\text{The Maze Runner: The Scorch Trials}$ | $\color{red}\text{1530.1}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1530.1}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1522.0}$ |
 | $\color{green}\text{68  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1521.1}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
-| $\color{green}\text{70  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1520.1}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1518.8}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
@@ -88,7 +88,7 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
 | $\color{green}\text{79  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1506.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
+| $\color{red}\text{81  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1501.6}$ |
 | $\color{red}\text{82  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1500.7}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
 | $\color{green}\text{84  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1500.2}$ |
@@ -138,8 +138,8 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{red}\text{130 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1450.1}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
+| $\color{green}\text{131 }$ | $\color{green}\text{Jack Reacher: Never Go Back}$ | $\color{green}\text{1449.4}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
