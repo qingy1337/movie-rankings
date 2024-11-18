@@ -50,9 +50,9 @@ python3 mvr.py
 | $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1561.8}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1554.9}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1552.7}$ |
+| $\color{green}\text{43  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1556.6}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1554.9}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1552.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
@@ -79,11 +79,11 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
-| $\color{red}\text{72  }$ | $\color{red}\text{A Haunting in Venice}$ | $\color{red}\text{1518.9}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1518.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.1}$ |
-| $\color{green}\text{76  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1514.3}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.9}$ |
@@ -154,10 +154,10 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1424.8}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1420.8}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1420.4}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1420.4}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
+| $\color{red}\text{150 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1417.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
 | $\color{red}\text{153 }$ | $\color{red}\text{The Last Samurai}$ | $\color{red}\text{1411.4}$ |
