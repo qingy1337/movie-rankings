@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1635.6}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1635.6}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
@@ -29,10 +29,10 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1585.3}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
+| $\color{red}\text{25  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1578.6}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
@@ -53,13 +53,13 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
-| $\color{green}\text{49  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1546.8}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1546.2}$ |
-| $\color{green}\text{52  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1545.5}$ |
+| $\color{green}\text{46  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1552.2}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
+| $\color{green}\text{50  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1546.8}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1546.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1435.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1430.6}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
