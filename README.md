@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1640.2}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1640.2}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1614.2}$ |
@@ -56,7 +56,7 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
-| $\color{red}\text{49  }$ | $\color{red}\text{Captain America: Civil War}$ | $\color{red}\text{1547.6}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1547.6}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
@@ -111,10 +111,10 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.1}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
-| $\color{red}\text{106 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1473.2}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1472.3}$ |
+| $\color{green}\text{104 }$ | $\color{green}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{green}\text{1475.8}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.1}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
+| $\color{red}\text{107 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1473.2}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
@@ -171,9 +171,9 @@ python3 mvr.py
 | $\color{red}\text{161 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1395.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1394.6}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1393.2}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1389.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
 | $\color{green}\text{168 }$ | $\color{green}\text{AK-47 Kalashnikov}$ | $\color{green}\text{1383.0}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1381.4}$ |
