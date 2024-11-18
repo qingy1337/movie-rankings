@@ -8,8 +8,8 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
-| $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1629.5}$ |
+| $\color{green}\text{1   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1632.7}$ |
+| $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1621.3}$ |
 | $\color{green}\text{4   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1611.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1609.7}$ |
@@ -30,8 +30,8 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
-| $\color{green}\text{23  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1585.3}$ |
-| $\color{green}\text{24  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1579.4}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1585.3}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1579.4}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1578.9}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
@@ -68,9 +68,9 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1532.9}$ |
+| $\color{green}\text{61  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1534.0}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1530.1}$ |
+| $\color{red}\text{63  }$ | $\color{red}\text{The Maze Runner: The Scorch Trials}$ | $\color{red}\text{1528.9}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1527.3}$ |
 | $\color{red}\text{66  }$ | $\color{red}\text{Top Gun: Maverick}$ | $\color{red}\text{1525.1}$ |
@@ -130,12 +130,12 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1454.3}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1454.1}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.6}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
+| $\color{red}\text{128 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1450.9}$ |
 | $\color{red}\text{129 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1449.3}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1448.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
@@ -143,13 +143,13 @@ python3 mvr.py
 | $\color{black}\text{133 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1445.7}$ |
-| $\color{red}\text{136 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1443.4}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1443.4}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.0}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1433.5}$ |
+| $\color{green}\text{142 }$ | $\color{green}\text{Unbreakable}$ | $\color{green}\text{1433.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1430.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
