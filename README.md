@@ -21,7 +21,7 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1607.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
-| $\color{red}\text{14  }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1602.4}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1596.8}$ |
@@ -66,7 +66,7 @@ python3 mvr.py
 | $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
-| $\color{green}\text{59  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1538.8}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1538.7}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1535.7}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1535.2}$ |
@@ -95,7 +95,7 @@ python3 mvr.py
 | $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1496.1}$ |
+| $\color{green}\text{88  }$ | $\color{green}\text{Glass Castle}$ | $\color{green}\text{1496.1}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1487.3}$ |
@@ -147,7 +147,7 @@ python3 mvr.py
 | $\color{red}\text{137 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1435.6}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1435.4}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1434.3}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1428.0}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1428.0}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1427.7}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
