@@ -18,8 +18,8 @@ python3 mvr.py
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1604.0}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1603.6}$ |
+| $\color{green}\text{11  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1606.5}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
@@ -80,7 +80,7 @@ python3 mvr.py
 | $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1518.2}$ |
-| $\color{red}\text{73  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1518.1}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.1}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1514.2}$ |
@@ -105,7 +105,7 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
-| $\color{green}\text{98  }$ | $\color{green}\text{Exam}$ | $\color{green}\text{1481.9}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.9}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1481.0}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
@@ -164,9 +164,9 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1407.5}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1404.9}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
+| $\color{red}\text{159 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1402.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
