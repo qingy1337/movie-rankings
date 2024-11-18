@@ -47,13 +47,13 @@ python3 mvr.py
 | $\color{green}\text{37  }$ | $\color{green}\text{Passengers}$ | $\color{green}\text{1565.3}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.5}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.5}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1557.0}$ |
+| $\color{green}\text{40  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1560.1}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.5}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
-| $\color{green}\text{46  }$ | $\color{green}\text{Avengers: Age of Ultron}$ | $\color{green}\text{1549.7}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1549.7}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
@@ -132,12 +132,12 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1448.7}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
+| $\color{red}\text{130 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1448.1}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
@@ -159,7 +159,7 @@ python3 mvr.py
 | $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
-| $\color{red}\text{152 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1414.1}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
