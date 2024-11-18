@@ -61,18 +61,24 @@ def main():
         response = requests.get(f"https://albacore-powerful-racer.ngrok-free.app/take-two")
         movies = response.json()
 
-        user_input = input(f"Which of these movies is better? [{movies['m1']}] or [{movies['m2']}]\nAnswer: ")
+        user_input = input(f"Which of these movies is better?\n(0) [{movies['m1']}] or (1) [{movies['m2']}]\n-------------------\nAnswer: ")
         if user_input.lower() == 'quit':
             break
-        if user_input not in ['0', '1', '2']:
-            print("Invalid input. Please enter 0 for a tie, 1 for the first movie, or 2 for the second movie.")
-            continue
+
+        skip = False
+        try:
+            assert 0 <= float(user_input) <= 1
+        except:
+            print("Invalid input. Valid Examples: 0 (strongly first movie), 0.1, 0.35, 0.5 (draw), 0.924, 1 (strongly second)")
+            skip = True
+
+        if skip: continue
 
         requests.post("https://albacore-powerful-racer.ngrok-free.app/rank", params={
             "m1": movies['m1'],
             "m2": movies['m2'],
             "token": token,
-            "choice": int(user_input),
+            "choice": float(user_input),
         })
 
         print("Movie rankings updated!")
