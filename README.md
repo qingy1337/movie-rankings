@@ -46,8 +46,8 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1565.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
-| $\color{red}\text{39  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1561.5}$ |
-| $\color{green}\text{40  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1557.5}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.5}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
@@ -95,9 +95,9 @@ python3 mvr.py
 | $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
-| $\color{red}\text{88  }$ | $\color{red}\text{Shawshank Redemption}$ | $\color{red}\text{1493.9}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
+| $\color{red}\text{90  }$ | $\color{red}\text{Shawshank Redemption}$ | $\color{red}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.0}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
@@ -112,9 +112,9 @@ python3 mvr.py
 | $\color{black}\text{102 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1476.6}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.6}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
+| $\color{green}\text{105 }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1475.1}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
