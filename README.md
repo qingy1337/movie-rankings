@@ -13,7 +13,7 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1617.7}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1612.3}$ |
-| $\color{green}\text{6   }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1611.0}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1611.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1610.1}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
@@ -23,7 +23,7 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.6}$ |
+| $\color{red}\text{16  }$ | $\color{red}\text{Star Wars}$ | $\color{red}\text{1596.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1596.1}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.2}$ |
@@ -56,7 +56,7 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1547.6}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1548.5}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{green}\text{51  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1547.4}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.2}$ |
@@ -116,7 +116,7 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.2}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
-| $\color{red}\text{109 }$ | $\color{red}\text{The Man in the Iron Mask}$ | $\color{red}\text{1466.0}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{red}\text{112 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1461.3}$ |
