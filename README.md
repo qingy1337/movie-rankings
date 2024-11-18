@@ -23,9 +23,9 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1594.2}$ |
+| $\color{green}\text{16  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1597.1}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
 | $\color{green}\text{19  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1593.6}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
@@ -74,7 +74,7 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1527.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
-| $\color{green}\text{67  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1524.5}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1524.5}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
@@ -106,11 +106,11 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{red}\text{103 }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1478.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1476.6}$ |
 | $\color{green}\text{105 }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1475.1}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
@@ -155,7 +155,7 @@ python3 mvr.py
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.0}$ |
-| $\color{red}\text{148 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1420.8}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1420.8}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
