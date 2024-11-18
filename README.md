@@ -21,7 +21,7 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1597.7}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
@@ -31,10 +31,10 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
 | $\color{green}\text{23  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1585.3}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1578.9}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{green}\text{27  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1575.7}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1579.4}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1578.9}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1573.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1572.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
@@ -148,8 +148,8 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1432.0}$ |
 | $\color{green}\text{143 }$ | $\color{green}\text{G.I.Joe movie}$ | $\color{green}\text{1430.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
@@ -169,7 +169,7 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1402.3}$ |
-| $\color{red}\text{162 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1402.3}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1400.9}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
