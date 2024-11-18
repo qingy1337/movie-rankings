@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1635.6}$ |
+| $\color{green}\text{1   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1640.2}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1614.2}$ |
@@ -55,8 +55,8 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{green}\text{46  }$ | $\color{green}\text{Lost in Space}$ | $\color{green}\text{1552.8}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1552.2}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
+| $\color{red}\text{49  }$ | $\color{red}\text{Captain America: Civil War}$ | $\color{red}\text{1547.6}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
@@ -106,7 +106,7 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1484.1}$ |
 | $\color{red}\text{97  }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1484.1}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1481.2}$ |
-| $\color{red}\text{99  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1480.4}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
@@ -131,7 +131,7 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1451.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{green}\text{124 }$ | $\color{green}\text{The Matrix Reloaded}$ | $\color{green}\text{1449.5}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.5}$ |
 | $\color{green}\text{125 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1449.2}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
