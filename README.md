@@ -34,14 +34,14 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1580.5}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
-| $\color{green}\text{27  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1577.4}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1577.4}$ |
 | $\color{red}\text{28  }$ | $\color{red}\text{The Menu}$ | $\color{red}\text{1576.6}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{red}\text{34  }$ | $\color{red}\text{Doctor Strange}$ | $\color{red}\text{1569.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1569.3}$ |
 | $\color{green}\text{36  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1568.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
@@ -93,7 +93,7 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
-| $\color{red}\text{86  }$ | $\color{red}\text{Mission Impossible 3}$ | $\color{red}\text{1499.0}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.1}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1494.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
@@ -133,9 +133,9 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
+| $\color{green}\text{126 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1449.0}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1446.8}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1444.6}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
