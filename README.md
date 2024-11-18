@@ -81,11 +81,11 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1513.0}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.2}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1510.9}$ |
+| $\color{green}\text{74  }$ | $\color{green}\text{Titanic}$ | $\color{green}\text{1514.6}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1513.0}$ |
+| $\color{red}\text{78  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1508.5}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.9}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.1}$ |
@@ -135,7 +135,7 @@ python3 mvr.py
 | $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
-| $\color{red}\text{128 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1448.7}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
