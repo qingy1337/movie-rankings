@@ -30,7 +30,7 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1585.3}$ |
-| $\color{red}\text{23  }$ | $\color{red}\text{Maleficent}$ | $\color{red}\text{1579.7}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1578.9}$ |
 | $\color{red}\text{25  }$ | $\color{red}\text{Avengers: Infinity War}$ | $\color{red}\text{1578.6}$ |
 | $\color{green}\text{26  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1578.0}$ |
@@ -41,8 +41,8 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1568.6}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1565.8}$ |
+| $\color{green}\text{34  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1567.5}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
 | $\color{green}\text{36  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1564.2}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
@@ -64,7 +64,7 @@ python3 mvr.py
 | $\color{red}\text{54  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1540.2}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{green}\text{57  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1535.9}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
@@ -129,10 +129,10 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1454.3}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{Red Eye}$ | $\color{red}\text{1452.6}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1450.9}$ |
