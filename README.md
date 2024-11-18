@@ -10,7 +10,7 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1632.7}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
-| $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1625.3}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1614.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
@@ -37,7 +37,7 @@ python3 mvr.py
 | $\color{black}\text{27  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
-| $\color{red}\text{30  }$ | $\color{red}\text{No Country for Old Men}$ | $\color{red}\text{1574.8}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -73,8 +73,8 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1527.8}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1524.5}$ |
+| $\color{green}\text{66  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1525.2}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
@@ -153,8 +153,8 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.0}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.0}$ |
+| $\color{red}\text{147 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1424.8}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1420.8}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
