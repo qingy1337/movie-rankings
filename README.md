@@ -17,11 +17,11 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1612.0}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1611.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{red}\text{10  }$ | $\color{red}\text{The Prestige}$ | $\color{red}\text{1608.0}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1608.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1607.3}$ |
 | $\color{green}\text{13  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1606.8}$ |
-| $\color{green}\text{14  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1603.7}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1603.7}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1596.8}$ |
@@ -77,9 +77,9 @@ python3 mvr.py
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1524.1}$ |
-| $\color{green}\text{70  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1522.4}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1521.3}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1520.9}$ |
+| $\color{green}\text{70  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1522.7}$ |
+| $\color{green}\text{71  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1522.4}$ |
+| $\color{red}\text{72  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1519.5}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.3}$ |
