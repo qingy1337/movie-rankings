@@ -31,7 +31,7 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
-| $\color{red}\text{24  }$ | $\color{red}\text{Source Code}$ | $\color{red}\text{1576.2}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1575.2}$ |
@@ -51,13 +51,13 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1556.5}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1545.9}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.6}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1543.6}$ |
+| $\color{green}\text{44  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1548.5}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1545.9}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.6}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
@@ -111,8 +111,8 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
 | $\color{green}\text{102 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1480.8}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{red}\text{105 }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1474.2}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{red}\text{107 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1473.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
@@ -126,7 +126,7 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
-| $\color{green}\text{119 }$ | $\color{green}\text{Selfless}$ | $\color{green}\text{1455.6}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1455.0}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
