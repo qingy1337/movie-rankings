@@ -53,7 +53,7 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1559.3}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
-| $\color{green}\text{46  }$ | $\color{green}\text{Lost in Space}$ | $\color{green}\text{1552.8}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
 | $\color{red}\text{49  }$ | $\color{red}\text{Captain America: Civil War}$ | $\color{red}\text{1547.6}$ |
@@ -113,7 +113,7 @@ python3 mvr.py
 | $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.1}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.6}$ |
+| $\color{red}\text{106 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1473.2}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1472.3}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
@@ -131,9 +131,9 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1451.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.5}$ |
-| $\color{green}\text{125 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1449.2}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
+| $\color{green}\text{124 }$ | $\color{green}\text{Red Eye}$ | $\color{green}\text{1449.5}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.5}$ |
+| $\color{green}\text{126 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1449.2}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1448.8}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
@@ -176,7 +176,7 @@ python3 mvr.py
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
 | $\color{green}\text{168 }$ | $\color{green}\text{AK-47 Kalashnikov}$ | $\color{green}\text{1383.0}$ |
-| $\color{red}\text{169 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1381.4}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1381.4}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1378.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1376.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1371.8}$ |
