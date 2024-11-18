@@ -8,10 +8,10 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{green}\text{1   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1632.7}$ |
+| $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1632.7}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1621.3}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1611.4}$ |
+| $\color{green}\text{4   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1616.7}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1609.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
@@ -42,8 +42,8 @@ python3 mvr.py
 | $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1568.6}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
-| $\color{red}\text{35  }$ | $\color{red}\text{X-Files}$ | $\color{red}\text{1567.4}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1565.8}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1565.8}$ |
+| $\color{red}\text{36  }$ | $\color{red}\text{X-Files}$ | $\color{red}\text{1562.1}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1560.8}$ |
@@ -135,7 +135,7 @@ python3 mvr.py
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{red}\text{128 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1450.9}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1450.9}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1448.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
