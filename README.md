@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1614.7}$ |
+| $\color{red}\text{5   }$ | $\color{red}\text{Avengers: Endgame}$ | $\color{red}\text{1613.9}$ |
 | $\color{green}\text{6   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1610.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
@@ -23,8 +23,8 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
-| $\color{red}\text{16  }$ | $\color{red}\text{Iron Man}$ | $\color{red}\text{1596.8}$ |
-| $\color{green}\text{17  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1596.1}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1596.8}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1596.1}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.7}$ |
@@ -43,7 +43,7 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1569.3}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
+| $\color{green}\text{36  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1568.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
