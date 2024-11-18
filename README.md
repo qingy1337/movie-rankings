@@ -71,8 +71,8 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1533.8}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1527.3}$ |
+| $\color{green}\text{64  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1532.1}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
@@ -83,7 +83,7 @@ python3 mvr.py
 | $\color{red}\text{73  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1518.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
-| $\color{green}\text{76  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1513.0}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1513.0}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.2}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1510.9}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.9}$ |
@@ -94,7 +94,7 @@ python3 mvr.py
 | $\color{black}\text{84  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.4}$ |
-| $\color{red}\text{87  }$ | $\color{red}\text{Top Gun}$ | $\color{red}\text{1495.1}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
@@ -129,13 +129,13 @@ python3 mvr.py
 | $\color{black}\text{119 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1451.7}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.1}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1451.7}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
+| $\color{red}\text{128 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1448.7}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
