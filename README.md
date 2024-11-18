@@ -46,9 +46,9 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1568.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1565.6}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1562.9}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1560.9}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
+| $\color{green}\text{39  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1563.5}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1562.9}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1560.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1558.9}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
@@ -95,7 +95,7 @@ python3 mvr.py
 | $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
-| $\color{red}\text{88  }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1497.8}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.8}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{red}\text{91  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1487.3}$ |
@@ -131,7 +131,7 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1451.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{green}\text{124 }$ | $\color{green}\text{The Matrix Reloaded}$ | $\color{green}\text{1450.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1450.3}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1449.2}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
@@ -163,8 +163,8 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.7}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1404.3}$ |
-| $\color{red}\text{156 }$ | $\color{red}\text{65}$ | $\color{red}\text{1402.7}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
+| $\color{red}\text{157 }$ | $\color{red}\text{65}$ | $\color{red}\text{1399.3}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1399.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1398.8}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1397.9}$ |
