@@ -133,7 +133,7 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
+| $\color{red}\text{126 }$ | $\color{red}\text{The Matrix Reloaded}$ | $\color{red}\text{1448.9}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1446.8}$ |
@@ -151,7 +151,7 @@ python3 mvr.py
 | $\color{red}\text{141 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1433.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
+| $\color{green}\text{144 }$ | $\color{green}\text{Everything, everywhere, all at once}$ | $\color{green}\text{1426.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1424.8}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1420.4}$ |
@@ -167,7 +167,7 @@ python3 mvr.py
 | $\color{black}\text{157 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1404.9}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
-| $\color{red}\text{160 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1400.9}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
