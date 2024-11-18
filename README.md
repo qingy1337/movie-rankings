@@ -76,14 +76,14 @@ python3 mvr.py
 | $\color{black}\text{66  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
-| $\color{green}\text{69  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1520.3}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1520.3}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
+| $\color{red}\text{72  }$ | $\color{red}\text{A Haunting in Venice}$ | $\color{red}\text{1518.9}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
 | $\color{red}\text{74  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1518.2}$ |
 | $\color{green}\text{75  }$ | $\color{green}\text{Mission Impossible: Rogue Nation}$ | $\color{green}\text{1518.1}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1513.0}$ |
+| $\color{green}\text{76  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1514.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.9}$ |
@@ -91,7 +91,7 @@ python3 mvr.py
 | $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
-| $\color{red}\text{84  }$ | $\color{red}\text{Star Trek: Picard}$ | $\color{red}\text{1499.3}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.3}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1497.5}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
