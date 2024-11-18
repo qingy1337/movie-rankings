@@ -58,7 +58,7 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1545.3}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
-| $\color{green}\text{51  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1542.6}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1542.6}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
 | $\color{red}\text{54  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1540.2}$ |
@@ -74,13 +74,13 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
-| $\color{red}\text{67  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1520.5}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1520.1}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1518.8}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1518.4}$ |
+| $\color{green}\text{67  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1523.5}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1520.5}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1520.1}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1518.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1513.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
@@ -116,11 +116,11 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1463.6}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1463.6}$ |
+| $\color{red}\text{113 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1462.9}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
