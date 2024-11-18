@@ -30,8 +30,8 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
-| $\color{black}\text{23  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1580.5}$ |
+| $\color{green}\text{23  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1581.3}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1577.4}$ |
@@ -81,7 +81,7 @@ python3 mvr.py
 | $\color{green}\text{71  }$ | $\color{green}\text{Mission Impossible: Rogue Nation}$ | $\color{green}\text{1518.4}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1518.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
-| $\color{red}\text{74  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1515.9}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.9}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
@@ -102,9 +102,9 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1488.4}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1487.3}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
-| $\color{green}\text{95  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1485.5}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
-| $\color{green}\text{97  }$ | $\color{green}\text{Exam}$ | $\color{green}\text{1484.1}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
+| $\color{green}\text{96  }$ | $\color{green}\text{Exam}$ | $\color{green}\text{1484.1}$ |
+| $\color{red}\text{97  }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1484.1}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1481.2}$ |
 | $\color{red}\text{99  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1480.4}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
