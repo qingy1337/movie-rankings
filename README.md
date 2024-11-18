@@ -30,7 +30,7 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.3}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
-| $\color{green}\text{23  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1581.9}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1581.9}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
@@ -94,8 +94,8 @@ python3 mvr.py
 | $\color{black}\text{84  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.7}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
+| $\color{red}\text{88  }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1497.8}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1487.9}$ |
@@ -131,8 +131,8 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1451.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.5}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.5}$ |
+| $\color{green}\text{124 }$ | $\color{green}\text{The Matrix Reloaded}$ | $\color{green}\text{1450.3}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1449.2}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
@@ -158,7 +158,7 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1419.2}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
 | $\color{red}\text{150 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1411.4}$ |
-| $\color{red}\text{151 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1410.8}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1410.8}$ |
 | $\color{red}\text{152 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1406.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1405.3}$ |
