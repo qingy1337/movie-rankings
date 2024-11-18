@@ -14,10 +14,10 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1617.7}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1612.8}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1612.3}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1611.0}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1609.4}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
+| $\color{green}\text{7   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1612.0}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1611.0}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1609.4}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{green}\text{12  }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1607.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
@@ -54,15 +54,15 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1556.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
-| $\color{green}\text{47  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1552.0}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1552.0}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1549.1}$ |
-| $\color{red}\text{49  }$ | $\color{red}\text{The Young and Prodigious T.S. Spivet}$ | $\color{red}\text{1548.5}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1548.5}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1546.4}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.2}$ |
-| $\color{green}\text{55  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1544.4}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1548.5}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1547.4}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1546.4}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.2}$ |
+| $\color{green}\text{54  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1544.4}$ |
+| $\color{red}\text{55  }$ | $\color{red}\text{The Young and Prodigious T.S. Spivet}$ | $\color{red}\text{1544.1}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
