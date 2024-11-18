@@ -23,15 +23,15 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
+| $\color{red}\text{16  }$ | $\color{red}\text{Star Wars}$ | $\color{red}\text{1597.6}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1596.1}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
+| $\color{green}\text{19  }$ | $\color{green}\text{Life of Pi}$ | $\color{green}\text{1595.2}$ |
 | $\color{red}\text{20  }$ | $\color{red}\text{Life}$ | $\color{red}\text{1594.3}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
-| $\color{red}\text{24  }$ | $\color{red}\text{Loki}$ | $\color{red}\text{1580.2}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
 | $\color{green}\text{25  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1579.9}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
@@ -65,7 +65,7 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.5}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
-| $\color{green}\text{58  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1539.8}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.2}$ |
