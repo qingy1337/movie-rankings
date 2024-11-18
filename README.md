@@ -82,7 +82,7 @@ python3 mvr.py
 | $\color{red}\text{72  }$ | $\color{red}\text{A Haunting in Venice}$ | $\color{red}\text{1518.9}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1518.2}$ |
-| $\color{green}\text{75  }$ | $\color{green}\text{Mission Impossible: Rogue Nation}$ | $\color{green}\text{1518.1}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.1}$ |
 | $\color{green}\text{76  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1514.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
@@ -130,18 +130,18 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
-| $\color{red}\text{123 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1451.6}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1448.1}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
-| $\color{red}\text{130 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1444.6}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
-| $\color{red}\text{133 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1443.2}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.6}$ |
+| $\color{green}\text{130 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1446.8}$ |
+| $\color{red}\text{131 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1444.6}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1443.2}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1440.1}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.0}$ |
@@ -170,9 +170,9 @@ python3 mvr.py
 | $\color{black}\text{160 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1397.7}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1393.2}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1393.2}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1392.4}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1391.3}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
