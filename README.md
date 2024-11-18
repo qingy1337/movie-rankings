@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
-| $\color{green}\text{39  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1561.5}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
@@ -100,10 +100,10 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1487.1}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
-| $\color{red}\text{96  }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1483.4}$ |
+| $\color{red}\text{93  }$ | $\color{red}\text{Total Recall}$ | $\color{red}\text{1486.5}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1482.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
@@ -128,11 +128,11 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{Mission Impossible 1}$ | $\color{red}\text{1451.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
