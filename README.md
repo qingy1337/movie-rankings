@@ -44,9 +44,9 @@ python3 mvr.py
 | $\color{black}\text{34  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1569.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1562.6}$ |
+| $\color{green}\text{37  }$ | $\color{green}\text{X-Files}$ | $\color{green}\text{1566.6}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1561.8}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
@@ -135,12 +135,12 @@ python3 mvr.py
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1448.1}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
-| $\color{green}\text{130 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1446.8}$ |
-| $\color{green}\text{131 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1444.6}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1446.8}$ |
+| $\color{green}\text{130 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1444.6}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
+| $\color{red}\text{133 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1444.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1443.2}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1440.1}$ |
 | $\color{red}\text{136 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1438.5}$ |
@@ -172,7 +172,7 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1393.2}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1392.4}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1391.3}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
