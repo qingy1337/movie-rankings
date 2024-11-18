@@ -47,11 +47,11 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1559.3}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1556.6}$ |
+| $\color{green}\text{40  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1560.9}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1559.3}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1552.2}$ |
@@ -105,7 +105,7 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.9}$ |
-| $\color{red}\text{98  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1481.2}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1481.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1481.0}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
@@ -121,11 +121,11 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1462.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1460.7}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
+| $\color{red}\text{118 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1455.8}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
@@ -164,7 +164,7 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
-| $\color{green}\text{157 }$ | $\color{green}\text{65}$ | $\color{green}\text{1402.4}$ |
+| $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1402.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
