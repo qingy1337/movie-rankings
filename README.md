@@ -34,9 +34,9 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
+| $\color{green}\text{27  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1580.0}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1574.3}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1573.6}$ |
@@ -98,9 +98,9 @@ python3 mvr.py
 | $\color{black}\text{88  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
 | $\color{red}\text{89  }$ | $\color{red}\text{Star Trek: Picard}$ | $\color{red}\text{1493.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1491.1}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1487.9}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1487.9}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
+| $\color{red}\text{93  }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1486.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1484.3}$ |
@@ -148,7 +148,7 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1434.3}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1428.0}$ |
-| $\color{red}\text{141 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1427.7}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1427.7}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1426.0}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{red}\text{151 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1410.8}$ |
 | $\color{red}\text{152 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1406.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
-| $\color{green}\text{154 }$ | $\color{green}\text{65}$ | $\color{green}\text{1405.3}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1405.3}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.7}$ |
 | $\color{red}\text{156 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1404.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
