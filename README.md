@@ -30,7 +30,7 @@ python3 mvr.py
 | $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
-| $\color{green}\text{23  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1581.3}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
@@ -104,9 +104,9 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1484.1}$ |
-| $\color{red}\text{97  }$ | $\color{red}\text{The Ring 2}$ | $\color{red}\text{1484.1}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1481.2}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.1}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
+| $\color{red}\text{99  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1480.2}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
@@ -152,7 +152,7 @@ python3 mvr.py
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
-| $\color{green}\text{145 }$ | $\color{green}\text{Spooky Buddies}$ | $\color{green}\text{1425.1}$ |
+| $\color{green}\text{145 }$ | $\color{green}\text{Spooky Buddies}$ | $\color{green}\text{1426.1}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1423.5}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
