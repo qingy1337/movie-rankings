@@ -82,7 +82,7 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
 | $\color{green}\text{74  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1514.4}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.4}$ |
+| $\color{red}\text{75  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1513.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
@@ -109,7 +109,7 @@ python3 mvr.py
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
 | $\color{red}\text{100 }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1481.1}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
-| $\color{green}\text{102 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1480.8}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{red}\text{105 }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1474.2}$ |
@@ -135,8 +135,8 @@ python3 mvr.py
 | $\color{black}\text{125 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.5}$ |
+| $\color{green}\text{128 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1451.6}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1450.4}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1447.2}$ |
@@ -147,7 +147,7 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.0}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1437.9}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1429.9}$ |
