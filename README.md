@@ -77,17 +77,17 @@ python3 mvr.py
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1520.3}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1518.2}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.1}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1518.2}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.1}$ |
+| $\color{red}\text{74  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1515.9}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
-| $\color{red}\text{80  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1505.0}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1505.0}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.4}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
@@ -102,8 +102,8 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1488.4}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1487.3}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
+| $\color{green}\text{95  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1485.5}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.9}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1481.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1481.0}$ |
