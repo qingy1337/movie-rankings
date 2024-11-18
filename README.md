@@ -60,7 +60,7 @@ python3 mvr.py
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
-| $\color{green}\text{53  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1545.4}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1545.4}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
@@ -91,11 +91,11 @@ python3 mvr.py
 | $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1499.3}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1497.5}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.1}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1497.5}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.1}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
+| $\color{red}\text{88  }$ | $\color{red}\text{Star Trek: Picard}$ | $\color{red}\text{1494.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1489.0}$ |
@@ -123,13 +123,13 @@ python3 mvr.py
 | $\color{green}\text{113 }$ | $\color{green}\text{Onward}$ | $\color{green}\text{1460.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
+| $\color{green}\text{116 }$ | $\color{green}\text{Sweet Tooth}$ | $\color{green}\text{1458.0}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
