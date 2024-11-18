@@ -52,11 +52,11 @@ python3 mvr.py
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1558.9}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
-| $\color{green}\text{45  }$ | $\color{green}\text{Lost in Space}$ | $\color{green}\text{1556.4}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1556.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
-| $\color{green}\text{47  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1550.9}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1549.1}$ |
+| $\color{green}\text{47  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1552.0}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1549.1}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{The Young and Prodigious T.S. Spivet}$ | $\color{green}\text{1548.5}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1548.5}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1547.4}$ |
@@ -159,7 +159,7 @@ python3 mvr.py
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
 | $\color{red}\text{150 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1411.4}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1410.8}$ |
-| $\color{red}\text{152 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1406.5}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1406.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1405.3}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.7}$ |
