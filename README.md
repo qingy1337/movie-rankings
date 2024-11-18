@@ -14,11 +14,11 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1608.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
-| $\color{green}\text{8   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1602.8}$ |
-| $\color{green}\text{9   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1600.9}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1599.7}$ |
+| $\color{green}\text{7   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1604.0}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
+| $\color{green}\text{9   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1602.8}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1600.9}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1597.0}$ |
@@ -93,11 +93,11 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1500.3}$ |
 | $\color{red}\text{84  }$ | $\color{red}\text{Mission Impossible 3}$ | $\color{red}\text{1499.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1498.3}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
-| $\color{green}\text{89  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1495.0}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
+| $\color{green}\text{88  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1495.0}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
+| $\color{red}\text{90  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1493.7}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
 | $\color{red}\text{92  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1492.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{All Quiet on The Western Front}$ | $\color{red}\text{1435.2}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1429.9}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
