@@ -99,10 +99,10 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.0}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
+| $\color{green}\text{92  }$ | $\color{green}\text{Johnny English}$ | $\color{green}\text{1489.0}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
@@ -121,7 +121,7 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
-| $\color{green}\text{114 }$ | $\color{green}\text{School of Rock}$ | $\color{green}\text{1460.1}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
 | $\color{green}\text{116 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1457.8}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1456.6}$ |
@@ -161,7 +161,7 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
-| $\color{red}\text{154 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1407.5}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1407.5}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
@@ -170,9 +170,9 @@ python3 mvr.py
 | $\color{black}\text{160 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1397.7}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1397.7}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1395.3}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1397.7}$ |
+| $\color{red}\text{164 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1395.3}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1393.2}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1391.3}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
