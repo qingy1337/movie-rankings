@@ -50,7 +50,7 @@ python3 mvr.py
 | $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1557.0}$ |
-| $\color{green}\text{43  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1552.8}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
@@ -123,14 +123,14 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{red}\text{114 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1459.2}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1451.7}$ |
+| $\color{green}\text{116 }$ | $\color{green}\text{Mission Impossible 1}$ | $\color{green}\text{1456.6}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
@@ -142,7 +142,7 @@ python3 mvr.py
 | $\color{red}\text{132 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1444.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
-| $\color{red}\text{135 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1441.6}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.6}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
@@ -175,8 +175,8 @@ python3 mvr.py
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1397.7}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1386.9}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1383.1}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
+| $\color{black}\text{168 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1383.1}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
+| $\color{red}\text{171 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1382.0}$ |
 | $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1379.8}$ |
