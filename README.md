@@ -20,8 +20,8 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1606.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1604.0}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1603.9}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1596.8}$ |
@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1568.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
-| $\color{green}\text{39  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1565.6}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1565.6}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1560.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
@@ -107,7 +107,7 @@ python3 mvr.py
 | $\color{green}\text{97  }$ | $\color{green}\text{Exam}$ | $\color{green}\text{1484.1}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1481.2}$ |
 | $\color{red}\text{99  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1480.4}$ |
-| $\color{red}\text{100 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1479.8}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1433.9}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1427.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
