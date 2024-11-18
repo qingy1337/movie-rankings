@@ -31,9 +31,9 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{No Country for Old Men}$ | $\color{green}\text{1578.9}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1575.2}$ |
 | $\color{green}\text{28  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1573.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1572.0}$ |
@@ -81,7 +81,7 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1516.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
-| $\color{green}\text{74  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1514.4}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
 | $\color{red}\text{75  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1513.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
@@ -114,7 +114,7 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{red}\text{105 }$ | $\color{red}\text{Frequency}$ | $\color{red}\text{1474.2}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
-| $\color{red}\text{107 }$ | $\color{red}\text{Wrath of Man}$ | $\color{red}\text{1473.6}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1467.9}$ |
@@ -175,7 +175,7 @@ python3 mvr.py
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1389.9}$ |
+| $\color{red}\text{168 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1386.9}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1386.3}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
