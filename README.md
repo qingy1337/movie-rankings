@@ -106,7 +106,7 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
-| $\color{green}\text{99  }$ | $\color{green}\text{Zootopia}$ | $\color{green}\text{1481.0}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1481.0}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
@@ -138,12 +138,12 @@ python3 mvr.py
 | $\color{black}\text{128 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1448.1}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{green}\text{130 }$ | $\color{green}\text{Zero Dark Thirty}$ | $\color{green}\text{1446.8}$ |
-| $\color{red}\text{131 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1444.6}$ |
+| $\color{green}\text{131 }$ | $\color{green}\text{Independence Day}$ | $\color{green}\text{1444.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1443.2}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1443.2}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1440.1}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
+| $\color{red}\text{136 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1438.5}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.0}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{red}\text{139 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1435.9}$ |
