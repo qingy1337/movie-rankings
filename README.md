@@ -32,10 +32,10 @@ python3 mvr.py
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{red}\text{24  }$ | $\color{red}\text{Loki}$ | $\color{red}\text{1580.2}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1577.4}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.6}$ |
+| $\color{green}\text{25  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1579.9}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1577.4}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
@@ -148,7 +148,7 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1433.9}$ |
-| $\color{red}\text{141 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1430.5}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1430.5}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
@@ -165,9 +165,9 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1402.4}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
+| $\color{red}\text{160 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1399.1}$ |
 | $\color{red}\text{161 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1395.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1394.6}$ |
