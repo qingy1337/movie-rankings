@@ -43,7 +43,7 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1568.6}$ |
 | $\color{green}\text{34  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1567.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
-| $\color{green}\text{36  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1564.2}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.1}$ |
@@ -116,7 +116,7 @@ python3 mvr.py
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
+| $\color{green}\text{109 }$ | $\color{green}\text{John Wick}$ | $\color{green}\text{1468.5}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1463.6}$ |
@@ -133,9 +133,9 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
 | $\color{red}\text{125 }$ | $\color{red}\text{Red Eye}$ | $\color{red}\text{1452.6}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.6}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1450.9}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1450.9}$ |
+| $\color{red}\text{128 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1450.7}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1448.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
@@ -172,7 +172,7 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1397.5}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1397.5}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1386.9}$ |
