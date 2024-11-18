@@ -61,7 +61,7 @@ python3 mvr.py
 | $\color{black}\text{51  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.2}$ |
-| $\color{green}\text{54  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1544.4}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1544.4}$ |
 | $\color{red}\text{55  }$ | $\color{red}\text{The Young and Prodigious T.S. Spivet}$ | $\color{red}\text{1544.1}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.8}$ |
@@ -172,11 +172,11 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1392.6}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1392.0}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1389.7}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1387.1}$ |
 | $\color{red}\text{167 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1386.3}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1381.4}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1378.8}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1377.1}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1376.1}$ |
+| $\color{green}\text{170 }$ | $\color{green}\text{Jurassic World: Dominion}$ | $\color{green}\text{1378.7}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1377.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1371.8}$ |
