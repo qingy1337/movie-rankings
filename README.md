@@ -51,7 +51,7 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
-| $\color{green}\text{44  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1551.4}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.4}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1548.5}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
@@ -61,7 +61,7 @@ python3 mvr.py
 | $\color{black}\text{51  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1542.6}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{red}\text{54  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1540.2}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1540.2}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
@@ -88,8 +88,8 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1505.9}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
+| $\color{red}\text{82  }$ | $\color{red}\text{Iron Chef}$ | $\color{red}\text{1502.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1501.0}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.7}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
@@ -115,9 +115,9 @@ python3 mvr.py
 | $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
-| $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
-| $\color{green}\text{109 }$ | $\color{green}\text{John Wick}$ | $\color{green}\text{1468.5}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
+| $\color{green}\text{108 }$ | $\color{green}\text{The Man in the Iron Mask}$ | $\color{green}\text{1469.8}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
+| $\color{green}\text{110 }$ | $\color{green}\text{John Wick}$ | $\color{green}\text{1468.5}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1463.6}$ |
 | $\color{red}\text{113 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1462.9}$ |
