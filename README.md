@@ -47,7 +47,7 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
 | $\color{green}\text{39  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1565.6}$ |
-| $\color{green}\text{40  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1560.9}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1560.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1559.3}$ |
@@ -106,7 +106,7 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
 | $\color{green}\text{97  }$ | $\color{green}\text{Exam}$ | $\color{green}\text{1484.1}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1481.2}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1481.0}$ |
+| $\color{red}\text{99  }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1480.4}$ |
 | $\color{red}\text{100 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1479.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
@@ -125,15 +125,15 @@ python3 mvr.py
 | $\color{black}\text{115 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
-| $\color{red}\text{118 }$ | $\color{red}\text{Land of Bad}$ | $\color{red}\text{1455.8}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1451.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
+| $\color{green}\text{124 }$ | $\color{green}\text{The Matrix Reloaded}$ | $\color{green}\text{1449.5}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1448.8}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
 | $\color{red}\text{129 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1446.4}$ |
