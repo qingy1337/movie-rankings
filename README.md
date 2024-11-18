@@ -11,7 +11,7 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1632.7}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1621.3}$ |
-| $\color{red}\text{4   }$ | $\color{red}\text{Interstellar}$ | $\color{red}\text{1613.0}$ |
+| $\color{red}\text{4   }$ | $\color{red}\text{Interstellar}$ | $\color{red}\text{1616.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1609.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
@@ -113,7 +113,7 @@ python3 mvr.py
 | $\color{black}\text{103 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
-| $\color{red}\text{106 }$ | $\color{red}\text{Red Notice}$ | $\color{red}\text{1473.6}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.6}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
@@ -133,14 +133,14 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1451.7}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{green}\text{126 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1451.1}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.1}$ |
 | $\color{red}\text{127 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1449.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1448.8}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
+| $\color{red}\text{133 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1445.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.0}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
