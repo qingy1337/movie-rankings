@@ -15,10 +15,10 @@ python3 mvr.py
 | $\color{green}\text{5   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1612.8}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1612.3}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1611.0}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1606.5}$ |
+| $\color{green}\text{8   }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1609.4}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1538.7}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1536.5}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1535.7}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1535.7}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
@@ -135,8 +135,8 @@ python3 mvr.py
 | $\color{black}\text{125 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1449.2}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1448.8}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
+| $\color{red}\text{129 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1446.0}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1443.7}$ |
@@ -163,7 +163,7 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1405.3}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.7}$ |
-| $\color{red}\text{156 }$ | $\color{red}\text{Awake}$ | $\color{red}\text{1404.3}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1404.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1399.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1398.8}$ |
