@@ -17,11 +17,11 @@ python3 mvr.py
 | $\color{green}\text{7   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1607.5}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1604.0}$ |
-| $\color{green}\text{10  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1602.8}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1600.9}$ |
-| $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1603.0}$ |
+| $\color{green}\text{11  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1602.8}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1600.9}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
+| $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
@@ -62,7 +62,7 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{green}\text{55  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1540.7}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1540.7}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1535.5}$ |
@@ -120,8 +120,8 @@ python3 mvr.py
 | $\color{black}\text{110 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1468.1}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1462.9}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
+| $\color{red}\text{114 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1459.2}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
@@ -145,7 +145,7 @@ python3 mvr.py
 | $\color{red}\text{135 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1441.6}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
-| $\color{red}\text{138 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1438.5}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{red}\text{140 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1435.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
