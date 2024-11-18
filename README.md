@@ -95,7 +95,7 @@ python3 mvr.py
 | $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
-| $\color{red}\text{88  }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1496.1}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1496.1}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1487.3}$ |
@@ -106,10 +106,10 @@ python3 mvr.py
 | $\color{black}\text{96  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1484.2}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1484.1}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.1}$ |
-| $\color{red}\text{99  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1481.9}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.2}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
+| $\color{green}\text{99  }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1482.7}$ |
+| $\color{red}\text{100 }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1481.9}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.2}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1476.8}$ |
 | $\color{green}\text{105 }$ | $\color{green}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{green}\text{1476.7}$ |
@@ -117,7 +117,7 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.2}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1466.1}$ |
-| $\color{green}\text{110 }$ | $\color{green}\text{World War Z}$ | $\color{green}\text{1466.1}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1466.1}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1459.7}$ |
@@ -142,9 +142,9 @@ python3 mvr.py
 | $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1443.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.9}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1440.7}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
+| $\color{red}\text{137 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1435.6}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1435.4}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1434.3}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1428.0}$ |
