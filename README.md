@@ -59,9 +59,9 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.6}$ |
 | $\color{green}\text{50  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1545.3}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1541.1}$ |
+| $\color{green}\text{52  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1542.6}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
@@ -74,7 +74,7 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1522.0}$ |
+| $\color{red}\text{67  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1520.5}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
@@ -105,7 +105,7 @@ python3 mvr.py
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
 | $\color{red}\text{97  }$ | $\color{red}\text{Skyfall}$ | $\color{red}\text{1482.2}$ |
-| $\color{red}\text{98  }$ | $\color{red}\text{Exam}$ | $\color{red}\text{1481.3}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1481.1}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1480.9}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
@@ -163,7 +163,7 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1409.3}$ |
-| $\color{green}\text{156 }$ | $\color{green}\text{The Mask of Zorro}$ | $\color{green}\text{1406.4}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.4}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
 | $\color{green}\text{159 }$ | $\color{green}\text{Heidi}$ | $\color{green}\text{1403.3}$ |
