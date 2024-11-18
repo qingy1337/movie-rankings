@@ -85,8 +85,8 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
+| $\color{green}\text{78  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1511.2}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1505.0}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.4}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
@@ -134,14 +134,14 @@ python3 mvr.py
 | $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
-| $\color{red}\text{127 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1448.8}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
-| $\color{red}\text{130 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1446.4}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1444.6}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1444.0}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1448.8}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
+| $\color{red}\text{129 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1446.4}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1444.6}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1444.0}$ |
+| $\color{red}\text{134 }$ | $\color{red}\text{A.I. Artificial Intelligence}$ | $\color{red}\text{1443.7}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.8}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1438.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
@@ -160,7 +160,7 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1415.7}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1413.8}$ |
-| $\color{green}\text{153 }$ | $\color{green}\text{Awake}$ | $\color{green}\text{1408.3}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
