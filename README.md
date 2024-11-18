@@ -19,13 +19,13 @@ python3 mvr.py
 | $\color{green}\text{9   }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1600.9}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1599.7}$ |
-| $\color{green}\text{12  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1599.4}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1597.0}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1594.7}$ |
-| $\color{red}\text{18  }$ | $\color{red}\text{Life}$ | $\color{red}\text{1590.0}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1590.0}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
@@ -85,7 +85,7 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.9}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.3}$ |
+| $\color{red}\text{78  }$ | $\color{red}\text{Gladiator}$ | $\color{red}\text{1507.1}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
@@ -96,7 +96,7 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
+| $\color{green}\text{89  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1495.0}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
 | $\color{red}\text{91  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1492.1}$ |
 | $\color{red}\text{92  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1492.1}$ |
