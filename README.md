@@ -55,7 +55,7 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
 | $\color{red}\text{46  }$ | $\color{red}\text{Lost in Space}$ | $\color{red}\text{1545.9}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{green}\text{48  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1545.6}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.6}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
 | $\color{red}\text{50  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1543.6}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
@@ -109,11 +109,11 @@ python3 mvr.py
 | $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1481.4}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{green}\text{104 }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1479.1}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1475.3}$ |
+| $\color{green}\text{102 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1480.8}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
+| $\color{green}\text{105 }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1479.1}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
@@ -144,10 +144,10 @@ python3 mvr.py
 | $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1445.8}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1445.7}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1443.4}$ |
-| $\color{red}\text{138 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1443.0}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.0}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1437.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1435.7}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1429.9}$ |
