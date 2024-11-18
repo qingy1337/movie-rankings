@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.2}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1534.1}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1528.7}$ |
@@ -148,8 +148,8 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1430.5}$ |
-| $\color{red}\text{141 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1429.6}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1427.3}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1429.6}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1427.0}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1426.1}$ |
@@ -162,7 +162,7 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1413.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
+| $\color{green}\text{155 }$ | $\color{green}\text{Ninja Turtles}$ | $\color{green}\text{1405.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1402.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
