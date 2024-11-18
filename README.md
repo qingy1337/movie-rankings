@@ -10,9 +10,9 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1632.7}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
-| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1621.3}$ |
+| $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
-| $\color{green}\text{5   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1614.7}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1614.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
@@ -33,11 +33,11 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1578.9}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1578.0}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1578.0}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
+| $\color{red}\text{30  }$ | $\color{red}\text{No Country for Old Men}$ | $\color{red}\text{1574.8}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -56,7 +56,7 @@ python3 mvr.py
 | $\color{green}\text{46  }$ | $\color{green}\text{Avengers: Age of Ultron}$ | $\color{green}\text{1549.7}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
-| $\color{red}\text{49  }$ | $\color{red}\text{Lord of the Rings}$ | $\color{red}\text{1546.4}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1546.2}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
