@@ -11,7 +11,7 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1635.6}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
+| $\color{red}\text{4   }$ | $\color{red}\text{Interstellar}$ | $\color{red}\text{1614.2}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1613.9}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1610.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
@@ -104,7 +104,7 @@ python3 mvr.py
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{green}\text{95  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1485.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.9}$ |
+| $\color{green}\text{97  }$ | $\color{green}\text{Exam}$ | $\color{green}\text{1484.1}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1481.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1481.0}$ |
 | $\color{red}\text{100 }$ | $\color{red}\text{Black Widow}$ | $\color{red}\text{1479.8}$ |
@@ -136,7 +136,7 @@ python3 mvr.py
 | $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
 | $\color{red}\text{127 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1448.8}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{green}\text{129 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1447.4}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
 | $\color{red}\text{130 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1446.4}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1444.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
@@ -177,6 +177,6 @@ python3 mvr.py
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1384.7}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
-| $\color{red}\text{170 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1378.8}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1378.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1376.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1371.8}$ |
