@@ -41,7 +41,7 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1573.6}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1572.5}$ |
-| $\color{green}\text{34  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1571.6}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1565.6}$ |
@@ -49,10 +49,10 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1562.9}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1561.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1560.9}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1558.9}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1556.4}$ |
-| $\color{red}\text{45  }$ | $\color{red}\text{Train to Busan}$ | $\color{red}\text{1555.0}$ |
+| $\color{green}\text{42  }$ | $\color{green}\text{Lost in Space}$ | $\color{green}\text{1559.5}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1558.9}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1555.0}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1552.0}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1549.1}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1378.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1378.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1377.1}$ |
-| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1371.8}$ |
+| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1368.7}$ |
