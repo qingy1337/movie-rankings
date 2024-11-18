@@ -11,7 +11,7 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1640.2}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
-| $\color{green}\text{4   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1617.7}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1617.7}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1612.3}$ |
 | $\color{green}\text{6   }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1611.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1610.1}$ |
@@ -68,9 +68,9 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.2}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
+| $\color{green}\text{61  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1534.5}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.2}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{green}\text{65  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1531.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1528.7}$ |
@@ -79,8 +79,8 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.9}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.4}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
+| $\color{red}\text{73  }$ | $\color{red}\text{Mission Impossible: Rogue Nation}$ | $\color{red}\text{1517.4}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.9}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1514.8}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
@@ -124,7 +124,7 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1457.2}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1457.2}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
