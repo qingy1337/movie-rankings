@@ -40,8 +40,8 @@ python3 mvr.py
 | $\color{black}\text{30  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1574.3}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1573.6}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{green}\text{33  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1572.5}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1569.4}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1568.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
@@ -96,10 +96,10 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1498.7}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1494.9}$ |
+| $\color{red}\text{89  }$ | $\color{red}\text{Star Trek: Picard}$ | $\color{red}\text{1493.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1491.1}$ |
-| $\color{red}\text{92  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1487.9}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
@@ -121,7 +121,7 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1461.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.8}$ |
-| $\color{green}\text{114 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1458.4}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1458.4}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1457.2}$ |
