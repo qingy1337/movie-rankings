@@ -88,10 +88,10 @@ python3 mvr.py
 | $\color{green}\text{78  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1511.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1505.0}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.4}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1499.8}$ |
+| $\color{green}\text{81  }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1504.1}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.4}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1497.1}$ |
@@ -136,7 +136,7 @@ python3 mvr.py
 | $\color{black}\text{126 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1448.8}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
-| $\color{red}\text{129 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1446.4}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1446.4}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1444.6}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
@@ -168,8 +168,8 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
+| $\color{red}\text{162 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1396.0}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1393.2}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
