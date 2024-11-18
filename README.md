@@ -64,7 +64,7 @@ python3 mvr.py
 | $\color{black}\text{54  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
-| $\color{green}\text{57  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1539.5}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.3}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.1}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
@@ -155,13 +155,13 @@ python3 mvr.py
 | $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1424.8}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1417.0}$ |
-| $\color{red}\text{150 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1415.7}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
-| $\color{black}\text{152 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1411.4}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1407.5}$ |
+| $\color{green}\text{148 }$ | $\color{green}\text{The Last Samurai}$ | $\color{green}\text{1417.4}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1417.0}$ |
+| $\color{red}\text{151 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1415.7}$ |
+| $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
+| $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1407.5}$ |
+| $\color{red}\text{154 }$ | $\color{red}\text{65}$ | $\color{red}\text{1406.6}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
@@ -174,7 +174,7 @@ python3 mvr.py
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1393.2}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
-| $\color{red}\text{167 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1387.7}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1384.7}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1383.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
