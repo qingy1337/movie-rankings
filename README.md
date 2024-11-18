@@ -18,7 +18,7 @@ python3 mvr.py
 | $\color{black}\text{8   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1604.0}$ |
 | $\color{green}\text{10  }$ | $\color{green}\text{Iron Man}$ | $\color{green}\text{1603.0}$ |
-| $\color{green}\text{11  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1602.8}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1602.8}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1600.9}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
@@ -70,8 +70,8 @@ python3 mvr.py
 | $\color{black}\text{60  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.4}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
+| $\color{green}\text{63  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1533.5}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{red}\text{65  }$ | $\color{red}\text{Zodiac}$ | $\color{red}\text{1527.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
@@ -92,10 +92,10 @@ python3 mvr.py
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.4}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
+| $\color{red}\text{88  }$ | $\color{red}\text{Shawshank Redemption}$ | $\color{red}\text{1493.9}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.0}$ |
@@ -147,7 +147,7 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1435.5}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1435.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1433.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
