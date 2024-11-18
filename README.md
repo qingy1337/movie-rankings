@@ -32,7 +32,7 @@ python3 mvr.py
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
-| $\color{red}\text{25  }$ | $\color{red}\text{The Hobbit}$ | $\color{red}\text{1578.6}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
@@ -54,7 +54,7 @@ python3 mvr.py
 | $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{green}\text{45  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1552.7}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
-| $\color{green}\text{47  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1552.2}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1552.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
 | $\color{green}\text{49  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1549.6}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
@@ -79,9 +79,9 @@ python3 mvr.py
 | $\color{green}\text{69  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1520.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.4}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
+| $\color{red}\text{74  }$ | $\color{red}\text{Guy Ritchie’s The Covenant}$ | $\color{red}\text{1518.2}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1513.0}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.4}$ |
@@ -128,7 +128,7 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
+| $\color{green}\text{121 }$ | $\color{green}\text{American Sniper}$ | $\color{green}\text{1454.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
