@@ -21,7 +21,7 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1607.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
+| $\color{red}\text{14  }$ | $\color{red}\text{Pirates of the Caribbean}$ | $\color{red}\text{1602.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1596.8}$ |
@@ -29,7 +29,7 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.2}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.3}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
-| $\color{green}\text{22  }$ | $\color{green}\text{The Hobbit}$ | $\color{green}\text{1584.7}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1584.7}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
@@ -66,8 +66,8 @@ python3 mvr.py
 | $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1538.7}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
+| $\color{green}\text{59  }$ | $\color{green}\text{Avatar}$ | $\color{green}\text{1538.8}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1538.7}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1536.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1535.7}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1535.2}$ |
@@ -121,7 +121,7 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1459.7}$ |
-| $\color{red}\text{114 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1458.5}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1458.5}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1458.4}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
