@@ -11,7 +11,7 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1632.7}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1621.3}$ |
-| $\color{green}\text{4   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1616.4}$ |
+| $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1609.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
@@ -37,7 +37,7 @@ python3 mvr.py
 | $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1571.7}$ |
+| $\color{green}\text{30  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1575.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -140,7 +140,7 @@ python3 mvr.py
 | $\color{black}\text{130 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{red}\text{133 }$ | $\color{red}\text{Jack Reacher: Never Go Back}$ | $\color{red}\text{1445.5}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1445.5}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.0}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
@@ -150,7 +150,7 @@ python3 mvr.py
 | $\color{red}\text{140 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1436.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1433.5}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1430.5}$ |
+| $\color{red}\text{143 }$ | $\color{red}\text{G.I.Joe movie}$ | $\color{red}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
