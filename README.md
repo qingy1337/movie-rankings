@@ -17,8 +17,8 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1603.0}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1602.8}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1606.6}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1603.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1600.9}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
@@ -73,7 +73,7 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1527.8}$ |
-| $\color{green}\text{66  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1525.2}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
@@ -118,7 +118,7 @@ python3 mvr.py
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1468.1}$ |
+| $\color{red}\text{111 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1464.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.1}$ |
@@ -154,7 +154,7 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.0}$ |
-| $\color{red}\text{147 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1424.8}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1424.8}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1420.8}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
