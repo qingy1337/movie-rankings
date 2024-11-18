@@ -59,7 +59,7 @@ python3 mvr.py
 | $\color{black}\text{49  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1548.5}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1547.4}$ |
-| $\color{red}\text{52  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1546.4}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.2}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1545.4}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
@@ -68,7 +68,7 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{red}\text{60  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1536.5}$ |
-| $\color{green}\text{61  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1535.2}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.2}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
@@ -112,7 +112,7 @@ python3 mvr.py
 | $\color{black}\text{102 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1476.8}$ |
-| $\color{black}\text{105 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1475.8}$ |
+| $\color{red}\text{105 }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1474.9}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.2}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
@@ -152,8 +152,8 @@ python3 mvr.py
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1426.0}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1424.4}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1423.5}$ |
+| $\color{green}\text{145 }$ | $\color{green}\text{Journey 2: The Mysterious Island}$ | $\color{green}\text{1424.4}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1424.4}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1422.9}$ |
 | $\color{red}\text{148 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1419.2}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
