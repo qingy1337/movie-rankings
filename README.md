@@ -49,7 +49,7 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.5}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
-| $\color{red}\text{42  }$ | $\color{red}\text{Captain America: The Winter Soldier}$ | $\color{red}\text{1557.0}$ |
+| $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1557.0}$ |
 | $\color{green}\text{43  }$ | $\color{green}\text{X-Men}$ | $\color{green}\text{1552.8}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.4}$ |
@@ -69,9 +69,9 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1533.8}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{green}\text{64  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1532.1}$ |
+| $\color{green}\text{62  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1534.4}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1533.8}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
@@ -144,7 +144,7 @@ python3 mvr.py
 | $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
 | $\color{red}\text{135 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1441.6}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
-| $\color{green}\text{137 }$ | $\color{green}\text{Rango}$ | $\color{green}\text{1439.3}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
 | $\color{red}\text{138 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1438.5}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1437.6}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1383.1}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
-| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1382.1}$ |
+| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1379.8}$ |
