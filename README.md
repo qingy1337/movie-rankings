@@ -73,11 +73,11 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{red}\text{66  }$ | $\color{red}\text{The Tomorrow War}$ | $\color{red}\text{1532.0}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1532.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
 | $\color{green}\text{69  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1524.1}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1520.3}$ |
+| $\color{green}\text{70  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1520.9}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1517.4}$ |
@@ -98,7 +98,7 @@ python3 mvr.py
 | $\color{red}\text{88  }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1497.8}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1487.9}$ |
+| $\color{red}\text{91  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1487.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1486.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.3}$ |
@@ -120,7 +120,7 @@ python3 mvr.py
 | $\color{black}\text{110 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.8}$ |
-| $\color{green}\text{113 }$ | $\color{green}\text{Onward}$ | $\color{green}\text{1459.7}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1459.7}$ |
 | $\color{red}\text{114 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1458.5}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1458.4}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
