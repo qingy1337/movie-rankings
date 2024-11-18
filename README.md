@@ -31,17 +31,17 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1577.4}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1580.6}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1574.3}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1573.6}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
-| $\color{green}\text{34  }$ | $\color{green}\text{Black Panther}$ | $\color{green}\text{1571.4}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1569.4}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1568.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
@@ -151,7 +151,7 @@ python3 mvr.py
 | $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1427.0}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
-| $\color{red}\text{144 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1426.0}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1426.0}$ |
 | $\color{red}\text{145 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1424.4}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1423.5}$ |
@@ -165,8 +165,8 @@ python3 mvr.py
 | $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1402.4}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1399.1}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1399.1}$ |
+| $\color{red}\text{159 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1398.8}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1398.8}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1395.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
