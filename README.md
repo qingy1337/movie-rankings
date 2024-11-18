@@ -46,8 +46,8 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1565.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.5}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
+| $\color{red}\text{39  }$ | $\color{red}\text{Jack Ryan}$ | $\color{red}\text{1561.5}$ |
+| $\color{green}\text{40  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1557.5}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
@@ -69,7 +69,7 @@ python3 mvr.py
 | $\color{black}\text{59  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1535.5}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
-| $\color{green}\text{62  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1534.4}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.4}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{red}\text{65  }$ | $\color{red}\text{Zodiac}$ | $\color{red}\text{1527.8}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1383.1}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
 | $\color{red}\text{171 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1382.0}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1379.8}$ |
+| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1379.8}$ |
