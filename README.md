@@ -26,8 +26,8 @@ python3 mvr.py
 | $\color{black}\text{16  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1594.2}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1590.0}$ |
+| $\color{green}\text{19  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1593.6}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1585.3}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
@@ -123,7 +123,7 @@ python3 mvr.py
 | $\color{black}\text{113 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1459.2}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
-| $\color{green}\text{116 }$ | $\color{green}\text{Mission Impossible 1}$ | $\color{green}\text{1456.6}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1456.6}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
@@ -141,11 +141,11 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
-| $\color{black}\text{134 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.6}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.6}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
+| $\color{red}\text{138 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1438.0}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1435.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
@@ -178,5 +178,5 @@ python3 mvr.py
 | $\color{black}\text{168 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1383.1}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
-| $\color{red}\text{171 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1382.0}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1382.0}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1379.8}$ |
