@@ -10,7 +10,7 @@ python3 mvr.py
 |------|------------------------|--------|
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1629.5}$ |
-| $\color{green}\text{3   }$ | $\color{green}\text{Wednesday}$ | $\color{green}\text{1621.3}$ |
+| $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1621.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{green}\text{5   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1608.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
@@ -35,13 +35,13 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1575.2}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1570.0}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1567.2}$ |
+| $\color{green}\text{28  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1572.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1570.0}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1565.8}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1563.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
@@ -65,7 +65,7 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{red}\text{58  }$ | $\color{red}\text{The Matrix}$ | $\color{red}\text{1535.0}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1532.9}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
@@ -96,10 +96,10 @@ python3 mvr.py
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1496.9}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
-| $\color{red}\text{92  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1492.1}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1494.8}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
+| $\color{red}\text{91  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1492.1}$ |
+| $\color{red}\text{92  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1492.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
