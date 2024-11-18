@@ -55,14 +55,14 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1548.5}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1545.3}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1542.6}$ |
+| $\color{green}\text{48  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1546.2}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1545.3}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1540.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
+| $\color{red}\text{55  }$ | $\color{red}\text{Zodiac}$ | $\color{red}\text{1536.5}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
@@ -117,7 +117,7 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
 | $\color{green}\text{108 }$ | $\color{green}\text{The Man in the Iron Mask}$ | $\color{green}\text{1469.8}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
-| $\color{green}\text{110 }$ | $\color{green}\text{John Wick}$ | $\color{green}\text{1468.5}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1463.6}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1462.9}$ |
@@ -134,7 +134,7 @@ python3 mvr.py
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{red}\text{127 }$ | $\color{red}\text{GoldenEye}$ | $\color{red}\text{1450.7}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1450.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1448.8}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
