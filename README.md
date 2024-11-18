@@ -43,14 +43,14 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1565.3}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1565.3}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
-| $\color{green}\text{39  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1561.8}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.5}$ |
+| $\color{green}\text{36  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1566.1}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1565.3}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1565.3}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
+| $\color{green}\text{40  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1561.8}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
-| $\color{green}\text{43  }$ | $\color{green}\text{Avengers: Age of Ultron}$ | $\color{green}\text{1554.9}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
@@ -65,7 +65,7 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1540.7}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.1}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{red}\text{58  }$ | $\color{red}\text{Halo}$ | $\color{red}\text{1536.7}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1536.7}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1535.5}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
@@ -107,11 +107,11 @@ python3 mvr.py
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1476.6}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1476.6}$ |
+| $\color{red}\text{104 }$ | $\color{red}\text{Zootopia}$ | $\color{red}\text{1475.4}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.1}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.6}$ |
