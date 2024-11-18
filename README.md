@@ -16,12 +16,12 @@ python3 mvr.py
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1612.3}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1612.0}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1611.0}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1609.4}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
+| $\color{red}\text{10  }$ | $\color{red}\text{The Prestige}$ | $\color{red}\text{1608.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1607.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.4}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1603.7}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1596.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1596.8}$ |
@@ -31,7 +31,7 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1586.7}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1584.7}$ |
-| $\color{green}\text{24  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1583.0}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1583.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
 | $\color{green}\text{27  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1580.4}$ |
@@ -173,7 +173,7 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1386.3}$ |
-| $\color{red}\text{166 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1384.7}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1384.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1383.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1381.4}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1378.8}$ |
