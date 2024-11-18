@@ -47,7 +47,7 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1565.3}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{red}\text{39  }$ | $\color{red}\text{X-Files}$ | $\color{red}\text{1562.6}$ |
-| $\color{green}\text{40  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1561.8}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1561.8}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1554.9}$ |
@@ -73,18 +73,18 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1527.8}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
+| $\color{green}\text{66  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1525.8}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1514.6}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1513.0}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1513.0}$ |
+| $\color{red}\text{77  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1512.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.9}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
@@ -127,7 +127,7 @@ python3 mvr.py
 | $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1456.6}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
-| $\color{red}\text{120 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1454.9}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
