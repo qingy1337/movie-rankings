@@ -39,10 +39,10 @@ python3 mvr.py
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{green}\text{30  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1571.7}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
-| $\color{red}\text{35  }$ | $\color{red}\text{Doctor Strange}$ | $\color{red}\text{1566.9}$ |
+| $\color{green}\text{32  }$ | $\color{green}\text{Doctor Strange}$ | $\color{green}\text{1571.5}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
@@ -84,7 +84,7 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{red}\text{76  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1512.2}$ |
-| $\color{green}\text{77  }$ | $\color{green}\text{The Spy Next Door}$ | $\color{green}\text{1510.9}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1510.9}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.9}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
@@ -99,12 +99,12 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1487.1}$ |
-| $\color{green}\text{93  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1486.5}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
+| $\color{green}\text{92  }$ | $\color{green}\text{Total Recall}$ | $\color{green}\text{1486.5}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
+| $\color{red}\text{97  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1482.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1482.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1480.9}$ |
@@ -146,7 +146,7 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{red}\text{138 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1440.1}$ |
-| $\color{red}\text{139 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1438.4}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1438.4}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1433.5}$ |
