@@ -64,7 +64,7 @@ python3 mvr.py
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1540.7}$ |
-| $\color{green}\text{57  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1539.1}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.1}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1535.5}$ |
@@ -163,20 +163,20 @@ python3 mvr.py
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
-| $\color{red}\text{156 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1405.4}$ |
+| $\color{black}\text{156 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1404.9}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1400.4}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1400.4}$ |
-| $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
-| $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1397.7}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1397.7}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{Heidi}$ | $\color{red}\text{1397.7}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{red}\text{167 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1391.3}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1383.1}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
-| $\color{black}\text{171 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1382.0}$ |
+| $\color{green}\text{169 }$ | $\color{green}\text{Darkest Hour}$ | $\color{green}\text{1384.7}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1383.1}$ |
+| $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1379.8}$ |
