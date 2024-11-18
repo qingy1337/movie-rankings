@@ -17,8 +17,8 @@ python3 mvr.py
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1606.5}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1604.0}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1600.9}$ |
-| $\color{black}\text{11  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1600.7}$ |
+| $\color{green}\text{10  }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1602.8}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1600.9}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
@@ -80,7 +80,7 @@ python3 mvr.py
 | $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.4}$ |
-| $\color{red}\text{73  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1518.8}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1513.0}$ |
@@ -146,8 +146,8 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
 | $\color{red}\text{138 }$ | $\color{red}\text{Independence Day}$ | $\color{red}\text{1438.5}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1437.6}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1435.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1433.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
@@ -157,7 +157,7 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1425.2}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.0}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{green}\text{150 }$ | $\color{green}\text{Crouching Tiger Hidden Dragon}$ | $\color{green}\text{1418.0}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1418.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
