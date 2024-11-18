@@ -25,7 +25,7 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
-| $\color{green}\text{18  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1594.2}$ |
+| $\color{black}\text{18  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1594.2}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1590.0}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
@@ -118,8 +118,8 @@ python3 mvr.py
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1463.6}$ |
+| $\color{green}\text{111 }$ | $\color{green}\text{World War Z}$ | $\color{green}\text{1468.1}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1462.9}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
@@ -134,7 +134,7 @@ python3 mvr.py
 | $\color{black}\text{124 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1451.7}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.1}$ |
-| $\color{red}\text{127 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1449.5}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
@@ -144,10 +144,10 @@ python3 mvr.py
 | $\color{black}\text{134 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.0}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1441.3}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1437.6}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
+| $\color{red}\text{139 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1437.6}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1436.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1433.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1430.5}$ |
