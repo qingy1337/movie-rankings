@@ -14,7 +14,7 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1614.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{The Martian}$ | $\color{green}\text{1607.6}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1603.0}$ |
@@ -44,9 +44,9 @@ python3 mvr.py
 | $\color{black}\text{34  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
 | $\color{green}\text{36  }$ | $\color{green}\text{Jack Ryan}$ | $\color{green}\text{1566.1}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1565.3}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1565.3}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1565.3}$ |
+| $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
+| $\color{red}\text{39  }$ | $\color{red}\text{X-Files}$ | $\color{red}\text{1562.6}$ |
 | $\color{green}\text{40  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1561.8}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
@@ -56,9 +56,9 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1546.2}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1546.8}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1546.2}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
