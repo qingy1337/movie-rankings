@@ -23,7 +23,7 @@ python3 mvr.py
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
-| $\color{green}\text{16  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1597.1}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1597.1}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
 | $\color{green}\text{19  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1594.7}$ |
@@ -46,9 +46,9 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1565.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1565.3}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.5}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
-| $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.5}$ |
+| $\color{green}\text{39  }$ | $\color{green}\text{Scream V}$ | $\color{green}\text{1561.8}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1561.5}$ |
+| $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{green}\text{43  }$ | $\color{green}\text{Avengers: Age of Ultron}$ | $\color{green}\text{1554.9}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
@@ -110,7 +110,7 @@ python3 mvr.py
 | $\color{black}\text{100 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
-| $\color{red}\text{103 }$ | $\color{red}\text{The Ninth Gate}$ | $\color{red}\text{1478.0}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1476.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.1}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
@@ -122,12 +122,12 @@ python3 mvr.py
 | $\color{black}\text{112 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{green}\text{114 }$ | $\color{green}\text{School of Rock}$ | $\color{green}\text{1460.1}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1459.2}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
-| $\color{green}\text{117 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1457.8}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1456.6}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
+| $\color{green}\text{116 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1457.8}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1456.6}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
+| $\color{red}\text{120 }$ | $\color{red}\text{The Mask}$ | $\color{red}\text{1454.9}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
