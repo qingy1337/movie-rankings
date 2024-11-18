@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1606.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1604.0}$ |
-| $\color{green}\text{13  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1603.9}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1433.9}$ |
 | $\color{red}\text{141 }$ | $\color{red}\text{Mission Impossible 2}$ | $\color{red}\text{1430.5}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1427.3}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1427.3}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
 | $\color{green}\text{145 }$ | $\color{green}\text{Spooky Buddies}$ | $\color{green}\text{1425.1}$ |
@@ -168,14 +168,14 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1396.0}$ |
+| $\color{red}\text{161 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1395.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
 | $\color{red}\text{163 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1394.6}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1393.2}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
-| $\color{black}\text{168 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
+| $\color{green}\text{168 }$ | $\color{green}\text{AK-47 Kalashnikov}$ | $\color{green}\text{1383.0}$ |
 | $\color{red}\text{169 }$ | $\color{red}\text{Darkest Hour}$ | $\color{red}\text{1381.4}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1378.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1376.1}$ |
