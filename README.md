@@ -46,7 +46,7 @@ python3 mvr.py
 | $\color{black}\text{36  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1565.3}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
-| $\color{red}\text{39  }$ | $\color{red}\text{X-Files}$ | $\color{red}\text{1562.6}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1562.6}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1561.8}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
@@ -58,7 +58,7 @@ python3 mvr.py
 | $\color{green}\text{48  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1549.6}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
-| $\color{green}\text{51  }$ | $\color{green}\text{The Terminal List}$ | $\color{green}\text{1546.8}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
@@ -93,10 +93,10 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
+| $\color{green}\text{86  }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1497.5}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
+| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.0}$ |
 | $\color{green}\text{92  }$ | $\color{green}\text{Johnny English}$ | $\color{green}\text{1489.0}$ |
@@ -142,13 +142,13 @@ python3 mvr.py
 | $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.6}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.0}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1435.5}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.0}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1435.5}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
+| $\color{red}\text{141 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1435.0}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1426.1}$ |
