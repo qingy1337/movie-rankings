@@ -131,10 +131,10 @@ python3 mvr.py
 | $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1451.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
-| $\color{green}\text{126 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1449.0}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
+| $\color{green}\text{125 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1449.0}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
+| $\color{red}\text{127 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1448.8}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{green}\text{129 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1447.4}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1446.8}$ |
@@ -142,7 +142,7 @@ python3 mvr.py
 | $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1444.0}$ |
-| $\color{green}\text{135 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1438.8}$ |
+| $\color{black}\text{135 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.8}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1438.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
@@ -160,11 +160,11 @@ python3 mvr.py
 | $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1415.7}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
 | $\color{red}\text{152 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1413.8}$ |
-| $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1407.5}$ |
+| $\color{green}\text{153 }$ | $\color{green}\text{Awake}$ | $\color{green}\text{1408.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
-| $\color{red}\text{157 }$ | $\color{red}\text{65}$ | $\color{red}\text{1402.4}$ |
+| $\color{green}\text{157 }$ | $\color{green}\text{65}$ | $\color{green}\text{1402.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
