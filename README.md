@@ -29,9 +29,9 @@ python3 mvr.py
 | $\color{black}\text{19  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.2}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.3}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1584.7}$ |
-| $\color{green}\text{23  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1582.6}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
+| $\color{green}\text{22  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1586.7}$ |
+| $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1584.7}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1582.6}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
@@ -101,12 +101,12 @@ python3 mvr.py
 | $\color{black}\text{91  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1487.3}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1486.5}$ |
-| $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.3}$ |
-| $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1484.3}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1484.2}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1484.1}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.1}$ |
+| $\color{black}\text{94  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1484.3}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1484.2}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1484.1}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.1}$ |
+| $\color{red}\text{99  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1481.9}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.2}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
@@ -177,6 +177,6 @@ python3 mvr.py
 | $\color{red}\text{167 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1383.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1381.4}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1378.8}$ |
-| $\color{green}\text{170 }$ | $\color{green}\text{Jurassic World: Dominion}$ | $\color{green}\text{1378.7}$ |
+| $\color{black}\text{170 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1378.7}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1377.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1371.8}$ |
