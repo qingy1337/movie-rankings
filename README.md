@@ -31,7 +31,7 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
-| $\color{black}\text{24  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
+| $\color{red}\text{24  }$ | $\color{red}\text{Loki}$ | $\color{red}\text{1580.2}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1577.4}$ |
@@ -65,8 +65,8 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.3}$ |
+| $\color{green}\text{58  }$ | $\color{green}\text{Ip Man}$ | $\color{green}\text{1539.8}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.2}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
@@ -133,7 +133,7 @@ python3 mvr.py
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{green}\text{124 }$ | $\color{green}\text{Red Eye}$ | $\color{green}\text{1449.5}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.5}$ |
-| $\color{green}\text{126 }$ | $\color{green}\text{GoldenEye}$ | $\color{green}\text{1449.2}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1449.2}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1448.8}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
@@ -170,7 +170,7 @@ python3 mvr.py
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
 | $\color{red}\text{161 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1395.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
-| $\color{red}\text{163 }$ | $\color{red}\text{The Silence}$ | $\color{red}\text{1394.6}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1393.2}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
