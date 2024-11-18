@@ -89,7 +89,7 @@ python3 mvr.py
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
-| $\color{green}\text{82  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1499.8}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{green}\text{83  }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1499.8}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
@@ -152,13 +152,13 @@ python3 mvr.py
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1424.8}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
+| $\color{red}\text{146 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1423.5}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{green}\text{148 }$ | $\color{green}\text{The Last Samurai}$ | $\color{green}\text{1417.4}$ |
+| $\color{green}\text{148 }$ | $\color{green}\text{The Last Samurai}$ | $\color{green}\text{1418.8}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1417.0}$ |
-| $\color{red}\text{151 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1415.7}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1415.7}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1407.5}$ |
 | $\color{red}\text{154 }$ | $\color{red}\text{65}$ | $\color{red}\text{1406.6}$ |
