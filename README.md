@@ -51,17 +51,17 @@ python3 mvr.py
 | $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1548.5}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
+| $\color{green}\text{44  }$ | $\color{green}\text{Lord of the Rings}$ | $\color{green}\text{1551.4}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1548.5}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.6}$ |
-| $\color{green}\text{50  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1545.3}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
-| $\color{green}\text{52  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1542.6}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1545.3}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
+| $\color{green}\text{51  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1542.6}$ |
+| $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
+| $\color{red}\text{54  }$ | $\color{red}\text{My Name}$ | $\color{red}\text{1540.2}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{green}\text{57  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1535.9}$ |
