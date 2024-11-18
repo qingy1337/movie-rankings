@@ -33,10 +33,10 @@ python3 mvr.py
 | $\color{red}\text{23  }$ | $\color{red}\text{Maleficent}$ | $\color{red}\text{1579.7}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1578.9}$ |
 | $\color{red}\text{25  }$ | $\color{red}\text{Avengers: Infinity War}$ | $\color{red}\text{1578.6}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1576.3}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1573.5}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1578.0}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1576.3}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
@@ -66,7 +66,7 @@ python3 mvr.py
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{green}\text{57  }$ | $\color{green}\text{The Maze Runner: The Scorch Trials}$ | $\color{green}\text{1535.9}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
-| $\color{red}\text{59  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1534.8}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.0}$ |
@@ -107,11 +107,11 @@ python3 mvr.py
 | $\color{green}\text{97  }$ | $\color{green}\text{The Matrix Revolutions}$ | $\color{green}\text{1482.6}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1482.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1481.1}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1480.9}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
-| $\color{black}\text{104 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1480.9}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{red}\text{104 }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1476.6}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
@@ -166,7 +166,7 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.4}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
-| $\color{green}\text{159 }$ | $\color{green}\text{Heidi}$ | $\color{green}\text{1403.3}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1403.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
