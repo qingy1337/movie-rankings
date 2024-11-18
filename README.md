@@ -65,9 +65,9 @@ python3 mvr.py
 | $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
+| $\color{green}\text{58  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1535.2}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1533.8}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
@@ -118,7 +118,7 @@ python3 mvr.py
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1472.4}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
-| $\color{red}\text{111 }$ | $\color{red}\text{Rainman}$ | $\color{red}\text{1463.7}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1463.6}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1462.9}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
@@ -146,8 +146,8 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1441.3}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1440.1}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1438.4}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
+| $\color{red}\text{140 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1437.6}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1433.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1430.5}$ |
