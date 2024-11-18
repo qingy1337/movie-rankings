@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{red}\text{10  }$ | $\color{red}\text{The Prestige}$ | $\color{red}\text{1608.0}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1607.3}$ |
-| $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
+| $\color{green}\text{13  }$ | $\color{green}\text{The Maze Runner}$ | $\color{green}\text{1606.8}$ |
 | $\color{green}\text{14  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1603.7}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1596.8}$ |
@@ -34,10 +34,10 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1583.0}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
-| $\color{green}\text{27  }$ | $\color{green}\text{Avatar 2}$ | $\color{green}\text{1580.4}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1580.4}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
-| $\color{red}\text{30  }$ | $\color{red}\text{Maleficent}$ | $\color{red}\text{1576.4}$ |
+| $\color{black}\text{30  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1576.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1573.6}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1572.5}$ |
@@ -158,7 +158,7 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1419.2}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1411.4}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1410.8}$ |
+| $\color{red}\text{151 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1407.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1407.6}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1406.5}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.7}$ |
