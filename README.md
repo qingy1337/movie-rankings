@@ -18,7 +18,7 @@ python3 mvr.py
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
-| $\color{green}\text{11  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1606.5}$ |
+| $\color{black}\text{11  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1606.5}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
@@ -49,9 +49,9 @@ python3 mvr.py
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{red}\text{41  }$ | $\color{red}\text{Scream V}$ | $\color{red}\text{1559.5}$ |
-| $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1556.6}$ |
-| $\color{black}\text{44  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1554.9}$ |
+| $\color{green}\text{42  }$ | $\color{green}\text{Avengers: Age of Ultron}$ | $\color{green}\text{1559.3}$ |
+| $\color{black}\text{43  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
+| $\color{black}\text{44  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1556.6}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1552.2}$ |
@@ -126,10 +126,10 @@ python3 mvr.py
 | $\color{black}\text{116 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
+| $\color{red}\text{122 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1451.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
@@ -166,7 +166,7 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1402.0}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
