@@ -37,12 +37,12 @@ python3 mvr.py
 | $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1578.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1569.9}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1568.6}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
+| $\color{green}\text{30  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1571.7}$ |
+| $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
+| $\color{red}\text{35  }$ | $\color{red}\text{Doctor Strange}$ | $\color{red}\text{1566.9}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1562.1}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1561.9}$ |
@@ -55,14 +55,14 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1548.5}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{green}\text{48  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1546.2}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1546.2}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1545.3}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{red}\text{55  }$ | $\color{red}\text{Zodiac}$ | $\color{red}\text{1536.5}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1536.5}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
