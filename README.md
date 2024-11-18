@@ -14,7 +14,7 @@ python3 mvr.py
 | $\color{black}\text{4   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1609.7}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1608.4}$ |
-| $\color{green}\text{7   }$ | $\color{green}\text{Sneaky Pete}$ | $\color{green}\text{1607.2}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1602.8}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1600.9}$ |
@@ -34,7 +34,7 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1578.9}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1575.2}$ |
+| $\color{green}\text{27  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1575.7}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1573.5}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1572.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
@@ -50,7 +50,7 @@ python3 mvr.py
 | $\color{black}\text{40  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1558.4}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1557.4}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
-| $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
+| $\color{red}\text{43  }$ | $\color{red}\text{Mission Impossible: Fallout}$ | $\color{red}\text{1552.6}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1548.5}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
@@ -88,9 +88,9 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
 | $\color{green}\text{79  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1506.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
-| $\color{red}\text{81  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1501.6}$ |
-| $\color{red}\text{82  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1500.7}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
+| $\color{green}\text{81  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1501.6}$ |
+| $\color{red}\text{82  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1501.6}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.7}$ |
 | $\color{green}\text{84  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.2}$ |
@@ -132,13 +132,13 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1454.3}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1454.1}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
-| $\color{green}\text{125 }$ | $\color{green}\text{Pompeii}$ | $\color{green}\text{1453.5}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1453.3}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1451.6}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{red}\text{130 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1450.1}$ |
-| $\color{green}\text{131 }$ | $\color{green}\text{Jack Reacher: Never Go Back}$ | $\color{green}\text{1449.4}$ |
+| $\color{green}\text{131 }$ | $\color{green}\text{Jack Reacher: Never Go Back}$ | $\color{green}\text{1448.8}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
@@ -158,7 +158,7 @@ python3 mvr.py
 | $\color{black}\text{148 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1424.0}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1423.0}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{red}\text{151 }$ | $\color{red}\text{Saving Private Ryan}$ | $\color{red}\text{1417.3}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
