@@ -56,7 +56,7 @@ python3 mvr.py
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1552.2}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
-| $\color{green}\text{49  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1549.6}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
@@ -142,20 +142,20 @@ python3 mvr.py
 | $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.6}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.0}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1435.5}$ |
+| $\color{green}\text{135 }$ | $\color{green}\text{Terminator}$ | $\color{green}\text{1440.1}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1438.5}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.0}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{red}\text{141 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1435.0}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
-| $\color{black}\text{145 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.0}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1424.8}$ |
-| $\color{red}\text{147 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1424.3}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1420.8}$ |
+| $\color{black}\text{145 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1424.8}$ |
+| $\color{red}\text{146 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1424.3}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1420.8}$ |
+| $\color{red}\text{148 }$ | $\color{red}\text{Arrow}$ | $\color{red}\text{1420.4}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1384.7}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1379.8}$ |
-| $\color{red}\text{172 }$ | $\color{red}\text{Jurassic World: Dominion}$ | $\color{red}\text{1379.7}$ |
+| $\color{black}\text{172 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1379.7}$ |
