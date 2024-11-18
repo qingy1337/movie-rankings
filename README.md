@@ -72,7 +72,7 @@ python3 mvr.py
 | $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.2}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{green}\text{65  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1531.8}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1531.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1528.7}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
@@ -125,8 +125,8 @@ python3 mvr.py
 | $\color{black}\text{115 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1457.2}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1455.8}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
+| $\color{green}\text{118 }$ | $\color{green}\text{Selfless}$ | $\color{green}\text{1457.1}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1451.5}$ |
@@ -146,7 +146,7 @@ python3 mvr.py
 | $\color{black}\text{136 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
-| $\color{red}\text{139 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1434.3}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1434.3}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1430.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1427.0}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
@@ -161,8 +161,8 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1413.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1408.3}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
+| $\color{red}\text{155 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1404.7}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1402.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1399.1}$ |
