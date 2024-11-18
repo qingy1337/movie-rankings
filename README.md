@@ -85,9 +85,9 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1514.2}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.4}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
+| $\color{red}\text{80  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1505.0}$ |
 | $\color{green}\text{81  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1500.4}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
@@ -141,21 +141,21 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1444.0}$ |
-| $\color{green}\text{134 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1438.8}$ |
-| $\color{black}\text{135 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1438.8}$ |
-| $\color{black}\text{136 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
-| $\color{black}\text{137 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
-| $\color{black}\text{138 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
-| $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
-| $\color{black}\text{140 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1435.0}$ |
+| $\color{green}\text{134 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1442.4}$ |
+| $\color{green}\text{135 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1438.8}$ |
+| $\color{black}\text{136 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1438.8}$ |
+| $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1433.9}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
-| $\color{red}\text{146 }$ | $\color{red}\text{Journey 2: The Mysterious Island}$ | $\color{red}\text{1423.5}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1423.5}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{green}\text{148 }$ | $\color{green}\text{The Last Samurai}$ | $\color{green}\text{1418.8}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1417.0}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1415.7}$ |
