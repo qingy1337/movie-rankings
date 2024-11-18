@@ -86,12 +86,12 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1512.9}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1511.2}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1507.6}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1505.0}$ |
+| $\color{green}\text{79  }$ | $\color{green}\text{Titanic}$ | $\color{green}\text{1508.9}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1507.6}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1504.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1504.1}$ |
-| $\color{green}\text{84  }$ | $\color{green}\text{Beut Mind}$ | $\color{green}\text{1500.9}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1500.9}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
@@ -130,11 +130,11 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1452.7}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1451.5}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1450.3}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.5}$ |
-| $\color{black}\text{126 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1449.2}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1450.3}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.5}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1449.2}$ |
+| $\color{black}\text{126 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
+| $\color{red}\text{127 }$ | $\color{red}\text{Cars}$ | $\color{red}\text{1447.6}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1447.4}$ |
 | $\color{black}\text{129 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1446.0}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
