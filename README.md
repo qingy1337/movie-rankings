@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1617.7}$ |
-| $\color{green}\text{5   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1612.8}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1612.8}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1612.3}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1611.0}$ |
 | $\color{green}\text{8   }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1609.4}$ |
@@ -71,9 +71,9 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1536.5}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1535.7}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1535.2}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1534.5}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
-| $\color{black}\text{66  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
+| $\color{red}\text{66  }$ | $\color{red}\text{The Tomorrow War}$ | $\color{red}\text{1532.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1520.3}$ |
@@ -121,10 +121,10 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1461.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.8}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1458.4}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1457.2}$ |
+| $\color{green}\text{114 }$ | $\color{green}\text{Onward}$ | $\color{green}\text{1459.7}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1458.4}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1457.1}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
@@ -169,7 +169,7 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1398.8}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1397.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1394.6}$ |
-| $\color{red}\text{162 }$ | $\color{red}\text{Spectral}$ | $\color{red}\text{1392.6}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1392.6}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1390.2}$ |
