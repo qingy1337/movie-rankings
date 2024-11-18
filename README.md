@@ -53,7 +53,7 @@ python3 mvr.py
 | $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{green}\text{44  }$ | $\color{green}\text{Jack Reacher}$ | $\color{green}\text{1547.4}$ |
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
-| $\color{red}\text{46  }$ | $\color{red}\text{Lost in Space}$ | $\color{red}\text{1545.9}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1545.9}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1545.6}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
@@ -81,10 +81,10 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1516.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1516.2}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1515.8}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.4}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
-| $\color{black}\text{77  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1508.9}$ |
+| $\color{green}\text{74  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1514.4}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1514.4}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
@@ -98,7 +98,7 @@ python3 mvr.py
 | $\color{black}\text{88  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
-| $\color{green}\text{91  }$ | $\color{green}\text{A Boy Called Christmas}$ | $\color{green}\text{1493.0}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1493.0}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
@@ -112,9 +112,9 @@ python3 mvr.py
 | $\color{green}\text{102 }$ | $\color{green}\text{Black Widow}$ | $\color{green}\text{1480.8}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.1}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1479.1}$ |
-| $\color{green}\text{105 }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1479.1}$ |
-| $\color{black}\text{106 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
-| $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
+| $\color{black}\text{105 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1474.0}$ |
+| $\color{green}\text{107 }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1473.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
 | $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1467.9}$ |
