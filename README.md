@@ -33,10 +33,10 @@ python3 mvr.py
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1585.3}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1579.4}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1578.9}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1573.5}$ |
-| $\color{black}\text{29  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1572.0}$ |
+| $\color{green}\text{26  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1576.3}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1576.2}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
+| $\color{black}\text{29  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1573.5}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1571.5}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
@@ -117,10 +117,10 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1473.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1468.6}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1468.0}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1467.9}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
+| $\color{red}\text{113 }$ | $\color{red}\text{World War Z}$ | $\color{red}\text{1463.6}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
@@ -139,7 +139,7 @@ python3 mvr.py
 | $\color{black}\text{129 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1448.8}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{red}\text{132 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1448.6}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1445.7}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1440.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1437.9}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
-| $\color{green}\text{142 }$ | $\color{green}\text{Unbreakable}$ | $\color{green}\text{1433.5}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1433.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1430.5}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1428.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
