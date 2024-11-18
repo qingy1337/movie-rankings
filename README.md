@@ -15,8 +15,8 @@ python3 mvr.py
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1609.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1604.0}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1603.6}$ |
+| $\color{green}\text{8   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1606.5}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1600.9}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
@@ -80,10 +80,10 @@ python3 mvr.py
 | $\color{black}\text{70  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
-| $\color{red}\text{73  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1518.3}$ |
+| $\color{green}\text{73  }$ | $\color{green}\text{Guy Ritchie’s The Covenant}$ | $\color{green}\text{1519.4}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1513.3}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
+| $\color{red}\text{76  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1512.2}$ |
 | $\color{green}\text{77  }$ | $\color{green}\text{The Spy Next Door}$ | $\color{green}\text{1510.9}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{green}\text{79  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1507.9}$ |
@@ -151,11 +151,11 @@ python3 mvr.py
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1433.5}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1430.5}$ |
-| $\color{green}\text{144 }$ | $\color{green}\text{Horton hears a Who}$ | $\color{green}\text{1426.1}$ |
+| $\color{black}\text{144 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.4}$ |
-| $\color{red}\text{148 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1425.2}$ |
+| $\color{black}\text{148 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1425.2}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1416.3}$ |
@@ -169,10 +169,10 @@ python3 mvr.py
 | $\color{black}\text{159 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1403.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
-| $\color{green}\text{163 }$ | $\color{green}\text{Spectral}$ | $\color{green}\text{1400.4}$ |
-| $\color{red}\text{164 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1400.4}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
+| $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1400.4}$ |
+| $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
+| $\color{black}\text{164 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
+| $\color{red}\text{165 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1397.7}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1386.9}$ |
