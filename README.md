@@ -32,7 +32,7 @@ python3 mvr.py
 | $\color{green}\text{22  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1586.7}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1584.7}$ |
 | $\color{green}\text{24  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1583.0}$ |
-| $\color{green}\text{25  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1582.6}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1582.6}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
@@ -71,7 +71,7 @@ python3 mvr.py
 | $\color{black}\text{61  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1535.7}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.1}$ |
-| $\color{red}\text{64  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1533.6}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1533.6}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1532.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
@@ -91,9 +91,9 @@ python3 mvr.py
 | $\color{black}\text{81  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1505.0}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1504.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1504.1}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
+| $\color{green}\text{84  }$ | $\color{green}\text{Beut Mind}$ | $\color{green}\text{1500.9}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
 | $\color{green}\text{88  }$ | $\color{green}\text{Glass Castle}$ | $\color{green}\text{1496.1}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1493.8}$ |
@@ -139,7 +139,7 @@ python3 mvr.py
 | $\color{black}\text{129 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1446.0}$ |
 | $\color{black}\text{130 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1443.7}$ |
+| $\color{red}\text{132 }$ | $\color{red}\text{A.I. Artificial Intelligence}$ | $\color{red}\text{1442.3}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.9}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1440.7}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
