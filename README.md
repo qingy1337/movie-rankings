@@ -31,7 +31,7 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.8}$ |
-| $\color{green}\text{24  }$ | $\color{green}\text{Source Code}$ | $\color{green}\text{1580.5}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1580.5}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1578.0}$ |
@@ -114,23 +114,23 @@ python3 mvr.py
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.1}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.6}$ |
-| $\color{red}\text{107 }$ | $\color{red}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{red}\text{1472.3}$ |
+| $\color{black}\text{107 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1472.3}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
-| $\color{black}\text{109 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
+| $\color{black}\text{109 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
+| $\color{red}\text{112 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1462.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1459.8}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
-| $\color{black}\text{118 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
-| $\color{black}\text{119 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{121 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
-| $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1451.6}$ |
+| $\color{green}\text{116 }$ | $\color{green}\text{Mission Impossible 1}$ | $\color{green}\text{1457.9}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
+| $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
+| $\color{black}\text{122 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
