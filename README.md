@@ -13,13 +13,13 @@ python3 mvr.py
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1614.7}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
-| $\color{black}\text{8   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
-| $\color{black}\text{9   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
-| $\color{black}\text{10  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1606.6}$ |
+| $\color{green}\text{6   }$ | $\color{green}\text{Ant-Man}$ | $\color{green}\text{1610.1}$ |
+| $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
+| $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
+| $\color{black}\text{9   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
+| $\color{black}\text{10  }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1604.0}$ |
-| $\color{green}\text{12  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1603.6}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1603.6}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
@@ -130,9 +130,9 @@ python3 mvr.py
 | $\color{black}\text{120 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1454.9}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
-| $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
-| $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
-| $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
+| $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
+| $\color{black}\text{124 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
+| $\color{red}\text{125 }$ | $\color{red}\text{Red Eye}$ | $\color{red}\text{1449.1}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
@@ -176,7 +176,7 @@ python3 mvr.py
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{red}\text{167 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1387.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1384.7}$ |
-| $\color{red}\text{169 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1383.8}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1383.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1376.1}$ |
 | $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1375.1}$ |
