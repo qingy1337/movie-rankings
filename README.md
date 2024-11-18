@@ -86,7 +86,7 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
-| $\color{green}\text{79  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1506.2}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
 | $\color{red}\text{81  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1501.6}$ |
 | $\color{green}\text{82  }$ | $\color{green}\text{Top Gun}$ | $\color{green}\text{1501.0}$ |
@@ -100,11 +100,11 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
-| $\color{red}\text{93  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1487.1}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1487.1}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.2}$ |
+| $\color{green}\text{96  }$ | $\color{green}\text{The Ring 2}$ | $\color{green}\text{1484.9}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1481.1}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1480.9}$ |
@@ -127,7 +127,7 @@ python3 mvr.py
 | $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
-| $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1455.6}$ |
+| $\color{red}\text{120 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1454.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1454.3}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1454.1}$ |
