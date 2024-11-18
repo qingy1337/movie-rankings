@@ -99,7 +99,7 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1494.9}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1491.1}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1488.4}$ |
+| $\color{red}\text{92  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1487.9}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{red}\text{94  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1486.3}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
@@ -121,11 +121,11 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1461.3}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.8}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
+| $\color{green}\text{114 }$ | $\color{green}\text{American Made}$ | $\color{green}\text{1458.4}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1457.2}$ |
-| $\color{green}\text{118 }$ | $\color{green}\text{Selfless}$ | $\color{green}\text{1457.1}$ |
+| $\color{black}\text{118 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1457.1}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{121 }$ | $\color{black}\text{The Mask}$ | $\color{black}\text{1452.7}$ |
@@ -162,7 +162,7 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1413.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
-| $\color{red}\text{155 }$ | $\color{red}\text{Gravity}$ | $\color{red}\text{1404.7}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.7}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1402.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1399.1}$ |
