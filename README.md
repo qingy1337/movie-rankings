@@ -52,12 +52,12 @@ python3 mvr.py
 | $\color{black}\text{42  }$ | $\color{black}\text{Train to Busan}$ | $\color{black}\text{1557.2}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1554.9}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
-| $\color{green}\text{46  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1552.2}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
-| $\color{green}\text{48  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1549.6}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
+| $\color{green}\text{45  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1552.7}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
+| $\color{green}\text{47  }$ | $\color{green}\text{Captain America: Civil War}$ | $\color{green}\text{1552.2}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
+| $\color{green}\text{49  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1549.6}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
@@ -67,11 +67,11 @@ python3 mvr.py
 | $\color{black}\text{57  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1536.7}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1535.5}$ |
-| $\color{black}\text{61  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
-| $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.4}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.4}$ |
+| $\color{black}\text{62  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
+| $\color{red}\text{64  }$ | $\color{red}\text{The Man Who Knew Infinity}$ | $\color{red}\text{1529.7}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1527.8}$ |
 | $\color{green}\text{66  }$ | $\color{green}\text{Locke and Key}$ | $\color{green}\text{1525.8}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
@@ -99,7 +99,7 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.0}$ |
-| $\color{green}\text{92  }$ | $\color{green}\text{Johnny English}$ | $\color{green}\text{1489.0}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1489.0}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
@@ -172,7 +172,7 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1397.7}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1393.2}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1393.2}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1391.3}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1386.5}$ |
