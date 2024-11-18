@@ -31,7 +31,7 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
-| $\color{green}\text{24  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1580.6}$ |
+| $\color{black}\text{24  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
@@ -103,13 +103,13 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{red}\text{94  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1486.3}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1484.2}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1484.1}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.1}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.2}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
+| $\color{green}\text{96  }$ | $\color{green}\text{Skyfall}$ | $\color{green}\text{1484.3}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1484.2}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1484.1}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.1}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.2}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1476.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1475.8}$ |
@@ -153,9 +153,9 @@ python3 mvr.py
 | $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1424.4}$ |
-| $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1423.5}$ |
-| $\color{green}\text{148 }$ | $\color{green}\text{Saving Private Ryan}$ | $\color{green}\text{1422.9}$ |
+| $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1423.5}$ |
+| $\color{green}\text{147 }$ | $\color{green}\text{Saving Private Ryan}$ | $\color{green}\text{1422.9}$ |
+| $\color{red}\text{148 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1419.2}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1415.7}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1414.1}$ |
@@ -166,7 +166,7 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1402.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1399.1}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{The Mask of Zorro}$ | $\color{red}\text{1398.8}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1398.8}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1394.6}$ |
 | $\color{red}\text{162 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1394.4}$ |
