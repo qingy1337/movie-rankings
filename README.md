@@ -20,7 +20,7 @@ python3 mvr.py
 | $\color{black}\text{10  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1606.6}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1603.0}$ |
-| $\color{green}\text{13  }$ | $\color{green}\text{Pirates of the Caribbean}$ | $\color{green}\text{1602.9}$ |
+| $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1597.1}$ |
@@ -38,12 +38,12 @@ python3 mvr.py
 | $\color{black}\text{28  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
-| $\color{black}\text{31  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
-| $\color{black}\text{32  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1571.5}$ |
-| $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{black}\text{34  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1569.3}$ |
-| $\color{black}\text{35  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1567.4}$ |
+| $\color{green}\text{31  }$ | $\color{green}\text{Tenet}$ | $\color{green}\text{1572.6}$ |
+| $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
+| $\color{black}\text{33  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1571.5}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
+| $\color{black}\text{35  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1569.3}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1567.5}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1562.6}$ |
@@ -77,13 +77,13 @@ python3 mvr.py
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1520.3}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
-| $\color{black}\text{74  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1518.2}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.1}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
+| $\color{black}\text{73  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1518.2}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.1}$ |
+| $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
+| $\color{red}\text{76  }$ | $\color{red}\text{Catch Me If You Can}$ | $\color{red}\text{1514.2}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.4}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.9}$ |
@@ -146,7 +146,7 @@ python3 mvr.py
 | $\color{red}\text{136 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1438.5}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1438.0}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
-| $\color{red}\text{139 }$ | $\color{red}\text{Rango}$ | $\color{red}\text{1435.9}$ |
+| $\color{black}\text{139 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1435.0}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
