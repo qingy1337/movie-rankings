@@ -60,7 +60,7 @@ python3 mvr.py
 | $\color{black}\text{50  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1545.3}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
-| $\color{green}\text{53  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1541.8}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
@@ -75,12 +75,12 @@ python3 mvr.py
 | $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1520.5}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
-| $\color{black}\text{70  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1520.1}$ |
-| $\color{black}\text{71  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
-| $\color{black}\text{72  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
-| $\color{black}\text{73  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.4}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1520.1}$ |
+| $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
+| $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.4}$ |
+| $\color{red}\text{73  }$ | $\color{red}\text{The Mist}$ | $\color{red}\text{1518.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{green}\text{76  }$ | $\color{green}\text{Gladiator}$ | $\color{green}\text{1513.0}$ |
@@ -128,7 +128,7 @@ python3 mvr.py
 | $\color{black}\text{118 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1453.7}$ |
-| $\color{red}\text{121 }$ | $\color{red}\text{Sweet Tooth}$ | $\color{red}\text{1453.6}$ |
+| $\color{black}\text{121 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1453.6}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1453.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1452.6}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1451.7}$ |
@@ -157,8 +157,8 @@ python3 mvr.py
 | $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1425.2}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.0}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1416.3}$ |
+| $\color{green}\text{150 }$ | $\color{green}\text{Crouching Tiger Hidden Dragon}$ | $\color{green}\text{1418.0}$ |
+| $\color{black}\text{151 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
