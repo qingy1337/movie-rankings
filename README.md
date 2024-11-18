@@ -62,7 +62,7 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{green}\text{55  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1541.0}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1540.7}$ |
 | $\color{green}\text{57  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1539.1}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
@@ -72,11 +72,11 @@ python3 mvr.py
 | $\color{black}\text{62  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.4}$ |
 | $\color{green}\text{63  }$ | $\color{green}\text{The Tomorrow War}$ | $\color{green}\text{1533.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{red}\text{65  }$ | $\color{red}\text{Zodiac}$ | $\color{red}\text{1527.8}$ |
+| $\color{black}\text{65  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1527.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
-| $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
-| $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
-| $\color{black}\text{69  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1520.1}$ |
+| $\color{green}\text{67  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1524.5}$ |
+| $\color{black}\text{68  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.4}$ |
@@ -154,8 +154,8 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
-| $\color{black}\text{147 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1425.2}$ |
-| $\color{black}\text{148 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.0}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.0}$ |
+| $\color{red}\text{148 }$ | $\color{red}\text{Rampage}$ | $\color{red}\text{1420.8}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
 | $\color{black}\text{151 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
