@@ -76,7 +76,7 @@ python3 mvr.py
 | $\color{black}\text{66  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1532.0}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1525.8}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1525.2}$ |
-| $\color{green}\text{69  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1524.1}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1524.1}$ |
 | $\color{green}\text{70  }$ | $\color{green}\text{Bloodhounds}$ | $\color{green}\text{1520.9}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
@@ -95,7 +95,7 @@ python3 mvr.py
 | $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1498.4}$ |
-| $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.8}$ |
+| $\color{red}\text{88  }$ | $\color{red}\text{Glass Castle}$ | $\color{red}\text{1496.1}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1493.8}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{red}\text{91  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1487.3}$ |
@@ -117,8 +117,8 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.2}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1466.1}$ |
-| $\color{black}\text{110 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.0}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
+| $\color{green}\text{110 }$ | $\color{green}\text{World War Z}$ | $\color{green}\text{1466.1}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.0}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.8}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1459.7}$ |
 | $\color{red}\text{114 }$ | $\color{red}\text{John Wick}$ | $\color{red}\text{1458.5}$ |
@@ -174,7 +174,7 @@ python3 mvr.py
 | $\color{black}\text{164 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
 | $\color{red}\text{166 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1387.1}$ |
-| $\color{red}\text{167 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1386.3}$ |
+| $\color{black}\text{167 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1386.3}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1381.4}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1378.8}$ |
 | $\color{green}\text{170 }$ | $\color{green}\text{Jurassic World: Dominion}$ | $\color{green}\text{1378.7}$ |
