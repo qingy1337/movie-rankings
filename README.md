@@ -21,9 +21,9 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1603.0}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1597.1}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1600.9}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1597.7}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.7}$ |
@@ -84,7 +84,7 @@ python3 mvr.py
 | $\color{black}\text{74  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.1}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1514.2}$ |
-| $\color{green}\text{77  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1512.7}$ |
+| $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1512.4}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
@@ -117,10 +117,10 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1472.3}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
-| $\color{green}\text{110 }$ | $\color{green}\text{Onward}$ | $\color{green}\text{1464.5}$ |
-| $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
-| $\color{black}\text{112 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1462.3}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
+| $\color{black}\text{111 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
+| $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1462.3}$ |
+| $\color{green}\text{113 }$ | $\color{green}\text{Onward}$ | $\color{green}\text{1460.7}$ |
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
@@ -147,7 +147,7 @@ python3 mvr.py
 | $\color{black}\text{137 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1435.0}$ |
-| $\color{red}\text{140 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1433.2}$ |
+| $\color{black}\text{140 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1433.2}$ |
 | $\color{red}\text{141 }$ | $\color{red}\text{All Quiet on The Western Front}$ | $\color{red}\text{1431.0}$ |
 | $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
