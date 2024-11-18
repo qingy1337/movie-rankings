@@ -21,10 +21,10 @@ python3 mvr.py
 | $\color{black}\text{11  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1600.6}$ |
 | $\color{black}\text{12  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1599.4}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{Iron Man}$ | $\color{black}\text{1599.4}$ |
-| $\color{black}\text{14  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
-| $\color{black}\text{15  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
-| $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
-| $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1594.7}$ |
+| $\color{green}\text{14  }$ | $\color{green}\text{Star Wars}$ | $\color{green}\text{1597.7}$ |
+| $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
+| $\color{black}\text{16  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
+| $\color{black}\text{17  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1590.0}$ |
 | $\color{black}\text{19  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
@@ -92,7 +92,7 @@ python3 mvr.py
 | $\color{red}\text{82  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1500.7}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
 | $\color{green}\text{84  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1500.2}$ |
-| $\color{green}\text{85  }$ | $\color{green}\text{Beut Mind}$ | $\color{green}\text{1499.5}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
@@ -102,7 +102,7 @@ python3 mvr.py
 | $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{red}\text{93  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1487.1}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
-| $\color{red}\text{95  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1486.2}$ |
+| $\color{black}\text{95  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.2}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
@@ -166,10 +166,10 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1406.3}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1405.3}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
-| $\color{black}\text{161 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
-| $\color{black}\text{162 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1402.3}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1402.3}$ |
+| $\color{red}\text{162 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1402.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1400.9}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1400.5}$ |
