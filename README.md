@@ -11,7 +11,7 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1640.2}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1614.2}$ |
+| $\color{green}\text{4   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1617.7}$ |
 | $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1612.3}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1610.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
@@ -32,7 +32,7 @@ python3 mvr.py
 | $\color{black}\text{22  }$ | $\color{black}\text{Avengers: Infinity War}$ | $\color{black}\text{1582.3}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
-| $\color{green}\text{25  }$ | $\color{green}\text{The Menu}$ | $\color{green}\text{1579.9}$ |
+| $\color{black}\text{25  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1577.4}$ |
@@ -120,11 +120,11 @@ python3 mvr.py
 | $\color{black}\text{110 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1462.3}$ |
-| $\color{black}\text{113 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1460.7}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.1}$ |
-| $\color{black}\text{115 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
-| $\color{black}\text{116 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
-| $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
+| $\color{black}\text{113 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1460.1}$ |
+| $\color{black}\text{114 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1458.0}$ |
+| $\color{black}\text{115 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1457.9}$ |
+| $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1457.8}$ |
+| $\color{red}\text{117 }$ | $\color{red}\text{Onward}$ | $\color{red}\text{1457.2}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{American Sniper}$ | $\color{black}\text{1454.8}$ |
@@ -166,7 +166,7 @@ python3 mvr.py
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1402.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{The BFG}$ | $\color{red}\text{1399.1}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1399.1}$ |
 | $\color{red}\text{160 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1398.8}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1395.8}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1395.3}$ |
