@@ -103,13 +103,13 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1487.3}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1484.1}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.1}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.2}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{green}\text{96  }$ | $\color{green}\text{M3GAN}$ | $\color{green}\text{1484.2}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1484.1}$ |
+| $\color{black}\text{98  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.1}$ |
+| $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1480.4}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1480.2}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1479.8}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
 | $\color{green}\text{104 }$ | $\color{green}\text{Wrath of Man}$ | $\color{green}\text{1476.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1475.8}$ |
@@ -148,11 +148,11 @@ python3 mvr.py
 | $\color{black}\text{138 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
 | $\color{red}\text{139 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1434.3}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1430.5}$ |
-| $\color{black}\text{141 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1429.6}$ |
-| $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1427.0}$ |
-| $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
-| $\color{black}\text{144 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
-| $\color{red}\text{145 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1426.0}$ |
+| $\color{black}\text{141 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1427.0}$ |
+| $\color{black}\text{142 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
+| $\color{black}\text{143 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.4}$ |
+| $\color{red}\text{144 }$ | $\color{red}\text{Spooky Buddies}$ | $\color{red}\text{1426.0}$ |
+| $\color{red}\text{145 }$ | $\color{red}\text{Terminator}$ | $\color{red}\text{1424.4}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1424.3}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1423.5}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
@@ -162,7 +162,7 @@ python3 mvr.py
 | $\color{black}\text{152 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1413.8}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1408.3}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
-| $\color{green}\text{155 }$ | $\color{green}\text{Ninja Turtles}$ | $\color{green}\text{1405.8}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{65}$ | $\color{black}\text{1402.4}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
