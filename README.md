@@ -31,11 +31,11 @@ python3 mvr.py
 | $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{green}\text{22  }$ | $\color{green}\text{Avengers: Infinity War}$ | $\color{green}\text{1586.7}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1584.7}$ |
-| $\color{green}\text{24  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1582.6}$ |
-| $\color{black}\text{25  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
-| $\color{black}\text{26  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
-| $\color{black}\text{27  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
-| $\color{black}\text{28  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1580.0}$ |
+| $\color{green}\text{24  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1583.0}$ |
+| $\color{green}\text{25  }$ | $\color{green}\text{Maleficent}$ | $\color{green}\text{1582.6}$ |
+| $\color{black}\text{26  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1574.3}$ |
@@ -47,7 +47,7 @@ python3 mvr.py
 | $\color{black}\text{37  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1565.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1563.5}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1562.9}$ |
-| $\color{red}\text{40  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1561.2}$ |
+| $\color{black}\text{40  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1561.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1560.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1558.9}$ |
@@ -87,7 +87,7 @@ python3 mvr.py
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1511.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
-| $\color{green}\text{80  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1507.6}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1507.6}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1505.0}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1504.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1504.1}$ |
@@ -172,8 +172,8 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1392.6}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1392.0}$ |
-| $\color{black}\text{165 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
-| $\color{black}\text{166 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1386.3}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1386.3}$ |
+| $\color{red}\text{166 }$ | $\color{red}\text{War Horse}$ | $\color{red}\text{1384.7}$ |
 | $\color{red}\text{167 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1383.2}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1381.4}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1378.8}$ |
