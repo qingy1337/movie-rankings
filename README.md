@@ -19,7 +19,7 @@ python3 mvr.py
 | $\color{black}\text{9   }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1609.4}$ |
 | $\color{black}\text{10  }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{11  }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
-| $\color{green}\text{12  }$ | $\color{green}\text{The Maze Runner: The Death Cure}$ | $\color{green}\text{1607.3}$ |
+| $\color{black}\text{12  }$ | $\color{black}\text{The Maze Runner: The Death Cure}$ | $\color{black}\text{1607.3}$ |
 | $\color{black}\text{13  }$ | $\color{black}\text{The Maze Runner}$ | $\color{black}\text{1603.9}$ |
 | $\color{black}\text{14  }$ | $\color{black}\text{Pirates of the Caribbean}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1599.0}$ |
@@ -43,11 +43,11 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1572.5}$ |
 | $\color{black}\text{34  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1569.4}$ |
-| $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1568.3}$ |
-| $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
-| $\color{black}\text{38  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1565.6}$ |
-| $\color{green}\text{39  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1563.5}$ |
-| $\color{black}\text{40  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1562.9}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
+| $\color{black}\text{37  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1565.6}$ |
+| $\color{green}\text{38  }$ | $\color{green}\text{Captain America: The Winter Soldier}$ | $\color{green}\text{1563.5}$ |
+| $\color{black}\text{39  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1562.9}$ |
+| $\color{red}\text{40  }$ | $\color{red}\text{A Quiet Place}$ | $\color{red}\text{1561.2}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1560.9}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1558.9}$ |
@@ -87,10 +87,10 @@ python3 mvr.py
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1511.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1505.0}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1504.2}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1504.1}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.4}$ |
+| $\color{green}\text{80  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1507.6}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1505.0}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1504.2}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1504.1}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
@@ -145,7 +145,7 @@ python3 mvr.py
 | $\color{black}\text{135 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1437.2}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1435.9}$ |
-| $\color{red}\text{138 }$ | $\color{red}\text{The Darkest Hour}$ | $\color{red}\text{1435.4}$ |
+| $\color{black}\text{138 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1435.4}$ |
 | $\color{black}\text{139 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1434.3}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1428.0}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1427.7}$ |
