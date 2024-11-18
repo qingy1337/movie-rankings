@@ -64,8 +64,8 @@ python3 mvr.py
 | $\color{black}\text{54  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1541.1}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
-| $\color{green}\text{57  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1535.8}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
+| $\color{red}\text{58  }$ | $\color{red}\text{Mission Impossible: Ghost Protocol}$ | $\color{red}\text{1534.8}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.0}$ |
@@ -76,7 +76,7 @@ python3 mvr.py
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1522.0}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
-| $\color{red}\text{69  }$ | $\color{red}\text{Soul}$ | $\color{red}\text{1520.1}$ |
+| $\color{black}\text{69  }$ | $\color{black}\text{Soul}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1520.1}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1518.8}$ |
@@ -166,8 +166,8 @@ python3 mvr.py
 | $\color{green}\text{156 }$ | $\color{green}\text{The Mask of Zorro}$ | $\color{green}\text{1406.4}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
-| $\color{black}\text{159 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
-| $\color{black}\text{160 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1402.3}$ |
+| $\color{green}\text{159 }$ | $\color{green}\text{Heidi}$ | $\color{green}\text{1403.3}$ |
+| $\color{black}\text{160 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1400.9}$ |
