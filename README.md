@@ -55,24 +55,24 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.4}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{green}\text{48  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1546.9}$ |
+| $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1546.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1540.7}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1535.5}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1535.2}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
+| $\color{green}\text{55  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1541.0}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1540.7}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1535.5}$ |
+| $\color{black}\text{60  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1535.2}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
 | $\color{green}\text{62  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1534.4}$ |
-| $\color{black}\text{63  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1533.8}$ |
-| $\color{black}\text{64  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{black}\text{65  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
+| $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
+| $\color{red}\text{65  }$ | $\color{red}\text{Zodiac}$ | $\color{red}\text{1527.8}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Locke and Key}$ | $\color{black}\text{1523.5}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
@@ -93,7 +93,7 @@ python3 mvr.py
 | $\color{black}\text{83  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.4}$ |
-| $\color{red}\text{86  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1499.1}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1499.1}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
