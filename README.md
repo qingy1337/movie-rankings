@@ -52,8 +52,8 @@ python3 mvr.py
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1556.5}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1553.6}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1550.9}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1546.8}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.0}$ |
+| $\color{red}\text{46  }$ | $\color{red}\text{Lost in Space}$ | $\color{red}\text{1545.9}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{green}\text{48  }$ | $\color{green}\text{My Name}$ | $\color{green}\text{1545.6}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
@@ -61,7 +61,7 @@ python3 mvr.py
 | $\color{black}\text{51  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{green}\text{54  }$ | $\color{green}\text{Zodiac}$ | $\color{green}\text{1541.1}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Zodiac}$ | $\color{black}\text{1541.1}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1536.3}$ |
@@ -98,8 +98,8 @@ python3 mvr.py
 | $\color{green}\text{88  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1495.0}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
 | $\color{red}\text{90  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1493.7}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
-| $\color{red}\text{92  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1492.1}$ |
+| $\color{red}\text{91  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1493.0}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
@@ -127,7 +127,7 @@ python3 mvr.py
 | $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1456.1}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
-| $\color{red}\text{120 }$ | $\color{red}\text{School of Rock}$ | $\color{red}\text{1455.6}$ |
+| $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1455.6}$ |
 | $\color{red}\text{121 }$ | $\color{red}\text{Drunken Master}$ | $\color{red}\text{1455.0}$ |
 | $\color{black}\text{122 }$ | $\color{black}\text{Mission Impossible 1}$ | $\color{black}\text{1454.8}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1454.3}$ |
