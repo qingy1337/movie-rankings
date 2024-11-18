@@ -55,19 +55,19 @@ python3 mvr.py
 | $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{46  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
 | $\color{black}\text{47  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1548.5}$ |
-| $\color{black}\text{49  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{50  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1547.4}$ |
-| $\color{red}\text{51  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1546.4}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.2}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1545.4}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1543.1}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.5}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.8}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
-| $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
+| $\color{green}\text{48  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1549.1}$ |
+| $\color{black}\text{49  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1548.5}$ |
+| $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1547.4}$ |
+| $\color{red}\text{52  }$ | $\color{red}\text{X-Men}$ | $\color{red}\text{1546.4}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.2}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1545.4}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.8}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
+| $\color{red}\text{60  }$ | $\color{red}\text{Replicas}$ | $\color{red}\text{1536.5}$ |
 | $\color{green}\text{61  }$ | $\color{green}\text{Top Gun: Maverick}$ | $\color{green}\text{1535.2}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1534.5}$ |
 | $\color{black}\text{63  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.2}$ |
@@ -154,7 +154,7 @@ python3 mvr.py
 | $\color{black}\text{144 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1426.0}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1424.4}$ |
 | $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1423.5}$ |
-| $\color{green}\text{147 }$ | $\color{green}\text{Saving Private Ryan}$ | $\color{green}\text{1422.9}$ |
+| $\color{black}\text{147 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1422.9}$ |
 | $\color{red}\text{148 }$ | $\color{red}\text{Horton hears a Who}$ | $\color{red}\text{1419.2}$ |
 | $\color{black}\text{149 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1418.8}$ |
 | $\color{black}\text{150 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1415.7}$ |
@@ -172,7 +172,7 @@ python3 mvr.py
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{red}\text{164 }$ | $\color{red}\text{Stillwater}$ | $\color{red}\text{1392.0}$ |
-| $\color{red}\text{165 }$ | $\color{red}\text{The Battle at Lake Changjin}$ | $\color{red}\text{1390.2}$ |
+| $\color{black}\text{165 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1390.2}$ |
 | $\color{black}\text{166 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1389.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1381.4}$ |
