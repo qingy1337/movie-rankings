@@ -74,7 +74,7 @@ python3 mvr.py
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.7}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1527.3}$ |
-| $\color{green}\text{67  }$ | $\color{green}\text{The Mist}$ | $\color{green}\text{1522.0}$ |
+| $\color{black}\text{67  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1522.0}$ |
 | $\color{green}\text{68  }$ | $\color{green}\text{Soul}$ | $\color{green}\text{1521.1}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{green}\text{70  }$ | $\color{green}\text{The Illusionist}$ | $\color{green}\text{1520.1}$ |
@@ -86,21 +86,21 @@ python3 mvr.py
 | $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
-| $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
-| $\color{red}\text{81  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1500.7}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1500.3}$ |
+| $\color{green}\text{79  }$ | $\color{green}\text{Dark Waters}$ | $\color{green}\text{1506.2}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
+| $\color{red}\text{82  }$ | $\color{red}\text{Thor}$ | $\color{red}\text{1500.7}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
 | $\color{green}\text{84  }$ | $\color{green}\text{The Day After Tomorrow}$ | $\color{green}\text{1500.2}$ |
 | $\color{green}\text{85  }$ | $\color{green}\text{Beut Mind}$ | $\color{green}\text{1499.5}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.2}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1495.0}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1493.0}$ |
-| $\color{red}\text{91  }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1492.4}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
-| $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
+| $\color{red}\text{90  }$ | $\color{red}\text{The Curious Case of Benjamin Button}$ | $\color{red}\text{1492.4}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
+| $\color{red}\text{93  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1487.1}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1486.8}$ |
 | $\color{red}\text{95  }$ | $\color{red}\text{The Ring}$ | $\color{red}\text{1486.2}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1484.5}$ |
@@ -124,7 +124,7 @@ python3 mvr.py
 | $\color{black}\text{114 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
-| $\color{red}\text{117 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1455.9}$ |
+| $\color{black}\text{117 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1455.9}$ |
 | $\color{black}\text{118 }$ | $\color{black}\text{Sweet Tooth}$ | $\color{black}\text{1455.8}$ |
 | $\color{black}\text{119 }$ | $\color{black}\text{Selfless}$ | $\color{black}\text{1455.6}$ |
 | $\color{black}\text{120 }$ | $\color{black}\text{School of Rock}$ | $\color{black}\text{1455.6}$ |
