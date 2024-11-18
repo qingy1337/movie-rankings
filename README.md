@@ -11,9 +11,9 @@ python3 mvr.py
 | $\color{black}\text{1   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1629.5}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1621.3}$ |
-| $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1608.4}$ |
-| $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
+| $\color{green}\text{4   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1609.7}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
+| $\color{black}\text{6   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1608.4}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1604.0}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{black}\text{9   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1602.8}$ |
@@ -73,7 +73,7 @@ python3 mvr.py
 | $\color{black}\text{63  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1531.5}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1527.7}$ |
-| $\color{green}\text{66  }$ | $\color{green}\text{Road House}$ | $\color{green}\text{1527.3}$ |
+| $\color{black}\text{66  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{67  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1524.7}$ |
 | $\color{black}\text{68  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{69  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1518.8}$ |
@@ -121,7 +121,7 @@ python3 mvr.py
 | $\color{black}\text{111 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1467.6}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1466.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1466.7}$ |
-| $\color{black}\text{114 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1464.2}$ |
+| $\color{red}\text{114 }$ | $\color{red}\text{Cars 3}$ | $\color{red}\text{1460.5}$ |
 | $\color{black}\text{115 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
 | $\color{black}\text{116 }$ | $\color{black}\text{Onward}$ | $\color{black}\text{1458.0}$ |
 | $\color{black}\text{117 }$ | $\color{black}\text{American Made}$ | $\color{black}\text{1456.3}$ |
@@ -168,7 +168,7 @@ python3 mvr.py
 | $\color{black}\text{158 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1405.3}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1404.2}$ |
-| $\color{red}\text{161 }$ | $\color{red}\text{Black Hawk Down}$ | $\color{red}\text{1402.6}$ |
+| $\color{black}\text{161 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1402.3}$ |
 | $\color{black}\text{163 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1401.1}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Spectral}$ | $\color{black}\text{1400.9}$ |
