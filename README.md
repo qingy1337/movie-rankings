@@ -34,7 +34,7 @@ python3 mvr.py
 | $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1581.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1580.6}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{Loki}$ | $\color{black}\text{1580.2}$ |
-| $\color{green}\text{27  }$ | $\color{green}\text{The Avengers}$ | $\color{green}\text{1580.0}$ |
+| $\color{black}\text{27  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1580.0}$ |
 | $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1579.9}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
@@ -62,8 +62,8 @@ python3 mvr.py
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
+| $\color{green}\text{55  }$ | $\color{green}\text{Mission Impossible: Ghost Protocol}$ | $\color{green}\text{1544.4}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{57  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.8}$ |
 | $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1538.7}$ |
@@ -100,7 +100,7 @@ python3 mvr.py
 | $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1487.9}$ |
 | $\color{black}\text{92  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
-| $\color{red}\text{93  }$ | $\color{red}\text{Johnny English}$ | $\color{red}\text{1486.5}$ |
+| $\color{black}\text{93  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1486.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.3}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1485.5}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1484.3}$ |
@@ -161,9 +161,9 @@ python3 mvr.py
 | $\color{black}\text{151 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1410.8}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{Rampage}$ | $\color{black}\text{1406.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.8}$ |
-| $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1405.3}$ |
-| $\color{black}\text{155 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.7}$ |
-| $\color{black}\text{156 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1404.3}$ |
+| $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1404.7}$ |
+| $\color{black}\text{155 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1404.3}$ |
+| $\color{red}\text{156 }$ | $\color{red}\text{65}$ | $\color{red}\text{1402.7}$ |
 | $\color{black}\text{157 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
 | $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1399.1}$ |
 | $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1398.8}$ |
