@@ -68,9 +68,9 @@ python3 mvr.py
 | $\color{black}\text{58  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1535.0}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1534.4}$ |
-| $\color{green}\text{61  }$ | $\color{green}\text{The Man Who Knew Infinity}$ | $\color{green}\text{1534.0}$ |
+| $\color{black}\text{61  }$ | $\color{black}\text{The Man Who Knew Infinity}$ | $\color{black}\text{1534.0}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{Mission Impossible: Dead Reckoning P1}$ | $\color{black}\text{1532.6}$ |
-| $\color{red}\text{63  }$ | $\color{red}\text{The Maze Runner: The Scorch Trials}$ | $\color{red}\text{1528.9}$ |
+| $\color{black}\text{63  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1528.9}$ |
 | $\color{black}\text{64  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1528.0}$ |
 | $\color{black}\text{65  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1527.3}$ |
 | $\color{black}\text{66  }$ | $\color{black}\text{Top Gun: Maverick}$ | $\color{black}\text{1525.1}$ |
@@ -89,12 +89,12 @@ python3 mvr.py
 | $\color{black}\text{79  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1505.9}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1501.0}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.7}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
-| $\color{black}\text{85  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
-| $\color{black}\text{86  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.4}$ |
-| $\color{black}\text{87  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1499.2}$ |
+| $\color{green}\text{82  }$ | $\color{green}\text{Mission Impossible 3}$ | $\color{green}\text{1503.8}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1501.0}$ |
+| $\color{black}\text{84  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.7}$ |
+| $\color{black}\text{85  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
+| $\color{black}\text{86  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1499.5}$ |
+| $\color{black}\text{87  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1499.4}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
 | $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1492.4}$ |
@@ -156,9 +156,9 @@ python3 mvr.py
 | $\color{black}\text{146 }$ | $\color{black}\text{Journey 2: The Mysterious Island}$ | $\color{black}\text{1425.6}$ |
 | $\color{black}\text{147 }$ | $\color{black}\text{Arrow}$ | $\color{black}\text{1425.4}$ |
 | $\color{black}\text{148 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1425.3}$ |
-| $\color{black}\text{149 }$ | $\color{black}\text{Crouching Tiger Hidden Dragon}$ | $\color{black}\text{1420.9}$ |
-| $\color{black}\text{150 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
-| $\color{black}\text{151 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
+| $\color{black}\text{149 }$ | $\color{black}\text{Spooky Buddies}$ | $\color{black}\text{1418.8}$ |
+| $\color{black}\text{150 }$ | $\color{black}\text{Saving Private Ryan}$ | $\color{black}\text{1417.3}$ |
+| $\color{red}\text{151 }$ | $\color{red}\text{Crouching Tiger Hidden Dragon}$ | $\color{red}\text{1416.3}$ |
 | $\color{black}\text{152 }$ | $\color{black}\text{The Last Samurai}$ | $\color{black}\text{1414.5}$ |
 | $\color{black}\text{153 }$ | $\color{black}\text{Awake}$ | $\color{black}\text{1412.8}$ |
 | $\color{black}\text{154 }$ | $\color{black}\text{65}$ | $\color{black}\text{1412.6}$ |
