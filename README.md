@@ -25,10 +25,10 @@ python3 mvr.py
 | $\color{black}\text{15  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{16  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
-| $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1590.0}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
+| $\color{green}\text{18  }$ | $\color{green}\text{The Prestige}$ | $\color{green}\text{1590.4}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1590.0}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1585.3}$ |
 | $\color{green}\text{23  }$ | $\color{green}\text{Loki}$ | $\color{green}\text{1580.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
@@ -85,10 +85,10 @@ python3 mvr.py
 | $\color{black}\text{75  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{red}\text{76  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1512.2}$ |
 | $\color{green}\text{77  }$ | $\color{green}\text{The Spy Next Door}$ | $\color{green}\text{1510.9}$ |
-| $\color{black}\text{78  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1509.8}$ |
-| $\color{green}\text{79  }$ | $\color{green}\text{Iron Chef}$ | $\color{green}\text{1507.9}$ |
-| $\color{black}\text{80  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.9}$ |
+| $\color{black}\text{79  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1507.1}$ |
+| $\color{black}\text{80  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
+| $\color{red}\text{81  }$ | $\color{red}\text{Star Trek: Picard}$ | $\color{red}\text{1505.1}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1501.0}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.7}$ |
@@ -141,7 +141,7 @@ python3 mvr.py
 | $\color{black}\text{131 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1445.9}$ |
-| $\color{red}\text{134 }$ | $\color{red}\text{Knight and Day}$ | $\color{red}\text{1445.8}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{Knight and Day}$ | $\color{black}\text{1445.8}$ |
 | $\color{black}\text{135 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1443.0}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{The Darkest Hour}$ | $\color{black}\text{1441.6}$ |
