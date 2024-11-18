@@ -60,7 +60,7 @@ python3 mvr.py
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
-| $\color{green}\text{53  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1541.9}$ |
+| $\color{black}\text{53  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
 | $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
 | $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
@@ -99,18 +99,18 @@ python3 mvr.py
 | $\color{black}\text{89  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.0}$ |
 | $\color{black}\text{91  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1489.0}$ |
-| $\color{red}\text{92  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1488.4}$ |
+| $\color{black}\text{92  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1488.4}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
 | $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
 | $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
 | $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.3}$ |
-| $\color{black}\text{99  }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
-| $\color{black}\text{100 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
-| $\color{black}\text{101 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
-| $\color{black}\text{102 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
-| $\color{black}\text{103 }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1475.4}$ |
+| $\color{green}\text{99  }$ | $\color{green}\text{Zootopia}$ | $\color{green}\text{1481.0}$ |
+| $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
+| $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
+| $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
+| $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
 | $\color{black}\text{104 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.1}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.6}$ |
@@ -134,13 +134,13 @@ python3 mvr.py
 | $\color{black}\text{124 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{125 }$ | $\color{black}\text{Cars 2}$ | $\color{black}\text{1449.5}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1449.3}$ |
-| $\color{black}\text{127 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1448.1}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
+| $\color{black}\text{127 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
+| $\color{black}\text{128 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1448.6}$ |
+| $\color{black}\text{129 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1448.1}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1447.0}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
+| $\color{red}\text{133 }$ | $\color{red}\text{Pompeii}$ | $\color{red}\text{1443.2}$ |
 | $\color{black}\text{134 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1441.6}$ |
 | $\color{green}\text{135 }$ | $\color{green}\text{Terminator}$ | $\color{green}\text{1440.1}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Rango}$ | $\color{black}\text{1439.3}$ |
