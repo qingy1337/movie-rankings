@@ -103,9 +103,9 @@ python3 mvr.py
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1487.3}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
-| $\color{black}\text{96  }$ | $\color{black}\text{The Matrix Revolutions}$ | $\color{black}\text{1482.6}$ |
-| $\color{black}\text{97  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
-| $\color{black}\text{98  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.9}$ |
+| $\color{black}\text{96  }$ | $\color{black}\text{A Boy Called Christmas}$ | $\color{black}\text{1482.5}$ |
+| $\color{black}\text{97  }$ | $\color{black}\text{Exam}$ | $\color{black}\text{1481.9}$ |
+| $\color{red}\text{98  }$ | $\color{red}\text{The Matrix Revolutions}$ | $\color{red}\text{1481.2}$ |
 | $\color{black}\text{99  }$ | $\color{black}\text{Zootopia}$ | $\color{black}\text{1481.0}$ |
 | $\color{black}\text{100 }$ | $\color{black}\text{Black Widow}$ | $\color{black}\text{1480.8}$ |
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
@@ -164,9 +164,9 @@ python3 mvr.py
 | $\color{black}\text{154 }$ | $\color{black}\text{Gravity}$ | $\color{black}\text{1406.2}$ |
 | $\color{black}\text{155 }$ | $\color{black}\text{Ninja Turtles}$ | $\color{black}\text{1405.4}$ |
 | $\color{black}\text{156 }$ | $\color{black}\text{Black Hawk Down}$ | $\color{black}\text{1402.6}$ |
-| $\color{black}\text{157 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
-| $\color{black}\text{158 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
-| $\color{red}\text{159 }$ | $\color{red}\text{65}$ | $\color{red}\text{1401.0}$ |
+| $\color{red}\text{157 }$ | $\color{red}\text{65}$ | $\color{red}\text{1402.4}$ |
+| $\color{black}\text{158 }$ | $\color{black}\text{The BFG}$ | $\color{black}\text{1402.3}$ |
+| $\color{black}\text{159 }$ | $\color{black}\text{The Mask of Zorro}$ | $\color{black}\text{1402.0}$ |
 | $\color{black}\text{160 }$ | $\color{black}\text{Stillwater}$ | $\color{black}\text{1400.9}$ |
 | $\color{black}\text{161 }$ | $\color{black}\text{The Battle at Lake Changjin}$ | $\color{black}\text{1400.4}$ |
 | $\color{black}\text{162 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1399.9}$ |
