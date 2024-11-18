@@ -8,7 +8,7 @@ python3 mvr.py
 
 | Rank | Movie                  | Rating |
 |------|------------------------|--------|
-| $\color{black}\text{1   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1632.7}$ |
+| $\color{green}\text{1   }$ | $\color{green}\text{Squid Game}$ | $\color{green}\text{1635.6}$ |
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
@@ -26,7 +26,7 @@ python3 mvr.py
 | $\color{black}\text{16  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1597.1}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Thirteen Lives}$ | $\color{black}\text{1595.8}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life of Pi}$ | $\color{black}\text{1595.1}$ |
-| $\color{green}\text{19  }$ | $\color{green}\text{Life}$ | $\color{green}\text{1594.7}$ |
+| $\color{black}\text{19  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1590.5}$ |
 | $\color{black}\text{21  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1589.9}$ |
 | $\color{black}\text{22  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1585.3}$ |
@@ -79,7 +79,7 @@ python3 mvr.py
 | $\color{black}\text{69  }$ | $\color{black}\text{A Haunting in Venice}$ | $\color{black}\text{1520.3}$ |
 | $\color{black}\text{70  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{71  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.4}$ |
-| $\color{red}\text{72  }$ | $\color{red}\text{The Illusionist}$ | $\color{red}\text{1518.9}$ |
+| $\color{black}\text{72  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1518.9}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1514.6}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
@@ -149,7 +149,7 @@ python3 mvr.py
 | $\color{black}\text{139 }$ | $\color{black}\text{Mission Impossible 2}$ | $\color{black}\text{1436.9}$ |
 | $\color{black}\text{140 }$ | $\color{black}\text{Terminator}$ | $\color{black}\text{1435.5}$ |
 | $\color{black}\text{141 }$ | $\color{black}\text{All Quiet on The Western Front}$ | $\color{black}\text{1435.2}$ |
-| $\color{black}\text{142 }$ | $\color{black}\text{Unbreakable}$ | $\color{black}\text{1433.5}$ |
+| $\color{red}\text{142 }$ | $\color{red}\text{Unbreakable}$ | $\color{red}\text{1430.6}$ |
 | $\color{black}\text{143 }$ | $\color{black}\text{G.I.Joe movie}$ | $\color{black}\text{1426.8}$ |
 | $\color{black}\text{144 }$ | $\color{black}\text{Horton hears a Who}$ | $\color{black}\text{1426.1}$ |
 | $\color{black}\text{145 }$ | $\color{black}\text{Everything, everywhere, all at once}$ | $\color{black}\text{1426.0}$ |
