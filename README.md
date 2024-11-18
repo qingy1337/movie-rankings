@@ -58,8 +58,8 @@ python3 mvr.py
 | $\color{black}\text{48  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1549.6}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{Captain America: Civil War}$ | $\color{black}\text{1547.6}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
-| $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
+| $\color{black}\text{51  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
+| $\color{red}\text{52  }$ | $\color{red}\text{The Terminal List}$ | $\color{red}\text{1546.2}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1545.4}$ |
 | $\color{green}\text{54  }$ | $\color{green}\text{The Matrix}$ | $\color{green}\text{1543.1}$ |
 | $\color{black}\text{55  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1542.5}$ |
@@ -82,8 +82,8 @@ python3 mvr.py
 | $\color{black}\text{72  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1518.4}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.1}$ |
 | $\color{black}\text{74  }$ | $\color{black}\text{The Illusionist}$ | $\color{black}\text{1515.9}$ |
-| $\color{black}\text{75  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
-| $\color{black}\text{76  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1514.2}$ |
+| $\color{green}\text{75  }$ | $\color{green}\text{Catch Me If You Can}$ | $\color{green}\text{1514.8}$ |
+| $\color{black}\text{76  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1514.3}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1512.7}$ |
 | $\color{black}\text{78  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1511.2}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
@@ -111,7 +111,7 @@ python3 mvr.py
 | $\color{black}\text{101 }$ | $\color{black}\text{Skyfall}$ | $\color{black}\text{1479.3}$ |
 | $\color{black}\text{102 }$ | $\color{black}\text{M3GAN}$ | $\color{black}\text{1479.0}$ |
 | $\color{black}\text{103 }$ | $\color{black}\text{The Ninth Gate}$ | $\color{black}\text{1478.0}$ |
-| $\color{green}\text{104 }$ | $\color{green}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{green}\text{1475.8}$ |
+| $\color{black}\text{104 }$ | $\color{black}\text{Shang-Chi and the Legend of the Ten Rings}$ | $\color{black}\text{1475.8}$ |
 | $\color{black}\text{105 }$ | $\color{black}\text{Wrath of Man}$ | $\color{black}\text{1475.1}$ |
 | $\color{black}\text{106 }$ | $\color{black}\text{Frequency}$ | $\color{black}\text{1474.2}$ |
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.2}$ |
@@ -173,7 +173,7 @@ python3 mvr.py
 | $\color{black}\text{163 }$ | $\color{black}\text{The Silence}$ | $\color{black}\text{1394.6}$ |
 | $\color{black}\text{164 }$ | $\color{black}\text{Heidi}$ | $\color{black}\text{1392.4}$ |
 | $\color{black}\text{165 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
-| $\color{red}\text{166 }$ | $\color{red}\text{A Quiet Place: Day One}$ | $\color{red}\text{1389.7}$ |
+| $\color{black}\text{166 }$ | $\color{black}\text{A Quiet Place: Day One}$ | $\color{black}\text{1389.7}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1383.0}$ |
 | $\color{black}\text{169 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1381.4}$ |
