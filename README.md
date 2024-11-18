@@ -35,7 +35,7 @@ python3 mvr.py
 | $\color{black}\text{25  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1579.7}$ |
 | $\color{black}\text{26  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1578.6}$ |
 | $\color{black}\text{27  }$ | $\color{black}\text{Tenet}$ | $\color{black}\text{1577.4}$ |
-| $\color{red}\text{28  }$ | $\color{red}\text{The Menu}$ | $\color{red}\text{1576.6}$ |
+| $\color{black}\text{28  }$ | $\color{black}\text{The Menu}$ | $\color{black}\text{1576.6}$ |
 | $\color{black}\text{29  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
 | $\color{black}\text{30  }$ | $\color{black}\text{The Avengers}$ | $\color{black}\text{1575.4}$ |
 | $\color{black}\text{31  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
@@ -88,7 +88,7 @@ python3 mvr.py
 | $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
 | $\color{red}\text{80  }$ | $\color{red}\text{Titanic}$ | $\color{red}\text{1505.0}$ |
-| $\color{green}\text{81  }$ | $\color{green}\text{Thor}$ | $\color{green}\text{1500.4}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1500.4}$ |
 | $\color{black}\text{82  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1500.2}$ |
 | $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1499.8}$ |
 | $\color{black}\text{84  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1499.8}$ |
@@ -136,12 +136,12 @@ python3 mvr.py
 | $\color{green}\text{126 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1449.0}$ |
 | $\color{black}\text{127 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
-| $\color{black}\text{129 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1446.8}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1444.6}$ |
-| $\color{black}\text{131 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
-| $\color{black}\text{132 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
-| $\color{black}\text{133 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1444.0}$ |
-| $\color{green}\text{134 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1442.4}$ |
+| $\color{green}\text{129 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1447.4}$ |
+| $\color{black}\text{130 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1446.8}$ |
+| $\color{black}\text{131 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1444.6}$ |
+| $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
+| $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
+| $\color{black}\text{134 }$ | $\color{black}\text{GoldenEye}$ | $\color{black}\text{1444.0}$ |
 | $\color{green}\text{135 }$ | $\color{green}\text{The Darkest Hour}$ | $\color{green}\text{1438.8}$ |
 | $\color{black}\text{136 }$ | $\color{black}\text{Pompeii}$ | $\color{black}\text{1438.8}$ |
 | $\color{black}\text{137 }$ | $\color{black}\text{Drunken Master}$ | $\color{black}\text{1438.5}$ |
@@ -176,7 +176,7 @@ python3 mvr.py
 | $\color{black}\text{166 }$ | $\color{black}\text{Shadow}$ | $\color{black}\text{1392.0}$ |
 | $\color{black}\text{167 }$ | $\color{black}\text{War Horse}$ | $\color{black}\text{1387.7}$ |
 | $\color{black}\text{168 }$ | $\color{black}\text{Darkest Hour}$ | $\color{black}\text{1384.7}$ |
-| $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1383.8}$ |
-| $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
+| $\color{black}\text{169 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
+| $\color{red}\text{170 }$ | $\color{red}\text{twilight}$ | $\color{red}\text{1378.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1376.1}$ |
 | $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1371.8}$ |
