@@ -41,12 +41,12 @@ python3 mvr.py
 | $\color{black}\text{31  }$ | $\color{black}\text{No Country for Old Men}$ | $\color{black}\text{1574.8}$ |
 | $\color{black}\text{32  }$ | $\color{black}\text{Vagabond}$ | $\color{black}\text{1571.6}$ |
 | $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
-| $\color{red}\text{34  }$ | $\color{red}\text{Doctor Strange}$ | $\color{red}\text{1569.4}$ |
+| $\color{black}\text{34  }$ | $\color{black}\text{Doctor Strange}$ | $\color{black}\text{1569.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1569.3}$ |
 | $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1568.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
-| $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
+| $\color{green}\text{39  }$ | $\color{green}\text{Scream VI}$ | $\color{green}\text{1564.6}$ |
 | $\color{green}\text{40  }$ | $\color{green}\text{Dune}$ | $\color{green}\text{1560.9}$ |
 | $\color{black}\text{41  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1560.1}$ |
 | $\color{black}\text{42  }$ | $\color{black}\text{Scream V}$ | $\color{black}\text{1559.5}$ |
@@ -132,12 +132,12 @@ python3 mvr.py
 | $\color{black}\text{122 }$ | $\color{black}\text{Cars 3}$ | $\color{black}\text{1451.5}$ |
 | $\color{black}\text{123 }$ | $\color{black}\text{Cars}$ | $\color{black}\text{1451.4}$ |
 | $\color{black}\text{124 }$ | $\color{black}\text{Red Eye}$ | $\color{black}\text{1449.1}$ |
-| $\color{green}\text{125 }$ | $\color{green}\text{When a Stranger Calls}$ | $\color{green}\text{1449.0}$ |
+| $\color{black}\text{125 }$ | $\color{black}\text{When a Stranger Calls}$ | $\color{black}\text{1449.0}$ |
 | $\color{black}\text{126 }$ | $\color{black}\text{The Matrix Reloaded}$ | $\color{black}\text{1448.9}$ |
 | $\color{red}\text{127 }$ | $\color{red}\text{Cars 2}$ | $\color{red}\text{1448.8}$ |
 | $\color{black}\text{128 }$ | $\color{black}\text{A.I. Artificial Intelligence}$ | $\color{black}\text{1448.7}$ |
 | $\color{green}\text{129 }$ | $\color{green}\text{Knight and Day}$ | $\color{green}\text{1447.4}$ |
-| $\color{black}\text{130 }$ | $\color{black}\text{Zero Dark Thirty}$ | $\color{black}\text{1446.8}$ |
+| $\color{red}\text{130 }$ | $\color{red}\text{Zero Dark Thirty}$ | $\color{red}\text{1446.4}$ |
 | $\color{black}\text{131 }$ | $\color{black}\text{Independence Day}$ | $\color{black}\text{1444.6}$ |
 | $\color{black}\text{132 }$ | $\color{black}\text{Jack Reacher: Never Go Back}$ | $\color{black}\text{1444.5}$ |
 | $\color{black}\text{133 }$ | $\color{black}\text{Avatar: The Last Airbender}$ | $\color{black}\text{1444.0}$ |
