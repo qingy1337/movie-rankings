@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1621.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
-| $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1609.7}$ |
+| $\color{green}\text{5   }$ | $\color{green}\text{Avengers: Endgame}$ | $\color{green}\text{1614.7}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Hunger Games}$ | $\color{black}\text{1607.5}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1607.2}$ |
@@ -52,10 +52,10 @@ python3 mvr.py
 | $\color{black}\text{42  }$ | $\color{black}\text{Captain America: The Winter Soldier}$ | $\color{black}\text{1557.0}$ |
 | $\color{black}\text{43  }$ | $\color{black}\text{X-Men}$ | $\color{black}\text{1552.8}$ |
 | $\color{black}\text{44  }$ | $\color{black}\text{Mission Impossible: Fallout}$ | $\color{black}\text{1552.6}$ |
-| $\color{black}\text{45  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1551.4}$ |
-| $\color{black}\text{46  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
-| $\color{black}\text{47  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
-| $\color{black}\text{48  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
+| $\color{black}\text{45  }$ | $\color{black}\text{Lost in Space}$ | $\color{black}\text{1550.5}$ |
+| $\color{black}\text{46  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
+| $\color{black}\text{47  }$ | $\color{black}\text{Dune}$ | $\color{black}\text{1546.9}$ |
+| $\color{red}\text{48  }$ | $\color{red}\text{Lord of the Rings}$ | $\color{red}\text{1546.4}$ |
 | $\color{black}\text{49  }$ | $\color{black}\text{My Name}$ | $\color{black}\text{1546.2}$ |
 | $\color{black}\text{50  }$ | $\color{black}\text{Avengers: Age of Ultron}$ | $\color{black}\text{1545.8}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1544.0}$ |
@@ -81,11 +81,11 @@ python3 mvr.py
 | $\color{black}\text{71  }$ | $\color{black}\text{Catch Me If You Can}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{72  }$ | $\color{black}\text{Guy Ritchie’s The Covenant}$ | $\color{black}\text{1519.4}$ |
 | $\color{black}\text{73  }$ | $\color{black}\text{The Mist}$ | $\color{black}\text{1518.8}$ |
-| $\color{green}\text{74  }$ | $\color{green}\text{Titanic}$ | $\color{green}\text{1514.6}$ |
+| $\color{black}\text{74  }$ | $\color{black}\text{Titanic}$ | $\color{black}\text{1514.6}$ |
 | $\color{black}\text{75  }$ | $\color{black}\text{Bloodhounds}$ | $\color{black}\text{1514.4}$ |
 | $\color{black}\text{76  }$ | $\color{black}\text{Mission Impossible: Rogue Nation}$ | $\color{black}\text{1513.1}$ |
 | $\color{black}\text{77  }$ | $\color{black}\text{Gladiator}$ | $\color{black}\text{1513.0}$ |
-| $\color{red}\text{78  }$ | $\color{red}\text{The Spy Next Door}$ | $\color{red}\text{1508.5}$ |
+| $\color{black}\text{78  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1508.5}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1507.9}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1506.2}$ |
 | $\color{black}\text{81  }$ | $\color{black}\text{Star Trek: Picard}$ | $\color{black}\text{1505.1}$ |
