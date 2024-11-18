@@ -60,12 +60,12 @@ python3 mvr.py
 | $\color{black}\text{50  }$ | $\color{black}\text{Jack Reacher}$ | $\color{black}\text{1547.4}$ |
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
-| $\color{black}\text{53  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.1}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1536.7}$ |
+| $\color{green}\text{53  }$ | $\color{green}\text{Halo}$ | $\color{green}\text{1541.9}$ |
+| $\color{black}\text{54  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1541.2}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.1}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{59  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1535.9}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1534.8}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.4}$ |
@@ -96,10 +96,10 @@ python3 mvr.py
 | $\color{green}\text{86  }$ | $\color{green}\text{The Curious Case of Benjamin Button}$ | $\color{green}\text{1497.5}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1495.1}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1494.3}$ |
-| $\color{black}\text{89  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1493.7}$ |
-| $\color{black}\text{90  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
-| $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.0}$ |
-| $\color{black}\text{92  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1489.0}$ |
+| $\color{black}\text{89  }$ | $\color{black}\text{Shawshank Redemption}$ | $\color{black}\text{1492.3}$ |
+| $\color{black}\text{90  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.0}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Johnny English}$ | $\color{black}\text{1489.0}$ |
+| $\color{red}\text{92  }$ | $\color{red}\text{Oppenheimer}$ | $\color{red}\text{1488.4}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1486.6}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1486.2}$ |
 | $\color{black}\text{95  }$ | $\color{black}\text{The Ring 2}$ | $\color{black}\text{1484.9}$ |
@@ -117,7 +117,7 @@ python3 mvr.py
 | $\color{black}\text{107 }$ | $\color{black}\text{Red Notice}$ | $\color{black}\text{1473.6}$ |
 | $\color{black}\text{108 }$ | $\color{black}\text{The Man in the Iron Mask}$ | $\color{black}\text{1469.8}$ |
 | $\color{black}\text{109 }$ | $\color{black}\text{John Wick}$ | $\color{black}\text{1468.5}$ |
-| $\color{red}\text{110 }$ | $\color{red}\text{Peter the Rabbit}$ | $\color{red}\text{1467.5}$ |
+| $\color{black}\text{110 }$ | $\color{black}\text{Peter the Rabbit}$ | $\color{black}\text{1467.5}$ |
 | $\color{black}\text{111 }$ | $\color{black}\text{World War Z}$ | $\color{black}\text{1464.3}$ |
 | $\color{black}\text{112 }$ | $\color{black}\text{Rainman}$ | $\color{black}\text{1463.7}$ |
 | $\color{black}\text{113 }$ | $\color{black}\text{Land of Bad}$ | $\color{black}\text{1460.1}$ |
