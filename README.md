@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Harry Potter}$ | $\color{black}\text{1630.8}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1625.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1616.4}$ |
-| $\color{red}\text{5   }$ | $\color{red}\text{Avengers: Endgame}$ | $\color{red}\text{1613.9}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1613.9}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1610.1}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
 | $\color{black}\text{8   }$ | $\color{black}\text{The Martian}$ | $\color{black}\text{1607.6}$ |
@@ -43,7 +43,7 @@ python3 mvr.py
 | $\color{black}\text{33  }$ | $\color{black}\text{Black Panther}$ | $\color{black}\text{1571.4}$ |
 | $\color{red}\text{34  }$ | $\color{red}\text{Doctor Strange}$ | $\color{red}\text{1569.4}$ |
 | $\color{black}\text{35  }$ | $\color{black}\text{Passengers}$ | $\color{black}\text{1569.3}$ |
-| $\color{green}\text{36  }$ | $\color{green}\text{A Quiet Place}$ | $\color{green}\text{1568.3}$ |
+| $\color{black}\text{36  }$ | $\color{black}\text{A Quiet Place}$ | $\color{black}\text{1568.3}$ |
 | $\color{black}\text{37  }$ | $\color{black}\text{X-Files}$ | $\color{black}\text{1566.6}$ |
 | $\color{black}\text{38  }$ | $\color{black}\text{Jack Ryan}$ | $\color{black}\text{1566.1}$ |
 | $\color{black}\text{39  }$ | $\color{black}\text{Scream VI}$ | $\color{black}\text{1564.2}$ |
@@ -61,12 +61,12 @@ python3 mvr.py
 | $\color{black}\text{51  }$ | $\color{black}\text{The Terminal List}$ | $\color{black}\text{1546.8}$ |
 | $\color{black}\text{52  }$ | $\color{black}\text{Lord of the Rings}$ | $\color{black}\text{1546.4}$ |
 | $\color{black}\text{53  }$ | $\color{black}\text{The Young and Prodigious T.S. Spivet}$ | $\color{black}\text{1545.4}$ |
-| $\color{black}\text{54  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
-| $\color{black}\text{55  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
-| $\color{black}\text{56  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
-| $\color{black}\text{57  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
-| $\color{black}\text{58  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.3}$ |
-| $\color{black}\text{59  }$ | $\color{black}\text{Replicas}$ | $\color{black}\text{1539.1}$ |
+| $\color{green}\text{54  }$ | $\color{green}\text{Replicas}$ | $\color{green}\text{1542.5}$ |
+| $\color{black}\text{55  }$ | $\color{black}\text{Halo}$ | $\color{black}\text{1541.9}$ |
+| $\color{black}\text{56  }$ | $\color{black}\text{Mission Impossible: Ghost Protocol}$ | $\color{black}\text{1541.8}$ |
+| $\color{black}\text{57  }$ | $\color{black}\text{The Matrix}$ | $\color{black}\text{1541.0}$ |
+| $\color{black}\text{58  }$ | $\color{black}\text{The Maze Runner: The Scorch Trials}$ | $\color{black}\text{1539.5}$ |
+| $\color{black}\text{59  }$ | $\color{black}\text{Ip Man}$ | $\color{black}\text{1539.3}$ |
 | $\color{black}\text{60  }$ | $\color{black}\text{Avatar}$ | $\color{black}\text{1538.3}$ |
 | $\color{black}\text{61  }$ | $\color{black}\text{Road House}$ | $\color{black}\text{1534.4}$ |
 | $\color{black}\text{62  }$ | $\color{black}\text{The Tomorrow War}$ | $\color{black}\text{1533.5}$ |
@@ -179,4 +179,4 @@ python3 mvr.py
 | $\color{black}\text{169 }$ | $\color{black}\text{twilight}$ | $\color{black}\text{1383.8}$ |
 | $\color{black}\text{170 }$ | $\color{black}\text{AK-47 Kalashnikov}$ | $\color{black}\text{1382.8}$ |
 | $\color{black}\text{171 }$ | $\color{black}\text{Jurassic World: Dominion}$ | $\color{black}\text{1376.1}$ |
-| $\color{black}\text{172 }$ | $\color{black}\text{The Firm}$ | $\color{black}\text{1375.1}$ |
+| $\color{red}\text{172 }$ | $\color{red}\text{The Firm}$ | $\color{red}\text{1371.8}$ |
