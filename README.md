@@ -12,7 +12,7 @@ python3 mvr.py
 | $\color{black}\text{2   }$ | $\color{black}\text{Squid Game}$ | $\color{black}\text{1629.5}$ |
 | $\color{black}\text{3   }$ | $\color{black}\text{Wednesday}$ | $\color{black}\text{1621.3}$ |
 | $\color{black}\text{4   }$ | $\color{black}\text{The Mandalorian}$ | $\color{black}\text{1608.5}$ |
-| $\color{green}\text{5   }$ | $\color{green}\text{Interstellar}$ | $\color{green}\text{1608.4}$ |
+| $\color{black}\text{5   }$ | $\color{black}\text{Interstellar}$ | $\color{black}\text{1608.4}$ |
 | $\color{black}\text{6   }$ | $\color{black}\text{Avengers: Endgame}$ | $\color{black}\text{1606.0}$ |
 | $\color{black}\text{7   }$ | $\color{black}\text{Sneaky Pete}$ | $\color{black}\text{1602.9}$ |
 | $\color{green}\text{8   }$ | $\color{green}\text{The Hunger Games}$ | $\color{green}\text{1602.8}$ |
@@ -26,10 +26,10 @@ python3 mvr.py
 | $\color{black}\text{16  }$ | $\color{black}\text{Ant-Man}$ | $\color{black}\text{1594.8}$ |
 | $\color{black}\text{17  }$ | $\color{black}\text{Star Wars}$ | $\color{black}\text{1594.7}$ |
 | $\color{black}\text{18  }$ | $\color{black}\text{Life}$ | $\color{black}\text{1590.0}$ |
-| $\color{black}\text{19  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
-| $\color{black}\text{20  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
-| $\color{black}\text{21  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
-| $\color{black}\text{22  }$ | $\color{black}\text{The Wild Robot}$ | $\color{black}\text{1584.6}$ |
+| $\color{green}\text{19  }$ | $\color{green}\text{The Wild Robot}$ | $\color{green}\text{1589.3}$ |
+| $\color{black}\text{20  }$ | $\color{black}\text{Inception}$ | $\color{black}\text{1587.8}$ |
+| $\color{black}\text{21  }$ | $\color{black}\text{Maleficent}$ | $\color{black}\text{1586.7}$ |
+| $\color{black}\text{22  }$ | $\color{black}\text{The Prestige}$ | $\color{black}\text{1585.7}$ |
 | $\color{black}\text{23  }$ | $\color{black}\text{The Hobbit}$ | $\color{black}\text{1582.8}$ |
 | $\color{black}\text{24  }$ | $\color{black}\text{Source Code}$ | $\color{black}\text{1578.3}$ |
 | $\color{black}\text{25  }$ | $\color{black}\text{Avatar 2}$ | $\color{black}\text{1576.0}$ |
@@ -88,17 +88,17 @@ python3 mvr.py
 | $\color{red}\text{78  }$ | $\color{red}\text{Gladiator}$ | $\color{red}\text{1507.1}$ |
 | $\color{black}\text{79  }$ | $\color{black}\text{Iron Chef}$ | $\color{black}\text{1505.8}$ |
 | $\color{black}\text{80  }$ | $\color{black}\text{Thor}$ | $\color{black}\text{1505.1}$ |
-| $\color{black}\text{81  }$ | $\color{black}\text{Mission Impossible 3}$ | $\color{black}\text{1503.8}$ |
-| $\color{black}\text{82  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
-| $\color{black}\text{83  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
-| $\color{black}\text{84  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1500.3}$ |
+| $\color{black}\text{81  }$ | $\color{black}\text{The Spy Next Door}$ | $\color{black}\text{1503.7}$ |
+| $\color{black}\text{82  }$ | $\color{black}\text{Top Gun}$ | $\color{black}\text{1500.7}$ |
+| $\color{black}\text{83  }$ | $\color{black}\text{Dark Waters}$ | $\color{black}\text{1500.3}$ |
+| $\color{red}\text{84  }$ | $\color{red}\text{Mission Impossible 3}$ | $\color{red}\text{1499.2}$ |
 | $\color{black}\text{85  }$ | $\color{black}\text{The Day After Tomorrow}$ | $\color{black}\text{1498.3}$ |
 | $\color{black}\text{86  }$ | $\color{black}\text{Oppenheimer}$ | $\color{black}\text{1498.0}$ |
 | $\color{black}\text{87  }$ | $\color{black}\text{Glass Castle}$ | $\color{black}\text{1497.9}$ |
 | $\color{black}\text{88  }$ | $\color{black}\text{Beut Mind}$ | $\color{black}\text{1497.2}$ |
 | $\color{green}\text{89  }$ | $\color{green}\text{Shawshank Redemption}$ | $\color{green}\text{1495.0}$ |
 | $\color{black}\text{90  }$ | $\color{black}\text{The Curious Case of Benjamin Button}$ | $\color{black}\text{1494.2}$ |
-| $\color{red}\text{91  }$ | $\color{red}\text{Rebel Ridge}$ | $\color{red}\text{1492.1}$ |
+| $\color{black}\text{91  }$ | $\color{black}\text{Rebel Ridge}$ | $\color{black}\text{1492.1}$ |
 | $\color{red}\text{92  }$ | $\color{red}\text{A Boy Called Christmas}$ | $\color{red}\text{1492.1}$ |
 | $\color{black}\text{93  }$ | $\color{black}\text{The Ring}$ | $\color{black}\text{1488.5}$ |
 | $\color{black}\text{94  }$ | $\color{black}\text{Total Recall}$ | $\color{black}\text{1487.9}$ |
